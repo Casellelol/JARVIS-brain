@@ -2,6 +2,70 @@
 *Every session with Osvaldas, permanently remembered. Secrets redacted.*
 
 
+## Session — 2026-05-14 00:58
+[SIR]: <command-message>session-start</command-message>
+<command-name>/session-start</command-name>
+[SIR]: Fetch these 4 files from GitHub repo Casellelol/Caselle and read them fully before doing anything else:
+1. conversation-log.md (last 8000 chars)
+2. jarvis-upgrades.md (full file)
+3. JARVIS_OWNER_NOTES.md (full file)
+4. jarvis-memory.md (last 3000 chars)
+
+Use the GitHub API with the token from the gi
+[JARVIS]: Let me fetch the GitHub token and load all four files.
+[JARVIS]: All 4 files loaded. Here's your session briefing:
+
+---
+
+## Empire Context — Session Briefing (2026-05-14)
+
+---
+
+### Top 3 Pending Upgrades
+
+**1. [PENDING] Maximus Strategy File** *(2026-05-09 02:24)*
+Create `lib/maximus/strategy-config.md` — honest NOK-denominated risk params for the 10,000kr accoun
+[SIR]: Tarot Moon Card Phone Case
+Mystical and ornate
+$28.99
+Mushroom Cottage Core Phone CaseNEW
+Mushroom Cottage Core Phone Case
+Whimsical woodland dream and the van goth cases does not have iphone mockpicture
+[JARVIS]: I can see the issue. The van Gogh case (and several others) use raw S3 URLs instead of proper Printify iPhone mockup URLs. Let me check the Printify API to get real mockup images.
+[JARVIS]: Got the real mockup URLs. Now let me also fix the other products that have the same S3 raw URL issue.
+[JARVIS]: All mockup URLs confirmed. Now I'll fix all 7 affected products at once — also updating Tarot Moon price to $28.99 (currently 2899 which is already correct) and adding the `new` badge to Mushroom Cottage Core (already has it). The real fix is the images.
+[JARVIS]: Now let me also check the Tarot Moon price — user said $28.99. In the file it's `basePrice: 2899`. Let me verify whether prices are stored as cents or as units of 1/100 dollars:
+[JARVIS]: Prices are in cents — `2899` = $28.99, already correct for Tarot Moon. Now let me commit and deploy.
+[JARVIS]: Deployed. Here's what was fixed:
+
+**7 products had broken images** — they were pointing at raw S3 design files instead of Printify's iPhone mockup renders. All fixed with the proper mockup URLs confirmed live from the Printify API:
+
+| Product | Status |
+|---|---|
+| Van Gogh Swirl | Fixed |
+| Tarot M
+[SIR]: it is still not fixed
+[JARVIS]: The live site is still serving the old S3 URL — Vercel's build hasn't finished yet. Let me check the deployment status.
+[JARVIS]: The push from 6 minutes ago hasn't triggered a new Vercel build — the latest is still 18 minutes old. Let me force a deploy now.
+[JARVIS]: Live and confirmed. The build completed and production is now showing `images-api.printify` mockup URLs for Van Gogh. The GitHub auto-deploy hook had stalled — had to force it manually via the CLI.
+
+All 7 products are now fixed on the live store at caselle.store:
+- Van Gogh Swirl ✓
+- Tarot Moon Card
+[SIR]: now what happened with the mockup pictures, i want to in the mockup picture only be the one case and no white edges on all of the cases
+[JARVIS]: Let me look at the actual mockup images and how they're rendered to understand the white edge issue.
+[JARVIS]: The issue is clear: Printify's `front` mockup images are 1200×1200 with significant white padding around the phone. The current `scale-[1.02]` only crops 2% — not nearly enough. Let me check the exact whitespace, then fix it properly.
+[JARVIS]: Now I can see the issue clearly. The front mockup (`101039`) shows the phone centered with white padding all around AND the case has white rubber bumpers at top/bottom. The close-up (`101043`) fills the frame edge-to-edge with just the case design.
+
+I'll switch all products from front view to close-
+[JARVIS]: All confirmed. Now replace all product image URLs — `101039/front` → `101043/close-up`.
+[JARVIS]: All 23 URLs updated. Now commit and deploy.
+[JARVIS]: Live. Here's what changed:
+
+**Before** — front view (`101039`): 1200×1200 image with the phone floating in the center, heavy white padding around it, plus white rubber bumpers visible at top and bottom of the case.
+
+**After** — close-up (`101043`): fills the entire frame edge-to-edge with just the c
+
 ## Session — 2026-05-14 00:52
 [SIR]: <command-message>session-start</command-message>
 <command-name>/session-start</command-name>

@@ -1,37 +1,43 @@
 # Caselle Scout — Market Intelligence
 *Last updated: 2026-05-14 10:16*
 
-## ⚠️ No Data Detected
-
-It looks like your trend data and Etsy market data **didn't come through** — the fields appear to be empty.
+# Caselle Scout — Market Intelligence Report
 
 ---
 
-### To get your intelligence report, please share:
-
-**Fashion Trends Data**
-- Search volume trends (e.g., Google Trends, TikTok hashtag data)
-- Rising aesthetic keywords or style movements
-- Any Pinterest/Instagram trend reports
-
-**Etsy Market Data**
-- Bestseller listings or search results
-- Pricing data from competitor listings
-- Review counts, sales badges, or shop stats
-- Relevant search terms you're targeting
+> ⚠️ **Data Notice:** No trend data or Etsy market information was successfully transmitted in your message. The fields appear to be empty.
 
 ---
 
-### You can paste data as:
-- Raw text / CSV
-- Screenshots described in text
-- Search result summaries
-- Copied listing details
+## To Generate Your Report, Please Share:
 
-Once you share the data, I'll deliver a **full intelligence report** with:
-> 📈 Top 3 Rising Aesthetics
-> 🎨 Design Directions
-> 💰 Competitor Pricing Observations
-> 🎯 One High-Confidence Opportunity
+### Fashion Trends Data
+Paste any of the following:
+- Google Trends export (CSV or copied text)
+- Pinterest/TikTok trending search terms
+- Instagram hashtag volume data
+- Trend forecasting notes (WGSN, Trendalytics, etc.)
 
-Drop the data below and I'll get straight to work.
+### Etsy Market Data
+Paste any of the following:
+- Search result listings with prices/review counts
+- Everbee / Sale Samurai / Marmalead exports
+- Bestseller titles and tags
+- Competitor shop stats
+
+---
+
+## Example Input Format I Can Work With:
+
+```
+Fashion Trends:
+- "Coquette aesthetic" — search +340% MoM
+- "Dark academia" — stable, high volume
+- "Y2K butterfly" — +180% WoW on TikTok
+
+Etsy Market:
+- "Aesthetic iPhone case butterfly" — $12.99, 847 reviews
+- Top seller: CasesbyMia — 4.2k sales, avg $14.50
+```
+
+**Paste your data and I'll deliver a full actionable report immediately.** 🎯

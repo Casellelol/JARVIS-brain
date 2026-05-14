@@ -1,50 +1,38 @@
 # Accountant — Daily Financial Report
-*Generated: 2026-05-14 10:16*
+*Generated: 2026-05-14 23:24*
 
 ## Raw Data
 - Orders (30d): 0 | Revenue: £0.00
 - Printify key not configured
 
 ## Analysis
-## Daily Financial Summary
-
----
-
-### ⚠️ CRITICAL: Business Non-Operational
+## Daily Financial Summary — ⚠️ SYSTEM NOT OPERATIONAL
 
 ---
 
 ### Key Metrics
-
 | Metric | Value |
 |---|---|
 | Revenue (30d) | £0.00 |
 | COGS | £0.00 |
 | Net Profit | £0.00 |
-| Margin % | N/A |
-| Orders | 0 |
+| Margin % | — |
 
 ---
 
-### Key Observations
+### Critical Observations
 
-1. **Zero revenue** — No orders processed in 30 days. Business is generating no income.
-2. **Printify not configured** — Cost data is unavailable, meaning fulfilment is **non-functional**. Even if orders arrived, they could not be fulfilled.
-3. **Fixed costs still running** — Any platform fees (Shopify, domain, apps) are pure losses against £0.00 revenue right now.
-
----
-
-### ⚡ #1 Recommended Action
-
-**Configure your Printify API key immediately.**
-
-This is the single blocking issue. Without it:
-- No products sync
-- No orders fulfil
-- No cost data exists for margin analysis
-
-> **Go to:** Settings → Integrations → Printify → Enter API Key
+1. **🔴 Zero Revenue** — No orders recorded. Either the store is not live, not receiving traffic, or order tracking is broken.
+2. **🔴 Printify Not Configured** — No supplier connection means fulfilment is **impossible**. Any order taken right now cannot be fulfilled, creating refund/dispute risk.
+3. **🟡 Data Blindspot** — With COGS untrackable, margin analysis is entirely blocked. Fixed overhead costs (Shopify fees, domain, ads) may still be accumulating against £0 revenue — **a net loss position by default.**
 
 ---
 
-*No meaningful financial analysis is possible until the integration is live and orders are flowing. Fix the integration first — everything else is secondary.*
+### #1 Recommended Action
+
+> **Configure Printify API key immediately.**
+> This is the critical path blocker. Without it: no fulfilment, no cost data, no margin visibility. Every day delayed is overhead spend with zero revenue offset.
+
+---
+
+*Summary will auto-populate with real analysis once Printify is connected and first orders are recorded.*

@@ -1,13 +1,13 @@
 # JARVIS World Brain
-*Last updated: 2026-05-14 08:44*
+*Last updated: 2026-05-14 10:16*
 
 ## Hacker News — Tech & Business
 - Claude for Small Business
 - Scorched Earth 2000 – Web
-- Linux gaming is faster because Windows APIs are becoming Linux kernel features
 - Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7
-- Arena AI Model ELO History
+- Linux gaming is faster because Windows APIs are becoming Linux kernel features
 - Setting up a free *.city.state.us locality domain (2025)
+- MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble
 
 ## Entrepreneur Magazine — Latest
 - How I’ve Built 22+ Businesses by Aligning Them With Meaningful Causes From the Start
@@ -18,19 +18,19 @@
 - I Studied How AI Recommends Local Businesses. Here’s What Actually Drives Visibility.
 
 ## Inc.com — Business News
-- Jennifer Hyman Just Stepped Down as CEO of Rent the Runway—What She Plans to Do Next
-- New Study Finds This Muscle Metric Is a Key Determinant of Your Longevity
-- Nike Shares Plummet to Low Not Seen Since 2015
-- The Great Guessing Game: Why Students are Switching Majors to ‘AI-Proof’ Careers That Don’t Exist Yet
-- Kevin Smart Says the ‘Smartest’ Business Moves Follow This Specific Rule
+- I’ve Hired More Than 1,000 People. These Are the 3 Red Flags That Predict a Bad Hire Every Time
+- 6 Essential Lessons for Tomorrow’s Business Leaders (That They Don’t Teach in MBA Programs)
+- How to Read the Room (A 4-Step Process)
+- Want to Lower Your Risk of Premature Death by 60 Percent? Science Says Do These 3 Things
+- The Doctor Who Helped Build Bryan Johnson’s Blueprint Has a List of Dos and Don’ts for Longevity Hackers
 
 ## Product Hunt — New Products Trending
 - Product Hunt — The best new products, every day
-- Raindrop Workshop
-- Tendem by Toloka
-- Fei Design Mode
+- Enjo Help Center
 - Causo for Fundraising
-- Instants by Instagram
+- Fei Design Mode
+- Agent FM for Claude Code &amp; Codex
+- Online 3D Editor
 
 ## Amazon Trends
 No data

@@ -1,34 +1,37 @@
 # Caselle Scout — Market Intelligence
-*Last updated: 2026-05-14 05:53*
+*Last updated: 2026-05-14 10:16*
 
 ## ⚠️ No Data Detected
 
-It looks like the trend data and Etsy market data **didn't come through** — the fields appear to be empty.
+It looks like your trend data and Etsy market data **didn't come through** — the fields appear to be empty.
 
 ---
 
-### To generate your intelligence report, please provide:
+### To get your intelligence report, please share:
 
-**1. Fashion Trends Data** — e.g.:
-- Pinterest/Google Trends search volume data
-- TikTok/Instagram aesthetic trending terms
-- Runway or streetwear trend reports
+**Fashion Trends Data**
+- Search volume trends (e.g., Google Trends, TikTok hashtag data)
+- Rising aesthetic keywords or style movements
+- Any Pinterest/Instagram trend reports
 
-**2. Etsy Market Data** — e.g.:
-- Bestseller listing titles & prices
-- Search result screenshots or exports
-- Review counts, sales badges, keyword data
+**Etsy Market Data**
+- Bestseller listings or search results
+- Pricing data from competitor listings
+- Review counts, sales badges, or shop stats
+- Relevant search terms you're targeting
 
 ---
 
-### You can share data as:
-- ✅ Pasted text / CSV rows
-- ✅ Copied listing titles and prices
-- ✅ Screenshot descriptions
-- ✅ Raw search term volumes
+### You can paste data as:
+- Raw text / CSV
+- Screenshots described in text
+- Search result summaries
+- Copied listing details
 
-Once you drop in the data, I'll produce the full **Caselle Scout Intelligence Report** covering:
-- 📈 Top 3 rising aesthetics
-- 🎨 Recommended design directions
-- 💰 Competitor pricing observations
-- 🎯 One high-confidence opportunity
+Once you share the data, I'll deliver a **full intelligence report** with:
+> 📈 Top 3 Rising Aesthetics
+> 🎨 Design Directions
+> 💰 Competitor Pricing Observations
+> 🎯 One High-Confidence Opportunity
+
+Drop the data below and I'll get straight to work.

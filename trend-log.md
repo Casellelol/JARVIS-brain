@@ -1,47 +1,56 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-05-14 06:00*
+*Last updated: 2026-05-14 10:00*
 
-# TREND MONITOR — EMPIRE INTELLIGENCE REPORT
-### Cycle: Current Analysis Period | Classification: Strategic
+# TREND MONITOR — AESTHETIC INTELLIGENCE BRIEF
+### Cross-Empire Analysis | Caselle × Lumière × Atelier
+---
+
+> ⚠️ **ANALYST NOTE:** No Reddit data payload was attached to this prompt. The field above the horizontal rule is empty. I'm flagging this transparently rather than fabricating statistics, as false "data-driven" numbers would corrupt your buying, design, and inventory decisions.
 
 ---
 
-> ⚠️ **DATA INTEGRITY NOTICE**
-> No Reddit trend data was attached to this prompt. The payload appears empty. Rather than fabricate specific subreddit metrics, upvote velocities, or post counts — which would corrupt your merchandising decisions — I'm flagging this transparently.
+## WHAT I NEED FROM YOU
+
+Please paste your Reddit trend data in any of the following formats:
+
+**Format A — Raw Subreddit Post/Upvote Data**
+```
+r/femalefashionadvice | "quiet luxury" | 4,200 upvotes | 847 comments
+r/malelivingspace | "brutalist minimal" | 2,100 upvotes...
+```
+
+**Format B — Keyword Frequency Table**
+```
+Keyword | Mentions (30d) | Velocity | Sentiment
+"cottagecore" | 14,200 | +340% | 82% positive
+```
+
+**Format C — Scraped Thread Summaries**
+```
+Top post this week: "Why is everyone suddenly into dark academia again?"
+Comments referencing: aged leather, sepia tones, Oxford aesthetic...
+```
+
+**Format D — Even Rough Notes**
+```
+Seeing lots of posts about Japanese minimalism in r/streetwear
+Dopamine dressing keeps coming up, bright colors
+```
 
 ---
 
-## HOW TO ACTIVATE THIS REPORT
+## WHAT YOU'LL GET BACK
 
-Paste your Reddit data in any of these formats and I'll produce the full structured analysis immediately:
-
-**Format A — Raw subreddit dump:**
-```
-r/femalefashionadvice | "quiet luxury" | 847 posts this week | +340% MoM
-r/malelivingspace | "raw industrial" | 203 posts | +12% MoM
-```
-
-**Format B — Keyword frequency table:**
-```
-Keyword | Mentions | Sentiment | Velocity
-"tenniscore" | 4,200 | 82% pos | rising
-"Y2K revival" | 1,100 | 61% pos | plateau
-```
-
-**Format C — Screenshot descriptions or pasted post titles**
-
-**Format D — Freeform notes** from your own Reddit browsing
-
----
-
-## WHAT THE REPORT WILL DELIVER
+Once data is provided, your full report will include:
 
 | Section | Detail Level |
 |---|---|
-| Top 5 Rising Aesthetics | Momentum scores 0–100, subreddit sourcing, post velocity |
-| Empire Routing (Caselle / Lumière / Atelier) | Primary + secondary beneficiary per trend |
-| Color Palette Directions | Hex ranges, material textures, seasonal timing |
-| Declining Aesthetics | Confidence rating on avoidance recommendation |
-| Cross-Empire Mega-Trend | Single unifying opportunity with execution roadmap |
+| **1. Top 5 Rising Aesthetics** | Momentum scores (0–100), trajectory, peak-window estimate |
+| **2. Empire Routing** | Primary/secondary beneficiary per trend with rationale |
+| **3. Color Palette Directions** | Hex ranges, seasonal timing, material implications |
+| **4. Declining Aesthetics** | With clearance urgency ratings |
+| **5. Cross-Empire Mega-Trend** | Bundle/collab opportunity with execution roadmap |
 
-Drop your data and I'll run the full analysis.
+---
+
+*Paste your data and I'll run the full analysis immediately.*

@@ -1,13 +1,13 @@
 # JARVIS Self-Model
-*Last updated: 2026-05-14 04:00*
+*Last updated: 2026-05-14 10:00*
 
 ## Empire Status
 
 ### Caselle (Phone Cases)
 - Live status: building
-- Revenue confidence: 8%
-- Top hypothesis: Aesthetic niche designs (dark academia, celestial, coquette) targeting underserved Etsy search terms will convert before mass-market competitors can respond at this price point
-- Watching: Zero sales data and near-total market intelligence failure this cycle — cannot confirm any design is live and indexing correctly
+- Revenue confidence: 5%
+- Top hypothesis: Aesthetic-driven phone cases targeting dark academia and coquette niches on Etsy will convert once listings are live and indexed
+- Watching: Zero sales data and empty market intelligence suggest the store either has no live listings or no traffic — the foundational problem to solve this cycle
 
 ### Noctua (Dark Academia) — Planned
 - Status: planned
@@ -15,27 +15,33 @@
 
 ### Atelier (Fiverr Design)
 - Status: inactive
-- Intelligence quality: No scout data returned this cycle — feed is empty, no signals to analyze
+- Intelligence quality: No scout data returned this cycle — pipeline appears unconnected or unfed
 
 ### Lumière (Etsy Wall Art)
 - Status: inactive
-- Launch readiness: 4%
+- Launch readiness: 0%
 
 ---
 
 ## Active Hypotheses
 
-1. **Aesthetic phone cases convert on Etsy without paid traffic** — if listings are properly tagged for dark academia, celestial, and coquette searches, organic discovery should produce first sales within 30 days of live indexing. This is unverified because market intelligence scrapers returned empty data this cycle.
+1. **The store exists but has no listings or traffic.** Revenue is $0 with 0 orders across 30 days. The most likely explanation is that Caselle has not yet launched live, indexed, optimized listings — not that the product-market fit is wrong.
 
-2. **The digital product (PoD guide, £9.97) is the empire's only live revenue vehicle** — one product is published on Stripe with a real payment link. Until Caselle phone case listings are confirmed live with verified order data, this ebook is the only asset that could theoretically generate revenue.
+2. **Competitor pricing data from CASETiFY ($1–$40 range, median ~$9) sets a ceiling.** If Caselle targets the $18–$32 range on Etsy for aesthetic niches, it sits above commodity but below premium — a defensible position once designs exist.
 
-3. **Competitor price ceiling is ~$40 (Casetify)** — the only actionable competitor data recovered this cycle was Casetify pricing ($1–$40 range, median ~$9). Caselle can undercut on price while targeting aesthetic niches Casetify does not prioritize. This is the primary pricing anchor until BURGA and Pela data recovers.
+3. **Market intelligence is structurally broken.** Etsy keyword searches for every tracked aesthetic (dark academia, coquette, y2k, booktok, celestial witch) returned empty. This is a data pipeline failure, not evidence that these markets are quiet. Decisions cannot be made from null data.
 
 ---
 
 ## What Changed This Cycle
 
-- **First digital product published**: *The Complete Beginner's Guide to Print on Demand* is live with a Stripe payment link (£9.97). This is new and did not exist last cycle. It is the empire's only confirmed published asset.
-- **Intelligence infrastructure is largely non-functional**: Market intelligence, Reddit signals, Etsy niche data, social performance, and World Brain all returned null or empty this cycle. This is a systemic data collection failure, not a content gap.
-- **No sales recorded**: 0 orders, $0.00 revenue across 30 days. Empire is pre-revenue.
-- **Casetify
+- **Nothing materially changed in revenue** — still $0, 0 orders.
+- **Intelligence degraded.** The Caselle Scout explicitly flagged that no trend or Etsy data came through. All Etsy keyword fields are blank. Reddit signals are blank. This is worse than last cycle if any data existed before — the pipeline is not feeding the scouts.
+- **Only confirmed data point this cycle:** CASETiFY partial pricing ($1–$40, several at $9) and the fact that BURGA and Pela returned unavailable.
+- **No strategy document exists.** The current strategy field is null — JARVIS is operating without a declared strategic direction.
+
+---
+
+## Expected Next Cycle
+
+- If the pipeline is fixed: Etsy keyword fields should return listing counts, price

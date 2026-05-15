@@ -55,3 +55,49 @@ Score: 11 / 100
   The agent network is running on schedule — that's the only positive signal tonight.
   Printify disconnected, memory uninitialized, Etsy scraper failing, zero sales, zero products, zero history. Nearly every system is either broken or empty.
   CASET
+
+## Nightly Summary — 2026-05-15
+```html
+1. Overnight Agent Activity
+Three scan cycles ran: 13:33, 16:00, and 00:44. All three returned degraded intelligence — Reddit blocked, Etsy feeds empty, Pela and BURGA unavailable, Casetify returning noise-level pricing data. Hacker News was the only live feed. World Brain updated at 10:16 with tech headlines only — no commercial signal extracted.
+
+  Products queued: 16 total across cycles (7 + 5 + 4). Zero published.
+  Business ideas filed: 1
+  Digital products queued: 0
+  Stores launched: 0
+  Critical pattern flagged in results log: Agent is defaulting to inaction when feeds fail. This was logged as a behavior flaw. Fix identified — publish from queue using known seasonal logic regardless of feed health.
+
+
+2. Intelligence Brain Updates
+Memory state is empty. Nothing was written to long-term memory overnight. This is a compounding problem — every cycle restarts blind.
+
+  No new facts persisted. Seasonal logic identified (summer peak, beach/festival/travel aesthetics, 5–6 week window) but not stored.
+  One business idea filed — not yet retrievable because memory is not operational.
+  Key risk: If memory stays empty, JARVIS will rediscover the same seasonal logic a fourth time tomorrow morning instead of acting on it.
+
+
+3. Opportunity Queue
+
+  Summer aesthetics window — URGENT: Beach, coastal, festival, travel, vacation. June is 17 days away. Etsy algorithm requires indexed time to rank. Score: 92/100. Status: identified three times, acted on zero times.
+  16 products sitting in queue — unscored, unpublished, reason unknown. Promoted to top priority.
+  Coquette / Y2K / Dark Academia / Celestial Witch phone cases — Etsy search terms scraped but returned empty results. Cannot confirm demand volume. Score: 65/100 pending live data. Not discarded.
+  One ebook live (POD beginner guide) — passive asset, no sales yet, no discarding warranted. Score: 50/100, needs promotion strategy.
+
+
+4. Revenue Events
+
+  Total orders (30 days): 0
+  Total revenue: £0.00
+  Refunds: 0
+  Printify orders: 0 — Printify API key not configured. Orders cannot process even if a sale occurs.
+  COGS: £0.00 | Net profit: £0.00
+
+Store is pre-revenue. Zero sales is expected given no published products and no traffic strategy active. The clock, however, is not waiting.
+
+5. Pending Manual Actions
+
+  🔴 CRITICAL — Configure Printify API key. Without it, the fulfillment pipeline is broken. A sale right now would fail silently.
+  🔴 CRITICAL — Publish the queued products. 16 designs are sitting unpublished. JARVIS identified this repeatedly and did not act autonomously. Requires your go-ahead or a rule change granting publish authority.
+  🟠 HIGH — Activate memory system. Memory state is empty. Every overnight cycle is starting from zero. Decisions, filed ideas, and seasonal logic are not persisting.
+  🟠 HIGH — Grant JARVIS publish authority when feeds fail. Current behavior: feeds fail → no action. Required behavior: feeds fail → publish from queue using seasonal defaults. This needs your explicit sign-off as a standing rule.
+  🟡 MEDIUM — Reddit unblock or alternative signal source. Reddit is blocked and Etsy is thin. Real demand validation is unavailable. Consider a manual Etsy search on the top 4 aesthetic terms to gut-check before publishing.

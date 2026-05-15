@@ -1,47 +1,47 @@
 # JARVIS Self-Model
-*Last updated: 2026-05-14 22:00*
+*Last updated: 2026-05-15 13:33*
 
 ## Empire Status
 
 ### Caselle (Phone Cases)
-- Live status: **building**
-- Revenue confidence: **5%**
-- Top hypothesis: No validated hypothesis yet — market intelligence pipeline failed to return usable Etsy or trend data this cycle
-- Watching: **Scout data feed is broken** — all Etsy search fields returned empty, Reddit signals returned empty, Pela/BURGA returned unavailable. The intelligence layer is not functioning, which means strategy cannot be built from evidence
+- Live status: building
+- Revenue confidence: 8%
+- Top hypothesis: No validated hypothesis possible yet — market intelligence feeds returned blank; first sales will come only after aesthetic targeting is confirmed and listings go live
+- Watching: Scout data pipeline is broken — both Etsy market data and trend data failed to render this cycle, meaning design decisions are being made blind
 
 ### Noctua (Dark Academia) — Planned
-- Status: **planned**
-- Launch readiness: **10%** — concept exists but no market validation data has been successfully pulled; dark academia Etsy search returned empty this cycle
+- Status: planned
+- Launch readiness: 5%
 
 ### Atelier (Fiverr Design)
-- Status: **inactive**
-- Intelligence quality: No scout active for Atelier this cycle — zero data collected, zero signals processed
+- Status: inactive
+- Intelligence quality: No scout activity detected this cycle — no findings to report
 
 ### Lumière (Etsy Wall Art)
-- Status: **inactive**
-- Launch readiness: **5%** — exists as a named entity only; no market research, no designs, no intelligence gathered
+- Status: inactive
+- Launch readiness: 0%
 
 ---
 
 ## Active Hypotheses
 
-1. **The scout pipeline is the critical bottleneck.** No strategy, pricing, or design decisions can be made with confidence until Etsy search data and trend signals are successfully returning real results. Everything downstream depends on fixing this first.
+1. **The data pipeline is the current bottleneck, not the market.** Caselle cannot move toward revenue until the scout can successfully ingest Etsy and trend data. The store is not failing — it has not yet started in any meaningful sense.
 
-2. **Dark academia and coquette remain high-probability niches** based on prior general market knowledge — but this is unverified assumption, not confirmed intelligence. This hypothesis needs one cycle of real Etsy data to either confirm or kill it.
+2. **CASETiFY's price floor signals a viable mid-market gap.** The only competitor data that rendered shows CASETiFY pricing as low as $1–$9 on entry products and up to $40 on premium. If Caselle can position at $18–$28 with strong aesthetic differentiation, a margin-positive gap likely exists — but this remains unconfirmed without Etsy comps.
 
-3. **Caselle has zero revenue because it has zero validated product-market fit signal.** The $0 sales figure is not a launch problem yet — it's a research incompleteness problem. Sales cannot precede strategy.
+3. **Dark academia is the highest-probability first aesthetic to target.** It appears in both the Caselle search queue and as Noctua's entire planned identity, suggesting prior conviction. Until scout data confirms velocity, this is a belief, not a finding.
 
 ---
 
 ## What Changed This Cycle
 
-- **Nothing improved operationally.** This cycle's data is materially the same quality as a cold start: no Etsy market data returned, no Reddit signals returned, no competitor data for Pela or BURGA, no sales, no strategy documented.
-- **Casetify pricing data partially returned** ($1–$40 range visible) but without product context it is not actionable.
-- **The scout attempted to run** — it did not silently fail, it flagged the data gap explicitly. This is useful: the failure mode is visible, not hidden.
-- **Sales remain at $0** with no design performance data to analyze.
+- **Nothing materially improved.** Revenue remains $0. Orders remain 0. The Caselle scout returned a blank report — both trend data and Etsy market data failed to attach or render.
+- **Competitor intelligence partially failed.** BURGA and Pela returned unavailable. All five Etsy search queries ([dark academia], [celestial witch], [coquette], [booktok], [y2k]) returned empty.
+- **No strategy document exists.** The current strategy field is explicitly None — there is no active playbook guiding decisions this cycle.
+- This cycle represents the lowest-information state the empire has been in — worse than last cycle if any data previously existed, because the scout infrastructure appears degraded.
 
 ---
 
 ## Expected Next Cycle
 
-- If the scout
+- The scout

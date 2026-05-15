@@ -1,36 +1,36 @@
 # JARVIS World Brain
-*Last updated: 2026-05-15 08:44*
+*Last updated: 2026-05-15 22:02*
 
 ## Hacker News — Tech & Business
-- Removing the modem and GPS from my 2024 RAV4 hybrid
-- Details of the Daring Airdrop at Tristan Da Cunha
-- Solar-based sleep patterns compared to modern norms
-- A few words on DS4
-- Access to frontier AI will soon be limited by economic and security constraints
-- RTX 5090 and M4 MacBook Air: Can It Game?
+- Project Gutenberg – keeps getting better
+- WinCE64 – Windows CE 2.11 for N64
+- Mitchellh – I strongly believe there are entire companies now under AI psychosis
+- The Zulip Foundation
+- A 0-click exploit chain for the Pixel 10
+- Palantir has hired more than 30 senior UK Government officials
 
 ## Entrepreneur Magazine — Latest
-- My Merger Didn’t Go the Way I Expected. Here’s What I Learned — and What Every Founder Must Prepare for.
-- What Your Domain Name Is Quietly Saying About Your Brand Before You Do
-- Gen Z Buyers Are Tuning Out Traditional Marketing. Here’s What It Takes to Earn Their Attention.
-- Why Q2 Is the Best Time to Interview CPAs and Tax Firms
-- Why Executives Are Suddenly Very Nervous About Autonomous AI
-- He Created a Tool That Lets Anyone Start Their Own Business With Just an Image — And It Has Minted 4 Millionaires Already
+- I’ve Scaled Tech Companies Past $100 Million for 25 Years. Here Are 3 Things Leaders Miss Before Implementing AI
+- Don’t Send Generic Emails — This Is the Personalization Shift That Will Boost Your Profits and Engagement
+- 6 Enrollment Myths Universities Still Believe — And Why It’s Costing Them Students
+- 5 Signals That Influence Claude and ChatGPT Recommendations in 2026
+- The Hidden Margin Killers Draining Your Business — and How AI Is Catching Them in Real Time
+- Why You Can’t Afford to Ignore Personal Branding Anymore — and How to Make Sure Yours Drives Real Growth
 
 ## Inc.com — Business News
-- Only Have 15 Minutes a Week for Exercise? Science Says There’s Still a Big Benefit for Your Health
-- Did Spirit Airlines Have a Bad Product? This Airline CEO Thinks So
-- Japanese Robot ‘Monster Wolf’ Helps Protect Citizens and Crops
-- Zero Trust Was Built for Fortune 500
-- After 66 Years, a Popular Mexican Restaurant Chain Only Has 1 Location Left
+- An Anonymous Bidder Just Spent $9 Million to Have Lunch With Warren Buffett
+- After 29 Years, Marc Jacobs Has New Ownership—and It Involves the Parent Company of Toys ‘R’ Us
+- Experts Just Named This the Best Straight Bourbon in the World—and It’s Under $50
+- The ‘Supply Chain Trap’: Why Leaving China Just Became a Legal Nightmare for U.S. Firms
+- AI-Generated Writing Was Taking Over the Internet. But Then Something Unexpected Happened
 
 ## Product Hunt — New Products Trending
 - Product Hunt — The best new products, every day
-- SpotFetch by DocentPro
-- Basedash MCP Connectors
-- Agentic Website Builder 2.0 by Lokuma
 - DramaBox by Resemble AI
-- Autograph.video Beta
+- Basedash MCP Connectors
+- SpotFetch by DocentPro
+- TrustClaw by Composio
+- Atlas Navigation
 
 ## Amazon Trends
 No data

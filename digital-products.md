@@ -17,3 +17,11 @@
 - Download: https://raw.githubusercontent.com/Casellelol/JARVIS-brain/main/digital-products/the-pod-designer-s-ai-prompt-pack-50-midjourney-pr.md
 - Payment: https://buy.stripe.com/cNi14n2ngeFs77s1Uzg7e01
 - Status: LIVE
+
+## Fiverr gig description prompts for designers — 30 high-converting templates for logo and brand identity gigs — 2026-05-15 22:02
+- Type: prompt-pack
+- Slug: fiverr-gig-description-prompts-for-designers-30-hi
+- Price: £7.97
+- Download: https://raw.githubusercontent.com/Casellelol/JARVIS-brain/main/digital-products/fiverr-gig-description-prompts-for-designers-30-hi.md
+- Payment: https://buy.stripe.com/4gM00j3rk40OajEczdg7e02
+- Status: LIVE

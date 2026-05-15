@@ -1,43 +1,37 @@
 # Caselle Scout — Market Intelligence
-*Last updated: 2026-05-14 10:16*
+*Last updated: 2026-05-15 05:53*
 
 # Caselle Scout — Market Intelligence Report
 
 ---
 
-> ⚠️ **Data Notice:** No trend data or Etsy market information was successfully transmitted in your message. The fields appear to be empty.
+> ⚠️ **Data Notice:** No trend data or Etsy market information was successfully attached to this prompt. Both data fields appear to be blank or the files did not render.
 
 ---
 
-## To Generate Your Report, Please Share:
+## To Generate Your Full Report, Please Provide:
 
 ### Fashion Trends Data
-Paste any of the following:
-- Google Trends export (CSV or copied text)
-- Pinterest/TikTok trending search terms
-- Instagram hashtag volume data
-- Trend forecasting notes (WGSN, Trendalytics, etc.)
+- Pinterest/Google Trends keywords or search volume data
+- TikTok aesthetic trend lists or hashtag performance
+- Runway/streetwear reports or mood board references
 
 ### Etsy Market Data
-Paste any of the following:
-- Search result listings with prices/review counts
-- Everbee / Sale Samurai / Marmalead exports
-- Bestseller titles and tags
-- Competitor shop stats
+- Bestseller listings (titles, prices, review counts)
+- Search result screenshots or exports
+- Sales rank data or Erank/Marmalead exports
 
 ---
 
-## Example Input Format I Can Work With:
+## What You'll Get Once Data is Submitted:
 
-```
-Fashion Trends:
-- "Coquette aesthetic" — search +340% MoM
-- "Dark academia" — stable, high volume
-- "Y2K butterfly" — +180% WoW on TikTok
+| Report Section | What It Covers |
+|---|---|
+| 🎨 **Top 3 Rising Aesthetics** | Named aesthetics with velocity & evidence |
+| ✏️ **Design Directions** | Specific motifs, palettes, typography styles |
+| 💰 **Competitor Pricing** | Price bands, perceived value gaps |
+| 🎯 **High-Confidence Opportunity** | One SKU-level recommendation with rationale |
 
-Etsy Market:
-- "Aesthetic iPhone case butterfly" — $12.99, 847 reviews
-- Top seller: CasesbyMia — 4.2k sales, avg $14.50
-```
+---
 
-**Paste your data and I'll deliver a full actionable report immediately.** 🎯
+**Please re-paste or upload your data and I'll produce the full intelligence report immediately.**

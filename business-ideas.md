@@ -8,3 +8,10 @@
 - **Rationale:** Massive evergreen search volume for POD beginner guides, no clearly dominant free-to-low-cost guide
 - **Confidence:** 70%
 - **Status:** executing
+
+## The POD Designer's AI Prompt Pack — 50 Midjourney Prompts for Bestselling Phone Case Designs — 2026-05-15 22:00
+- **Type:** prompt-pack
+- **Revenue model:** £
+- **Rationale:** POD sellers are actively searching for ready-to-use AI design prompts; no dominant prompt pack targeting the phone case niche specifically; complements the live ebook and cross-sells naturally
+- **Confidence:** 70%
+- **Status:** executing

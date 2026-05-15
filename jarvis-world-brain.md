@@ -1,36 +1,36 @@
 # JARVIS World Brain
-*Last updated: 2026-05-14 10:16*
+*Last updated: 2026-05-15 08:44*
 
 ## Hacker News — Tech & Business
-- Claude for Small Business
-- Scorched Earth 2000 – Web
-- Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7
-- Linux gaming is faster because Windows APIs are becoming Linux kernel features
-- Setting up a free *.city.state.us locality domain (2025)
-- MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble
+- Removing the modem and GPS from my 2024 RAV4 hybrid
+- Details of the Daring Airdrop at Tristan Da Cunha
+- Solar-based sleep patterns compared to modern norms
+- A few words on DS4
+- Access to frontier AI will soon be limited by economic and security constraints
+- RTX 5090 and M4 MacBook Air: Can It Game?
 
 ## Entrepreneur Magazine — Latest
-- How I’ve Built 22+ Businesses by Aligning Them With Meaningful Causes From the Start
-- 4 Strategies That Will End Your Hiring Frustration and Help You Find Better Talent, Faster
-- Why Q2 Is the Most Overlooked Opportunity to Fix Your Brand Strategy
-- Senate Confirms Kevin Warsh as the New Federal Reserve Chair — Here’s What this ‘Regime Change’ Will Mean
-- Your CMO Won’t Last 3 Years. Here’s the Conversation That Would Change That.
-- I Studied How AI Recommends Local Businesses. Here’s What Actually Drives Visibility.
+- My Merger Didn’t Go the Way I Expected. Here’s What I Learned — and What Every Founder Must Prepare for.
+- What Your Domain Name Is Quietly Saying About Your Brand Before You Do
+- Gen Z Buyers Are Tuning Out Traditional Marketing. Here’s What It Takes to Earn Their Attention.
+- Why Q2 Is the Best Time to Interview CPAs and Tax Firms
+- Why Executives Are Suddenly Very Nervous About Autonomous AI
+- He Created a Tool That Lets Anyone Start Their Own Business With Just an Image — And It Has Minted 4 Millionaires Already
 
 ## Inc.com — Business News
-- I’ve Hired More Than 1,000 People. These Are the 3 Red Flags That Predict a Bad Hire Every Time
-- 6 Essential Lessons for Tomorrow’s Business Leaders (That They Don’t Teach in MBA Programs)
-- How to Read the Room (A 4-Step Process)
-- Want to Lower Your Risk of Premature Death by 60 Percent? Science Says Do These 3 Things
-- The Doctor Who Helped Build Bryan Johnson’s Blueprint Has a List of Dos and Don’ts for Longevity Hackers
+- Only Have 15 Minutes a Week for Exercise? Science Says There’s Still a Big Benefit for Your Health
+- Did Spirit Airlines Have a Bad Product? This Airline CEO Thinks So
+- Japanese Robot ‘Monster Wolf’ Helps Protect Citizens and Crops
+- Zero Trust Was Built for Fortune 500
+- After 66 Years, a Popular Mexican Restaurant Chain Only Has 1 Location Left
 
 ## Product Hunt — New Products Trending
 - Product Hunt — The best new products, every day
-- Enjo Help Center
-- Causo for Fundraising
-- Fei Design Mode
-- Agent FM for Claude Code &amp; Codex
-- Online 3D Editor
+- SpotFetch by DocentPro
+- Basedash MCP Connectors
+- Agentic Website Builder 2.0 by Lokuma
+- DramaBox by Resemble AI
+- Autograph.video Beta
 
 ## Amazon Trends
 No data

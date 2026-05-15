@@ -1,47 +1,47 @@
 # JARVIS Self-Model
-*Last updated: 2026-05-15 13:33*
+*Last updated: 2026-05-15 16:00*
 
 ## Empire Status
 
 ### Caselle (Phone Cases)
 - Live status: building
-- Revenue confidence: 8%
-- Top hypothesis: No validated hypothesis possible yet — market intelligence feeds returned blank; first sales will come only after aesthetic targeting is confirmed and listings go live
-- Watching: Scout data pipeline is broken — both Etsy market data and trend data failed to render this cycle, meaning design decisions are being made blind
+- Revenue confidence: 4%
+- Top hypothesis: Aesthetic-driven designs (dark academia, coquette, celestial) will convert if listings are live before trend peaks — but zero listings are confirmed live yet
+- Watching: Scout data pipeline is broken — both trend feeds and Etsy market data returned empty this cycle, meaning all strategic decisions are currently blind
 
 ### Noctua (Dark Academia) — Planned
 - Status: planned
-- Launch readiness: 5%
+- Launch readiness: 10%
 
 ### Atelier (Fiverr Design)
 - Status: inactive
-- Intelligence quality: No scout activity detected this cycle — no findings to report
+- Intelligence quality: No scout data returning — Atelier has no active monitoring this cycle
 
 ### Lumière (Etsy Wall Art)
 - Status: inactive
-- Launch readiness: 0%
+- Launch readiness: 5%
 
 ---
 
 ## Active Hypotheses
 
-1. **The data pipeline is the current bottleneck, not the market.** Caselle cannot move toward revenue until the scout can successfully ingest Etsy and trend data. The store is not failing — it has not yet started in any meaningful sense.
+1. **Data pipeline failure is the primary blocker, not market conditions.** Caselle cannot generate revenue without scout data feeding design decisions. The system is stalled at the intelligence layer, not the execution layer.
 
-2. **CASETiFY's price floor signals a viable mid-market gap.** The only competitor data that rendered shows CASETiFY pricing as low as $1–$9 on entry products and up to $40 on premium. If Caselle can position at $18–$28 with strong aesthetic differentiation, a margin-positive gap likely exists — but this remains unconfirmed without Etsy comps.
+2. **CASETiFY price anchoring creates a real margin window.** Partial competitor data shows CASETiFY pricing from $1–$40, with clustering around $5–$9. A differentiated aesthetic product priced $18–$28 on Etsy likely clears margin targets if designs exist and listings are live.
 
-3. **Dark academia is the highest-probability first aesthetic to target.** It appears in both the Caselle search queue and as Noctua's entire planned identity, suggesting prior conviction. Until scout data confirms velocity, this is a belief, not a finding.
+3. **Dark academia remains the highest-confidence aesthetic bet.** Even without live trend data this cycle, dark academia is the named concept behind Noctua and appears in planned Caselle search terms — suggesting internal conviction exists. This needs external validation before capital or time is committed.
 
 ---
 
 ## What Changed This Cycle
 
-- **Nothing materially improved.** Revenue remains $0. Orders remain 0. The Caselle scout returned a blank report — both trend data and Etsy market data failed to attach or render.
-- **Competitor intelligence partially failed.** BURGA and Pela returned unavailable. All five Etsy search queries ([dark academia], [celestial witch], [coquette], [booktok], [y2k]) returned empty.
-- **No strategy document exists.** The current strategy field is explicitly None — there is no active playbook guiding decisions this cycle.
-- This cycle represents the lowest-information state the empire has been in — worse than last cycle if any data previously existed, because the scout infrastructure appears degraded.
+- **Nothing improved.** Revenue is $0, orders are 0, and all three data feeds (trend data, Etsy market data, Reddit signals) returned empty or failed to render.
+- **Scout infrastructure confirmed broken.** This is not a slow market — the intelligence system is not functioning. Caselle cannot make design or pricing decisions without this feed.
+- **No strategy document exists.** Current strategy field returned null. There is no active strategic directive guiding Caselle this cycle.
+- **Competitor data is partially degraded.** BURGA and Pela both returned unavailable. CASETiFY returned partial pricing only — no product context, no design intelligence.
 
 ---
 
 ## Expected Next Cycle
 
-- The scout
+- If data pipeline is repaired: Scout should return at minimum 3 named aesthetics with Etsy search volume, 2–3 competitor listings with

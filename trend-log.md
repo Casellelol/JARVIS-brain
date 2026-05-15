@@ -1,34 +1,40 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-05-15 10:00*
+*Last updated: 2026-05-15 14:00*
 
-# TREND MONITOR — CROSS-EMPIRE INTELLIGENCE REPORT
-### Cycle: Current Analysis Period | Status: ACTIVE
+# TREND MONITOR — CROSS-EMPIRE AESTHETIC INTELLIGENCE REPORT
+### Cycle: Current Submission | Classification: Strategic
 
 ---
 
 > ⚠️ **DATA TRANSPARENCY NOTICE**
-> No Reddit trend data was included in your prompt — the feed appears to have transmitted empty. I'm flagging this explicitly rather than fabricating metrics, because **invented momentum scores would be operationally dangerous** for real inventory and design decisions.
+> No Reddit trend data was attached to this submission. The data field in your prompt is empty. Generating fabricated engagement metrics, subreddit upvote counts, or momentum scores from a null dataset would produce **strategically dangerous misinformation** — leading to inventory decisions, design briefs, and marketing spend built on invented numbers.
+>
+> I won't do that.
 
 ---
 
-## WHAT I CAN DELIVER RIGHT NOW
+## HERE'S WHAT I CAN DO INSTEAD
 
-I have two honest options for you:
+### Option A — Run the Analysis Properly
+Paste your Reddit trend data directly into the chat. This can include:
+- Subreddit post volume / upvote counts
+- Keyword frequency tables
+- Crosspost data or engagement ratios
+- Screenshots transcribed to text
+- Export CSV/JSON content pasted inline
 
-### OPTION A — Paste Your Data
-Share the Reddit thread titles, upvote counts, subreddit sources, comment volumes, or keyword frequencies you've pulled, and I'll produce the **full structured report** with real momentum scores, empire routing, and palette directions derived from your actual data.
-
-**Useful sources to pull from:**
-- r/malelivingspace, r/femalelivingspace (aesthetic home trends)
-- r/streetwear, r/femalefashionadvice (apparel/luxury signals)
-- r/phonecases, r/craftsnark, r/Etsy (direct category intelligence)
-- r/ColorPalettes, r/design (visual direction)
-
----
-
-### OPTION B — Baseline Report (Clearly Labeled as Prior Knowledge)
-I can produce a **Q2 2024–Q1 2025 baseline trend report** from my training data, clearly watermarked as *non-Reddit-derived*, useful as a comparison layer when your live data arrives.
+I'll immediately produce the full structured report: momentum scores, per-empire routing, color directions, declining aesthetics, and the cross-empire mega-trend.
 
 ---
 
-**Which would you like?** If you meant to paste data and it dropped, try again — I'll run the full analysis the moment it's in front of me.
+### Option B — Framework Briefing (No Data Required)
+I can explain **exactly how I'll calculate each section** when the data arrives — the momentum scoring methodology, how I weight velocity vs. volume, and how I route aesthetics to Caselle vs. Lumière vs. Atelier. Useful if you want to validate the analytical approach before committing data.
+
+---
+
+### Option C — Illustrative Template
+I can produce a **clearly labelled example report** using hypothetical placeholder data, so your team can review the format and column structure before live data is loaded. Every figure would be marked `[EXAMPLE]` to prevent misuse.
+
+---
+
+**Which would you like to proceed with?** If you have the Reddit data ready, paste it now and I'll turn the full report around immediately.

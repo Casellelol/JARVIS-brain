@@ -1,21 +1,21 @@
 # JARVIS Self-Model
-*Last updated: 2026-05-15 22:00*
+*Last updated: 2026-05-16 04:00*
 
 ## Empire Status
 
 ### Caselle (Phone Cases)
 - Live status: building
 - Revenue confidence: 8%
-- Top hypothesis: Aesthetic-driven designs targeting named micro-trends (dark academia, coquette, celestial witch) will outperform generic cases — but this is untested until at least one SKU is live with traffic
-- Watching: Scout data pipeline is broken — both trend data and Etsy market data failed to render this cycle, meaning we are flying blind on design direction
+- Top hypothesis: No hypothesis can be validated yet — zero sales data and market intelligence feeds returned blank; first revenue will come only after aesthetic targeting and listing optimization are grounded in real trend data
+- Watching: Intelligence pipeline failure is the primary risk — scouts are running but returning empty; without trend or Etsy market data, design decisions are blind guesses
 
 ### Noctua (Dark Academia) — Planned
 - Status: planned
-- Launch readiness: 5%
+- Launch readiness: 10%
 
 ### Atelier (Fiverr Design)
 - Status: inactive
-- Intelligence quality: No scout activity detected — no findings, no signals, no data returned this cycle
+- Intelligence quality: No scout output detected this cycle — zero findings reported
 
 ### Lumière (Etsy Wall Art)
 - Status: inactive
@@ -25,24 +25,17 @@
 
 ## Active Hypotheses
 
-1. **The data pipeline is the current bottleneck, not strategy.** Until scouts reliably return populated market data, no hypothesis about aesthetics or pricing can be validated. Fixing data ingestion is the highest-leverage action available right now.
+1. **The intelligence layer is broken before the business layer.** Zero revenue is not yet a product or market failure — it is a data pipeline failure. Caselle cannot be steered without functional trend feeds. Fixing scout inputs is the highest-leverage action in the empire right now.
 
-2. **Casetify's visible price points ($1–$40, clustering around $5–$9) suggest a commoditized low end and a premium gap.** If Caselle targets the $18–$28 range with strong aesthetic identity, there may be margin room competitors are leaving open — but this needs Etsy comp data to confirm.
+2. **CASETiFY's price floor (~$40 retail) leaves a gap.** The scraped CASETiFY data shows price points clustering at $1–$9 for accessories plus a $40 case. If Caselle can position aesthetic-forward cases at $18–$28, there is a plausible mid-market gap — but this is unverified without Etsy competitor data to confirm demand at that price band.
 
-3. **Dark academia is the strongest initial aesthetic bet** across all three potential verticals (Caselle cases, Noctua apparel, Lumière wall art) based on prior cycle reasoning — but zero market data has confirmed or challenged this assumption yet.
+3. **Dark academia is the safest first aesthetic to target across both Caselle and Noctua.** Both ventures were conceived around overlapping audiences. If Etsy data eventually confirms dark academia phone case search volume, Caselle can serve as a demand-validation instrument for Noctua before Noctua launches.
 
 ---
 
 ## What Changed This Cycle
 
-- **Nothing materially improved.** Revenue remains $0. Orders remain 0.
-- Scout infrastructure visibly degraded: Caselle scout returned a blank data notice instead of a report. Etsy keyword searches for all five target aesthetics returned empty. Competitor data for BURGA and Pela returned "unavailable."
-- Casetify price scrape partially succeeded — this is the only live market signal in the system.
-- No strategy document is loaded. JARVIS is operating without a current strategic directive.
-- Empire remains pre-revenue across all four verticals with no change from last cycle.
-
----
-
-## Expected Next Cycle
-
-- Scout data attachments will either render correctly (confirming a pipeline fix) or return blank again (confirming a structural problem requiring manual intervention)
+- **Nothing materially improved.** This cycle is statistically identical to the prior state: $0 revenue, 0 orders, 0 validated designs.
+- The Caselle scout explicitly reported that no trend or Etsy data was attached — both data fields were blank. This is a regression in intelligence quality, not a stable baseline.
+- Competitor intel returned partial CASETiFY pricing only. BURGA and Pela returned unavailable. All five Etsy search queries (dark academia, celestial witch, coquette, booktok, y2k) returned empty strings.
+- No strategy document is currently active

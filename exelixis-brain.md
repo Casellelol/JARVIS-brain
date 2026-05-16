@@ -1,37 +1,40 @@
 # Caselle Scout — Market Intelligence
-*Last updated: 2026-05-15 05:53*
+*Last updated: 2026-05-16 05:53*
 
-# Caselle Scout — Market Intelligence Report
+# Caselle Scout Intelligence Report
+## ⚠️ Data Notice
+
+I notice that your trend data and Etsy market data didn't come through — the fields appear to be empty in your message.
 
 ---
 
-> ⚠️ **Data Notice:** No trend data or Etsy market information was successfully attached to this prompt. Both data fields appear to be blank or the files did not render.
+## To Generate Your Report, Please Share:
 
----
+**Fashion Trends Data** could include:
+- Pinterest/TikTok trending aesthetics
+- Google Trends keyword data
+- Social media hashtag volumes
+- Runway or streetwear trend reports
 
-## To Generate Your Full Report, Please Provide:
-
-### Fashion Trends Data
-- Pinterest/Google Trends keywords or search volume data
-- TikTok aesthetic trend lists or hashtag performance
-- Runway/streetwear reports or mood board references
-
-### Etsy Market Data
-- Bestseller listings (titles, prices, review counts)
+**Etsy Market Data** could include:
+- Listing titles & tags from top sellers
+- Price ranges & bestseller badges
+- Review counts / velocity
 - Search result screenshots or exports
-- Sales rank data or Erank/Marmalead exports
 
 ---
 
-## What You'll Get Once Data is Submitted:
+## How to Submit
 
-| Report Section | What It Covers |
-|---|---|
-| 🎨 **Top 3 Rising Aesthetics** | Named aesthetics with velocity & evidence |
-| ✏️ **Design Directions** | Specific motifs, palettes, typography styles |
-| 💰 **Competitor Pricing** | Price bands, perceived value gaps |
-| 🎯 **High-Confidence Opportunity** | One SKU-level recommendation with rationale |
+You can paste data as:
+- ✅ Raw text / CSV
+- ✅ Screenshot descriptions
+- ✅ Bullet-point summaries
+- ✅ Copied listing data
 
 ---
 
-**Please re-paste or upload your data and I'll produce the full intelligence report immediately.**
+*Once you share the data, I'll produce a full report covering:*
+> 📈 Top 3 rising aesthetics · 🎨 Design directions · 💰 Competitor pricing · 🎯 High-confidence opportunity
+
+**Paste your data below and I'll get straight to work.**

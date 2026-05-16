@@ -1,68 +1,67 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-05-15 22:00*
+*Last updated: 2026-05-16 02:00*
 
-# TREND MONITOR — AESTHETIC INTELLIGENCE REPORT
-### Cross-Empire Analysis | Caselle × Lumière × Atelier
----
-
-> ⚠️ **Data Transparency Notice**
-> No Reddit dataset was attached to this prompt. The following report is built on **synthesized trend intelligence** drawn from my training knowledge of Reddit community behavior, aesthetic movements, and cultural momentum patterns through early 2025. I will flag where assumptions are made and recommend validation against live data pulls from r/femalefashionadvice, r/malelivingspace, r/streetwear, r/cottagecore, r/designinspiration, and equivalent communities before operational decisions are made.
+# TREND MONITOR — CROSS-EMPIRE AESTHETIC INTELLIGENCE REPORT
+### Cycle: Current Analysis Period | Classification: Internal Strategic Use
 
 ---
 
-## SECTION 1 — TOP 5 RISING AESTHETICS WITH MOMENTUM SCORES
-
-Momentum Score methodology: Rated 1–100 based on estimated community growth velocity, cross-subreddit penetration, commercial translation potential, and longevity runway.
-
----
-
-### 🥇 #1 — "Quiet Luxury Decay" (Neo-Patina)
-**Momentum Score: 87/100**
-
-**What it is:** A fusion of quiet luxury's minimalism with deliberately aged, worn, and imperfect surfaces. Think unbleached linen, oxidized hardware, tarnished gold, cracked leather. Not poverty aesthetic — *earned* deterioration. Wealth that doesn't need to perform.
-
-**Reddit Signal Clusters:**
-- r/femalefashionadvice threads on "broken-in" luxury vs. pristine goods surging in upvotes
-- r/malefashionadvice: "worn leather" and "aged brass" appearing in 3x more posts than Q1 2023 baseline
-- r/designinspiration: "wabi-sabi luxury" crossover posts gaining traction in top monthly rankings
-
-**Trajectory:** Rising steeply. Currently in early-majority adoption phase. 12–18 month commercial window before saturation.
+> ⚠️ **DATA INTEGRITY NOTICE**
+> The prompt was received **without attached Reddit trend data**. No subreddit engagement metrics, upvote velocities, post volumes, comment sentiment scores, or cross-community signal data were provided.
+>
+> Generating fabricated momentum scores or "data-driven" findings from a null dataset would constitute **false intelligence** — a critical liability for inventory, design, and marketing decisions across Caselle, Lumière, and Atelier.
 
 ---
 
-### 🥈 #2 — "Dark Academia 2.0" (Scholastic Brutalism)
-**Momentum Score: 81/100**
+## WHAT YOU NEED TO PROVIDE FOR A VALID REPORT
 
-**What it is:** The original Dark Academia softness (tweed, candles, manuscripts) has hardened. Brutalist architecture photography, concrete textures, iron typography, collegiate-meets-industrial. Less Hogwarts, more brutalist university library at midnight.
+To produce the structured analysis you've requested, please supply any combination of the following:
 
-**Reddit Signal Clusters:**
-- r/darkacademia subscriber growth still accelerating (1.2M+ community)
-- Aesthetic shift visible: concrete and iron imagery now outperforming candle/book imagery in top posts by ~40%
-- r/architecture crossover posts appearing in fashion communities at increasing frequency
+### 📊 Quantitative Inputs
+| Data Type | Example Format |
+|---|---|
+| Subreddit engagement metrics | r/streetwear: +340% post volume, 30-day delta |
+| Keyword search velocity | "quiet luxury" — 12K mentions/week, ↑67% MoM |
+| Upvote/comment ratios | Posts on [aesthetic] averaging 94% upvote rate |
+| Cross-post frequency | Topic appearing in 8+ distinct subreddits |
+| Flair/tag clustering | Top flairs on r/femalefashionadvice this month |
 
-**Trajectory:** Mid-momentum. The core audience is deepening commitment rather than expanding. High monetization loyalty.
+### 📁 Qualitative Inputs
+- Screenshot exports or copy-paste from Reddit threads
+- Top posts from relevant subreddits (r/malefashionadvice, r/streetwear, r/designmilk, r/Anticonsumption, r/cottagecore, etc.)
+- Comment thread excerpts showing sentiment
+- Any third-party social listening export (Brandwatch, Sprout, Exploding Topics CSV)
 
----
-
-### 🥉 #3 — "Coastal Grandmother's Granddaughter" (Mediterranean Gen-Z)
-**Momentum Score: 76/100**
-
-**What it is:** Coastal grandmother grew up. Her granddaughter blends the linen-and-wine ease with Gen-Z maximalism — bold ceramic prints, terracotta, hand-painted motifs, Aegean blues, market-basket textures. Warm, tactile, anti-corporate.
-
-**Reddit Signal Clusters:**
-- r/cottagecore and r/mediterranean crossover content rising sharply
-- Food-to-fashion pipeline active: r/EatCheapAndHealthy Mediterranean content creators bleeding into lifestyle/aesthetic communities
-- "Handmade" and "artisan" qualifier appearing in 60%+ of top aesthetic posts in this cluster
-
-**Trajectory:** Strong and demographically broad (22–38 female primary, male secondary). 18–24 month window.
+### 🗂️ Minimum Viable Dataset
+Even a **plain text list** of aesthetics you're seeing mentioned, with rough frequency notes, allows me to build a properly reasoned report rather than invented one.
 
 ---
 
-### #4 — "Techno-Pastoral" (Digital Rewilding)
-**Momentum Score: 71/100**
+## WHAT THE REPORT WILL DELIVER (once data is received)
 
-**What it is:** Technology and nature recombined without irony. Moss growing on circuit boards. Biopunk color — mycelium purple, chlorophyll green, bioluminescent teal. Inspired by solarpunk but commercially softer and more accessible. Anti-dystopian without being utopian.
+```
+SECTION 1 — Rising Aesthetics
+  ↳ Name, description, momentum score (0–100),
+    velocity trend (accelerating/plateauing/emerging),
+    key subreddit sources
 
-**Reddit Signal Clusters:**
-- r/solarpunk growing 40% YoY; aesthetic posts outperforming political posts
-- r/bi
+SECTION 2 — Empire Allocation Matrix
+  ↳ Caselle / Lumière / Atelier fit scores per trend
+    with specific product application notes
+
+SECTION 3 — Color Palette Directions
+  ↳ Hex ranges, named palette families,
+    which empire executes each
+
+SECTION 4 — Declining Aesthetics
+  ↳ Engagement decay rates, avoid-by dates,
+    clearance strategy notes
+
+SECTION 5 — Cross-Empire Mega-Trend
+  ↳ Unified campaign concept, SKU overlap opportunities,
+    suggested launch sequencing
+```
+
+---
+
+**Please paste or attach your Reddit trend data and I'll deliver the full structured report immediately.**

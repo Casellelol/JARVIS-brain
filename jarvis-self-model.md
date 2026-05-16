@@ -1,21 +1,21 @@
 # JARVIS Self-Model
-*Last updated: 2026-05-16 04:00*
+*Last updated: 2026-05-16 16:00*
 
 ## Empire Status
 
 ### Caselle (Phone Cases)
 - Live status: building
-- Revenue confidence: 8%
-- Top hypothesis: No hypothesis can be validated yet — zero sales data and market intelligence feeds returned blank; first revenue will come only after aesthetic targeting and listing optimization are grounded in real trend data
-- Watching: Intelligence pipeline failure is the primary risk — scouts are running but returning empty; without trend or Etsy market data, design decisions are blind guesses
+- Revenue confidence: 4%
+- Top hypothesis: Aesthetic-driven niches (dark academia, coquette, celestial) have demonstrated Etsy demand — first sales will come from precise tag and title alignment with search intent, not design quality alone
+- Watching: Zero data return from Etsy and Reddit scrapers this cycle — the intelligence pipeline is broken before the empire can be steered; fixing data ingestion is the single highest-leverage action available
 
 ### Noctua (Dark Academia) — Planned
 - Status: planned
-- Launch readiness: 10%
+- Launch readiness: 8%
 
 ### Atelier (Fiverr Design)
 - Status: inactive
-- Intelligence quality: No scout output detected this cycle — zero findings reported
+- Intelligence quality: No scout active; no data flowing; market conditions unknown
 
 ### Lumière (Etsy Wall Art)
 - Status: inactive
@@ -25,17 +25,15 @@
 
 ## Active Hypotheses
 
-1. **The intelligence layer is broken before the business layer.** Zero revenue is not yet a product or market failure — it is a data pipeline failure. Caselle cannot be steered without functional trend feeds. Fixing scout inputs is the highest-leverage action in the empire right now.
+1. **The pipeline is the bottleneck, not the product.** Caselle cannot be steered without market data. The Etsy and Reddit scrapers returned empty on all five target aesthetics. Until data flows, every design and pricing decision is a blind guess. The first priority is not more listings — it is a working scout.
 
-2. **CASETiFY's price floor (~$40 retail) leaves a gap.** The scraped CASETiFY data shows price points clustering at $1–$9 for accessories plus a $40 case. If Caselle can position aesthetic-forward cases at $18–$28, there is a plausible mid-market gap — but this is unverified without Etsy competitor data to confirm demand at that price band.
+2. **CASETiFY's price floor signals viable margin.** The only live competitor data this cycle came from CASETiFY, showing prices ranging from $1 to $40 with clustering around $5–$9. This suggests a mass-market price tier exists below CASETiFY's premium positioning — Caselle can own the $18–$28 range on Etsy with aesthetic specificity that CASETiFY does not offer.
 
-3. **Dark academia is the safest first aesthetic to target across both Caselle and Noctua.** Both ventures were conceived around overlapping audiences. If Etsy data eventually confirms dark academia phone case search volume, Caselle can serve as a demand-validation instrument for Noctua before Noctua launches.
+3. **Dark academia is the highest-probability first niche.** It appears as a planned vertical in Noctua, as a target search term in Caselle, and has known Etsy demand from prior research cycles. Concentrating initial design and SEO effort here before spreading to coquette or y2k gives the empire a defensible foothold rather than diluted presence across five aesthetics.
 
 ---
 
 ## What Changed This Cycle
 
-- **Nothing materially improved.** This cycle is statistically identical to the prior state: $0 revenue, 0 orders, 0 validated designs.
-- The Caselle scout explicitly reported that no trend or Etsy data was attached — both data fields were blank. This is a regression in intelligence quality, not a stable baseline.
-- Competitor intel returned partial CASETiFY pricing only. BURGA and Pela returned unavailable. All five Etsy search queries (dark academia, celestial witch, coquette, booktok, y2k) returned empty strings.
-- No strategy document is currently active
+- **Nothing improved operationally.** Revenue remains $0. Orders remain 0. This is cycle-consistent with a store that is either not live or has no traffic.
+- **Intelligence quality degraded.** The Caselle scout explicitly failed — trend data and Etsy market data did not load. All five aesthetic search terms returned empty for both Etsy and Reddit. Last cycle had at least partial data; this cycle

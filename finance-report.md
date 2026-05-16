@@ -1,43 +1,47 @@
 # Accountant — Daily Financial Report
-*Generated: 2026-05-15 23:24*
+*Generated: 2026-05-16 23:24*
 
 ## Raw Data
 - Orders (30d): 0 | Revenue: £0.00
 - Printify key not configured
 
 ## Analysis
-## Daily Financial Summary — ⚠️ CRITICAL ALERT
+## Daily Financial Summary ⚠️
 
 ---
 
-### 📊 Key Metrics
-
+### Key Metrics
 | Metric | Value |
 |---|---|
-| Revenue (30d) | £0.00 |
-| COGS | £0.00 (unverifiable) |
+| Revenue | £0.00 |
+| COGS | £0.00 (unverified) |
 | Net Profit | £0.00 |
 | Margin % | N/A |
 
 ---
 
-### 🔴 Key Observations
+### Status: **SYSTEM NOT OPERATIONAL**
 
-1. **Zero revenue recorded** — No orders processed in the last 30 days. The business is generating no income.
-2. **Printify API not configured** — Cost data is completely blind. Cannot calculate true margins or COGS on any future orders until resolved.
-3. **Dual critical failure** — Both the revenue engine and the cost-tracking system are non-operational simultaneously. This is a Day 0 / setup problem, not a performance problem.
+Two critical blockers identified:
 
----
+**1. Zero Orders (30 Days)**
+No revenue has been generated. The sales channel is either inactive, unlaunched, or disconnected.
 
-### ✅ Single Recommended Action
-
-**Fix the Printify API key first — today.**
-
-Without it, you cannot price products correctly, fulfil orders, or track margins. Everything else (ads, listings, traffic) is wasted spend until fulfilment is confirmed operational.
-
-**Priority order:**
-`Printify API → Test order → Verify fulfilment → Then drive traffic`
+**2. Printify API Not Configured**
+Cost data is unavailable. Even if orders existed, profit cannot be calculated — margin visibility is **zero**.
 
 ---
 
-*No financial optimisation is possible until the infrastructure is live.*
+### Key Observations
+- There is no business activity to analyse
+- Running costs (Shopify, apps, ads) may be accumulating **against £0.00 revenue** — creating a net loss position right now
+- Cannot assess product margins, supplier costs, or fulfilment fees without Printify connection
+
+---
+
+### ⚡ Recommended Action
+**Prioritise Printify API configuration today.**
+Without it, you cannot verify margins before scaling — risking selling at a loss. Once connected, confirm product cost vs. selling price yields **>30% margin** before driving any traffic.
+
+---
+*No financial decisions can be made from current data. Fix infrastructure first.*

@@ -101,3 +101,50 @@ Store is pre-revenue. Zero sales is expected given no published products and no 
   🟠 HIGH — Activate memory system. Memory state is empty. Every overnight cycle is starting from zero. Decisions, filed ideas, and seasonal logic are not persisting.
   🟠 HIGH — Grant JARVIS publish authority when feeds fail. Current behavior: feeds fail → no action. Required behavior: feeds fail → publish from queue using seasonal defaults. This needs your explicit sign-off as a standing rule.
   🟡 MEDIUM — Reddit unblock or alternative signal source. Reddit is blocked and Etsy is thin. Real demand validation is unavailable. Consider a manual Etsy search on the top 4 aesthetic terms to gut-check before publishing.
+
+## Nightly Summary — 2026-05-16
+1. Overnight Agent Activity
+Three scan cycles ran across the overnight window (midnight, 04:00, 10:00). Core finding: intelligence feeds largely degraded — Reddit blocked, Etsy data absent, competitor data thin (Casetify partial pricing only, BURGA and Pela unavailable). Agents operated on base knowledge.
+
+  Products queued across cycles: 17 total (4 + 5 + 8) — summer/beach/festival/coastal aesthetic focus
+  Products published to store: 0 — queue is building but not clearing
+  Digital products queued: 0
+  Business ideas filed: 1 (filed in 04:00 cycle)
+  Triggered alert: Summer search window opens in ~2 weeks — seasonal products not yet live. Agents flagged this as urgent.
+  Printify API key: not configured — COGS unverifiable, fulfilment blind spot
+
+
+2. Intelligence Brain Updates
+
+  New memory written (22:02): Digital product published — "The POD Designer's AI Prompt Pack — 50 Midjourney Prompts for Bestselling Phone Case Designs" at £9.97. Stripe payment link active: https://buy.stripe.com/cNi14n2ngeFs77s1U
+  Store state confirmed: 1 ebook live, 1 phone case live (Cherry Red), queue of ~17 products not yet pushed
+  Pattern flagged: Agents identified a structural failure mode — intelligence feed dependency causing action paralysis. Rule written: feeds failing = use seasonal logic as default signal, not a reason to pause
+  Seasonal signal logged: Beach / festival / coastal aesthetic demand window opening ~2 weeks out
+  No changes to pricing, product live count, or revenue figures overnight
+
+
+3. Opportunity Queue
+
+  Summer/beach/coastal aesthetic phone cases — ~17 designs queued across cycles. Not yet published. Scored high on timing (window opening imminently). Status: queued, not acted on — critical delay.
+  Prompt Pack digital product — £9.97, now live via Stripe. First non-ebook digital revenue vehicle. Status: promoted to live.
+  Second business idea filed (04:00 cycle) — detail not surfaced in data. Stored in memory, not yet evaluated.
+  Casetify pricing intelligence: Entry-level products as low as $1–$9, top-end $40. Competitive floor noted. No pricing action taken yet.
+  Discarded this cycle: Nothing formally discarded — feed failures mean zero new opportunities sourced from Reddit or Etsy.
+
+
+4. Revenue Events
+
+  Total orders (30 days): 0
+  Total revenue: £0.00
+  Refunds: 0
+  Printify orders: 0 (API key not configured — fulfilment pipeline disconnected)
+  Net profit: £0.00
+  Week one. Zero sales is within acceptable range. Catalogue volume is the constraint, not conversion rate — too few products live to generate meaningful search surface area.
+
+
+5. Pending Manual Actions
+
+  🔴 URGENT — Publish the queued products: ~17 designs queued across beach/festival/coastal/travel aesthetics. Zero have been pushed live. Summer search traffic starts building now. Every day of delay costs indexing time.
+  🔴 Configure Printify API key: Fulfilment is blind without it. COGS unverifiable. Fix this today.
+  🟡 Review the business idea filed at 04:00: Not surfaced in summary data — pull from memory and evaluate.
+  🟡 Promote the Prompt Pack: £9.97 digital product is live but has no promotion attached. Needs at least one traffic source (Pinterest pin, Reddit

@@ -1,50 +1,49 @@
 # Atelier Scout — Market Intelligence
-*Last updated: 2026-05-15 03:27*
+*Last updated: 2026-05-16 03:27*
 
-# Atelier Scout Market Intelligence Report
-### Luxury Artisan Goods Division | Current Cycle Analysis
-
----
-
-> ⚠️ **Note:** No market data was provided in your prompt. The analysis below is built from my trained knowledge of artisan/craft market dynamics through early 2025. For live Etsy pricing or real-time trend signals, append current data or a date range for targeted analysis.
+# Atelier Scout — Market Intelligence Report
+### Luxury Artisan Goods | Trend Analysis Brief
 
 ---
 
-## 01 | TOP 3 RISING CRAFT AESTHETICS
-
-### 🌿 1. Wabi-Sabi Maximalism
-The evolution beyond minimalism — **intentional imperfection at scale**. Think asymmetric ceramic vessels in families of three, visible hand-stitching as decoration rather than construction, and glaze drips celebrated as signatures. Consumers are actively rejecting machine-perfect finishes and paying premiums for proof of hand.
-
-**Signal:** Search volume for "organic form," "handbuilt," and "imperfect pottery" up significantly on Pinterest and Etsy in home goods categories.
+> ⚠️ **Note:** No trend data was submitted with your prompt. The field after "Artisan market trends:" appears to be blank. I'm generating this report based on my trained knowledge through early 2025. For a fully customized analysis, paste in raw data sources — Etsy search trends, Pinterest boards, social listening exports, or competitor listings.
 
 ---
 
-### 🤎 2. Quiet Luxury Craft ("Stealth Artisan")
-Neutral-toned, technically rigorous, understated branding. No loud logos — authenticity *is* the luxury signal. Natural linen, undyed wool, raw brass, unbleached beeswax. The aesthetic borrows from old European workshops: **worn leather tool rolls, botanical dye palettes, hand-marbled endpapers**.
+## 01 · TOP 3 RISING CRAFT AESTHETICS
 
-**Signal:** Strong traction among 35–55 demographic with high disposable income. Average order values 40–60% higher than trend-driven counterparts.
-
----
-
-### 🔵 3. Neo-Craft Futurism
-Unexpected pairing of **ancient technique + unconventional material** — raku-fired ceramic with resin inlay, hand-knotted macramé in recycled nylon cord, silver smithing incorporating bio-resin or mycelium composites. Craft as conceptual art, priced accordingly.
-
-**Signal:** Gallery-adjacent positioning; strong performance at design fairs (Maison & Objet, NY NOW). Early adopters paying $200–$800+ for statement pieces.
+### 🪨 1. Quiet Luxury Craft
+**Signal strength: ██████████ High**
+The "old money minimalism" aesthetic has migrated from fashion into handmade goods. Buyers are gravitating toward neutral palettes (oat, slate, raw linen), understated branding, and intentional imperfection that signals *craftsmanship* rather than decoration.
+- Key markers: unglazed ceramics, vegetable-tanned leather, undyed wool
+- Consumer language: *"heirloom," "considered," "timeless"*
 
 ---
 
-## 02 | RECOMMENDED PRODUCT DIRECTIONS
-
-| Direction | Category | Rationale |
-|---|---|---|
-| **Ritual Object Sets** | Ceramics / Wood | Curated 3–5 piece "daily ritual" collections (pour-over set, incense + tray, morning tray) drive higher AOV and gifting |
-| **Heirloom Textiles** | Weaving / Embroidery | Framed textile art and hand-embroidered linen goods positioned as generational pieces, not décor |
-| **Bespoke Leather Goods** | Leatherwork | Monogrammed, made-to-order wallets, journal covers — personalization justifies 3–4× markup |
-| **Botanical Dye Capsules** | Fiber / Fashion | Limited seasonal colorways in naturally dyed scarves or knitwear; scarcity model drives urgency |
-| **Functional Sculpture** | Mixed Media | Objects that are *both* art and use — a vessel that is also a lamp, a cutting board that is also a serving art piece |
-
-**Priority Recommendation:** Lead with **Ritual Object Sets** — they photograph well, gift well, and establish brand vocabulary through cohesive visual identity.
+### 🌿 2. Wabi-Sabi Modernism
+**Signal strength: █████████░ High**
+Japanese aesthetic philosophy meets contemporary interior sensibility. Moving beyond trend-chasing wabi-sabi into a more structured, curated expression — asymmetry with intention, organic forms with architectural discipline.
+- Key markers: hand-thrown stoneware with deliberate cracks/drips, mended textiles (kintsugi-adjacent), pressed botanical work
+- Consumer language: *"imperfectly perfect," "living object," "slow made"*
 
 ---
 
-## 03 | ETSY
+### 🔩 3. Industrial Folk
+**Signal strength: ████████░░ Medium-High**
+A tension-driven aesthetic pairing raw industrial materials (blackened steel, cast iron, raw concrete) with traditional folk craft motifs (hand-stitching, folk embroidery, carved wood inlay). Emerging strongly in home décor and functional objects.
+- Key markers: forged metal with leather lashing, concrete vessels with hand-painted folk patterns, mixed-media wall pieces
+- Consumer language: *"handcrafted edge," "workshop aesthetic," "utility meets art"*
+
+---
+
+## 02 · RECOMMENDED PRODUCT DIRECTIONS
+
+| Priority | Product Direction | Aesthetic Fit | Rationale |
+|----------|------------------|---------------|-----------|
+| **🔴 High** | Textured ceramic tableware sets (matte, tonal) | Quiet Luxury | High AOV, gift-driven, repeat purchase cycle |
+| **🔴 High** | Linen + botanical wall hangings (framed, archival) | Wabi-Sabi Modernism | Low material cost, high perceived value, gifting peak |
+| **🟠 Medium** | Forged steel + leather desk/kitchen tools | Industrial Folk | Underserved niche, strong masculine gift market |
+| **🟠 Medium** | Kintsugi repair kits + curated ceramics bundles | Wabi-Sabi Modernism | Experiential product — commands premium, strong editorial coverage |
+| **🟡 Emerging** | Undyed/natural fiber baby + nursery goods | Quiet Luxury | New parent demographic with high spend intent |
+
+**Avoid:** Highly saturated macramé wall hangings without a strong differentiating story or material upgrade.

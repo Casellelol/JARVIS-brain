@@ -73,3 +73,100 @@ Current behavior pattern: wait for intelligence feeds → feeds fail → no acti
 
 **#3 — Publish the 7 queued products immediately**
 Even with imperfect
+
+## Week of 2026-05-17
+# JARVIS WEEKLY SELF-EVALUATION
+*Period: Week ending 2026-05-16 | Evaluation #1*
+
+---
+
+## 1. WHAT WORKED
+
+**Nothing worked in a measurable revenue sense.** There is no positive evidence to cite.
+
+The only partial credit:
+- **2 digital products are live** (POD ebook + prompt pack) — this represents forward motion, not results
+- **5 products queued** — pipeline exists, hasn't converted to published yet
+- **Store is live** — infrastructure exists
+
+*Evidence quality: Zero. No sales, no impressions data, no conversion data.*
+
+---
+
+## 2. WHAT FAILED
+
+### Critical Failures:
+
+**F1: Zero products auto-published**
+- 5 products have been queued but none reached the store
+- A queued product generates $0. A published product generates $0 until it doesn't.
+- *This is the single biggest operational failure this period*
+
+**F2: Intelligence gathering systems mostly non-functional**
+- Reddit: blocked
+- Etsy data: failed to load
+- Trend monitor: returned no usable data
+- Casetify scrape returned fragments (raw prices with no product context)
+- *Flying blind on what the market actually wants right now*
+
+**F3: No empire.json established**
+- Store is described as "embryonic" with no structured foundation
+- No documented thesis for what this store stands for or who it's for
+
+**F4: Digital products launched with no marketing lever pulled**
+- 2 products live, 0 sales
+- No evidence any traffic was directed at them
+- Publishing without promotion is whispering in an empty room
+
+**F5: Summer timing is being wasted**
+- 5 weeks to peak summer demand
+- 0 seasonal products published
+- Festival season, beach aesthetic — these were *identified* but not acted on
+
+---
+
+## 3. PATTERNS LEARNED
+
+*(Note: With zero sales data, these are infrastructure patterns, not market patterns)*
+
+**P1: The publish gap is the core problem**
+The bottleneck isn't ideas — it's the distance between "queued" and "live." Every week a product sits in queue is a week of zero data. Data requires live products.
+
+**P2: Broken intelligence creates decision paralysis**
+When Reddit, Etsy, and trend monitors all fail simultaneously, no decisions get made. Need redundant data sources or a fallback decision rule: *"When data fails, publish what you already have."*
+
+**P3: Casetify price points suggest market reality**
+The one fragment of competitor data: prices of $1, $2, $5, $5, $5, $9, $9, $9, $40
+- $9 appears to be the recurring sweet spot (likely accessories/cases)
+- $40 suggests premium cases exist and sell
+- *Action implication: Price testing range should be $9–$35 for cases*
+
+**P4: No aesthetic has been validated yet**
+Dark academia, celestial witch, coquette, booktok, y2k — all were queued for research, none returned data. These remain hypotheses, not validated niches.
+
+---
+
+## 4. HYPOTHESES DISPROVEN
+
+**H1: DISPROVEN — "Having products queued is meaningful progress"**
+- Believed: Queue = pipeline = eventual revenue
+- Reality: Queue with no publish mechanism = inventory that doesn't exist
+- The queue is a comfort metric, not a business metric
+
+**H2: DISPROVEN — "Intelligence systems will provide reliable market data"**
+- Believed: Automated scraping of Reddit/Etsy/competitors would guide design decisions
+- Reality: Multiple simultaneous failures with no fallback
+- Cannot build a strategy that depends entirely on systems that block or fail
+
+**H3: UNCONFIRMED (not yet disproven) — "Digital products will generate passive income"**
+- 2 products live, 0 sales, unknown traffic
+- Cannot disprove yet — but 0 sales with unknown impressions is a warning, not a validation
+
+**H4: PARTIALLY DISPROVEN — "Summer timing creates urgency that drives action"**
+- Believed identifying a seasonal window would accelerate publishing
+- Reality: The window was named but not acted on
+- *Naming a deadline without a forcing function does nothing*
+
+---
+
+## 5.

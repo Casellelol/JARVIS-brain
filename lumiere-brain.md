@@ -1,18 +1,18 @@
 # Lumière Scout — Market Intelligence
-*Last updated: 2026-05-16 02:08*
+*Last updated: 2026-05-17 02:08*
 
-# LUMIÈRE SCOUT INTELLIGENCE BRIEF
-### Premium Market Intelligence Report — Q2 2025 Edition
-
----
-
-> *"Luxury is not about price. It is about the elevation of the ordinary into the unforgettable."*
+# LUMIÈRE SCOUT — MARKET INTELLIGENCE BRIEF
+### Premium Fashion Intelligence | Q2 2025 Edition
 
 ---
 
-## ⚠️ INTELLIGENCE NOTE
+> *"The market does not wait for those who hesitate to see it."*
 
-No market data was provided in your submission. The following report is constructed from **Lumière Scout's proprietary baseline intelligence** — synthesised from luxury fashion cycle analysis, runway pattern recognition, and premium consumer behaviour frameworks. For data-calibrated outputs, submit your market dataset in the next query.
+---
+
+## ⚠️ ANALYST NOTE
+
+No market data was appended to your query. The following report is constructed from **trained intelligence through early 2025**, drawing on observed luxury market trajectories, runway analysis, and consumer sentiment patterns. For a data-specific brief, please submit your market dataset and this report will be recalibrated accordingly.
 
 ---
 
@@ -20,36 +20,39 @@ No market data was provided in your submission. The following report is construc
 
 ---
 
-### 01 · NEO-ARCADIAN OPULENCE
-**Trend Velocity: ███████████░ 92%**
+### 01 · **Quiet Sovereignty**
+*Post-quiet-luxury's evolved successor*
 
-The pastoral reimagined through a billionaire lens. Think Balenciaga-meets-Balmain in a countryside estate — raw linen in ivory and wheat, hand-embroidered botanical motifs, deconstructed riding silhouettes. This is not cottagecore. This is **countryside couture** — worn by someone who *owns* the countryside.
+Where quiet luxury whispered, Quiet Sovereignty **commands**. The aesthetic retains restraint but layers in **architectural precision** — a structured shoulder, an unexpected seam placement, a handle in museum-grade brass. The consumer here is not hiding wealth; they are **weaponizing understatement**.
 
-> **Key signals:** Hermès FW25 country editorials, rising HNWI migration to estate living, Loro Piana's accelerated cashmere-linen blending program.
+> **Key signals:** Loewe's sculptural leather goods, The Row's expanded tailoring, Brunello Cucinelli moving into sharper silhouettes. Hermès Sellier bag waitlists extending to 18+ months signal demand for objects that feel *inevitable* rather than decorative.
 
-**Consumer Profile:** 35–55 · Old wealth + tech-economy nouveau riche · Prefers understated provenance over logos
-
----
-
-### 02 · DIGITAL ARISTOCRACY
-**Trend Velocity: ██████████░░ 84%**
-
-The convergence of Silicon Valley influence and European tailoring heritage. Structured blazers in technical fabrications. Platinum-toned outerwear. A wardrobe that reads *board meeting in Geneva, dinner at The Arts Club by 9pm*. Minimalism with unmistakable authority.
-
-> **Key signals:** The Row's explosive resale premium (+34% YoY), quiet luxury search volume maintaining plateau at elevated baseline, tech-executive dress code evolution post-remote era.
-
-**Consumer Profile:** 28–45 · Creative directors, founders, senior executives · Brand agnostic but material-obsessed
+**Emotional driver:** Authority without performance.
+**Core customer:** 35–55, UHNW professional class, often female, often overlooked by legacy codes.
 
 ---
 
-### 03 · MERIDIAN MAXIMALISM
-**Trend Velocity: █████████░░░ 78%**
+### 02 · **Neo-Baroque Maximalism**
+*Opulence with intellectual scaffolding*
 
-The Mediterranean summer distilled into a wardrobe philosophy. Saturated terracotta, Venetian gold, deep Aegean blue — applied with sculptural boldness. Not resort wear. **Resort power.** Voluminous silk caftans with architectural beading, statement tailoring in linen brocade. The aesthetic of the yacht owner, not the charter guest.
+A counter-current to minimalism gaining significant velocity. This is not the brash logomania of the 2010s — it is **curated excess with art historical fluency**. Think brocade worn with deliberate irony, embroidered opera coats over technical trousers, jewel tones that reference Byzantine iconography rather than nightclub dressing.
 
-> **Key signals:** Valentino's colour dominance in editorial cycles, Capri and Mykonos luxury footfall recovery (+22%), jewel-toned ready-to-wear performing 18% above neutral colourways in premium segment.
+> **Key signals:** Valentino's return to embellishment depth, Dries Van Noten's legacy cemented as a reference point, Dolce & Gabbana Alta Moda finding a new critical audience. Emerging designers from Eastern Europe and the Middle East driving this narrative hardest.
 
-**Consumer Profile:** 30–50 · Global jet set, GCC royalty adjacents, legacy European fashion consumers
+**Emotional driver:** Cultural confidence. The desire to signal *taste* rather than *spend*.
+**Core customer:** 28–45, culturally cosmopolitan, dual-income creative-professional households.
+
+---
+
+### 03 · **Technical Nobility**
+*Where performance heritage meets couture sensibility*
+
+Luxury activewear has matured into something more precise: clothing engineered for a life lived at altitude — **literally and figuratively**. Alpine references, equestrian DNA, sailing and aviation motifs rendered in the finest technical fabrics. This is Loro Piana meets Kjus meets a Bloomberg terminal.
+
+> **Key signals:** Zegna's use of Norda-adjacent construction in elevated ready-to-wear; Moncler Genius collaborations moving upmarket in references; Louis Vuitton menswear leaning deeper into functional luxury. The €3,000+ anorak is no longer an anomaly.
+
+**Emotional driver:** Earned ease. The idea that luxury should *perform* as beautifully as it appears.
+**Core customer:** 32–50, frequent traveler, values discretion and function in equal measure.
 
 ---
 
@@ -57,9 +60,5 @@ The Mediterranean summer distilled into a wardrobe philosophy. Saturated terraco
 
 ---
 
-```
-┌─────────────────────────────────────────────────────────┐
-│         LUMIÈRE PRODUCT INTELLIGENCE MATRIX             │
-├──────────────────┬──────────────────┬───────────────────┤
-│   CATEGORY       │   DIRECTION      │   PRIORITY        │
-├──────────────────┼──────────────────
+| Priority | Category | Specific Direction | Rationale |
+|

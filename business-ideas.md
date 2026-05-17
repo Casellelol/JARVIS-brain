@@ -15,3 +15,10 @@
 - **Rationale:** POD sellers are actively searching for ready-to-use AI design prompts; no dominant prompt pack targeting the phone case niche specifically; complements the live ebook and cross-sells naturally
 - **Confidence:** 70%
 - **Status:** executing
+
+## The POD Store Launch Checklist — 47 steps to go from idea to first sale — 2026-05-17 10:00
+- **Type:** checklist
+- **Revenue model:** £4.97 per download
+- **Rationale:** POD sellers get overwhelmed between ebook knowledge and actual execution — a sequential checklist bridges that gap and completes the digital product funnel
+- **Confidence:** 74%
+- **Status:** executing

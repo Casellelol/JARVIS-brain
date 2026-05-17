@@ -1,36 +1,36 @@
 # JARVIS World Brain
-*Last updated: 2026-05-16 08:44*
+*Last updated: 2026-05-17 08:44*
 
 ## Hacker News — Tech & Business
-- Frontier AI has broken the open CTF format
-- Project Gutenberg – keeps getting better
-- SQL patterns I use to catch transaction fraud
-- Ploopy Bean: a trackpoint for every computer
-- I believe there are entire companies right now under AI psychosis
-- The bird eye was pushed to an evolutionary extreme
+- Zerostack – A Unix-inspired coding agent written in pure Rust
+- Mozilla to UK regulators: VPNs are essential privacy and security tools
+- Playing Atari ST Music on the Amiga with Zero CPU
+- Colossus: The Forbin Project
+- Hosting a website on an 8-bit microcontroller
+- A nicer voltmeter clock
 
 ## Entrepreneur Magazine — Latest
+- It’s Impossible to Predict the Future — So Stop Trying. Do These 3 Things instead.
 - 7 AI Tools to Build a One-Person Business in One Weekend (No Staff, No Code)
 - How Great Leaders Build Accountability Without Micromanaging Their Teams
 - How Elite Entrepreneurs Optimize Their Investment Strategy To Avoid Leaving Money On The Table
 - Most Founders Obsess Over Growth — and They’re Sacrificing the 1 Thing That Makes It Sustainable
 - I’ve Scaled Tech Companies Past $100 Million for 25 Years. Here Are 3 Things Leaders Miss Before Implementing AI
-- Don’t Send Generic Emails — This Is the Personalization Shift That Will Boost Your Profits and Engagement
 
 ## Inc.com — Business News
-- A Massive New Study of 95,000 People Just Found a Remarkable Extra Benefit of GLP-1 Drugs
-- An Anonymous Bidder Just Spent $9 Million to Have Lunch With Warren Buffett
-- After 29 Years, Marc Jacobs Has New Ownership—and It Involves the Parent Company of Toys ‘R’ Us
-- Experts Just Named This the Best Straight Bourbon in the World—and It’s Under $50
-- The ‘Supply Chain Trap’: Why Leaving China Just Became a Legal Nightmare for U.S. Firms
+- Confident People Do This Before They Say a Single Word
+- FAA to Air Traffic Controllers: Fewer Jobs, More Work
+- Starbucks Slashes Corporate Workforce Again
+- What Happened When I Stopped Listening to My Industry
+- Blue Cross Blue Shield Payout Starts Soon in $2.67 Billion Healthcare Settlement. Will You Get a Check?
 
 ## Product Hunt — New Products Trending
 - Product Hunt — The best new products, every day
-- M5Stack PaperColor
-- ChatGPT for Personal Finance
+- SUN-to-Spotify
+- Vivago Video Agent
 - Gemini 3.1 Flash-Lite
-- Tiny World Builder
-- Agentic Website Builder 2.0 by Lokuma
+- ChatGPT for Personal Finance
+- M5Stack PaperColor
 
 ## Amazon Trends
 No data

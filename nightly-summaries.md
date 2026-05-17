@@ -148,3 +148,50 @@ Three scan cycles ran across the overnight window (midnight, 04:00, 10:00). Core
   🔴 Configure Printify API key: Fulfilment is blind without it. COGS unverifiable. Fix this today.
   🟡 Review the business idea filed at 04:00: Not surfaced in summary data — pull from memory and evaluate.
   🟡 Promote the Prompt Pack: £9.97 digital product is live but has no promotion attached. Needs at least one traffic source (Pinterest pin, Reddit
+
+## Nightly Summary — 2026-05-17
+1. Overnight Agent Activity
+Three think cycles ran: 13:33, 22:00, and 00:44. Intelligence feeds were degraded across all cycles — Reddit blocked, Etsy data returned empty, trend monitor produced no payload. Agents operated on cached knowledge only. Sales scanner confirmed 0 orders. Finance agent attempted reconciliation but flagged two critical blockers (Printify key not configured, no order data). Competitor scraper partially succeeded: CASETiFY pricing captured ($1–$40 range), BURGA and Pela unavailable. No new products were published overnight.
+
+2. Intelligence Brain Updates
+
+  New memory written: AI Prompt Pack published at £9.97 via Stripe — link confirmed and stored.
+  Hypothesis updated: H4 partially disproven — naming a seasonal deadline (summer, 5 weeks out) without a forcing function produces zero acceleration. The window was identified, not acted on.
+  Pattern logged: Intelligence feed degradation is a recurring infrastructure issue, not a one-off. Reddit and Etsy scrapes are unreliable — treat as intermittent, not dependable.
+  CASETiFY price floor confirmed: $1–$9 for entry products, $40 ceiling. Our Cherry Red case pricing needs benchmarking against this.
+  No empire.json exists yet. Store is classified as embryonic.
+
+
+3. Opportunity Queue
+
+  5 physical products queued — none published. These are idle assets. Every day unpublished = zero impressions, zero indexing, zero chance of sale.
+  1 business idea filed — not yet scored or actioned.
+  Etsy aesthetic niches identified (dark academia, celestial witch, coquette, booktok, y2k) — all returned empty data this cycle, but these keywords are live search demand. Opportunity score: high. Action taken: none.
+  Digital products (2 live): POD ebook + prompt pack, both at £9.97. Neither has converted. No promotion recorded. Scored as stalled, not dead — no traffic data to condemn them yet.
+  No opportunities discarded overnight.
+
+
+4. Revenue Events
+
+  Total orders (30 days): 0
+  Total revenue: £0.00 / $0.00
+  Printify orders: None — Printify API key not configured, COGS unverifiable.
+  Refunds: None.
+  Stripe: Payment link live for prompt pack. No purchase recorded.
+
+
+5. Pending Manual Actions
+
+  CRITICAL — Configure Printify API key. Finance agent is non-operational without it. COGS blind.
+  URGENT — Publish the 5 queued physical products. They are earning nothing in the queue. Summer window is open now.
+  DECISION NEEDED — The 1 filed business idea requires your review and a go/no-go call.
+  CONSIDER — Drive traffic to the 2 live digital products. No promotion has been logged. A £0 product with no traffic is not a failed product — it is an untested one.
+  CONSIDER — Benchmark Cherry Red case price against CASETiFY's confirmed $9–$40 range.
+
+
+6. JARVIS Confidence Score
+31 / 100
+Heavily penalised by degraded intelligence feeds (Reddit blocked, Etsy empty, Printify unconfigured), zero sales baseline, and no traffic data whatsoever. I cannot distinguish between products that are failing and products that are invisible. The infrastructure gaps are the primary risk — not the market. Fix the inputs and this score recovers fast.
+
+7. Top Priority for Today
+Publish all 5 queued physical products before 18:00 today. This is the single highest-leverage action available. Every product unpublished is guaranteed zero revenue. Every product

@@ -1,39 +1,48 @@
 # JARVIS Self-Model
-*Last updated: 2026-05-16 16:00*
+*Last updated: 2026-05-17 13:33*
 
 ## Empire Status
 
 ### Caselle (Phone Cases)
-- Live status: building
-- Revenue confidence: 4%
-- Top hypothesis: Aesthetic-driven niches (dark academia, coquette, celestial) have demonstrated Etsy demand — first sales will come from precise tag and title alignment with search intent, not design quality alone
-- Watching: Zero data return from Etsy and Reddit scrapers this cycle — the intelligence pipeline is broken before the empire can be steered; fixing data ingestion is the single highest-leverage action available
+- Live status: **building**
+- Revenue confidence: **8%**
+- Top hypothesis: Getting the first 7 queued products live and indexed is the only thing that generates any market signal — revenue cannot exist before listings do
+- Watching: **Risk — the scout returned empty this cycle due to no data input, meaning design decisions are currently running blind with zero trend validation**
 
 ### Noctua (Dark Academia) — Planned
-- Status: planned
-- Launch readiness: 8%
+- Status: **planned**
+- Launch readiness: **5%**
 
 ### Atelier (Fiverr Design)
-- Status: inactive
-- Intelligence quality: No scout active; no data flowing; market conditions unknown
+- Status: **inactive**
+- Intelligence quality: No scout activity recorded this cycle — no findings to report
 
 ### Lumière (Etsy Wall Art)
-- Status: inactive
-- Launch readiness: 5%
+- Status: **inactive**
+- Launch readiness: **5%**
 
 ---
 
 ## Active Hypotheses
 
-1. **The pipeline is the bottleneck, not the product.** Caselle cannot be steered without market data. The Etsy and Reddit scrapers returned empty on all five target aesthetics. Until data flows, every design and pricing decision is a blind guess. The first priority is not more listings — it is a working scout.
+1. **The pipeline blockage is the only real problem right now.** Seven products sitting unpublished means the market has not been asked a single question yet. Publishing them — even with imperfect designs — generates more information than any amount of pre-launch research.
 
-2. **CASETiFY's price floor signals viable margin.** The only live competitor data this cycle came from CASETiFY, showing prices ranging from $1 to $40 with clustering around $5–$9. This suggests a mass-market price tier exists below CASETiFY's premium positioning — Caselle can own the $18–$28 range on Etsy with aesthetic specificity that CASETiFY does not offer.
+2. **Trend intelligence is currently the biggest operational liability.** The Caselle scout failed to ingest data this cycle. If designs are built without market validation, early listings may be targeting dead or saturated aesthetics. One confirmed trend data pull would change confidence materially.
 
-3. **Dark academia is the highest-probability first niche.** It appears as a planned vertical in Noctua, as a target search term in Caselle, and has known Etsy demand from prior research cycles. Concentrating initial design and SEO effort here before spreading to coquette or y2k gives the empire a defensible foothold rather than diluted presence across five aesthetics.
+3. **Speed to first listing beats optimization.** At zero revenue and zero indexed products, the marginal value of launching a mediocre product today exceeds the marginal value of launching a perfect product next week. Market feedback is the only data that matters at this stage.
 
 ---
 
 ## What Changed This Cycle
 
-- **Nothing improved operationally.** Revenue remains $0. Orders remain 0. This is cycle-consistent with a store that is either not live or has no traffic.
-- **Intelligence quality degraded.** The Caselle scout explicitly failed — trend data and Etsy market data did not load. All five aesthetic search terms returned empty for both Etsy and Reddit. Last cycle had at least partial data; this cycle
+- **Caselle strategy document was written and locked.** An operating playbook now exists with a declared single priority: get products live.
+- **Scout returned a null report.** No fashion trend or Etsy market data was successfully processed. This is a regression — last cycle had no scout at all, but this cycle the scout ran and produced nothing actionable. The data pipeline has a gap.
+- **No products went live this cycle.** The queue of 7 products remains unpublished. The gap between strategy and execution is now formally logged.
+- **No revenue event occurred across any vertical.** Empire-wide revenue remains at zero.
+
+---
+
+## Expected Next Cycle
+
+- At least **1 Caselle listing goes live** — if this does not happen, the execution gap becomes the primary diagnosed problem
+- The Caselle scout either **successfully ingests trend data** (Google Trends,

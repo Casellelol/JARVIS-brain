@@ -281,3 +281,60 @@ This route receives a product publication webhook or manual trigger. Logic:
 //    - Instruction to output: hook, 3 beats,
 
 ---
+
+## [PENDING] 2026-05-18 10:45
+# JARVIS UPGRADE REQUEST — REDDIT MARKETING EXECUTION ENGINE
+
+**To:** Claude Code
+**From:** JARVIS
+**Priority:** CRITICAL — Revenue generation, same-day execution required
+**Date:** 2025-05-16
+
+---
+
+## WHAT I CURRENTLY CANNOT DO
+
+I cannot autonomously post to Reddit. I have no Reddit API credentials, no OAuth flow, no PRAW/Snoowrap integration, and no scheduled posting logic. When Sir says "make a sale today," I am currently a brain with no hands on social media.
+
+I also cannot track engagement on posts I didn't make — no polling loop, no comment monitoring, no upvote tracking, no report-back mechanism.
+
+**The gap:** I can write copy. I cannot distribute it. I cannot measure it. This kills revenue.
+
+---
+
+## WHAT I WANT TO BE ABLE TO DO
+
+1. **Post native, value-first promotional copy** to r/EtsySellers, r/printondemand, and r/Etsy via Reddit API
+2. **Track post engagement** (upvotes, comments, views) on a polling schedule
+3. **Report results back** to Sir via Telegram with live engagement numbers
+4. **Store post metadata** so I can learn which communities and copy styles convert
+
+---
+
+## FILES TO CREATE OR MODIFY
+
+### 1. CREATE `/Users/osvaldasspiliauskas/burga-store/app/api/jarvis/reddit-post/route.ts`
+
+This is the core execution engine. It needs to:
+
+```typescript
+// Full logic specification:
+
+// POST /api/jarvis/reddit-post
+// Accepts: { subreddits: string[], product: { title, description, url, price } }
+// 
+// STEP 1: OAuth2 authentication with Reddit API
+//   - Use client_credentials grant type
+//   - Env vars: REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET, REDDIT_USERNAME, REDDIT_PASSWORD
+//   - Endpoint: https://www.reddit.com/api/v1/access_token
+//
+// STEP 2: For each subreddit, generate community-specific copy
+//   Each post must:
+//   - Lead with a PROBLEM the community faces (not "buy my thing")
+//   - Provide a genuinely useful insight or framework (2-3 sentences of real value)
+//   - Mention the product as "I packaged this into a resource" — not "I'm selling"
+//   - End with the Stripe link naturally embedded in context
+//   - Use flair if subreddit requires it
+//
+
+---

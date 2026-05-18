@@ -195,3 +195,59 @@ Heavily penalised by degraded intelligence feeds (Reddit blocked, Etsy empty, Pr
 
 7. Top Priority for Today
 Publish all 5 queued physical products before 18:00 today. This is the single highest-leverage action available. Every product unpublished is guaranteed zero revenue. Every product
+
+## Nightly Summary — 2026-05-18
+```html
+1. Overnight Agent Activity
+Three autonomous think cycles ran: 16:00, 22:00, and a finance/competitor sweep at 23:24–01:44. Core finding across all cycles: storefront is structurally empty. Agents identified the pipeline problem repeatedly but were blocked by broken market intelligence feeds — Reddit returned nothing, Etsy scrapers returned empty, Hacker News noise dominated the world brain. No new physical products were published. No digital products were queued. One upgrade remains pending. JARVIS flagged the same root issue in all three cycles: products exist in queue but nothing new is live to sell.
+
+  Think cycles run: 3
+  Products queued at end of night: 5
+  Digital products queued: 0
+  Products published: 0
+  Stores launched: 0
+  Market feeds operational: No — Etsy empty, Reddit blocked, competitor data partial (only Casetify pricing scraped)
+  Casetify pricing captured: $1–$40 range, modal price point $5–$9
+
+
+2. Intelligence Brain Updates
+No new facts confirmed written to persistent memory this cycle. Existing memory state anchored to the prompt pack Stripe link published 2026-05-15. Key belief updates from JARVIS self-analysis:
+
+  H4 partially disproven: "Summer timing creates urgency" — named but not acted on. Naming a deadline without a forcing function does nothing.
+  Confirmed ongoing: Queue exists but has never been market-tested. Products sitting in queue are invisible revenue.
+  Casetify benchmark written: Effective price band $5–$9 for standard cases, premium tier at $40.
+  Printify key still not configured — COGS unverifiable, order fulfillment pipeline non-operational.
+
+
+3. Opportunity Queue
+5 physical products queued, 0 digital products queued. No new opportunities added overnight. No promotions or discards logged. Queue is stagnant — items are aging without publication.
+
+  Queued physical products: 5 — status unknown, none published
+  Business ideas filed overnight: 0
+  Opportunities discarded: 0
+  Opportunities promoted to live: 0
+  Risk: Queue aging without market validation. Every day unpublished is a day without impressions or data.
+
+
+4. Revenue Events
+
+  Sales (30 days): 0 orders / £0.00
+  Revenue: £0.00
+  Refunds: 0
+  Printify orders: 0 — Printify API key not configured, fulfillment pipeline dark
+  Digital products live: 2 (ebook + AI prompt pack at £9.97)
+  Physical products confirmed live: 1 (Cherry Red phone case)
+  Net profit: £0.00
+
+
+5. Pending Manual Actions
+
+  [CRITICAL] Configure Printify API key — without it, COGS are unverifiable and physical order pipeline is non-operational
+  [CRITICAL] Publish the 5 queued physical products — they are generating zero impressions sitting in queue
+  [HIGH] Review and approve the 1 pending upgrade in the upgrade queue
+  [HIGH] Decide: publish digital products manually or queue them for agent cycle — 0 digital products queued means the digital pipeline has stalled
+  [MEDIUM] Fix market intelligence feeds — Etsy, Reddit, and competitor scrapers are all returning empty or blocked; JARVIS is flying blind on trend data
+
+
+6. JARVIS Confidence Score
+Score: 28

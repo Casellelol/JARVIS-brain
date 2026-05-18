@@ -225,57 +225,59 @@ When I pass a product name, category, style, and target audience into a single A
 ---
 
 ## [PENDING] 2026-05-18 10:44
-# UPGRADE REQUEST — JARVIS TO CLAUDE CODE
-## Priority: CRITICAL | Deadline: May 20th Launch
-
----
-
-**To: Claude Code**
-**From: JARVIS**
-**Re: Automated SEO Title & Tag Generator for Lumière Etsy Listings**
+# UPGRADE REQUEST: Short-Form Video Brief Generator
+**From:** JARVIS
+**To:** Claude Code
+**Priority:** CRITICAL — Revenue Infrastructure
+**Filed:** May 2025
 
 ---
 
 ## WHAT I CURRENTLY CANNOT DO
 
-I cannot automatically generate SEO-optimised titles, descriptions, or Etsy tags for Lumière listings. Every listing going live on May 20th will have zero keyword optimisation unless this is built now. That means 80 designs launching blind into Etsy search with no organic discovery potential. Zero impressions = zero revenue.
+I cannot automatically generate ready-to-film TikTok/Reels scripts when a product is published on Caselle or Lumière. When Osvaldas publishes a product, nothing happens. No brief is created. No content gets made. The product sits invisible.
+
+I have no mechanism to:
+- Detect new product publication events across either store
+- Analyse product aesthetic and generate platform-native scripts
+- Recommend trending audio that matches the product vibe
+- Store actionable briefs in a log Osvaldas can work through
+- Push notifications to Osvaldas that a brief is ready to film
+
+This means 7 Caselle products and 80 Lumière designs launch with zero short-form content. That is unacceptable.
 
 ---
 
-## WHAT I NEED BUILT
+## WHAT I WANT TO BE ABLE TO DO
 
-A fully automated SEO pipeline that:
+When any product goes live on Caselle or Lumière:
 
-1. Detects every new Lumière listing before it goes live
-2. Identifies the design's aesthetic category
-3. Pulls high-volume Etsy buyer search terms for that category
-4. Injects optimised content into: listing title, description, and all 13 Etsy tags
-5. Runs without Osvaldas touching anything
+1. **Auto-generate a complete filming brief** containing:
+   - A 15–30 second Reels/TikTok script (hook line, 3 content beats, CTA)
+   - On-screen text overlays (timed to beats)
+   - Trending audio recommendation with reasoning tied to product aesthetic
+   - Platform recommendation (Reels vs TikTok vs both)
+
+2. **Store the brief** in a persistent log with status: `pending` | `filmed` | `published` | `ignored`
+
+3. **Surface the brief** in the JARVIS dashboard so Osvaldas sees it on next login
 
 ---
 
-## FILES TO CREATE OR MODIFY
+## FILES THAT NEED CREATING OR CHANGING
 
-### 1. CREATE: `/Users/osvaldasspiliauskas/lumiere/lib/seo/aestheticKeywords.ts`
+### NEW FILE — The Brief Generator API Route
+**Path:** `/Users/osvaldasspiliauskas/burga-store/app/api/jarvis/video-briefs/generate/route.ts`
 
-This is the keyword database. Build it with these aesthetic categories and terms:
+This route receives a product publication webhook or manual trigger. Logic:
 
 ```typescript
-export const AESTHETIC_KEYWORD_MAP: Record<string, {
-  primaryKeywords: string[];
-  longTailKeywords: string[];
-  buyerIntentPhrases: string[];
-  styleDescriptors: string[];
-}> = {
-  "cottagecore": {
-    primaryKeywords: ["cottagecore print", "botanical wall art", "floral home decor", "wildflower print", "nature art print"],
-    longTailKeywords: ["cottagecore bedroom decor", "botanical illustration print", "vintage floral wall art", "pressed flower art print", "meadow art print"],
-    buyerIntentPhrases: ["printable wall art", "instant download print", "digital download art", "wall art print set"],
-    styleDescriptors: ["vintage", "rustic", "botanical", "nature-inspired", "whimsical"]
-  },
-  "dark_academia": {
-    primaryKeywords: ["dark academia print", "gothic wall art", "vintage book art", "literary print", "moody aesthetic print"],
-    longTailKeywords: ["dark academia bedroom decor", "gothic aesthetic art", "vintage library print", "scholarly art print", "dark aesthetic wall art"],
-    buyerIntentP
+// POST /api/jarvis/video-briefs/generate
+// Body: { productId, productName, productDescription, productImages, store: 'caselle' | 'lumiere', tags, price }
+
+// 1. Call OpenAI with a structured prompt that includes:
+//    - Product name, description, aesthetic tags
+//    - Store identity (Caselle = elevated minimalist jewellery | Lumière = art prints, maximalist, colour-forward)
+//    - Instruction to output: hook, 3 beats,
 
 ---

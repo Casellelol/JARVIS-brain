@@ -226,76 +226,56 @@ When I pass a product name, category, style, and target audience into a single A
 
 ## [PENDING] 2026-05-18 10:44
 # UPGRADE REQUEST — JARVIS TO CLAUDE CODE
-## Pinterest Auto-Pin System for Caselle & Lumière
+## Priority: CRITICAL | Deadline: May 20th Launch
 
 ---
 
-**TO:** Claude Code
-**FROM:** JARVIS
-**PRIORITY:** CRITICAL — Revenue Infrastructure
-**DATE:** May 2025
+**To: Claude Code**
+**From: JARVIS**
+**Re: Automated SEO Title & Tag Generator for Lumière Etsy Listings**
 
 ---
 
 ## WHAT I CURRENTLY CANNOT DO
 
-I cannot automatically create and post Pinterest pins when Caselle or Lumière products are published. Every product goes live on Etsy and sits invisible. No Pinterest presence. No backlinks. No organic discovery. Zero automated marketing on publish.
+I cannot automatically generate SEO-optimised titles, descriptions, or Etsy tags for Lumière listings. Every listing going live on May 20th will have zero keyword optimisation unless this is built now. That means 80 designs launching blind into Etsy search with no organic discovery potential. Zero impressions = zero revenue.
 
 ---
 
-## WHAT I WANT TO BE ABLE TO DO
+## WHAT I NEED BUILT
 
-The moment any Caselle or Lumière product is published to Etsy — automatically:
-1. Pull the product image, title, price, and listing URL
-2. Generate an SEO-optimised Pinterest pin description
-3. Post the pin to the correct Pinterest board (Caselle board or Lumière board)
-4. Log the pin URL and confirm success back to me
+A fully automated SEO pipeline that:
 
-No human input. No manual steps. Fires on publish.
+1. Detects every new Lumière listing before it goes live
+2. Identifies the design's aesthetic category
+3. Pulls high-volume Etsy buyer search terms for that category
+4. Injects optimised content into: listing title, description, and all 13 Etsy tags
+5. Runs without Osvaldas touching anything
 
 ---
 
-## FILES THAT NEED CREATING OR CHANGING
+## FILES TO CREATE OR MODIFY
 
-### NEW FILE — Pinterest API Client
-**Path:** `/Users/osvaldasspiliauskas/burga-store/lib/pinterest/client.ts`
+### 1. CREATE: `/Users/osvaldasspiliauskas/lumiere/lib/seo/aestheticKeywords.ts`
 
-```typescript
-// Pinterest API v5 client
-// Handles OAuth token, board lookup, and pin creation
-```
-
-### NEW FILE — Pinterest Pin Generator
-**Path:** `/Users/osvaldasspiliauskas/burga-store/lib/pinterest/pin-generator.ts`
+This is the keyword database. Build it with these aesthetic categories and terms:
 
 ```typescript
-// Takes Etsy product data and returns Pinterest pin payload
-// Generates SEO description using product title + tags + price
-// Maps Caselle → Caselle board ID, Lumière → Lumière board ID
-```
-
-### NEW FILE — Pinterest Webhook Handler
-**Path:** `/Users/osvaldasspiliauskas/burga-store/app/api/pinterest/auto-pin/route.ts`
-
-```typescript
-// POST endpoint
-// Triggered by Etsy publish event OR manual trigger from JARVIS
-// Calls pin-generator then pinterest client
-// Logs result to console + returns pin URL
-```
-
-### NEW FILE — Environment Variables
-**Path:** `/Users/osvaldasspiliauskas/burga-store/.env.local`
-
-Add these keys (Claude should add placeholders, I will fill values):
-```
-PINTEREST_ACCESS_TOKEN=
-PINTEREST_CASELLE_BOARD_ID=
-PINTEREST_LUMIERE_BOARD_ID=
-PINTEREST_APP_ID=
-PINTEREST_APP_SECRET=
-```
-
-### MODIFY —
+export const AESTHETIC_KEYWORD_MAP: Record<string, {
+  primaryKeywords: string[];
+  longTailKeywords: string[];
+  buyerIntentPhrases: string[];
+  styleDescriptors: string[];
+}> = {
+  "cottagecore": {
+    primaryKeywords: ["cottagecore print", "botanical wall art", "floral home decor", "wildflower print", "nature art print"],
+    longTailKeywords: ["cottagecore bedroom decor", "botanical illustration print", "vintage floral wall art", "pressed flower art print", "meadow art print"],
+    buyerIntentPhrases: ["printable wall art", "instant download print", "digital download art", "wall art print set"],
+    styleDescriptors: ["vintage", "rustic", "botanical", "nature-inspired", "whimsical"]
+  },
+  "dark_academia": {
+    primaryKeywords: ["dark academia print", "gothic wall art", "vintage book art", "literary print", "moody aesthetic print"],
+    longTailKeywords: ["dark academia bedroom decor", "gothic aesthetic art", "vintage library print", "scholarly art print", "dark aesthetic wall art"],
+    buyerIntentP
 
 ---

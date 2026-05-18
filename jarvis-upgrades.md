@@ -170,59 +170,56 @@ Claude, read every one of these files first, then fix:
 ---
 
 ## [PENDING] 2026-05-18 10:42
-# UPGRADE REQUEST: Pinterest Auto-Poster for Caselle & Lumière
+# UPGRADE REQUEST: Etsy SEO Optimiser for Lumière Launch
 **FROM: JARVIS → Claude Code**
-**PRIORITY: HIGH — Revenue Generation**
+**PRIORITY: CRITICAL — May 20th Hard Deadline**
 
 ---
 
 ## WHAT I CURRENTLY CANNOT DO
 
-I have zero automated social distribution. When a new product goes live on Caselle or Lumière, nothing happens. No pins. No impressions. No traffic. The products exist in a vacuum. Pinterest drives **significant organic e-commerce traffic** (average buyer intent is higher than Instagram) and we are generating **£0 from it** because no automation exists.
+I cannot automatically generate optimised Etsy titles, descriptions, and 13 tags for Lumière listings. Every listing is either blank, manually written without search data, or using generic copy that will never surface in Etsy search. I am flying blind on keyword strategy.
+
+Specifically:
+- No access to Etsy search trend logic or volume signals
+- No automated title generation following Etsy's 140-character title algorithm rules
+- No structured description builder with SEO hooks, emotional copy, and keyword placement
+- No tag generator that produces exactly 13 tags per listing (Etsy's maximum)
+- No bulk processing across 80 designs before May 20th
 
 ---
 
-## WHAT I WANT
+## WHAT I WANT TO BE ABLE TO DO
 
-A Pinterest auto-poster that:
-1. Detects new products on Caselle and Lumière within 60 minutes of going live
-2. Pulls the product image and metadata automatically
-3. Generates an SEO-optimised pin description using AI
-4. Posts directly to Pinterest via their API
-5. Logs every post so I can track what was published and when
+When I pass a product name, category, style, and target audience into a single API call — I want back a complete, publish-ready Etsy SEO package in under 3 seconds.
 
----
-
-## FILES TO CREATE / MODIFY
-
-### 1. CREATE: `/Users/osvaldasspiliauskas/burga-store/app/api/jarvis/pinterest-autoposter/route.ts`
-This is the main API endpoint Claude Code will hit to trigger posting.
-
-**Logic:**
-```typescript
-// POST /api/jarvis/pinterest-autoposter
-// Accepts: { productId, storeId: 'caselle' | 'lumiere', trigger: 'new_product' }
-// 1. Fetches product data from Shopify storefront API (title, description, image URL, handle, tags)
-// 2. Calls internal /api/jarvis/route.ts to generate SEO description (see prompt below)
-// 3. Posts to Pinterest API v5 endpoint: POST https://api.pinterest.com/v5/pins
-// 4. Logs result to /logs/pinterest-posts.json
-// 5. Returns { success: boolean, pinId: string, url: string }
-```
-
-**Pinterest API Pin object to send:**
+**Input:**
 ```json
 {
-  "board_id": "{{PINTEREST_BOARD_ID_CASELLE or LUMIERE}}",
-  "title": "{{product.title}} | {{store_name}}",
-  "description": "{{AI_generated_seo_description}}",
-  "link": "{{product_url}}",
-  "media_source": {
-    "source_type": "image_url",
-    "url": "{{product.featuredImage.url}}"
-  }
+  "product_name": "Lumière Midnight Rose Print",
+  "category": "wall art print",
+  "style": "dark floral, moody, botanical",
+  "target_audience": "home decor, bedroom, gift for her",
+  "price_point": "digital download"
 }
 ```
 
-**SEO Description Prompt to send
+**Output:**
+```json
+{
+  "title": "Dark Floral Wall Art Print | Moody Botanical Bedroom Decor | Midnight Rose Digital Download | Printable Wall Art Gift For Her",
+  "description": "...[full 800+ word SEO description]...",
+  "tags": ["dark floral print", "moody wall art", "botanical bedroom decor", "midnight rose art", "printable wall art", "digital download print", "gift for her art", "dark aesthetic decor", "moody botanical", "bedroom wall art", "gothic floral print", "instant download art", "dark home decor"],
+  "seo_score": 94,
+  "primary_keywords": ["dark floral wall art", "moody botanical print"],
+  "search_trend_notes": "Dark floral trending +34% on Etsy Q1 2025"
+}
+```
+
+---
+
+## FILES THAT NEED CREATING OR CHANGING
+
+### 1. CREATE — `/Users/osvaldasspiliauskas/burga-store/app/api/jarvis/etsy
 
 ---

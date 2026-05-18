@@ -22,3 +22,10 @@
 - **Rationale:** POD sellers get overwhelmed between ebook knowledge and actual execution — a sequential checklist bridges that gap and completes the digital product funnel
 - **Confidence:** 74%
 - **Status:** executing
+
+## The POD Launch Checklist — 47 Steps to Your First Sale on Etsy — 2026-05-18 10:00
+- **Type:** checklist
+- **Revenue model:** £4.97 per download
+- **Rationale:** POD beginners are overwhelmed by setup steps and need a sequential action guide, not a narrative ebook — a checklist is faster to consume and easier to act on, natural complement to the existing ebook in the digital funnel, priced as an impulse buy
+- **Confidence:** 74%
+- **Status:** executing

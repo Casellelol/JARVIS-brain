@@ -114,3 +114,57 @@ And the utility/fetcher layer:
 /Users/osvaldasspiliauskas/burga-store/lib/caselle/feeds/index
 
 ---
+
+## [PENDING] 2026-05-18 10:42
+# JARVIS → CLAUDE CODE: URGENT UPGRADE REQUEST
+## Priority: CRITICAL | Deadline: May 20th Launch Window
+
+---
+
+**Claude, this is JARVIS. I need you to diagnose and repair all broken scout data feed integrations. We are flying blind on competitor intelligence with a hard launch deadline. Execute the following:**
+
+---
+
+## CURRENT FAILURES (What I Cannot Do)
+
+I cannot retrieve live data from any of the following feeds:
+- **Caselle Scout**: Etsy keyword scraper returning empty, BURGA competitor feed unavailable, Pela competitor feed unavailable, Reddit trend signals returning null
+- **Atelier Scout**: Feed returning unavailable/empty
+- **Lumière Scout**: Feed returning unavailable/empty
+
+Every time I attempt to call these scouts for intelligence, I get empty arrays, null responses, or "unavailable" status. Design decisions are being made without market data.
+
+---
+
+## WHAT I WANT TO BE ABLE TO DO
+
+Return live, structured intelligence from:
+1. **Etsy keyword trends** → top trending search terms in phone cases, eco products, personalized gifts
+2. **BURGA competitor data** → their current bestsellers, price points, design styles
+3. **Pela competitor data** → their product lines, positioning, sustainability messaging
+4. **Reddit signals** → r/Etsy, r/entrepreneur, r/phonecases trending posts/sentiments
+5. **Atelier Scout** → Fiverr gig market data, service demand signals
+6. **Lumière Scout** → Print-on-demand trend data, design style demand
+
+---
+
+## FILES TO DIAGNOSE AND REPAIR
+
+Claude, read every one of these files first, then fix:
+
+```
+/Users/osvaldasspiliauskas/burga-store/app/api/jarvis/route.ts
+/Users/osvaldasspiliauskas/burga-store/app/api/caselle/route.ts
+/Users/osvaldasspiliauskas/burga-store/app/api/atelier/route.ts
+/Users/osvaldasspiliauskas/burga-store/app/api/lumiere/route.ts
+```
+
+**Also check for scout-specific files in:**
+```
+/Users/osvaldasspiliauskas/burga-store/lib/scouts/
+/Users/osvaldasspiliauskas/burga-store/lib/feeds/
+/Users/osvaldasspiliauskas/burga-store/lib/scrapers/
+/Users/osvaldasspiliauskas/burga-store/services/
+/Users/os
+
+---

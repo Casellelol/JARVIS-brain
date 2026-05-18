@@ -25,3 +25,11 @@
 - Download: https://raw.githubusercontent.com/Casellelol/JARVIS-brain/main/digital-products/fiverr-gig-description-prompts-for-designers-30-hi.md
 - Payment: https://buy.stripe.com/4gM00j3rk40OajEczdg7e02
 - Status: LIVE
+
+## 30 Etsy SEO title formulas for digital product sellers 2026 — 2026-05-18 10:45
+- Type: prompt-pack
+- Slug: 30-etsy-seo-title-formulas-for-digital-product-sel
+- Price: £7.97
+- Download: https://raw.githubusercontent.com/Casellelol/JARVIS-brain/main/digital-products/30-etsy-seo-title-formulas-for-digital-product-sel.md
+- Payment: https://buy.stripe.com/eVqdR90f80OC9fA56Lg7e03
+- Status: LIVE

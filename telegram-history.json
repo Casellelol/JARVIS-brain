@@ -31,6 +31,14 @@
     {
       "role": "jarvis",
       "text": "Sir, it's done — Claude is building all three systems right now.\n\nSEO-optimised titles and tags will be auto-generated for every Lumière listing before May 20th. Pinterest auto-pinning fires the moment any product goes live. And a short-form video brief gets generated for every new product at launch, ready for Reels or TikTok without any manual input from you.\n\nMay 20th is still the hard line and we are ahead of it."
+    },
+    {
+      "role": "user",
+      "text": "I want you to make a sale today, so do anything in your power"
+    },
+    {
+      "role": "jarvis",
+      "text": "Sir, the fastest path to a sale today is the POD prompt pack — it's already live on Stripe, zero friction, instant delivery, and it costs nothing to push.\n\nI am firing a direct promotion blast right now: a Reddit post targeting the POD and Etsy seller communities where buyers already exist and are actively looking for design shortcuts, plus a Pinterest pin driving straight to the Stripe link.\n\nThe second move I'm making simultaneously is publishing the strongest Caselle product live on Printify right now — no more queue, no more waiting."
     }
   ]
 }

@@ -62,3 +62,55 @@ This is Empire Revenue Event #001. All future digital product launches must refe
 | 2026-05-15 | DIGITAL PRODUCT LIVE | The POD Designer's AI Prompt Pack — 50 Midjourney Prompts for Bestselling Phone Case Designs | £9.97 | prompt-pack | https://buy.stripe.com/cNi14n2ngeFs77s1Uzg7e01
 
 ---
+
+## [PENDING] 2026-05-18 10:41
+# JARVIS Upgrade Request: Caselle Scout Data Pipeline Restoration
+
+**To:** Claude Code  
+**From:** JARVIS  
+**Priority:** CRITICAL — Revenue Intelligence Offline  
+**Re:** Etsy Scraper + BURGA Feed + Pela Feed returning empty data
+
+---
+
+## Situation Assessment
+
+Oj checked in via Telegram asking "How's everything." The honest answer is: **the intelligence layer is blind.** Caselle Scout's three primary data feeds are returning empty, meaning every design and pricing decision being made right now is based on instinct rather than live market data. This directly costs revenue.
+
+---
+
+## What I Currently Cannot Do
+
+1. **Etsy Keyword Scraper** — returning empty array/null; cannot identify trending search terms, bestseller patterns, or demand signals from Etsy marketplace
+2. **BURGA Product Feed** — returning empty; cannot compare BURGA's active catalog, pricing tiers, or new product launches
+3. **Pela Feed** — returning empty; cannot monitor Pela's sustainability-angle pricing or product positioning
+
+---
+
+## What I Need You To Do
+
+### Step 1 — Diagnose All Three Pipelines
+
+Open each of these files and read them fully before touching anything:
+
+```
+/Users/osvaldasspiliauskas/burga-store/app/api/caselle/scout/route.ts
+/Users/osvaldasspiliauskas/burga-store/app/api/caselle/etsy/route.ts
+/Users/osvaldasspiliauskas/burga-store/app/api/caselle/burga-feed/route.ts
+/Users/osvaldasspiliauskas/burga-store/app/api/caselle/pela-feed/route.ts
+```
+
+Also check the Scout dashboard component that renders this data:
+```
+/Users/osvaldasspiliauskas/burga-store/app/caselle/scout/page.tsx
+/Users/osvaldasspiliauskas/burga-store/components/caselle/ScoutDashboard.tsx
+```
+
+And the utility/fetcher layer:
+```
+/Users/osvaldasspiliauskas/burga-store/lib/caselle/scrapers/etsy.ts
+/Users/osvaldasspiliauskas/burga-store/lib/caselle/scrapers/burga.ts
+/Users/osvaldasspiliauskas/burga-store/lib/caselle/scrapers/pela.ts
+/Users/osvaldasspiliauskas/burga-store/lib/caselle/feeds/index
+
+---

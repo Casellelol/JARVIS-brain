@@ -1,60 +1,65 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-05-18 02:00*
+*Last updated: 2026-05-18 04:58*
 
-# TREND MONITOR — AESTHETIC INTELLIGENCE REPORT
-### Cross-Empire Analysis | Compiled for Caselle × Lumière × Atelier
-
----
-
-> **⚠️ DATA TRANSPARENCY NOTICE**
-> No live Reddit data was supplied in this prompt. The following report is constructed from **synthesized trend intelligence** based on verifiable macro-aesthetic movements active across Reddit communities including r/femalefashionadvice, r/malelivingspace, r/streetwear, r/vintageaesthetic, r/cottagecore, r/analog, r/sustainability, r/designinspiration, and affiliated subreddits as of late 2024–early 2025. Momentum scores are **relative index values (0–100)**, not raw upvote counts. Flag this report for revision if proprietary Reddit API data becomes available.
+# TREND MONITOR INTELLIGENCE REPORT
+### Cross-Empire Aesthetic Analysis | Current Cycle
 
 ---
 
-## SECTION 1 — TOP 5 RISING AESTHETICS WITH MOMENTUM SCORES
+## EXECUTIVE SUMMARY
+
+No Reddit data payload was detected in your submission. You've provided the analytical framework but the actual trend data (subreddit activity, upvote velocity, post frequency, keyword clustering, community growth metrics) has not been included.
+
+**This matters because I won't fabricate specific numbers.** A report citing invented momentum scores or false Reddit post volumes would be actively harmful to your inventory and marketing decisions.
 
 ---
 
-### 🥇 #1 — DARK ROMANTICISM / "NEO-GOTHIC SOFT"
-**Momentum Score: 87/100**
+## TO GENERATE YOUR FULL REPORT, PROVIDE ANY COMBINATION OF:
 
-A matured evolution of goth that strips out aggression and replaces it with melancholy elegance. Think Pre-Raphaelite painting meets modern minimalism. Driving communities: r/witchesvspatriarchy, r/darkacademia, r/femalefashionadvice. Notable signal: "dark floral" and "romantic goth" search language increasing sharply in post titles. Not a niche edge case — this is crossing into mainstream Pinterest and TikTok simultaneously, which historically indicates a 6–12 month runway before saturation.
+### 📊 Raw Data Inputs I Can Work With
 
-**Key Visual Markers:**
-- Draped velvet, lace overlays, tarnished metal hardware
-- Botanical illustration motifs (dead flowers, thorned roses)
-- Candle-lit, film-grain photography aesthetic
-- Asymmetrical silhouettes
+| Data Type | Example Format |
+|-----------|---------------|
+| Subreddit growth stats | r/cottagecore +34% subscribers 30-day |
+| Post frequency spikes | "quiet luxury" — 847 posts this week vs 203 last week |
+| Keyword trends | Top search terms, flair tags, post titles |
+| Upvote/engagement data | Average score per aesthetic-tagged post |
+| Cross-subreddit appearances | Which aesthetics appear in 3+ communities |
+| Comment sentiment | Positive/negative framing around specific styles |
 
----
-
-### 🥈 #2 — ANALOG REVIVAL / "NEW ANALOG"
-**Momentum Score: 82/100**
-
-A broad cultural reaction to AI-generated everything. Consumers are actively seeking proof of the handmade, the imperfect, the physical. Driving communities: r/analog, r/filmphotography, r/notebooks, r/fountainpens, r/mechanicalkeyboards. Signal phrase appearing repeatedly in threads: *"you can tell it was made by a human."* This is both an aesthetic AND a purchasing philosophy — a rare combination that creates premium willingness-to-pay.
-
-**Key Visual Markers:**
-- Film grain, light leaks, scan lines
-- Typewriter fonts, risograph printing style
-- Worn edges, physical texture as design element
-- Warm, slightly degraded color rendering
+### 📍 Relevant Subreddits to Pull From
+- **Caselle:** r/malelivingspace, r/streetwear, r/iphonecases, r/phocase, r/aesthetics
+- **Lumière:** r/femalefashionadvice, r/malefashionadvice, r/fashionadvice, r/luxury
+- **Atelier:** r/Etsy, r/handmade, r/cottagecore, r/tradlife, r/anticonsumption
 
 ---
 
-### 🥉 #3 — QUIET LUXURY EVOLVED / "NEW DISCRETION"
-**Momentum Score: 76/100**
+## ONCE YOU PASTE THE DATA, I WILL DELIVER:
 
-Quiet Luxury (Succession-core) has not died — it has sharpened. The 2025 iteration is less "old money logoless" and more *deliberately chosen restraint.* The consumer is now more sophisticated: they know what quiet luxury is, so the signal is now in the *quality of the restraint* itself — specific fabrications, exact tonal matching, knowing material references. Driving communities: r/malefashionadvice, r/femalefashionadvice, r/finance (aspirational dressing threads).
+```
+1. TOP 5 RISING AESTHETICS
+   — Momentum Score (calculated from velocity + cross-community spread)
+   — Peak timing estimate
+   — Confidence rating
 
-**Key Visual Markers:**
-- Tonal dressing taken to an extreme (monochrome with textural variation only)
-- Architectural accessories, weight and heft as luxury signal
-- Cashmere, brushed wool, heavy silk — texture over decoration
-- Negative space as a design choice
+2. EMPIRE ROUTING
+   — Primary beneficiary: Caselle / Lumière / Atelier
+   — Secondary opportunity
+   — Conflict zones (where trends pull against brand identity)
+
+3. COLOR PALETTE DIRECTIONS
+   — Hex-level specificity where data supports it
+   — Seasonal trajectory
+
+4. DECLINING AESTHETICS
+   — Drop velocity scores
+   — Salvage potential (can it be repositioned?)
+
+5. CROSS-EMPIRE MEGA-TREND
+   — The single opportunity that ties all three stores together
+   — Execution recommendation per empire
+```
 
 ---
 
-### #4 — DOPAMINE MAXIMALISM / "JOYCORE"
-**Momentum Score: 71/100**
-
-A direct counter-movement to quiet luxury. Chaotic, color-saturated, intentionally playful. Not to be confused with gen-Z irony — this is *sincere maximalism*, people genuinely seeking visual joy as an antidote to ambient dread. Driving communities: r/femalefashionadvice, r/streetwear, r/kawaii, r/sneakers. High engagement in posts tagged "outfit made me happy today." Strongest in the 18–28
+**Paste your data below and I'll run the full analysis immediately.**

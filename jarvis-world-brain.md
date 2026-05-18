@@ -1,13 +1,13 @@
 # JARVIS World Brain
-*Last updated: 2026-05-18 08:44*
+*Last updated: 2026-05-18 10:41*
 
 ## Hacker News — Tech & Business
+- Where Are the Vibecoded Photoshops?
+- The foundations of a provably secure operating system (PSOS) (1979) [pdf]
 - GenCAD
+- Multiple commencement speakers booed for AI comments during graduation speeches
 - Crystals found inside wreckage from the first nuclear bomb test
 - It is time to give up the dualism introduced by the debate on consciousness
-- Ask an Astronaut: 333 hours of Q&A footage with astronauts
-- I turned a $80 RK3562 Android tablet into a Debian Linux workstation
-- Prolog Coding Horror
 
 ## Entrepreneur Magazine — Latest
 - How to Turn AI From Threat to Teammate — 3 Proven Ways to Align Your Vision with What Employees Actually Need
@@ -18,11 +18,11 @@
 - Most Founders Obsess Over Growth — and They’re Sacrificing the 1 Thing That Makes It Sustainable
 
 ## Inc.com — Business News
-- The Perennial Labor Stat That Proves Millennials and Gen-Z Are Wrong About College
-- Science Says People Who Lose Weight on GLP-1 Drugs Face More Stigma Than People Who Stay Overweight. That’s Just Weird
-- Edmund ‘Ned’ Phelps, Who Won the 2006 Nobel Prize in Economics, Has Died at 92
-- 43 Small Business Grants Women Founders Can Apply for Right Now
-- A Trip to the Grand Canyon Completely Changed How I Think About Leadership
+- Wendy’s Store Closures 2026: Fast-Food Chain Update on Long List of Locations Shuttered in Turnaround Plan
+- AI Slop Is Making Everyone Skeptical. Here Are 3 Ways CEOs Can Build Trust in AI
+- Inside Lucy Guo’s Workplace Strategy for Building Retention
+- The FCC Just Reversed Course on a Key Restriction. It’s a Lifeline for Small Businesses
+- Gartner Says PR Budgets Will Double by 2027. AI Search Is Why
 
 ## Product Hunt — New Products Trending
 - Product Hunt — The best new products, every day

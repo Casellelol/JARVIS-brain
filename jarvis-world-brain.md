@@ -26,8 +26,8 @@
 
 ## Product Hunt — New Products Trending
 - Product Hunt — The best new products, every day
-- Triggered Agents by Adaptive
 - ReactVision Studio
+- Triggered Agents by Adaptive
 - SUN-to-Spotify
 - Vivago Video Agent
 - Gemini 3.1 Flash-Lite

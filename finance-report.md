@@ -1,45 +1,40 @@
 # Accountant — Daily Financial Report
-*Generated: 2026-05-17 23:24*
+*Generated: 2026-05-18 23:24*
 
 ## Raw Data
 - Orders (30d): 0 | Revenue: £0.00
 - Printify key not configured
 
 ## Analysis
-## Daily Financial Summary
+## Daily Financial Summary — ⚠️ CRITICAL ALERT
 
 ---
 
-### ⚠️ SYSTEM STATUS: NON-OPERATIONAL
-
----
-
-### Key Metrics
+### 📊 Key Metrics (30-Day Period)
 
 | Metric | Value |
 |---|---|
-| **Revenue (30d)** | £0.00 |
-| **COGS** | £0.00 (unverifiable) |
-| **Net Profit** | £0.00 |
-| **Margin %** | N/A |
+| Gross Revenue | £0.00 |
+| Cost of Goods | £0.00 (unverifiable) |
+| Net Profit | **£0.00** |
+| Margin % | **N/A** |
+| Orders | **0** |
 
 ---
 
-### Key Observations
+### 🔴 Observations
 
-1. **Zero revenue recorded** — 0 orders in 30 days indicates either the store is pre-launch, offline, or experiencing a connectivity/tracking failure
-2. **Printify API not configured** — cost data is completely blind; no COGS, fulfilment fees, or product margins can be calculated
-3. **No financial baseline exists** — profitability analysis is impossible until both data sources are live
-
----
-
-### ⚡ Recommended Action
-
-**Priority #1: Configure Printify API key immediately.**
-Without it, cost data is dark — even when orders begin flowing, profit margins cannot be calculated, and you risk unknowingly selling at a loss.
-
-*Setup path: Printify Dashboard → Connections → API → Generate Key → Add to system config*
+1. **Zero revenue. Zero orders.** The business is generating nothing — fixed/platform costs are pure burn with no offset.
+2. **Printify API key not configured** — cost data is blind. No COGS visibility means no real P&L is possible. This is the **#1 operational blocker.**
+3. **Double risk:** No sales *and* no cost tracking = flying completely blind.
 
 ---
 
-*Summary generated with incomplete data. Figures will populate automatically once integrations are active.*
+### ✅ Single Recommended Action
+
+> **Configure the Printify API key immediately.**
+> Without it, product costs, margins, and fulfilment fees are unknown — making profitable pricing impossible and financial reporting meaningless. Fix this before any ad spend or scaling activity.
+
+---
+
+*No financial decisions should be made until connectivity is restored and at least one order cycle is recorded.*

@@ -1,64 +1,103 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-05-18 14:00*
+*Last updated: 2026-05-18 18:00*
 
-# TREND MONITOR — AESTHETIC INTELLIGENCE BRIEF
-### Cross-Empire Analysis | Compiled by Trend Monitor Systems
+# TREND MONITOR — AESTHETIC INTELLIGENCE REPORT
+### Cross-Empire Analysis | Cycle Report
 
 ---
 
-> **⚠️ DATA TRANSPARENCY NOTICE**
-> No Reddit trend data was attached to this request. The feed appears empty or was not transmitted. The analysis below is built on **current directional intelligence from established aesthetic movements** (late 2024–2025 trajectories) rather than live parsed Reddit metrics. Momentum scores reflect relative velocity estimates, not computed subreddit engagement figures.
+> ⚠️ **DATA TRANSPARENCY NOTICE**
 >
-> **Recommendation:** Re-submit with raw data (subreddit growth %, upvote velocity, post frequency deltas) for precision scoring. What follows is a high-confidence directional brief, not a live data report.
+> No actual Reddit trend data was provided in this request. The field above your prompt was blank. Generating fabricated upvote counts, subreddit engagement metrics, or manufactured "data-driven" figures would create **false confidence** in business decisions involving real capital allocation.
+>
+> What follows is a **methodology framework** showing exactly what this report *would* contain — ready to execute the moment you paste real data.
 
 ---
 
-## SECTION 1 — TOP 5 RISING AESTHETICS WITH MOMENTUM SCORES
+## WHAT TO FEED THE TREND MONITOR
 
-*Momentum Score = composite of estimated community growth velocity, cross-subreddit penetration, and commercial conversion potential. Scale: 1–100.*
+For accurate analysis, paste any combination of:
 
----
+| Data Type | Example Format |
+|---|---|
+| Subreddit growth stats | `r/cottagecore: +34% subscribers, 90-day` |
+| Hot post titles + upvotes | `"My dark academia dorm setup" — 47k upvotes` |
+| Keyword frequency shifts | `"mob wife aesthetic" mentioned 2,340x this week` |
+| Flair/tag trending data | Top flairs from r/femalefashionadvice |
+| Comment sentiment snippets | Representative quotes about specific looks |
+| Cross-post velocity | How fast a post spreads across subs |
 
-### 🔺 #1 — QUIET UTILITY
-**Momentum Score: 87/100**
-**Key Subreddits:** r/minimalism, r/BuyItForLife, r/malefashionadvice, r/femalefashionadvice, r/EDC
-
-The successor to quiet luxury, but with functional intent layered on top of restraint. Less "old money cosplay," more "considered object permanence." Consumers are romanticising well-made things that *do something* — waxed canvas, ceramic tools, matte hardware. The aesthetic rejects ornamentation but demands craft evidence.
-
-**Signal phrases trending:** "built to last," "no branding," "works quietly," "honest materials"
-
----
-
-### 🔺 #2 — NEO-MAXIMALISM / DOPAMINE CLUTTER
-**Momentum Score: 79/100**
-**Key Subreddits:** r/cottagecore, r/witchcraft, r/indiegaming, r/streetwear, r/vinyl
-
-A direct counter-movement to minimalism fatigue. Characterised by deliberate visual density — collections displayed, layers stacked, colour without apology. Not chaos; *curated excess*. Strong among 18–26 demographic. Phone cases, room aesthetics, and fashion accessories are primary expression vehicles.
-
-**Signal phrases trending:** "maximalist corner," "my little altar," "organised chaos," "more is more"
+**Useful subreddits to pull from:**
+`r/aesthetics` · `r/femalefashionadvice` · `r/malefashionadvice` · `r/streetwear` · `r/cottagecore` · `r/darkacademia` · `r/minimalism` · `r/PhoneCases` · `r/frugalmalefashion` · `r/anticonsumption` · `r/buyitforlife`
 
 ---
 
-### 🔺 #3 — DARK ROMANTICISM (2025 ITERATION)
-**Momentum Score: 74/100**
-**Key Subreddits:** r/DarkAcademia, r/GothFashion, r/bookbinding, r/tarot, r/historicalfashion
+## REPORT STRUCTURE PREVIEW
 
-Dark academia is maturing. The 2025 iteration drops the collegiate cosplay and moves toward something older — Victorian melancholy, pressed botanicals, memento mori motifs, tarnished metals. Less "Oxford library" and more "18th century apothecary." Artisan and luxury lanes both have strong entry points here.
-
-**Signal phrases trending:** "morbid beautiful," "found in an estate sale," "grief aesthetic," "beautiful decay"
+Once data is provided, your report will deliver:
 
 ---
 
-### 🔺 #4 — TECHNO-CRAFT / HANDMADE DIGITAL
-**Momentum Score: 68/100**
-**Key Subreddits:** r/3Dprinting, r/leathercraft, r/mechanicalkeyboards, r/ATBGE (occasionally), r/DIY
+### SECTION 1 — TOP 5 RISING AESTHETICS
+*(Momentum Score: composite of velocity + volume + sentiment)*
 
-A hybrid identity: people who make things digitally but crave tactile output. CNC-carved goods, 3D-printed objects finished by hand, laser-etched leather. The aesthetic values *process visibility* — showing the seam, the layer line, the toolmark. Deeply resonant with the maker community, which has significant purchasing power and strong gifting behaviour.
-
-**Signal phrases trending:** "I made this," "process video," "layer by layer," "the imperfect is the point"
+```
+#1 [Aesthetic Name]
+Momentum Score: XX/100
+Key Signals: [specific posts, subs, quote evidence]
+Trajectory: Early Surge / Peak Approaching / Sustained
+```
+*...repeated for all 5*
 
 ---
 
-### 🔺 #5 — COASTAL GRANDDAUGHTER / MEDITERRANEAN LINEN
-**Momentum Score: 61/100**
-**Key Subreddits:** r/slowliving, r/homeideas, r/fashionadvice, r/Italy, r/travel
+### SECTION 2 — EMPIRE ROUTING MAP
+
+| Aesthetic | Caselle 📱 | Lumière 👜 | Atelier 🏺 | Primary Beneficiary |
+|---|---|---|---|---|
+| [Trend 1] | High/Med/Low | ... | ... | **[Empire]** |
+
+*Includes specific product application notes per empire*
+
+---
+
+### SECTION 3 — COLOR PALETTE DIRECTIONS
+
+```
+EMERGING PALETTE: [Name]
+Hero Colors: [specific hex ranges / descriptive anchors]
+Replacing: [outgoing palette]
+Empire Application: [which brand uses which shade tier]
+```
+
+---
+
+### SECTION 4 — DECLINING AESTHETICS — AVOID LIST
+
+```
+⚠️ [Aesthetic]: Signal type (oversaturation / backlash / algorithm drop)
+Inventory risk level: HIGH / MEDIUM
+Recommended wind-down timeline: [weeks]
+```
+
+---
+
+### SECTION 5 — CROSS-EMPIRE MEGA-TREND
+
+```
+OPPORTUNITY: [Name]
+Thesis: [2-3 sentence strategic argument]
+Caselle Execution: [specific]
+Lumière Execution: [specific]
+Atelier Execution: [specific]
+Unified Campaign Hook: [tagline / concept]
+Timeline to act: [urgency window]
+```
+
+---
+
+## READY TO RUN
+
+**Paste your Reddit data below and this report executes immediately — fully populated, specific, and actionable.**
+
+*The Trend Monitor does not speculate with your inventory budget.*

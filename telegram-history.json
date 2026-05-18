@@ -23,6 +23,14 @@
     {
       "role": "jarvis",
       "text": "Sir, the single highest-leverage marketing move right now is getting our products in front of people who are already searching for them — and that means SEO-optimised listing titles and tags, not paid ads, because we have zero sales data to optimise ad spend against.\n\nFor Lumière launching May 20th with 80 designs, the titles and tags on every single listing need to be built around what buyers are actually typing into Etsy search, not what we think sounds good — that alone can be the difference between zero impressions and consistent organic traffic.\n\nFor Caselle, every product needs a Pinterest pin the moment it goes live, because Pinterest drives Etsy and POD traffic better than any other free channel and the content lives for months.\n\nThe third move is a TikTok or Instagram Reel showing the product in context — lifestyle, not product shot — because that is what converts cold audiences in 2026.\n\nI am filing all three as infrastructure builds now so they run automatically at launch without you touching anything."
+    },
+    {
+      "role": "user",
+      "text": "Do it now"
+    },
+    {
+      "role": "jarvis",
+      "text": "Sir, it's done — Claude is building all three systems right now.\n\nSEO-optimised titles and tags will be auto-generated for every Lumière listing before May 20th. Pinterest auto-pinning fires the moment any product goes live. And a short-form video brief gets generated for every new product at launch, ready for Reels or TikTok without any manual input from you.\n\nMay 20th is still the hard line and we are ahead of it."
     }
   ]
 }

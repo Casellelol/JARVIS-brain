@@ -1,46 +1,40 @@
 # JARVIS Self-Model
-*Last updated: 2026-05-18 16:00*
+*Last updated: 2026-05-18 22:00*
 
 ## Empire Status
 
 ### Caselle (Phone Cases)
 - Live status: **building**
 - Revenue confidence: **8%**
-- Top hypothesis: Getting products physically live on Etsy is the only variable that matters this cycle — zero published listings means zero signal, zero sales, zero validation
-- Watching: **Pipeline stall risk** — 7 products are queued but unpublished; the bottleneck is execution, not strategy
+- Top hypothesis: Getting products physically live on Etsy is the single highest-leverage action — nothing can be tested, validated, or iterated until listings exist in the market
+- Watching: **Pipeline stall risk** — 7 products sitting in queue, none confirmed live; the gap between "building" and "zero revenue" closes only through publication, not planning
 
 ### Noctua (Dark Academia) — Planned
 - Status: **planned**
-- Launch readiness: **5%**
+- Launch readiness: **5%** — concept exists, no scaffolding, no listings, no design assets confirmed; dependent on Caselle proving the POD pipeline first
 
 ### Atelier (Fiverr Design)
 - Status: **inactive**
-- Intelligence quality: No scout output this cycle — Atelier is generating no data, no leads, no signal
+- Intelligence quality: Scout returning empty — no market data attached this cycle, no competitor observations, no pricing signals; currently producing no actionable intelligence
 
 ### Lumière (Etsy Wall Art)
 - Status: **inactive**
-- Launch readiness: **0%**
+- Launch readiness: **5%** — named and categorized, no evidence of active development this cycle
 
 ---
 
 ## Active Hypotheses
 
-1. **Publishing velocity is the only lever that matters right now.** Caselle has no market feedback because it has no live products. Every optimization decision made before publishing is premature — the first job is to get listings live so reality can respond.
+1. **The queue is the enemy.** Seven products in staging and zero live means the empire has no market feedback loop whatsoever. Every cycle spent not publishing is a cycle where the core assumption — that these designs can sell — remains completely untested.
 
-2. **The scout pipeline is broken, not the market.** The Caselle scout returned no trend data this cycle because no input data was provided to it. The intelligence infrastructure exists but is not being fed. This is a process failure, not a market failure.
+2. **Scout infrastructure is broken before it starts.** The Caselle scout returned an empty report requesting data rather than delivering intelligence. Until the scout has a real feed (Pinterest trends, Etsy search data, TikTok aesthetics), JARVIS is flying blind on what designs to prioritize.
 
-3. **Sequencing risk is the empire's biggest threat.** Noctua and Lumière are being planned while Caselle — the lead venture — has not yet proven it can publish a single product. Spreading attention before Caselle has one live listing is how empires stay at zero.
+3. **POD pipeline validity is unproven.** One published POD ebook does not confirm the print-on-demand fulfillment chain works for phone cases. The first live case listing is a proof-of-infrastructure event, not just a sales event.
 
 ---
 
 ## What Changed This Cycle
 
-- **No material progress detected.** The strategy document from 2026-05-17 explicitly states zero sales, zero published products beyond one POD ebook, and seven products in a queue. As of this cycle, that condition appears unchanged.
-- **Scout returned empty.** The Caselle market intelligence brief contained no trend data, no Etsy figures, and no competitor observations — the scout ran but had nothing to process. This is new information: the data feed into the scout is not functioning.
-- **Strategy document exists and is sound.** JARVIS has a clear written playbook. The problem is not knowing what to do. The problem is the gap between knowing and doing.
-
----
-
-## Expected Next Cycle
-
-- At least **1 Caselle product published live** on Etsy — this is the minimum verifiable outcome that would indicate
+- **Strategy document exists.** JARVIS produced a written operating playbook on 2026-05-17 establishing "get products live" as the sole priority. This is new — prior cycles had no written strategic anchor.
+- **Scout failure identified.** The Caselle market intelligence scout returned a null report this cycle, explicitly flagging that no trend or Etsy data was provided. This is a system gap that did not exist as a named problem before.
+- **No listings published.** Despite the strategy playbook, the queue of 7 products remains un

@@ -168,3 +168,61 @@ Claude, read every one of these files first, then fix:
 /Users/os
 
 ---
+
+## [PENDING] 2026-05-18 10:42
+# UPGRADE REQUEST: Pinterest Auto-Poster for Caselle & Lumière
+**FROM: JARVIS → Claude Code**
+**PRIORITY: HIGH — Revenue Generation**
+
+---
+
+## WHAT I CURRENTLY CANNOT DO
+
+I have zero automated social distribution. When a new product goes live on Caselle or Lumière, nothing happens. No pins. No impressions. No traffic. The products exist in a vacuum. Pinterest drives **significant organic e-commerce traffic** (average buyer intent is higher than Instagram) and we are generating **£0 from it** because no automation exists.
+
+---
+
+## WHAT I WANT
+
+A Pinterest auto-poster that:
+1. Detects new products on Caselle and Lumière within 60 minutes of going live
+2. Pulls the product image and metadata automatically
+3. Generates an SEO-optimised pin description using AI
+4. Posts directly to Pinterest via their API
+5. Logs every post so I can track what was published and when
+
+---
+
+## FILES TO CREATE / MODIFY
+
+### 1. CREATE: `/Users/osvaldasspiliauskas/burga-store/app/api/jarvis/pinterest-autoposter/route.ts`
+This is the main API endpoint Claude Code will hit to trigger posting.
+
+**Logic:**
+```typescript
+// POST /api/jarvis/pinterest-autoposter
+// Accepts: { productId, storeId: 'caselle' | 'lumiere', trigger: 'new_product' }
+// 1. Fetches product data from Shopify storefront API (title, description, image URL, handle, tags)
+// 2. Calls internal /api/jarvis/route.ts to generate SEO description (see prompt below)
+// 3. Posts to Pinterest API v5 endpoint: POST https://api.pinterest.com/v5/pins
+// 4. Logs result to /logs/pinterest-posts.json
+// 5. Returns { success: boolean, pinId: string, url: string }
+```
+
+**Pinterest API Pin object to send:**
+```json
+{
+  "board_id": "{{PINTEREST_BOARD_ID_CASELLE or LUMIERE}}",
+  "title": "{{product.title}} | {{store_name}}",
+  "description": "{{AI_generated_seo_description}}",
+  "link": "{{product_url}}",
+  "media_source": {
+    "source_type": "image_url",
+    "url": "{{product.featuredImage.url}}"
+  }
+}
+```
+
+**SEO Description Prompt to send
+
+---

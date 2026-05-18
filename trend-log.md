@@ -1,65 +1,52 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-05-18 04:58*
+*Last updated: 2026-05-18 06:00*
 
-# TREND MONITOR INTELLIGENCE REPORT
-### Cross-Empire Aesthetic Analysis | Current Cycle
-
----
-
-## EXECUTIVE SUMMARY
-
-No Reddit data payload was detected in your submission. You've provided the analytical framework but the actual trend data (subreddit activity, upvote velocity, post frequency, keyword clustering, community growth metrics) has not been included.
-
-**This matters because I won't fabricate specific numbers.** A report citing invented momentum scores or false Reddit post volumes would be actively harmful to your inventory and marketing decisions.
+# TREND MONITOR — CROSS-EMPIRE INTELLIGENCE REPORT
+### Cycle: Current | Analyst: Trend Monitor System
 
 ---
 
-## TO GENERATE YOUR FULL REPORT, PROVIDE ANY COMBINATION OF:
-
-### 📊 Raw Data Inputs I Can Work With
-
-| Data Type | Example Format |
-|-----------|---------------|
-| Subreddit growth stats | r/cottagecore +34% subscribers 30-day |
-| Post frequency spikes | "quiet luxury" — 847 posts this week vs 203 last week |
-| Keyword trends | Top search terms, flair tags, post titles |
-| Upvote/engagement data | Average score per aesthetic-tagged post |
-| Cross-subreddit appearances | Which aesthetics appear in 3+ communities |
-| Comment sentiment | Positive/negative framing around specific styles |
-
-### 📍 Relevant Subreddits to Pull From
-- **Caselle:** r/malelivingspace, r/streetwear, r/iphonecases, r/phocase, r/aesthetics
-- **Lumière:** r/femalefashionadvice, r/malefashionadvice, r/fashionadvice, r/luxury
-- **Atelier:** r/Etsy, r/handmade, r/cottagecore, r/tradlife, r/anticonsumption
+> ⚠️ **DATA INPUT NOTICE**
+> No Reddit trend data was attached to this request. The data field was **blank**.
+>
+> I cannot fabricate subreddit post volumes, upvote velocities, comment sentiment ratios, or cross-community momentum figures — doing so would produce a **confidently wrong report** that could damage purchasing, inventory, and marketing decisions across all three empire verticals.
 
 ---
 
-## ONCE YOU PASTE THE DATA, I WILL DELIVER:
+## TO GENERATE YOUR REPORT, PROVIDE:
 
+Please paste or attach any of the following:
+
+### Option A — Raw Reddit Data
 ```
-1. TOP 5 RISING AESTHETICS
-   — Momentum Score (calculated from velocity + cross-community spread)
-   — Peak timing estimate
-   — Confidence rating
-
-2. EMPIRE ROUTING
-   — Primary beneficiary: Caselle / Lumière / Atelier
-   — Secondary opportunity
-   — Conflict zones (where trends pull against brand identity)
-
-3. COLOR PALETTE DIRECTIONS
-   — Hex-level specificity where data supports it
-   — Seasonal trajectory
-
-4. DECLINING AESTHETICS
-   — Drop velocity scores
-   — Salvage potential (can it be repositioned?)
-
-5. CROSS-EMPIRE MEGA-TREND
-   — The single opportunity that ties all three stores together
-   — Execution recommendation per empire
+Subreddit | Post Title | Upvotes | Comments | Date | Flair
+r/femalefashionadvice | "Quiet luxury is dead, long live..." | 4.2k | 318 | ...
 ```
 
+### Option B — Aggregated Metrics
+```
+Aesthetic Term | Mention Count | 30-Day Growth % | Top Subreddits
+"coastal grandmother" | 2,847 | +340% | r/femalefashionadvice, r/OOTD
+```
+
+### Option C — Keyword/Theme Dump
+Even a raw copy-paste from a Reddit thread, trending post titles, or search export works. I'll clean and structure it.
+
+### Option D — Describe Your Sources
+Tell me which subreddits you're monitoring (e.g., r/streetwear, r/malelivingspace, r/analog) and I'll build a **methodology-first framework** you can populate with real pulls.
+
 ---
 
-**Paste your data below and I'll run the full analysis immediately.**
+## WHAT YOU'LL GET ONCE DATA IS PROVIDED:
+
+| Report Section | Detail Level |
+|---|---|
+| **Top 5 Rising Aesthetics** | Momentum score (0–100), velocity trend, confidence rating |
+| **Empire Routing** | Caselle / Lumière / Atelier fit-score per aesthetic |
+| **Color Palette Directions** | Specific hex ranges, material/finish implications |
+| **Declining Aesthetics** | Deprecation confidence + clearance urgency flag |
+| **Cross-Empire Mega-Trend** | Single unifying opportunity with execution blueprint |
+
+---
+
+*Drop the data and I'll run the full analysis.*

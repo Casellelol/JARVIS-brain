@@ -1,64 +1,83 @@
 # Lumière Scout — Market Intelligence
-*Last updated: 2026-05-18 02:08*
+*Last updated: 2026-05-19 02:08*
 
-# LUMIÈRE SCOUT — MARKET INTELLIGENCE BRIEF
-### Premium Seasonal Dispatch | Luxury Fashion Intelligence
-
----
-
-> *"The market does not wait for consensus. It rewards those who read the room before the room fills."*
+# LUMIÈRE SCOUT INTELLIGENCE REPORT
+### Premium Market Intelligence Briefing | Q2 2025 Edition
 
 ---
 
-## ⚠️ INTELLIGENCE NOTE
-
-No market data was attached to this dispatch. The following report is constructed from **embedded trend knowledge through early 2025**, drawing on runway intelligence, luxury retail signals, and consumer sentiment patterns. For a fully data-calibrated analysis, please resubmit with your market dataset appended.
+> *"Luxury is not about price. It is about the architecture of desire."*
 
 ---
 
-## I. TOP 3 RISING LUXURY AESTHETICS
+## ⚠️ DATA NOTICE
+
+Before proceeding, I must flag a critical intelligence gap: **no market data was submitted with your request.** The dataset field arrived empty.
+
+Rather than fabricate figures and present them as sourced intelligence — which would be a disservice to any serious brand decision — I will outline precisely what this report *would* deliver with live data, and offer a **structural framework** you can immediately populate.
 
 ---
 
-### 🔺 01 — **Austere Opulence**
-*Quiet luxury's evolved, more confrontational successor*
-
-The minimalism wave has matured and sharpened. Where quiet luxury whispered, Austere Opulence **declares** — through construction, provenance, and material integrity rather than logomania. Think Bottega Veneta's Spring 2025 architectural restraint, The Row's deliberate blankness elevated to near-spiritual status.
-
-**Key Signals:**
-- Neutral palettes pushed to extreme — ecru, bone, graphite, raw umber
-- Structural volume replacing decoration as the primary luxury indicator
-- Provenance storytelling: *where* a fabric was woven matters as much as *how*
-- Consumer fatigue with maximalism creating genuine white space
-
-**Target Demographic:** 35–55 | UHNW | culturally fluent, aesthetically literate
+## REPORT ARCHITECTURE
+### What Lumière Scout Delivers With Your Data
 
 ---
 
-### 🔺 02 — **Neo-Artisanal Modernism**
-*The hand of the maker as the ultimate luxury signal*
+### I. THE AESTHETIC ASCENDANCY INDEX
+*Top 3 Rising Luxury Aesthetics*
 
-In a saturated AI-generated visual landscape, **evidence of the human hand** has become the most powerful luxury differentiator. Brands embedding visible craftsmanship — raw edges finished *intentionally*, hand-stitching shown not hidden, ceramic buttons over resin — are commanding 40–70% premiums over technically equivalent pieces.
+| Rank | Aesthetic | Signal Strength | Growth Vector |
+|------|-----------|----------------|---------------|
+| 01 | *(derived from trend data)* | ██████░░ | RTW → Accessories |
+| 02 | *(derived from search + runway data)* | █████░░░ | Entry price → Couture |
+| 03 | *(derived from editorial + social data)* | ████░░░░ | Emerging → Mainstream |
 
-**Key Signals:**
-- Maison Margiela's Artisanal line consistently outperforming commercial RTW in cultural capital
-- Loewe's craft-forward positioning driving double-digit brand equity growth
-- Bespoke and demi-mesure expanding beyond menswear into womenswear RTW
-- Embroidery, hand-pleating, and tapestry-inspired fabrication surging on editorial radar
-
-**Target Demographic:** 28–45 | Creative industries | Willing to wait for the right piece
+**Data inputs needed:**
+- Runway coverage (SS25 / FW25 collections)
+- Search volume trends (Lyst Index, Google Trends luxury segment)
+- Social signal data (Instagram, Pinterest, Xiaohongshu)
+- Editorial placement frequency (Vogue, Harper's, AnOther)
 
 ---
 
-### 🔺 03 — **Techno-Heritage**
-*Future-facing fabrication rooted in legacy house codes*
+### II. PRODUCT DIRECTION MATRIX
+*Strategic Recommendations for a High-End Store*
 
-The collision of **advanced material science with archival house identity**. Not fashion-tech novelty — rather, heritage brands using innovation to *deepen* authenticity. Hermès integrating new leather-finishing technologies that reference archival saddle-making. Zegna's Oasi Cashmere program — traceability as luxury currency.
+```
+QUADRANT ANALYSIS PENDING DATA INPUT
 
-**Key Signals:**
-- Sustainable provenance now table-stakes for luxury Gen Z entry-point purchases
-- Performance-luxury fabrics (technical wools, bio-fabricated leathers) gaining editorial traction
-- Heritage brands activating archival codes through new technical executions
-- Traceable supply chain becoming a **premium pricing lever**, not a CSR footnote
+    HIGH DEMAND                    LOW DEMAND
+    ┌──────────────────┬──────────────────┐
+    │                  │                  │
+H   │  INVEST HEAVILY  │   WATCH & WAIT   │
+I   │  (Core SKUs)     │   (Emerging)     │
+G   │                  │                  │
+H   ├──────────────────┼──────────────────┤
+    │                  │                  │
+M   │  PREMIUM PUSH    │    RATIONALISE   │
+A   │  (Margin Makers) │    (Phase Out)   │
+R   │                  │                  │
+G   └──────────────────┴──────────────────┘
+I
+N        HIGH COMPETITION      LOW COMPETITION
+```
 
-**Target Demographic:** 24–40 | Luxury-curious to luxury-committed | Global urban centers
+**Data inputs needed:**
+- Current inventory category breakdown
+- Sell-through rates by category
+- Margin data by product line
+- Competitor stocking intelligence
+
+---
+
+### III. COMPETITIVE PRICING INTELLIGENCE
+*Premium Segment Benchmarking*
+
+| Category | Entry Luxury | Core Luxury | Ultra-Luxury |
+|----------|-------------|-------------|--------------|
+| Ready-to-Wear | $XXX | $X,XXX | $XX,XXX+ |
+| Leather Goods | $XXX | $X,XXX | $XX,XXX+ |
+| Footwear | $XXX | $X,XXX | $XX,XXX+ |
+| Fine Jewellery | $X,XXX | $XX,XXX | $XXX,XXX+ |
+
+**Data inputs needed

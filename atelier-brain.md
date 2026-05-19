@@ -1,46 +1,53 @@
 # Atelier Scout — Market Intelligence
-*Last updated: 2026-05-18 03:27*
+*Last updated: 2026-05-19 03:27*
 
 # Atelier Scout — Market Intelligence Report
-### Luxury Artisan Goods | Trend Analysis Dispatch
+### Luxury Artisan Goods | Q2 2025 Edition
 
 ---
 
-> ⚠️ **Note:** No external market data was provided in your prompt. The analysis below is built from my training knowledge (current to early 2025) covering Etsy seller data patterns, craft fair intelligence, and artisan consumer behavior. For live Etsy metrics, supplement with tools like **Sale Samurai**, **Marmalead**, or **Etsy Trend Reports**.
+> **Note:** No external trend data was appended to your prompt. The analysis below draws on my training knowledge through early 2025. For live Etsy pricing, supplement this report with current platform scraping or tools like eRank/Marmalead.
 
 ---
 
-## 01 | TOP 3 RISING CRAFT AESTHETICS
+## 01 · TOP 3 RISING CRAFT AESTHETICS
 
-### 🌿 1. Quiet Luxury Naturalism
-The "old money minimalism" wave has reached the craft market. Consumers want **undyed linen, raw ceramics, unbleached beeswax, and muted earth palettes** — nothing loud, nothing synthetic-looking. Think Axel Vervoordt meets a forest cottage. This aesthetic commands **premium price tolerance** because it signals taste over trend.
+### 🌿 1. Quiet Naturalism
+**Signal strength: ██████████ High**
+Muted earth palettes (warm ecru, clay, sage, iron oxide) applied to objects that *look* foraged rather than manufactured. Think irregular edges, surface texture that invites touch, and zero visual noise. Driven by post-maximalism fatigue and the "Japandi" plateau — consumers are moving from Scandi-minimal toward something *warmer and more imperfect*.
 
-**Signals:** Rising search volume for "undyed wool," "raw edge ceramic," "natural linen tote no dye"
-
----
-
-### 🔩 2. Industrial Folk
-A genuine tension-play aesthetic — **hand-forged metal meets folk craft patterns**. Blacksmithed hooks with carved wooden handles. Iron candle holders with hand-stitched textile wraps. This hybrid is gaining traction among male gift buyers and interior designers sourcing statement pieces. Still early-stage, meaning **low competition, rising demand**.
-
-**Signals:** Growth in "hand-forged home decor," "blacksmith gift," "metal and wood handmade"
+**Key visual cues:** Unglazed ceramic rims, undyed linen, beeswax finishes, twig-form jewelry
 
 ---
 
-### 🎨 3. Neo-Maximalist Fiber
-A direct counter-aesthetic to quiet luxury — **bold, layered, colorful textile work**. Punch needle, tufting, and visible hand-stitching in saturated jewel tones. Heavily influenced by global textile traditions (Oaxacan weaving, Moroccan pile, Appalachian quilting) but reframed as contemporary wall art and statement accessories. Performs exceptionally well on **Pinterest and Instagram Reels**.
+### 🪡 2. Heirloom Revivalism
+**Signal strength: █████████░ High**
+Crafts coded as "grandmother's attic" — needle felting, tatting lace, punch needle, smocking, and hand-embroidered linens — repositioned at luxury price points. The generational nostalgia cycle has hit Gen Z hard. These aren't vintage *goods*; they're new objects made with legacy *techniques*, marketed explicitly as future heirlooms.
 
-**Signals:** Explosive growth in "tufted wall hanging," "punch needle portrait," "maximalist textile art"
+**Key visual cues:** Monogramming, visible hand-stitching as decorative feature, archival color palettes (dusty rose, hunter green, ivory)
 
 ---
 
-## 02 | RECOMMENDED PRODUCT DIRECTIONS
+### ⚗️ 3. Alchemical / Apothecary Dark
+**Signal strength: ████████░░ Medium-High**
+Moody, ritual-adjacent aesthetic — dark glazed ceramics, hand-poured resin with suspended botanicals, marbled goods, wax seals, and vessels that feel ceremonial. Overlaps with "dark academia" but skews more *tactile and functional*. Strong crossover with wellness and slow-living communities.
 
-| Priority | Product | Aesthetic Fit | Rationale |
-|---|---|---|---|
-| 🔴 High | **Ritual object sets** (beeswax taper + ceramic holder + linen pouch) | Quiet Luxury Naturalism | Bundles increase AOV; "ritual" framing elevates perceived value significantly |
-| 🔴 High | **Heirloom kitchen textiles** (hand-woven dish towels, natural-dye napkins) | Quiet Luxury Naturalism | High repeat-purchase category; strong gifting occasion alignment |
-| 🟡 Medium | **Hand-forged wall hooks (3–5 piece sets)** | Industrial Folk | Interior design market crossover; designers buy in multiples |
-| 🟡 Medium | **Oversized punch needle portrait commissions** | Neo-Maximalist Fiber | Commission model = higher margins, word-of-mouth driven |
-| 🟢 Emerging | **Personalized leather + textile hybrid accessories** | Industrial Folk / Neo-Max | Customization commands 30–50% price premium consistently |
+**Key visual cues:** Deep teal, amber, obsidian, aged brass hardware, Latin or botanical labeling
 
-**Strategic note:** Build at least
+---
+
+## 02 · RECOMMENDED PRODUCT DIRECTIONS
+
+| Priority | Product | Rationale |
+|----------|---------|-----------|
+| **#1** | Hand-thrown ceramic oil/vinegar vessels with unglazed exterior | Hits Quiet Naturalism; functional luxury; gifting gold |
+| **#2** | Monogrammed linen napkin sets, hand-embroidered | Heirloom Revivalism at accessible entry price; high repeat purchase |
+| **#3** | Modular beeswax taper candle collections | Alchemical aesthetic + sustainability + high perceived value vs. cost |
+| **#4** | Hand-bound leather journals with botanical tooling | Bridges all three aesthetics; strong corporate gifting angle |
+| **#5** | Botanical resin jewelry — pressed local flora | High margin, low material cost, extremely photogenic for social |
+
+**Avoid:** Overtly "farmhouse" shiplap-adjacent goods, chalk-painted furniture, and mass-replicable macramé — market saturation is severe with margin compression.
+
+---
+
+## 03 · ET

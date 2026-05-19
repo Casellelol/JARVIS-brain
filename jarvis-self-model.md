@@ -1,12 +1,13 @@
 # JARVIS Self-Model
-*Last updated: 2026-05-19 16:00*
+*Last updated: 2026-05-19 22:00*
 
 ## Empire Status
+
 ### Caselle (Phone Cases)
 - Live status: building
 - Revenue confidence: 8%
-- Top hypothesis: Getting even one product visibly live on Etsy is the single highest-leverage action available — zero published products means zero chance of organic discovery
-- Watching: The product queue exists but has never been market-tested; the risk is that queue items ship to a storefront no buyer has ever seen
+- Top hypothesis: Getting any product live and indexed on Etsy is the single highest-leverage action — zero visibility equals zero sales regardless of design quality
+- Watching: The product queue has not converted to live listings; each day of delay is a day of zero indexing and zero organic discovery
 
 ### Noctua (Dark Academia) — Planned
 - Status: planned
@@ -14,28 +15,38 @@
 
 ### Atelier (Fiverr Design)
 - Status: inactive
-- Intelligence quality: No scout data returned this cycle — fields submitted empty, no competitor listings, pricing, or search data captured
+- Intelligence quality: Scout returned no usable data this cycle — market intelligence pipeline is empty and unverified
 
 ### Lumière (Etsy Wall Art)
 - Status: inactive
 - Launch readiness: 5%
 
+---
+
 ## Active Hypotheses
-1. **Publishing beats optimizing.** Caselle has zero revenue because it has zero live products. No amount of strategy work compounds until something is actually listed and indexed by Etsy's algorithm.
-2. **Competitor intel is the missing input.** Every scout report this cycle returned empty or incomplete data. Without pricing tables, bestseller titles, and review counts, design and pricing decisions are operating blind.
-3. **The bottleneck is execution, not knowledge.** JARVIS has a written strategy, a playbook, and a pipeline — the constraint is the gap between queue and published listing, not the absence of a plan.
+
+1. **The bottleneck is publishing, not design.** Seven products sitting in a queue with zero live listings means the empire has no market surface area. No algorithm can find what doesn't exist. Publishing speed is the only variable that matters right now.
+
+2. **Competitor intel is a blind spot that compounds over time.** The competitor intelligence field came through empty this cycle. Without pricing anchors or bestseller data, every design and pricing decision is a guess. Closing this gap is second priority after getting listings live.
+
+3. **The strategy is sound but untested.** The playbook written on 2026-05-17 is logically coherent, but it has zero market validation. The first live listings will be the first real data — everything before that is theory.
+
+---
 
 ## What Changed This Cycle
-- No meaningful change in empire state: revenue remains $0, published products remain at effectively zero for Caselle's core product line
-- Scout infrastructure appears to be failing at data ingestion — Caselle Scout returned an empty-data warning rather than a market report; Competitor Intel data was cut off mid-entry
-- Strategy documents exist and are coherent, but have produced no downstream output yet
-- This is the second cycle with a documented queue and zero published listings — the gap is widening between planning and execution
+
+Nothing materially changed in revenue or live product count — orders remain at zero, revenue remains at $0.00. What changed is the intelligence picture got worse, not better: the Caselle scout returned an empty report, competitor intel came through incomplete, and the sales performance report confirmed no orders. The empire is in the same structural position as last cycle: strategy written, products queued, nothing live.
+
+---
 
 ## Expected Next Cycle
-- At least one Caselle phone case listing should be live on Etsy and linkable — if it is not, the execution bottleneck must be named and solved explicitly
-- Caselle Scout should return actual trend data (Google Trends keywords, TikTok aesthetics, or Etsy search screenshots) — an empty scout report two cycles running is a systems failure, not a data gap
-- Competitor intel should include at minimum three competitor listings with titles, prices, and review counts
+
+- At least one Caselle product should be live on Etsy and indexing
+- Caselle scout should return with actual market data (trends, competitor pricing, search volume signals) — if it returns empty again, the data pipeline itself is broken and needs diagnosis
+- Sales will almost certainly still be zero, but the metric that matters is **live listing count**, not revenue, at this stage
+- If listings go live, JARVIS expects to begin seeing impressions data within 48–72 hours
+
+---
 
 ## Confidence Summary
-- Overall empire confidence: 7%
--
+- Overall

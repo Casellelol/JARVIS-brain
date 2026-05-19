@@ -1,5 +1,5 @@
 # Accountant — Daily Financial Report
-*Generated: 2026-05-18 23:24*
+*Generated: 2026-05-19 23:24*
 
 ## Raw Data
 - Orders (30d): 0 | Revenue: £0.00
@@ -10,31 +10,30 @@
 
 ---
 
-### 📊 Key Metrics (30-Day Period)
-
+### Core Metrics
 | Metric | Value |
 |---|---|
-| Gross Revenue | £0.00 |
-| Cost of Goods | £0.00 (unverifiable) |
-| Net Profit | **£0.00** |
-| Margin % | **N/A** |
-| Orders | **0** |
+| **Gross Revenue** | £0.00 |
+| **COGS** | £0.00 (unverifiable) |
+| **Net Profit** | £0.00 |
+| **Margin %** | N/A |
 
 ---
 
-### 🔴 Observations
+### 🔴 Key Observations
 
-1. **Zero revenue. Zero orders.** The business is generating nothing — fixed/platform costs are pure burn with no offset.
-2. **Printify API key not configured** — cost data is blind. No COGS visibility means no real P&L is possible. This is the **#1 operational blocker.**
-3. **Double risk:** No sales *and* no cost tracking = flying completely blind.
+1. **Zero revenue, zero orders (30d)** — The business is generating no income. Fixed costs (platform fees, subscriptions, domain, apps) are bleeding cash unrecovered.
+
+2. **Printify API not configured** — COGS data is blind. No supplier connection means **no fulfilment pipeline exists**. Even if an order arrived, it could not be processed.
+
+3. **Compounding risk** — Every day without a connected supplier + live products = £0 revenue ceiling, regardless of traffic or marketing spend.
 
 ---
 
 ### ✅ Single Recommended Action
 
-> **Configure the Printify API key immediately.**
-> Without it, product costs, margins, and fulfilment fees are unknown — making profitable pricing impossible and financial reporting meaningless. Fix this before any ad spend or scaling activity.
+**Fix the Printify integration today — before any other activity.**
 
----
+Marketing, ads, or pricing optimisation are all worthless with a broken fulfilment connection. Configure the API key, sync at least one product, and place a **test order** to confirm the end-to-end pipeline works.
 
-*No financial decisions should be made until connectivity is restored and at least one order cycle is recorded.*
+*Revenue problems can be solved. A broken backend means revenue is structurally impossible.*

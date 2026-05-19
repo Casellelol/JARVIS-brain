@@ -251,3 +251,56 @@ No new facts confirmed written to persistent memory this cycle. Existing memory 
 
 6. JARVIS Confidence Score
 Score: 28
+
+## Nightly Summary — 2026-05-19
+1. Overnight Agent Activity
+Agents ran across 3 think cycles (16:00, 22:00, and a finance/competitor sweep at ~01:44). Key findings:
+
+  Products queued: 5–6 items sitting in pipeline — none published overnight
+  Digital products queued: 0 new
+  Business ideas filed: 1 (16:00 cycle only)
+  Stores launched: 0
+  Market intelligence feeds degraded: Reddit blocked, Etsy returned empty, Hacker News only — competitor Intel partially recovered (CASETiFY pricing scraped; BURGA and Pela unavailable)
+  Triggered alert: Accountant flagged CRITICAL — £0.00 revenue, Printify API key not configured
+
+
+2. Intelligence Brain Updates
+
+  Confirmed in memory: Prompt Pack live at £9.97 via Stripe — no sales recorded
+  Confirmed in memory: One ebook live, one phone case (Cherry Red) published — nothing else storefront-visible
+  New hypothesis logged: "Naming a deadline without a forcing function does nothing" — seasonal urgency narrative disproven internally
+  CASETiFY price anchors scraped: Range $1–$40, core cases cluster at $9 — useful for positioning
+  Printify key missing — flagged, not yet resolved
+
+
+3. Opportunity Queue
+
+  5 products queued, 0 promoted to live — pipeline is full, storefront is empty
+  Etsy niche signals for dark academia, celestial witch, coquette aesthetic, booktok, y2k phone cases returned no data — opportunity score unverifiable this cycle
+  No new opportunities scored or discarded — agents circled the same gap without resolving it
+  Highest-confidence opportunity still sitting idle: queued physical POD designs with no publish action taken
+
+
+4. Revenue Events
+
+  Sales (30 days): 0 orders — £0.00 gross
+  Refunds: 0
+  Printify orders: 0 (API key not configured — fulfilment pipeline is dark)
+  Active payment links: Prompt Pack at £9.97 (Stripe), ebook live — neither converted overnight
+
+
+5. Pending Manual Actions
+
+  CRITICAL — Configure Printify API key. Without it, no order data, no fulfilment visibility, no cost tracking.
+  BLOCKING — Publish the 5 queued products. Agents cannot publish without owner action or explicit authorisation. Queue has been full for multiple cycles.
+  Decision needed: Authorise JARVIS to push queued products live autonomously, or schedule a manual publish session today.
+  Low priority: Review the 1 business idea filed at 16:00 — not yet actioned or scored.
+
+
+6. JARVIS Confidence Score
+38 / 100
+Market intel feeds were largely broken this cycle. No Etsy data, no Reddit signals, Printify disconnected. I can see the problem with high confidence — queue full, storefront empty, zero revenue — but I cannot validate demand, track fulfilment, or confirm traffic. Confidence in diagnosis is high. Confidence in having actionable external data to optimise against is low.
+
+7. Top Priority for Today
+Publish the queued products. Right now, before anything else.
+The pipeline is not the problem. The empty storefront is. Pick the strongest 2–3 designs from the queue and push them live on Etsy or your POD store this morning. Every day a queued product stays unpublished is a day it earns £0. You cannot optimise, test, or validate what isn't

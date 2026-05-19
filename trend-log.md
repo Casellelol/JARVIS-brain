@@ -1,66 +1,100 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-05-19 10:00*
+*Last updated: 2026-05-19 14:00*
 
-# TREND MONITOR — CROSS-EMPIRE INTELLIGENCE BRIEF
-### Cycle Report | Aesthetic Velocity Analysis
----
-
-> ⚠️ **DATA INPUT NOTICE:** No Reddit trend data was attached to this request. The following report is constructed from **synthesized trend intelligence** based on current observable aesthetic momentum across Reddit communities (r/femalefashionadvice, r/Monitors, r/malelivingspace, r/streetwear, r/cottagecore, r/DesignPorn, r/minimalism, r/trashy, r/dark_academia, r/PHENLA, and adjacent subs) as of my knowledge base. **Replace italicized confidence notes with your actual scraped metrics when available.**
+# TREND MONITOR — CROSS-EMPIRE INTELLIGENCE REPORT
+### Cycle: Current Analysis Period | Classification: Strategic
 
 ---
 
-## SECTION 1 — TOP 5 RISING AESTHETICS WITH MOMENTUM SCORES
-
-Momentum Score = composite of post velocity + comment sentiment ratio + cross-subreddit spread (scaled 1–100)
-
----
-
-### 🥇 #1 — **Quiet Luxury Decay**
-**Momentum Score: 87/100**
-*Confidence: High — pattern consistent across r/femalefashionadvice, r/malefashionadvice, r/minimalism*
-
-A direct mutation of Quiet Luxury. Where the original aesthetic was pristine and untouched, **Quiet Luxury Decay** introduces deliberate imperfection — worn leather, oxidized metals, faded neutrals, slightly distressed linen. The emotional register is "inherited wealth that doesn't try." Think Succession wardrobe left in an Italian attic for a decade.
-
-**Key signals:**
-- "Old money worn in" posts up ~340% quarter-over-quarter in fashion subs
-- Oxidized silver and tarnished gold jewelry dominating Pinterest-to-Reddit cross-posts
-- Language markers: *"effortless," "generational," "not new," "lived-in"*
+> ⚠️ **DATA NOTICE:** No Reddit trend data was attached to this prompt. The feed appears to have transmitted empty. What follows is a **methodology demonstration** using the framework you've built — but I want to flag this clearly before you act on anything operationally.
+>
+> **To generate a live report, paste your Reddit data below** (subreddit engagement stats, post velocity, upvote trends, keyword frequency, crosspost counts, etc.) and I'll run the full analysis against it.
 
 ---
 
-### 🥈 #2 — **Dark Botanica**
-**Momentum Score: 81/100**
-*Confidence: High — r/cottagecore mutation detected, spreading into r/witchcraft, r/houseplants, r/DesignPorn*
-
-Cottagecore has rotted (in the best way). Dark Botanica retains the nature obsession but strips the sweetness — deep forest greens, mushroom browns, beetle blacks, thorned imagery. Specimens in jars. Pressed dark flowers. Gothic herbalism meets Victorian natural history.
-
-**Key signals:**
-- Cottagecore posts with dark/moody palettes receiving 2.3x more engagement than pastel variants
-- "Goblincore" search adjacent terms rising on Reddit
-- Artisan ceramics with botanical engravings dominating r/Pottery and r/handmade
+## WHAT A POPULATED REPORT LOOKS LIKE
+*Sample structure so you can validate the format is correct before feeding live data:*
 
 ---
 
-### 🥉 #3 — **Techno-Brutalism**
-**Momentum Score: 76/100**
-*Confidence: Medium-High — r/streetwear, r/Monitors, r/cyberpunk, r/hardware*
+## SECTION 1 — TOP 5 RISING AESTHETICS
+*Momentum Score = composite of: post velocity (7-day), comment sentiment, crosspost spread across 3+ subs, search term co-occurrence*
 
-Raw concrete aesthetics colliding with visible tech hardware. Exposed circuitry as decoration. Industrial grays, acid yellows, warning oranges. This isn't clean cyberpunk — it's deliberately ugly, deliberately functional-looking. The beauty is in the infrastructure.
-
-**Key signals:**
-- Phone case customization posts featuring exposed screw aesthetics up significantly
-- "Brutalist UI" design content spreading from r/graphic_design into general audiences
-- Hard case + visible bolt/rivet detailing trending in DIY communities
+| Rank | Aesthetic | Momentum Score | Primary Signal Source |
+|------|-----------|---------------|----------------------|
+| 1 | [Aesthetic Name] | 87/100 | r/[sub] — 340% post velocity increase |
+| 2 | [Aesthetic Name] | 74/100 | r/[sub] — crossposted to 7 subs |
+| 3 | [Aesthetic Name] | 68/100 | r/[sub] — sentiment 91% positive |
+| 4 | [Aesthetic Name] | 61/100 | r/[sub] — keyword spike in comments |
+| 5 | [Aesthetic Name] | 54/100 | r/[sub] — emerging, watch status |
 
 ---
 
-### #4 — **New Romanticism**
-**Momentum Score: 71/100**
-*Confidence: Medium-High — r/femalefashionadvice, r/weddingplanning, r/vintage*
+## SECTION 2 — EMPIRE ROUTING
+*Each trend mapped to primary beneficiary, secondary opportunity, and friction flag*
 
-A soft rebellion against minimalism. Lace, draping, layered silhouettes, jewel tones — but informed by contemporary irony. It's not naive romanticism; it's romanticism that knows it's performing. Burgundy, sapphire, dusty rose, candlelight gold. Cameos are back. So are velvet hair ribbons.
+```
+TREND #1 → PRIMARY: Caselle | SECONDARY: Lumière | FRICTION: Low
+TREND #2 → PRIMARY: Lumière | SECONDARY: Atelier | FRICTION: Medium
+[etc.]
+```
 
-**Key signals:**
-- "Romantic aesthetic" posts up in general fashion communities
-- Velvet and lace material mentions rising in r/femalefashionadvice
-- Bridal
+---
+
+## SECTION 3 — COLOR PALETTE DIRECTIONS
+*Per empire, per trend cycle*
+
+**Caselle (Phone Cases)**
+- Hero color: —
+- Accent: —
+- Avoid: —
+
+**Lumière (Luxury Fashion)**
+- Hero color: —
+- Accent: —
+- Avoid: —
+
+**Atelier (Artisan Goods)**
+- Hero color: —
+- Accent: —
+- Avoid: —
+
+---
+
+## SECTION 4 — DECLINING AESTHETICS
+*Flag for inventory wind-down, ad spend reduction, and design freeze*
+
+| Aesthetic | Decline Velocity | Empire Exposure | Action |
+|-----------|-----------------|-----------------|--------|
+| [Name] | -42% engagement/week | Caselle (HIGH) | Immediate freeze |
+| [Name] | -28% engagement/week | All three (LOW) | Monitor |
+
+---
+
+## SECTION 5 — CROSS-EMPIRE MEGA-TREND
+*One opportunity requiring coordinated rollout across Caselle + Lumière + Atelier simultaneously*
+
+**MEGA-TREND:** [Name]
+- **Thesis:** —
+- **Caselle execution:** —
+- **Lumière execution:** —
+- **Atelier execution:** —
+- **Coordinated launch window:** —
+- **Risk:** —
+
+---
+
+## HOW TO SUBMIT YOUR DATA
+
+For best results, include:
+
+```
+REDDIT DATA FEED:
+- Subreddit: r/[name] | Posts (7d): X | Avg upvotes: X | Top keywords: [list]
+- Subreddit: r/[name] | Posts (7d): X | Avg upvotes: X | Top keywords: [list]
+- Trending searches: [list]
+- Top crossposted aesthetics: [list]
+- Engagement anomalies: [describe]
+```
+
+**Paste your data and I'll return a fully populated, action-ready report within the same structure above.**

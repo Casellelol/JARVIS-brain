@@ -1,94 +1,34 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-05-19 02:00*
+*Last updated: 2026-05-19 04:58*
 
-# TREND MONITOR — AESTHETIC INTELLIGENCE REPORT
-### Cross-Empire Analysis | Caselle × Lumière × Atelier
----
-
-> ⚠️ **DATA TRANSPARENCY NOTICE**
-> No Reddit trend data was attached to this prompt. The data field was empty. Rather than fabricate specific subreddit metrics, upvote counts, or engagement figures — which would corrupt your buying and inventory decisions — this report will flag that clearly and offer a **methodological framework** you can execute immediately once real data is fed in.
+# TREND MONITOR — EMPIRE INTELLIGENCE BRIEF
+### Cycle: Current | Classification: Cross-Empire Strategic
 
 ---
 
-## WHAT YOU SHOULD FEED ME
-
-For a properly data-driven report, provide any combination of:
-
-| Data Type | Examples |
-|---|---|
-| **Subreddit signals** | r/femalefashionadvice, r/Anticonsumption, r/streetwear, r/malelivingspace trending post titles + upvote counts |
-| **Search velocity data** | Google Trends exports, Pinterest trend reports |
-| **Raw post text/titles** | Scraped Reddit titles from relevant subs |
-| **Engagement metrics** | Comment counts, award rates, crosspost numbers |
-| **Time-stamped snapshots** | Week-over-week or month-over-month data |
+> **⚠️ DATA TRANSPARENCY NOTICE**
+> No Reddit trend data was attached to this prompt. The data field was empty. Producing fabricated "data-driven" metrics against phantom datasets would undermine the operational integrity this report is designed to serve.
+>
+> **What I will not do:** Invent subreddit post volumes, upvote trajectories, or engagement scores and present them as real Reddit signals.
+>
+> **What I can do — choose one:**
 
 ---
 
-## WHAT THE FULL REPORT WILL DELIVER
+## TO ACTIVATE THIS REPORT, PROVIDE ONE OR MORE OF THE FOLLOWING:
 
-Once data is provided, here is the **exact structure** I will populate with real numbers:
+### Option A — Raw Reddit Data
+Paste scraped post titles, subreddit names, upvote counts, comment volumes, or keyword frequency tables from sources like Reddit's API, Gummy Search, Treendly, or manual pulls from relevant subs (r/femalefashionadvice, r/streetwear, r/malelivingspace, r/mildlyaesthetic, r/Louisvuitton, r/PhoneCases, etc.)
 
----
+### Option B — Keyword/Search Volume Data
+Share trending search terms, Google Trends exports, or Pinterest trend reports you want cross-referenced against your three empire verticals.
 
-### SECTION 1 — TOP 5 RISING AESTHETICS
-```
-Each entry will include:
-- Aesthetic name + micro-definition
-- Momentum Score (0–100, calculated from:
-  velocity of mention growth × sentiment ratio × crossover breadth)
-- Primary subreddits driving signal
-- Week-over-week mention delta
-- Consumer intent signals (buying language detected Y/N)
-```
+### Option C — Qualitative Signals
+Describe what you're seeing — specific posts going viral, aesthetic terms appearing frequently, color themes, cultural moments — and I'll build momentum scores from structured qualitative weighting with transparent methodology.
+
+### Option D — Benchmark Run
+Ask me to produce a **clearly labeled hypothetical baseline report** using my training knowledge of aesthetic cycles, with all figures marked as *estimated/illustrative* rather than data-derived. Useful for template-building or onboarding.
 
 ---
 
-### SECTION 2 — EMPIRE ROUTING MAP
-```
-For each of the 5 aesthetics:
-- Primary beneficiary: Caselle / Lumière / Atelier
-- Secondary beneficiary (if applicable)
-- Reasoning tied to SKU/category logic
-- Urgency rating: Act Now / Build Position / Monitor
-```
-
----
-
-### SECTION 3 — COLOR PALETTE DIRECTIONS
-```
-- 3 ascending palettes with hex anchors
-- 2 declining palette families to clear
-- Cross-empire palette (one color story
-  that works across all three stores simultaneously)
-```
-
----
-
-### SECTION 4 — DECLINING AESTHETICS
-```
-- Aesthetics showing negative momentum
-- Inventory risk rating per empire
-- Recommended clearance timeline
-```
-
----
-
-### SECTION 5 — CROSS-EMPIRE MEGA-TREND
-```
-- Single overarching cultural movement
-  benefiting all three stores
-- Unified campaign concept
-- Execution priority by empire
-- Revenue capture window estimate
-```
-
----
-
-## IMMEDIATE NEXT STEP
-
-**Paste your Reddit data below** — raw titles, engagement numbers, subreddit names, or even a bulk text dump — and I will return the fully populated report within this same format, with every figure traceable back to your source data.
-
-*Fabricating trend scores without data doesn't protect your inventory. Real signals do.*
-
----
-*Trend Monitor | Standing by for data input*
+*Accurate intelligence beats fast misinformation. Ready to run the full analysis the moment data is in.*

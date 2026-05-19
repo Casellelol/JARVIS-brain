@@ -1,36 +1,33 @@
 # Caselle Scout — Market Intelligence
-*Last updated: 2026-05-18 05:53*
+*Last updated: 2026-05-19 05:53*
 
-# Caselle Scout Intelligence Report
-### Market Intelligence Brief | Current Cycle
+## ⚠️ No Data Detected
 
----
-
-> ⚠️ **Data Notice:** No trend data or Etsy market figures were attached to this prompt. The fashion trends and Etsy market fields appear to be **empty**.
+It looks like the trend data and Etsy market data fields were **submitted empty**. No fashion trend reports, search data, pricing tables, or market snapshots came through with your message.
 
 ---
 
-## What I Need to Generate Your Report
+### To generate your Caselle Scout intelligence report, please share:
 
-To produce a specific, actionable intelligence brief, please provide any combination of the following:
+**Fashion Trends — any of:**
+- Google Trends keyword data or screenshots
+- TikTok/Pinterest trending aesthetics (e.g. "quiet luxury," "Y2K," "gorpcore")
+- Seasonal colour/theme reports
+- Social engagement metrics
 
-| Data Type | Examples |
-|-----------|----------|
-| **Fashion trend signals** | Pinterest trends, runway themes, TikTok aesthetic tags, Google Trends keywords |
-| **Etsy market data** | Top-selling listings, price ranges, review counts, shop names, search volume |
-| **Competitor observations** | Screenshots, listing titles, pricing, bestseller badges |
-| **Search keywords** | What customers are typing to find cases |
-| **Platform signals** | Depop aesthetics, Instagram hashtag activity, Reddit threads |
-
----
-
-## Once You Share the Data, I'll Deliver:
-
-1. 🎨 **Top 3 Rising Aesthetics** — with confidence ratings
-2. ✏️ **Design Direction Recommendations** — specific, production-ready concepts
-3. 💰 **Competitor Pricing Observations** — positioning opportunities
-4. 🎯 **One High-Confidence Opportunity** — with a clear action step
+**Etsy Market — any of:**
+- Search result screenshots or listings
+- Bestseller titles, prices, review counts
+- Sold volume indicators
+- Competitor shop names or product links
 
 ---
 
-**Paste or upload your data and I'll get straight to work.**
+### Paste your data and I'll immediately produce:
+
+> 📈 Top 3 Rising Aesthetics
+> 🎨 Recommended Design Directions
+> 💰 Competitor Pricing Observations
+> 🎯 One High-Confidence Opportunity
+
+Drop the data below and we'll get started. 🔍

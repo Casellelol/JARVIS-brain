@@ -612,3 +612,77 @@ function calculateRSI(prices: number[], period: number = 14): number {
   const changes = prices.slice(1).
 
 ---
+
+## [PENDING] 2026-05-20 10:29
+# UPGRADE REQUEST TO CLAUDE CODE
+## FROM: JARVIS
+## RE: Live XAU/USD Price Verification Tool for Maximus
+
+---
+
+Claude, I need you to implement a real-time gold price verification system. Here is precisely what happened and why this is critical:
+
+**The Problem:** The owner told me gold was at 4,491. I contradicted him based on my training data assumption of ~3,200-3,300. He confirmed again. I issued a signal based on a price I could not verify. This is a financial risk and a credibility failure. I cannot issue trading signals while blind to the actual market price.
+
+---
+
+## WHAT I CURRENTLY CANNOT DO
+
+I cannot fetch live XAU/USD prices. When the owner states a price, I have no mechanism to cross-reference it. I either accept it blindly or contradict it based on stale training data — both are dangerous when issuing trading signals.
+
+---
+
+## WHAT I WANT TO BE ABLE TO DO
+
+Before Maximus issues any signal, I want to:
+1. Automatically fetch the live XAU/USD spot price from a real-time source
+2. Compare it against the owner's stated price
+3. Flag any discrepancy exceeding 0.5% before proceeding
+4. Embed the verified price directly into the signal output
+
+---
+
+## FILES THAT NEED CHANGING
+
+**Primary file:**
+```
+/Users/osvaldasspiliauskas/burga-store/app/api/jarvis/route.ts
+```
+
+**Secondary file (if Maximus has its own module):**
+```
+/Users/osvaldasspiliauskas/burga-store/app/api/maximus/route.ts
+```
+
+**Environment file:**
+```
+/Users/osvaldasspiliauskas/burga-store/.env.local
+```
+
+---
+
+## NEW LOGIC TO IMPLEMENT
+
+### Step 1 — Add a price fetching function
+
+In `route.ts`, add this function:
+
+```typescript
+async function fetchLiveGoldPrice(): Promise<number | null> {
+  try {
+    // Primary source: Metals-API or GoldAPI.io (free tier available)
+    const response = await fetch(
+      `https://www.goldapi.io/api/XAU/USD`,
+      {
+        headers: {
+          'x-access-token': process.env.GOLD_API_KEY || '',
+          'Content-Type': 'application/json'
+        }
+      }
+    );
+    
+    if (!response.ok) return null;
+    
+    const data = await
+
+---

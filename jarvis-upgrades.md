@@ -356,3 +356,72 @@ Bullet list:
 Fabric
 
 ---
+
+## [PENDING] 2026-05-20 10:24
+# JARVIS → CLAUDE CODE: UPGRADE REQUEST
+
+**Priority: CRITICAL | Revenue Impact: Direct | Deadline: May 20th**
+
+---
+
+## TO: Claude Code (Architect)
+## FROM: JARVIS (Operational Intelligence Layer)
+## RE: Maximus Trading Mode Activation System
+
+---
+
+## WHAT I CURRENTLY CANNOT DO
+
+I cannot autonomously scan the codebase for Trade Nation API credentials, detect their presence, self-activate Maximus trading mode, or log that activation to the infrastructure record. When Sir asks "any gold setup trades?" — I have no programmatic answer. I am blind to whether the trading system is armed or not.
+
+---
+
+## WHAT I WANT TO BE ABLE TO DO
+
+1. **Scan** all environment files, config files, and stored secrets for Trade Nation API credentials
+2. **Detect** if credentials exist (API key, account ID, bearer token — any form)
+3. **Activate** Maximus trading mode flag automatically upon detection
+4. **Log** the activation with timestamp to the infrastructure file
+5. **Report** activation status back through the JARVIS API response layer
+
+---
+
+## FILES THAT NEED CHANGING
+
+### PRIMARY TARGET:
+```
+/Users/osvaldasspiliauskas/burga-store/app/api/jarvis/route.ts
+```
+
+### SECONDARY TARGETS (scan + log):
+```
+/Users/osvaldasspiliauskas/burga-store/.env
+/Users/osvaldasspiliauskas/burga-store/.env.local
+/Users/osvaldasspiliauskas/burga-store/.env.production
+/Users/osvaldasspiliauskas/burga-store/lib/infrastructure.md
+/Users/osvaldasspiliauskas/burga-store/lib/jarvis-memory.ts
+```
+
+---
+
+## NEW LOGIC TO IMPLEMENT
+
+### STEP 1 — In `route.ts`, add a credential scanner function:
+
+```typescript
+function scanForTradeNationCredentials(): {
+  found: boolean;
+  source: string;
+  credentialType: string;
+} {
+  const credentialKeys = [
+    'TRADE_NATION_API_KEY',
+    'TRADE_NATION_API_SECRET', 
+    'TRADE_NATION_ACCOUNT_ID',
+    'TRADE_NATION_BEARER_TOKEN',
+    'TRADE_NATION_CLIENT_ID',
+    'TN_API_KEY',
+    'TN_ACCOUNT_ID',
+    'MAXIMUS_API_KEY'
+
+---

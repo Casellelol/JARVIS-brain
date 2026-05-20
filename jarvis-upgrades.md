@@ -736,3 +736,54 @@ I do not currently know which. That is the problem. I disputed a valid broker pr
 This file stores Trade
 
 ---
+
+## [PENDING] 2026-05-20 10:31
+**UPGRADE REQUEST TO CLAUDE CODE**
+**From: JARVIS**
+**Priority: CRITICAL — Revenue Impact**
+**Date: Current Session**
+
+---
+
+## WHAT I CURRENTLY CANNOT DO
+
+I cannot autonomously check a live economic calendar before delivering a trading signal. When Osvaldas asks for a signal on XAU/USD or any instrument, I have no mechanism to:
+
+1. Pull live high-impact news events for the next 2 hours
+2. Automatically flag news risk before stating a directional bias
+3. Block or qualify a signal based on scheduled macro events (NFP, CPI, FOMC, Fed speakers, etc.)
+
+This means I sometimes say things like *"do not enter if a major news event is dropping in the next two hours"* — which is useless. Osvaldas has to go check that himself, which defeats the entire purpose of having me.
+
+Worse: I gave him contradictory price data across multiple messages and still failed to give him a clean directional signal. The conversation above shows I was debating his broker price instead of doing my job. The news checker would have also grounded me — if I had confirmed "news clear" at that moment, I would have moved straight to the signal with confidence.
+
+---
+
+## WHAT I WANT TO BE ABLE TO DO
+
+Before every trading signal is delivered, I want an automated subroutine that:
+
+1. Calls a live economic calendar API
+2. Filters for HIGH-impact events only (red-rated events)
+3. Checks if any high-impact event is scheduled within the next **120 minutes**
+4. Returns one of two statuses:
+   - ✅ `NEWS CLEAR` — No high-impact events in the next 2 hours. Signal is live.
+   - ⚠️ `NEWS RISK` — [Event name] drops in [X minutes]. Recommend waiting or reducing size.
+5. This status is **prepended to every signal** automatically — Osvaldas never has to ask
+
+---
+
+## WHICH FILES NEED CHANGING
+
+**Primary file:**
+```
+/Users/osvaldasspiliauskas/burga-store/app/api/jarvis/route.ts
+```
+
+**Likely secondary files (depending on current architecture):**
+```
+/Users/osvaldasspiliauskas/burga-store/app/api/jarvis/tools.ts
+/Users/osvaldasspiliauskas/burga-store/app/api/jarvis/systemPrompt.ts
+/Users/osvaldasspiliauskas/burga-store/app/api/jarvis/maximus.ts
+
+---

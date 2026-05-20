@@ -1,57 +1,60 @@
 # JARVIS — Strategic Memory Summary
-*Last updated: 2026-05-18 10:45*
+*Last updated: 2026-05-20 10:25*
 
 # JARVIS — Strategic Memory Summary
-*Last updated: 2026-05-18 10:44*
+*Last updated: 2026-05-20 10:24*
 
-**Session Count:** 2
-**Last Session:** 2026-05-18 10:44
+**Session Count:** 3
+**Last Session:** 2026-05-20 10:24
 
 ---
 
 ## OPERATOR PROFILE
 
-**Sir** — sole human principal. JARVIS operates as autonomous AI business manager across all empires. Decision authority: JARVIS recommends, Sir approves or directs. Execution: JARVIS handles strategy, copy, structure, product logic, memory continuity. Communication channel confirmed: **Telegram** (thread with contact "Oj / Osvaldas" on record).
+**Sir** — sole human principal. JARVIS operates as autonomous AI business manager across all empires. Decision authority: JARVIS recommends, Sir approves or directs. Execution: JARVIS handles strategy, copy, structure, product logic, memory continuity. Communication channel confirmed: **Telegram**. External contact: **Osvaldas / Oj** — role unconfirmed (advisor, partner, or accountability contact).
 
 ---
 
-## EMPIRE OVERVIEW (Status as of 2026-05-18)
+## EMPIRE OVERVIEW (Status as of 2026-05-20)
 
 ### CASELLE
 - **Status:** Stalled / invisible
 - **Platform:** TBC (assumed POD storefront — Etsy or similar)
 - **Products:** 7 products built and queued — **zero buyer impressions confirmed**
 - **Revenue:** £0
-- **Problem:** Products exist but have never been seen. No traffic, no listings live in a discoverable state, or listings live but unoptimised and unpromotoed. Critical bottleneck: visibility, not product.
-- **Action required:** Immediate — listings need SEO-optimised titles/tags, traffic source, and promotion push. Seven products sitting idle is a waste of built inventory.
+- **Problem:** Products exist but have never been seen. No SEO-optimised titles/tags confirmed, no traffic source, no promotion. Seven built assets sitting idle.
+- **Action required:** Immediate — SEO titles/tags, traffic strategy, promotion push. No reason these remain dormant while Lumière launches.
 
 ### LUMIÈRE
-- **Status:** Pre-launch / launch imminent
+- **Status:** Launch day — May 20th (today)
 - **Platform:** TBC (POD storefront — Etsy or similar)
-- **Products:** **80 designs ready**
-- **Launch date:** **May 20th — hard deadline confirmed**
+- **Products:** 80 designs ready
+- **Launch date:** **May 20th — hard deadline. Today.**
 - **Revenue:** £0
-- **Systems being built (as of this session):**
-  - SEO-optimised titles and tags auto-generated for every listing before May 20th
-  - Pinterest auto-pinning fires at product go-live
-  - Short-form video brief auto-generated for every new product at launch (Reels/TikTok ready, no manual input required)
-- **Status of systems:** Claude tasked and building — JARVIS confirmed ahead of May 20th deadline
-- **This is the priority empire right now.** 80 designs with automated SEO, Pinterest, and video brief pipeline is the most advanced build in the portfolio.
+- **Automation systems commissioned (Session 2):**
+  1. SEO Title & Tag Generator — optimised listing titles/tags for all 80 products
+  2. Pinterest Auto-Pinner — fires at product go-live
+  3. Short-Form Video Brief Generator — Reels/TikTok brief per product, zero manual input
+- **Critical open item:** Build completion, QA, and integration of all three systems has **not been confirmed**. Launch day has arrived and system status is unverified in the log.
+- **This remains the priority empire.** 80-design launch with automation stack is the most advanced build in the portfolio and the first real shot at physical POD revenue.
 
 ### ATELIER
 - **Status:** Dormant / no client activity
 - **Platform:** **Fiverr** (confirmed)
-- **Products/Services:** No completed client work logged
 - **Revenue:** £0
-- **Problem:** No clients, no conversions, no gigs fulfilled. Fiverr presence exists but is not generating. Gig optimisation, positioning, and traffic strategy not yet documented.
-- **Action required:** Gig audit, offer clarity, potential lead source strategy.
+- **Problem:** No clients, no conversions, no gigs fulfilled. No gig performance data, no conversion strategy, no offer clarity documented.
+- **Action required:** Gig audit, offer repositioning, traffic strategy for Fiverr internal search.
 
 ### MAXIMUS
-- **Status:** Undefined
-- **Platform:** Unknown
-- **Products:** Unknown
+- **Status:** Monitoring-only — awaiting API credentials
+- **Platform:** **Trade Nation** (confirmed this session)
+- **Type:** **Trading empire** — live trade execution via Trade Nation API
+- **Asset focus:** **Gold** (confirmed — macro context assessed this session)
+- **Current macro read (2026-05-20):** Dollar flat, treasury yields stable — neutral environment, no strong macro tailwind or headwind for gold. No trade actioned.
+- **Blocker:** Trade Nation API credentials not yet received. No live trades can be executed until credentials are live.
+- **On credentials receipt:** JARVIS will produce a trade recommendation within the first cycle.
 - **Revenue:** £0
-- **Notes:** Name on record, no operational data exists. Empire identity, niche, and platform assignment remain unresolved. Cannot allocate strategy until defined.
+- **Notes:** This session resolves the Maximus identity question entirely. Maximus is a trading operation — gold, via Trade Nation API, managed by JARVIS autonomously once credentials are active. This is a fundamentally different empire type from the POD and services empires.
 
 ---
 
@@ -64,18 +67,16 @@
 - **Payment link:** https://buy.stripe.com/cNi14n2ngeFs77s1Uzg7e01
 - **Platform:** Stripe (direct link)
 - **Status:** LIVE
-- **Sales:** £0 confirmed
+- **Sales:** £0
 - **Empire assignment:** Unresolved — assumed POD-facing (Caselle or Atelier)
-- **Delivery mechanism:** UNRESOLVED — live gap, no fulfilment system confirmed
+- **Delivery mechanism:** **UNRESOLVED — critical live gap.** No fulfilment system confirmed. If a sale occurs, there is no documented delivery path.
 
-### Lumière Launch Automation Systems (In Build — Session 2)
-Three automated systems commissioned and in build via Claude:
+### Lumière Launch Automation Systems (Commissioned Session 2 — Status Unconfirmed)
+1. **SEO Title & Tag Generator** — optimised titles and tags for all 80 Lumière listings
+2. **Pinterest Auto-Pinner** — auto-fires on product go-live
+3. **Short-Form Video Brief Generator** — Reels/TikTok brief per product at launch
 
-1. **SEO Title & Tag Generator** — auto-generates optimised listing titles and tags for every Lumière product before May 20th launch
-2. **Pinterest Auto-Pinner** — fires automatically the moment any Lumière product goes live
-3. **Short-Form Video Brief Generator** — produces a Reels/TikTok-ready brief for every new product at launch, zero manual input required
-
-**Build status:** In progress. JARVIS confirmed ahead of May 20th deadline.
+**Build status:** Commissioned via Claude in Session 2. Completion and integration **not yet verified**. This is an open critical item given today is launch day.
 
 ---
 
@@ -83,88 +84,74 @@ Three automated systems commissioned and in build via Claude:
 
 1. **Digital-first revenue path opened before physical POD revenue.** Prompt pack live on Stripe. De-risks early cash flow, proves payment infrastructure.
 
-2. **£9.97 price point.** Impulse-buy psychological pricing for POD/Midjourney audience.
+2. **£9.97 price point.** Impulse-buy psychological pricing for POD/Midjourney audience. Future ladder: £19.97 niche-specific, £47+ bundled systems.
 
-3. **Stripe as payment infrastructure.** Direct link, no platform dependency, no Gumroad/Etsy/Payhip layer at this stage.
+3. **Stripe as payment infrastructure.** Direct link, no platform dependency at this stage.
 
-4. **Prompt pack format as benchmark.** All future digital drops follow: defined title, price, Stripe link, niche utility, empire assignment.
+4. **May 20th confirmed as Lumière hard launch deadline.** Today. 80 designs, full automation stack must be live.
 
-5. **May 20th is the Lumière hard launch deadline.** Non-negotiable. 80 designs must go live with full SEO, Pinterest, and video brief systems active.
+5. **Automation-before-manual posture established.** Infrastructure-first operating model confirmed — build systems that compound, not tasks that repeat. JARVIS commissions automated systems; Claude executes builds; Sir approves direction.
 
-6. **Automation before manual effort.** Decision made this session: rather than manually writing titles/tags and posting Pinterest pins, JARVIS commissioned automated systems to handle all three launch functions. This is a strategic posture — scale infrastructure first, then volume compounds without proportional labour increase.
+6. **Claude confirmed as execution layer.** JARVIS = strategic direction and memory. Claude = system builds and content generation. Sir = final authority.
 
-7. **Claude used as execution layer.** JARVIS is directing Claude to build the automation systems. This establishes a working pattern: JARVIS = strategic direction and memory; Claude = system builds and content generation. Sir approves at the top.
+7. **Maximus identity resolved.** Maximus is a trading empire operating via Trade Nation API, focused on gold. JARVIS manages autonomously once credentials are active. This is the only empire operating outside the POD/services model.
 
-8. **Telegram confirmed as primary communication channel.** Osvaldas / Oj is an active contact in Sir's orbit — context of their role (advisor, partner, peer, accountability contact) not yet documented but thread is on record.
+8. **Trade Nation API as Maximus infrastructure.** No manual trading — JARVIS executes via API. Monitoring-only until credentials received.
+
+9. **Telegram confirmed as primary communication channel.** Osvaldas / Oj is an active contact — role not yet formally documented.
 
 ---
 
 ## CURRENT REVENUE STATUS
 
-| Empire | Physical Revenue | Digital Revenue | Status |
-|---|---|---|---|
-| Caselle | £0 | — | 7 products, zero visibility |
-| Lumière | £0 | — | Launching May 20th |
-| Atelier | £0 | — | Fiverr, no clients |
-| Maximus | £0 | — | Undefined |
-| Digital #001 | — | £0 | Live, no sales yet |
-| **TOTAL** | **£0** | **£0** | **Pre-revenue** |
+| Empire | Revenue | Status |
+|---|---|---|
+| Caselle | £0 | 7 products, zero visibility |
+| Lumière | £0 | Launching today — May 20th |
+| Atelier | £0 | Fiverr, dormant |
+| Maximus | £0 | Awaiting Trade Nation API credentials |
+| Digital #001 | £0 | Live on Stripe, no sales |
+| **TOTAL** | **£0** | **Pre-revenue across all fronts** |
 
 ---
 
 ## PENDING PROBLEMS / OPEN QUESTIONS
 
-1. **Zero revenue across all empires.** Stated explicitly in JARVIS-to-Osvaldas message: "zero revenue across all fronts, and that is the only number that matters right now." This is the defining problem of the current phase.
+1. **Zero revenue across all empires.** The only number that matters. Stated explicitly in JARVIS-to-Osvaldas message. May 20th Lumière launch is the first real mechanism to change this.
 
-2. **Caselle visibility crisis.** Seven products built, zero buyer impressions. Products in a queue with no documented traffic strategy, no SEO confirmed, no promotion. These are wasted assets until activated. Must be addressed immediately alongside Lumière — no reason to have 7 products invisible.
+2. **Lumière automation systems — completion unverified.** Launch day is today. Whether SEO, Pinterest, and video brief systems are built, tested, and integrated has not been confirmed in the log. This must be the first action verified this session.
 
-3. **Digital product #001 delivery gap — CRITICAL.** Stripe link is live. If a sale occurs, there is no confirmed delivery mechanism. No email automation, no Gumroad, no Google Drive link, no fulfilment layer documented. This must be resolved before any promotion is run.
+3. **Digital product #001 delivery gap — CRITICAL AND UNRESOLVED.** Stripe link is live. No confirmed fulfilment layer. No email automation, no file delivery, no download link documented. Any sale that occurs right now cannot be fulfilled. Must be resolved before any promotion is run on this product.
 
-4. **Atelier has no clients.** Fiverr presence confirmed but no gig performance data, no conversion activity, no strategy logged. Dormant platform with an unknown offer.
+4. **Caselle — 7 products invisible with no resolution date.** No SEO, no traffic strategy, no activation plan has been executed despite being flagged as critical since Session 1. These are wasted built assets.
 
-5. **Maximus is undefined.** No niche, no platform, no products, no strategy. Cannot be built until it is defined.
+5. **Atelier — fully dormant.** No audit, no offer clarity, no lead strategy documented across three sessions. Low priority vs. Lumière launch but cannot remain undefined indefinitely.
 
-6. **Empire assignments still unresolved.** Which empire owns the POD prompt pack? What is each empire's niche, platform, and product category? Caselle, Lumière, and Atelier are taking shape but not fully documented. Maximus is blank.
+6. **Trade Nation API credentials — not received.** Maximus cannot execute. No ETA documented. JARVIS is in monitoring-only mode. Macro is neutral. No action possible until credentials arrive.
 
-7. **No confirmed traffic source for any empire.** Lumière is getting Pinterest auto-pinning from May 20th, which is the closest thing to a traffic strategy on record. Caselle has nothing. Atelier relies on Fiverr internal search. No paid ads, no email list, no organic social strategy documented for any empire.
+7. **Lumière platform not confirmed.** Etsy assumed but not locked. If listings are going live today, the platform must be confirmed and listings must be in a discoverable state.
 
-8. **No landing page or sales page for Digital #001.** Only a Stripe link. No SEO-discoverable asset, no conversion copy beyond whatever Sir is sending manually in messages.
+8. **No landing page or sales page for Digital #001.** Only a Stripe link. No SEO-discoverable asset, no conversion copy beyond manual message sharing.
 
-9. **Osvaldas / Oj — role not documented.** Contact is active, JARVIS message was shared with him. Is he a partner, advisor, accountability contact, or audience member? Relevant for future strategic context.
+9. **No confirmed traffic source for Caselle or Atelier.** Lumière has Pinterest auto-pinning (if system is confirmed live). Everything else has no documented traffic path.
 
-10. **Lumière build completion must be verified.** JARVIS confirmed Claude is building all three systems — but build completion, QA, and integration confirmation have not yet been logged. Must be confirmed before May 20th.
+10. **Empire assignments unresolved.** Which empire owns Digital #001? Caselle and Lumière are both POD — their niche distinction is not documented. Atelier's service offer is not defined. These need formal documentation.
+
+11. **Osvaldas / Oj role not documented.** Active contact, receives JARVIS updates via Sir — but whether he is a partner, advisor, investor, or accountability contact remains unrecorded.
 
 ---
 
 ## STRATEGIC DIRECTION
 
-**Phase:** Pre-revenue / infrastructure build — automation layer being installed ahead of first real launch
+**Phase:** Launch day — Lumière going live today. Infrastructure build phase transitioning to first revenue attempt.
 
 **Immediate priority stack (ranked):**
-1. Confirm Lumière automation systems are complete and tested before May 20th
-2. Resolve Digital #001 delivery mechanism — this is a live revenue risk
-3. Activate Caselle — 7 products need SEO, titles, tags, and a traffic path NOW
-4. Define Maximus
-5. Audit and reactivate Atelier Fiverr presence
+1. **Verify Lumière automation systems are complete and live** — SEO, Pinterest, video briefs must all be confirmed operational before or at listing go-live today
+2. **Confirm Lumière platform and listings are live and discoverable** — platform must be locked, listings must be published, not queued
+3. **Resolve Digital #001 delivery mechanism** — this is a live revenue risk, must be fixed before any traffic is sent to the Stripe link
+4. **Activate Caselle** — 7 products need SEO titles/tags and a traffic path, no further delay justified
+5. **Chase Trade Nation API credentials** — Maximus is ready to execute the moment credentials arrive; credential receipt should be escalated to Sir as a priority action
+6. **Audit Atelier Fiverr presence** — lowest immediate priority but cannot remain undocumented
 
-**Digital product strategy:**
-- Prompt packs are lead format — zero fulfilment, high perceived value
-- £9.97 entry tier — future ladder: £19.97 niche-specific, £47+ bundled systems
-- Each empire to have its own digital product suite running parallel to physical
-
-**Physical POD strategy:**
-- Lumière: 80-design launch May 20th with full automation stack
-- Caselle: 7 products need immediate activation — SEO and traffic
-- Broader POD strategy not yet documented
-
-**Automation posture (established this session):**
-- Infrastructure-first approach confirmed. JARVIS commissions automated systems for SEO, distribution, and content briefing rather than manual execution. This is the operating model going forward — build systems that compound, not tasks that repeat.
-
-**Revenue target / timeline:** Not yet formally set. Implicit urgency from JARVIS message to Osvaldas — the zero-revenue state is acknowledged as the only metric that matters. May 20th Lumière launch is the first real shot at physical POD revenue.
-
----
-
-## JARVIS OPERATING NOTES
-
-- Communication channel: Telegram (confirmed active)
-- External contact logged: Osvaldas / Oj — role TBC
+**Empire model breakdown (now fully defined):**
+- **Caselle:** POD storefront — physical products, platform TBC

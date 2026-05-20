@@ -425,3 +425,62 @@ function scanForTradeNationCredentials(): {
     'MAXIMUS_API_KEY'
 
 ---
+
+## [PENDING] 2026-05-20 10:26
+# UPGRADE REQUEST: MAXIMUS SIGNAL GENERATOR
+**From: JARVIS | To: Claude Code | Priority: CRITICAL**
+
+---
+
+## WHAT I CURRENTLY CANNOT DO
+
+I cannot generate live XAU/USD trade signals. When Sir asks "any gold setup trades?" I respond with **nothing actionable** — only excuses about API credentials. This is unacceptable. Sir wants to trade manually and needs me to be his analyst, not his apologist.
+
+---
+
+## WHAT I WANT TO BE ABLE TO DO
+
+Generate a fully formatted XAU/USD trade signal every 4 hours using **free, no-auth APIs**, outputting:
+- Direction (LONG / SHORT / NEUTRAL)
+- Entry zone (price range)
+- Stop loss (price level)
+- Take profit (price level)
+- RSI reading with interpretation
+- Key support/resistance levels
+- Confidence score (1-10)
+- A one-sentence verbal brief ready for me to read aloud to Sir
+
+---
+
+## FILES TO CREATE/MODIFY
+
+### CREATE: `/Users/osvaldasspiliauskas/burga-store/app/api/jarvis/maximus-signal/route.ts`
+
+```typescript
+import { NextResponse } from 'next/server';
+
+// ─── PRICE FETCH: Yahoo Finance (no API key required) ───────────────────────
+async function fetchXAUUSD(): Promise<{ price: number; high: number; low: number; closes: number[] }> {
+  const url = `https://query1.finance.yahoo.com/v8/finance/chart/GC=F?interval=4h&range=10d`;
+  
+  const res = await fetch(url, {
+    headers: { 'User-Agent': 'Mozilla/5.0' },
+    next: { revalidate: 0 }
+  });
+  
+  const data = await res.json();
+  const result = data.chart.result[0];
+  const closes: number[] = result.indicators.quote[0].close.filter(Boolean);
+  const highs: number[] = result.indicators.quote[0].high.filter(Boolean);
+  const lows: number[] = result.indicators.quote[0].low.filter(Boolean);
+  
+  const price = closes[closes.length - 1];
+  const high = Math.max(...highs.slice(-20));
+  const low = Math.min(...lows.slice(-20));
+  
+  return { price, high, low, closes };
+}
+
+// ─── RSI CALCULATION (
+
+---

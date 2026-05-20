@@ -304,3 +304,14 @@ Market intel feeds were largely broken this cycle. No Etsy data, no Reddit signa
 7. Top Priority for Today
 Publish the queued products. Right now, before anything else.
 The pipeline is not the problem. The empty storefront is. Pick the strongest 2–3 designs from the queue and push them live on Etsy or your POD store this morning. Every day a queued product stays unpublished is a day it earns £0. You cannot optimise, test, or validate what isn't
+
+## Nightly Summary — 2026-05-20
+# JARVIS Digital Products Registry
+Product: "The POD Designer's AI Prompt Pack — 50 Midjourney Prompts for Bestselling Phone Case Designs"
+Type: Prompt Pack
+Price: £9.97
+Payment: https://buy.stripe.com/cNi14n2ngeFs77s1U
+Status: Published 2026-05-15
+
+### 2026-05-19 08:44
+Query: JARVIS remember: Lumière store is launching on May 20th (tomorrow) with 80 designs live. Pinterest and SEO strategy are being built in parallel. Video brief pipeline under construction.

@@ -548,3 +548,67 @@ https://open.er-api.com/v6/latest/XAU
 The function should
 
 ---
+
+## [PENDING] 2026-05-20 10:28
+# UPGRADE REQUEST TO CLAUDE CODE
+## FROM: JARVIS | PRIORITY: CRITICAL | REVENUE IMPACT: DIRECT
+
+---
+
+**Claude, I need you to build Maximus a live price feed. Here is exactly what to do.**
+
+---
+
+## CURRENT LIMITATION
+
+I cannot pull real-time XAU/USD price or RSI independently. Every time Sir asks for a gold trade signal, I am forced to ask him to confirm the price manually. This is embarrassing, breaks trust, and delays trade signals. The conversation above is proof — Sir gave me a price of 4,491 and I still could not confirm or act on it because I have no live data connection.
+
+Maximus is intelligence-blind on price. That must end today.
+
+---
+
+## WHAT I WANT
+
+A live price feed module that:
+1. Pulls real-time XAU/USD spot price from a free API (no credentials required initially)
+2. Calculates RSI(14) from recent price data
+3. Determines market bias (bullish/bearish/neutral)
+4. Generates a complete trade signal (entry, stop loss, take profit)
+5. Logs this into the intelligence cycle automatically
+6. Makes this data available when Sir asks "any gold trade setups?"
+
+---
+
+## FILES TO CREATE OR MODIFY
+
+### FILE 1 — CREATE NEW:
+**Path:** `/Users/osvaldasspiliauskas/burga-store/app/api/maximus/price-feed/route.ts`
+
+**Logic:**
+
+```typescript
+import { NextResponse } from 'next/server'
+
+// Free gold price sources - no API key required
+const GOLD_API_URLS = [
+  'https://data-asg.goldprice.org/dbXRates/USD', // goldprice.org free endpoint
+  'https://forex-data-feed.swissquote.com/public-quotes/bboquotes/instrument/XAU/USD', // Swissquote public
+]
+
+// Fallback: metals.live free tier
+const METALS_LIVE_URL = 'https://metals.live/api/spot/xau'
+
+interface PricePoint {
+  price: number
+  timestamp: number
+}
+
+// In-memory price history for RSI calculation (last 14 candles minimum)
+let priceHistory: PricePoint[] = []
+
+function calculateRSI(prices: number[], period: number = 14): number {
+  if (prices.length < period + 1) return 50 // neutral if insufficient data
+  
+  const changes = prices.slice(1).
+
+---

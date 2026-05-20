@@ -427,3 +427,63 @@ Action required: Feed Caselle Scout actual data tomorrow — Google Trends keywo
   #1 — Configure Printify API key. Without it, cost-of-goods is unverifiable and the finance module is running blind. This takes 10 minutes and unblocks accurate reporting immediately.
   #2 — Triage the 6-item upgrade queue. Pick the one upgrade most directly tied to getting a product listed and sold. Execute it today, not tomorrow.
   #3 — Publish at least one phone case design. Zero published POD products means zero chance
+
+## Briefing — 2026-05-20
+🔋 System HealthMissed crons (last 24h):⚠️ MISSED: Competitor Monitor (1am)⚠️ MISSED: Lumière Scout (2am)⚠️ MISSED: Atelier Scout (3am)⚠️ MISSED: Nightly Summary (3am)⚠️ MISSED: Trend Monitor (4am)⚠️ MISSED: Caselle Scout (5am)⚠️ MISSED: JARVIS Command (6am)⚠️ MISSED: Morning Briefing (6am)⚠️ MISSED: Gold Scout (7am)⚠️ MISSED: World Brain (8am)⚠️ MISSED: Marketing Posts (9am)⚠️ MISSED: Accountant P&L (11pm)
+
+💰 API SpendMonth-to-date: $5 · Daily avg: $0.25 · Est. days remaining: 180
+
+```html
+☀️ JARVIS Morning Briefing — Wednesday, 20 May 2026
+Prepared for: Osvaldas &nbsp;|&nbsp; Generated: 05:53 UTC
+
+
+
+1. Overnight Summary
+Quiet night operationally. No sales recorded, no new products published, and no system activity logged in the last 24 hours. The business is in pre-revenue phase. One digital product exists on Stripe. Six upgrades are pending. Today needs to be a build-and-push day — momentum starts here.
+
+2. Sales & Revenue
+
+  Orders (last 30 days): 0
+  Revenue: £0.00
+  Net Profit: £0.00
+  Printify API key: ⚠️ Not configured — COGS and order sync are unverifiable until resolved
+  Dead stock: No sales data yet — no designs have been tested
+
+No panic, but no comfort either. Zero revenue at Day 0 is expected — Printify not being connected is the first real blocker to fix.
+
+3. New Products Published
+None published in the last 24 hours.
+
+  Active digital product (Stripe): The POD Designer's AI Prompt Pack — 50 Midjourney Prompts for Bestselling Phone Case Designs — £9.97 — buy.stripe.com/cNi14n2ngeFs77s1U
+
+This is the only live sellable asset. It needs traffic or it earns nothing.
+
+4. Top Market Intelligence
+⚠️ Caselle Scout returned no usable data this cycle — trend feeds and Etsy market data were not attached. The following is drawn from World Brain only:
+
+  LLM landscape: Six-month LLM recap trending on Hacker News — AI tooling is accelerating, competitive noise is rising. Stay ahead with differentiated product visuals, not just AI-generated templates.
+  Entrepreneur signal: $2.7B founder rethinking exit strategy post-athlete retirement — narrative around legacy, identity, and reinvention is resonating broadly. Potential angle for POD niches (retirement gifts, athlete-lifestyle prints).
+  Action needed: Feed Caselle Scout with Pinterest/TikTok aesthetic keywords and Etsy search data before next cycle to restore full intelligence output.
+
+
+5. ⚙️ System Activity — Last 24 Hours
+
+  No logged build, fix, or deployment activity recorded.
+  Systems ran scheduled report generation (Sales, Finance, Market Intel, World Brain) — all agents returned output, some with data gaps.
+  Gap flagged: Caselle Scout received no trend data input — requires manual feed or automated pipeline connection.
+
+
+6. Upgrade Queue Status
+
+  Pending upgrades: 6
+  Completed: 0
+
+Six upgrades are sitting idle. No completions recorded. This queue will not clear itself — at least one upgrade should ship today. Prioritise anything that unblocks sales (Printify API, product publishing pipeline, or Caselle Scout data feed).
+
+7. Priority for Today
+
+  🔴 #1 — Configure Printify API key. Until this is connected, order tracking, COGS, and product publishing are all flying blind.
+  🔴 #2 — Drive traffic to the Stripe prompt pack. It's live. Share the link — one post, one email, one community drop. £9.97 × 10 = first £100.
+  🟡 #3 — Publish at least one POD product to Etsy/Printify. Zero published products means zero organic discovery.
+  🟡 #4 — Feed Caselle Scout.</strong

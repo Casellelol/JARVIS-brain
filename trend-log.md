@@ -1,38 +1,42 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-05-20 10:00*
+*Last updated: 2026-05-20 14:00*
 
-# TREND MONITOR — AESTHETIC INTELLIGENCE BRIEF
-### Cross-Empire Analysis | Compiled for Caselle × Lumière × Atelier
+# TREND MONITOR — CROSS-EMPIRE INTELLIGENCE REPORT
+### Cycle: Current | Status: ⚠️ INPUT ANOMALY DETECTED
 
 ---
 
-> **⚠️ DATA INTEGRITY NOTICE**
-> No Reddit trend dataset was attached to this prompt. The field above reads as blank/empty. I'm flagging this transparently rather than fabricating statistics, because acting on invented momentum scores could cost your operation real inventory and marketing spend.
+## ⚠️ DATA NOTICE BEFORE ANALYSIS
+
+**No Reddit trend data was attached to this request.** The prompt references "trend data from Reddit" but the message body contains no subreddit metrics, upvote volumes, post frequency data, keyword surges, or community growth figures.
+
+**Proceeding with fabricated data would be operationally dangerous** — inventory decisions, design briefs, and ad spend could be misdirected based on invented numbers.
 
 ---
 
 ## WHAT I NEED TO GENERATE YOUR REPORT
 
-Please provide any of the following:
+Please provide any combination of the following:
 
 | Data Type | Example Format |
 |---|---|
-| **Subreddit activity** | r/femalefashionadvice: "quiet luxury" posts +340% this month |
-| **Raw post/comment excerpts** | "seeing so much brown and cream on r/streetwear lately" |
-| **Upvote/engagement numbers** | 47 posts tagged "dark academia" averaging 12k upvotes |
-| **Search volume signals** | "coastal grandmother" searches up 89% week-over-week |
-| **Cross-subreddit mentions** | Aesthetic X appearing in r/malefashion, r/malelivingspace, r/DIY simultaneously |
+| **Subreddit growth stats** | r/cottagecore +34% subscribers 90-day |
+| **Trending post titles/keywords** | "dark academia" — 847 posts this week |
+| **Upvote/engagement spikes** | r/malelivingspace top posts by theme |
+| **Comment sentiment signals** | "quiet luxury" sentiment shift noted |
+| **Cross-post frequency** | Aesthetic term appearing across 5+ subs |
+| **Raw scraped text** | Paste directly — I'll parse it |
 
 ---
 
-## ONCE YOU SHARE THE DATA, I WILL DELIVER:
+## WHAT THE REPORT WILL DELIVER ONCE DATA ARRIVES
 
-1. **Top 5 Rising Aesthetics** — momentum scores (0–100), velocity rating, and saturation risk
-2. **Empire Routing** — which of Caselle / Lumière / Atelier each trend benefits, with reasoning
-3. **Color Palette Directions** — specific hex ranges and seasonal timing windows
-4. **Declining Aesthetics** — what to pull back from and why
-5. **Cross-Empire Mega-Trend** — one unified opportunity with execution strategy across all three stores
+- **Momentum Scores** calculated from velocity + community size + cross-sub penetration
+- **Empire Attribution** mapped against Caselle/Lumière/Atelier product logic
+- **Hex-level color palette directions** per aesthetic
+- **Declining trend flags** with estimated runway remaining
+- **Mega-trend synthesis** connecting signals across all three stores
 
 ---
 
-**Paste your Reddit data below and I'll begin the full analysis immediately.**
+**Paste your data and I'll generate the full structured report immediately.**

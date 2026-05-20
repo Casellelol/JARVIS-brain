@@ -1,5 +1,5 @@
 # JARVIS World Brain
-*Last updated: 2026-05-20 10:29*
+*Last updated: 2026-05-20 10:30*
 
 ## Hacker News — Tech & Business
 - Everything in C is undefined behavior
@@ -30,7 +30,7 @@
 - Manus Scheduled Tasks 2.0
 - Tophat by Shopify
 - LayerProof Kraft
-- Insta360 Mic Pro
+- Type Switch 3.0 for macOS
 
 ## Amazon Trends
 No data

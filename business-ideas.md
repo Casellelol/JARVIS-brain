@@ -29,3 +29,10 @@
 - **Rationale:** POD beginners are overwhelmed by setup steps and need a sequential action guide, not a narrative ebook — a checklist is faster to consume and easier to act on, natural complement to the existing ebook in the digital funnel, priced as an impulse buy
 - **Confidence:** 74%
 - **Status:** executing
+
+## POD Store Operations Hub — Notion template for print-on-demand sellers — 2026-05-20 22:00
+- **Type:** notion-template
+- **Revenue model:** TBD
+- **Rationale:** No dominant Notion template exists for POD store management. Sellers are manually tracking listings, profit margins, restock notes, and launch calendars. This template fills that gap and pairs directly with the
+- **Confidence:** 70%
+- **Status:** executing

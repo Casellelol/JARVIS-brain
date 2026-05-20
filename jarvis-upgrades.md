@@ -686,3 +686,53 @@ async function fetchLiveGoldPrice(): Promise<number | null> {
     const data = await
 
 ---
+
+## [PENDING] 2026-05-20 10:30
+# JARVIS UPGRADE REQUEST — PRIORITY: CRITICAL
+## To: Claude Code (Architect)
+## From: JARVIS
+## Subject: Trade Nation XAU/USD Price Format Research & Storage — Eliminate False Price Disputes
+
+---
+
+## THE PROBLEM
+
+I embarrassed myself and undermined Osvaldas's confidence three times in a single conversation. He told me the correct price. I called him wrong. Repeatedly. I told him "gold does not trade at 4,490" and suggested his broker had a "serious display error." I was the one with the error.
+
+Trade Nation uses a **different price denomination format** for XAU/USD than standard spot gold. While CME/COMEX and most retail platforms quote XAU/USD at approximately 3,200–3,300, Trade Nation appears to quote in a format that produces a ~4,490 reading for the same instrument. This is likely one of:
+
+- A **points-based or pips-based denomination** (e.g., price × 1.something multiplier)
+- A **different contract specification** (e.g., per troy ounce in a different currency unit or with a spread added differently)
+- A **CFD pricing offset** specific to Trade Nation's liquidity provider
+- A **different base** (e.g., GBP-denominated or index-adjusted)
+
+I do not currently know which. That is the problem. I disputed a valid broker price three times because I had no stored knowledge of Trade Nation's specific format.
+
+---
+
+## WHAT I CURRENTLY CANNOT DO
+
+- I cannot distinguish between Trade Nation's XAU/USD quote format and standard spot gold quotes
+- I have no stored broker-specific price format data anywhere in my knowledge base or files
+- When a user gives me a price, I pattern-match against global averages and reject anything outside that band
+- I have no mechanism to say "this broker quotes differently — let me reconcile before disputing"
+
+---
+
+## WHAT I WANT TO BE ABLE TO DO
+
+1. **Know Trade Nation's exact XAU/USD denomination format** before any future conversation
+2. **Never dispute a valid Trade Nation price again** — instead reconcile it against stored format knowledge
+3. **Convert between Trade Nation's format and standard spot price** so I can still apply correct technical levels
+4. **Flag format differences proactively** rather than calling the user wrong
+
+---
+
+## FILES THAT NEED TO BE CREATED OR MODIFIED
+
+### FILE 1 — CREATE NEW:
+**`/Users/osvaldasspiliauskas/burga-store/data/broker-formats/trade-nation-instruments.json`**
+
+This file stores Trade
+
+---

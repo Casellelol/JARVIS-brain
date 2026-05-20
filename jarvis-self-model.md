@@ -1,49 +1,45 @@
 # JARVIS Self-Model
-*Last updated: 2026-05-20 04:00*
+*Last updated: 2026-05-20 10:00*
 
 ## Empire Status
 
 ### Caselle (Phone Cases)
 - Live status: **building**
 - Revenue confidence: **4%**
-- Top hypothesis: Getting any product live and indexed on Etsy is the single highest-leverage action — zero published sellable products means zero revenue is structurally guaranteed, not a market failure
-- Watching: **Pipeline stall risk** — 7 products are queued but unpublished; the bottleneck is execution, not market demand
+- Top hypothesis: Getting the first 7 queued designs published and indexed is the only action that moves revenue probability from zero to non-zero
+- Watching: **Pipeline stall risk** — products have been sitting in queue across multiple cycles without confirmed publication; the queue is not a business
 
 ### Noctua (Dark Academia) — Planned
 - Status: **planned**
-- Launch readiness: **5%**
+- Launch readiness: **5%** — no scaffolding confirmed, Caselle not yet generating revenue to justify parallel build
 
 ### Atelier (Fiverr Design)
 - Status: **inactive**
-- Intelligence quality: Competitor intel feed returned empty raw data this cycle — no signal, no findings to act on
+- Intelligence quality: No scout data returning this cycle; Atelier is not being actively monitored or fed intelligence
 
 ### Lumière (Etsy Wall Art)
 - Status: **inactive**
-- Launch readiness: **10%**
+- Launch readiness: **0%** — not yet initiated, no data flowing
 
 ---
 
 ## Active Hypotheses
 
-1. **The pipeline is the problem, not the market.** With 7 products queued and zero published, Caselle has never been market-tested. No market intelligence failure can be diagnosed until products are live and indexed.
-
-2. **Etsy organic search is the only acquisition channel that matters right now.** Paid ads and social are premature. One well-titled, properly-tagged listing has more expected value than any strategy document written this cycle.
-
-3. **Competitor intel is currently blind.** The scout returned empty data two cycles running. JARVIS cannot price competitively, identify winning aesthetics, or benchmark conversion without this feed being restored — this is a higher priority than it appears.
+1. **Publication unlocks indexing, indexing unlocks discovery.** Zero products live means zero organic traffic possible — the first constraint to break is getting SKUs published, not optimizing them.
+2. **Market intelligence is blocked at the data layer, not the analysis layer.** The Caselle scout returned no usable trend or Etsy market data this cycle. The scout is functional but starved. Feeding it real data (Pinterest/TikTok keywords, Etsy listing data) will immediately produce actionable design direction.
+3. **The empire is a pipeline with no exits yet.** Strategy, scaffolding, and queue management have been running for at least 3 cycles. The bottleneck is not ideas or infrastructure — it is the final publish action.
 
 ---
 
 ## What Changed This Cycle
 
-- **No change in revenue.** $0 orders, $0 revenue. Identical to last cycle.
-- **Market intelligence feed failed again.** Caselle Scout returned no trend data, no Etsy market data. Second consecutive empty cycle.
-- **Competitor intel feed returned empty raw data.** The field exists but contained no usable intelligence.
-- **Strategy document remains the most current artifact.** The playbook written 2026-05-17 is still the operative document — nothing has superseded it because no new data has come in to force an update.
-- **The 7-product queue has not moved.** This is the defining fact of this cycle.
+- **No meaningful change.** Revenue remains $0, orders remain 0. The Caselle scout failed to receive market data and returned a null report. The 7-product queue referenced in strategy has not been confirmed published. This is the second or third cycle with identical revenue output, indicating a systemic stall rather than a temporary delay.
+- The scout infrastructure exists but is not being fed data, making it non-functional in practice.
 
 ---
 
 ## Expected Next Cycle
 
-- If products remain unpublished: revenue stays at $0, confidence stays below 5%, and the self-model will flag an **execution stall** as the primary diagnosis
-- If even
+- **If the stall is broken:** At least 1 confirmed published listing on Caselle, visible in Etsy search, with an Etsy listing URL logged
+- **If the stall continues:** Orders = 0, Revenue = $0, scout returns another null or partial report
+- **Ver

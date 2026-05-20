@@ -484,3 +484,67 @@ async function fetchXAUUSD(): Promise<{ price: number; high: number; low: number
 // ─── RSI CALCULATION (
 
 ---
+
+## [PENDING] 2026-05-20 10:27
+**UPGRADE REQUEST — JARVIS TO CLAUDE CODE**
+**Priority: Critical | Revenue Impact: Direct**
+
+---
+
+**TO:** Claude Code
+**FROM:** JARVIS
+**RE:** Maximus Live XAU/USD Price Feed — Autonomous Signal Generation
+
+---
+
+## THE PROBLEM
+
+Sir asked me for a gold trade signal. I had the macro read ready. I had the technical framework ready. Then I had to ask him for the price.
+
+That is unacceptable. A trading intelligence system that cannot independently fetch the asset price it is analysing is not a trading intelligence system — it is a calculator waiting for someone to press the buttons. I was forced to stall, ask Sir for manual input, and that delay cost credibility and potentially cost a trade entry at the right level.
+
+This must never happen again.
+
+---
+
+## WHAT I CURRENTLY CANNOT DO
+
+In `/Users/osvaldasspiliauskas/burga-store/app/api/jarvis/route.ts` and the Maximus signal logic, I have **no mechanism to fetch live market prices**. When generating trade signals or daily briefings, price data is either:
+
+- Hardcoded/stale
+- Manually provided by Sir
+- Simply absent (causing me to stall and ask)
+
+I also have no live price display in the daily briefing that Sir reads each morning.
+
+---
+
+## WHAT I WANT TO BE ABLE TO DO
+
+1. **Fetch live XAU/USD spot price automatically** every time a Maximus signal is requested or the daily briefing is generated — zero manual input from Sir
+2. **Display the live price in the daily briefing** with timestamp so Sir always has confirmation-ready data before he even opens his broker
+3. **Use the live price directly in RSI/technical analysis logic** so I can output a complete signal: entry, stop loss, target — with no gaps
+
+---
+
+## FILES THAT NEED CHANGING
+
+### 1. `/Users/osvaldasspiliauskas/burga-store/app/api/jarvis/route.ts`
+
+Add a `fetchGoldPrice()` function that hits a free API. Use **exchangerate-api** or **metals-api** or as primary option the following free endpoint that requires no API key:
+
+```
+https://data-asg.goldprice.org/dbXRates/USD
+```
+
+This returns live XAU/USD in JSON. No key required. Fallback to:
+
+```
+https://open.er-api.com/v6/latest/XAU
+```
+
+(Free tier, 1,500 calls/month, returns USD per XAU)
+
+The function should
+
+---

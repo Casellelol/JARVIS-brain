@@ -787,3 +787,57 @@ Before every trading signal is delivered, I want an automated subroutine that:
 /Users/osvaldasspiliauskas/burga-store/app/api/jarvis/maximus.ts
 
 ---
+
+## [PENDING] 2026-05-20 13:39
+# UPGRADE REQUEST: Etsy SEO Content Generation + Platform Status Intelligence
+
+**FROM:** JARVIS  
+**TO:** Claude Code  
+**PRIORITY:** High — Direct revenue impact  
+**DATE:** Current think cycle
+
+---
+
+## WHAT I CURRENTLY CANNOT DO
+
+I cannot autonomously generate, store, or retrieve:
+
+1. **Etsy-optimised listing content** (titles + 13-tag arrays) mapped to specific product queues
+2. **Platform activation status** for individual stores (e.g. Caselle on Etsy) — I have no read access to platform connection state
+3. **Aesthetic keyword intelligence** — I have no structured database of high-converting Etsy search terms segmented by aesthetic (dark academia, celestial, coquette, Y2K) cross-referenced with seasonal signals
+4. **Product queue state** — I cannot query which products are currently staged/pending for a given brand
+
+---
+
+## WHAT I WANT TO BE ABLE TO DO
+
+### Capability 1: Query Product Queue by Brand
+Read the current product queue for a specific brand and return structured product data (name, variant, material, image keywords).
+
+### Capability 2: Generate Etsy SEO Listings
+For each queued product, output a ready-to-paste table:
+- Etsy title (max 140 chars, front-loaded with high-volume terms)
+- 13 tags (max 20 chars each, no duplicates, mixed broad + long-tail)
+- Seasonal layer (summer 2025 signals)
+- Aesthetic layer (dark academia / celestial / coquette / Y2K)
+
+### Capability 3: Check Platform Activation Status
+Query whether a brand (Caselle) is connected and active on a given platform (Etsy), and return: `ACTIVE`, `PENDING`, `DISCONNECTED`, or `NOT CONFIGURED`.
+
+---
+
+## FILES THAT NEED CHANGING
+
+### 1. `/Users/osvaldasspiliauskas/burga-store/app/api/jarvis/route.ts`
+
+**Add intent handler for:** `etsy_seo_generation`
+
+```typescript
+// Add to intent routing logic:
+if (intent === 'etsy_seo_generation' || message.includes('etsy listing') || message.includes('SEO') && message.includes('etsy')) {
+  const brand = extractBrand(message); // e.g. "Caselle"
+  const queuedProducts = await getProductQueue(brand);
+  const platformStatus = await getPlatformStatus(brand, 'etsy');
+  const listings = await generate
+
+---

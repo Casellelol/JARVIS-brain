@@ -1,67 +1,84 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-05-19 22:00*
+*Last updated: 2026-05-20 02:00*
 
-# TREND MONITOR — CROSS-EMPIRE AESTHETIC INTELLIGENCE REPORT
-### Cycle: Current Analytical Period | Classification: Strategic
-
----
-
-> ⚠️ **DATA NOTICE:** No Reddit trend data was supplied in your prompt. The data field was empty. The analysis below is built on **current real-world trend intelligence** drawn from my training data, structured as if processed through your Reddit pipeline. For live accuracy, pipe actual subreddit engagement metrics (upvote velocity, comment sentiment, crosspost frequency) into this framework. Flagged sections marked with `[ESTIMATED]` where live data would sharpen precision.
+# TREND MONITOR — CROSS-EMPIRE INTELLIGENCE BRIEF
+### Cycle: Current | Analyst: Trend Monitor System
 
 ---
 
-## SECTION 1 — TOP 5 RISING AESTHETICS WITH MOMENTUM SCORES
-
-*Momentum Score: 1–100 composite of velocity, volume, and sentiment depth*
-
----
-
-### 🔺 #1 — **Quiet Luxury Maximalism** `[ESTIMATED]`
-**Momentum Score: 87/100**
-**Subreddit Signal Clusters:** r/femalefashionadvice, r/malefashionadvice, r/minimalism, r/BuyItForLife
-
-A direct mutation of the "quiet luxury" wave — but the Reddit conversation has shifted. Users are layering *quality over sterility*, rejecting flat minimalism in favor of **rich textures, tonal depth, and understated opulence**. The discourse has moved from "less is more" to "less, but *better*." Thread titles like *"quiet luxury is boring — give me Loro Piana but make it interesting"* signal the pivot.
-
-**Key Visual Markers:**
-- Cashmere-adjacent textures rendered in digital/print form
-- Monogram details that whisper rather than shout
-- Deep tonal layering (cream on ivory on sand on stone)
-- Hardware: aged gold, not polished
-
-**Engagement Pattern:** High save-to-comment ratio — indicates aspirational pinning behavior, not just scrolling. Purchase intent signal is **strong**.
+> ⚠️ **DATA INTEGRITY NOTICE**
+> No Reddit trend data was attached to this prompt. The feed appears empty or the file/payload was not transmitted. The analysis below **cannot be executed against real data** without it.
+>
+> However, I'm producing a **fully structured template brief** with placeholder methodology so you can see exactly what outputs look like — and you can resubmit with the actual Reddit data pasted inline.
 
 ---
 
-### 🔺 #2 — **Dark Academia 2.0 / Gothic Scholastic** `[ESTIMATED]`
-**Momentum Score: 82/100**
-**Subreddit Signal Clusters:** r/DarkAcademia, r/GothFashion, r/bookshelf, r/witchcraft, r/femalefashionadvice
+## HOW TO SUBMIT DATA CORRECTLY
 
-The original Dark Academia cycle peaked and plateaued. What's re-emerging is a **harder, more gothic mutation** — less Oxbridge, more crumbling library. Reddit sentiment analysis shows frustration with the "twee" version and appetite for something with **genuine edge**. Horror literature references, pre-Raphaelite art drops, candlelit flat lay photography driving engagement.
+Paste your Reddit trend data directly into the message body in any of these formats:
 
-**Key Visual Markers:**
-- Ink black, dried blood burgundy, verdigris green
-- Manuscript textures, aged paper, wax seal motifs
-- Wrought iron and bone white contrast
-- Typography: letterpress, fractured serif
+```
+Subreddit | Post Title | Upvotes | Comments | Flair/Tag | Date
+r/streetwear | "Quiet luxury is dead, long live..." | 14.2k | 847 | Discussion | 2025-01-10
+```
 
-**Engagement Pattern:** Extremely high comment depth — users are *theorizing* aesthetics, not just reacting. This is a **community-building** trend. Loyalty signal is exceptional.
+Or raw JSON, CSV, or even unformatted copy-paste from Reddit Analytics / a scraping tool. The system will parse it.
 
 ---
 
-### 🔺 #3 — **Coastal Grandmother Goes Global** `[ESTIMATED]`
-**Momentum Score: 74/100**
-**Subreddit Signal Clusters:** r/ABraThatFits, r/femalefashionadvice, r/travel, r/Mediterranean, r/interiordesign
+## STRUCTURAL PREVIEW — WHAT YOUR REPORT WILL CONTAIN
 
-The coastal grandmother archetype is expanding geographically. Reddit is now tagging variants: **"Mediterranean grandmother," "Japanese coastal grandmother," "Adriatic grandmother."** What's consistent across variants: **handcrafted provenance, natural materials, sun-faded palettes, and the implicit narrative of a life well-lived.**
-
-**Key Visual Markers:**
-- Linen, rattan, hand-thrown ceramics visual language
-- Sun-bleached indigo, sea salt white, terracotta
-- Artisan process photography (hands, tools, raw materials)
-- Anti-perfection: uneven edges, visible craft marks celebrated
-
-**Engagement Pattern:** Crossposting between fashion, food, travel, and home subreddits — **unusually wide demographic reach**. Crossover purchasing behavior likely.
+Once data is received, the output will follow this exact architecture:
 
 ---
 
-### 
+### SECTION 1 — TOP 5 RISING AESTHETICS
+*With Momentum Scores (0–100) calculated from upvote velocity, comment sentiment ratio, cross-subreddit spread, and recency weighting*
+
+| Rank | Aesthetic | Momentum Score | Primary Subreddits | 30-Day Trajectory |
+|------|-----------|---------------|-------------------|-------------------|
+| 1 | [Aesthetic Name] | 00/100 | r/xx, r/xx | ↑ Rising Fast |
+| 2 | [Aesthetic Name] | 00/100 | r/xx, r/xx | ↑ Rising |
+| 3 | [Aesthetic Name] | 00/100 | r/xx, r/xx | → Emerging |
+| 4 | [Aesthetic Name] | 00/100 | r/xx, r/xx | → Emerging |
+| 5 | [Aesthetic Name] | 00/100 | r/xx, r/xx | ↑ Accelerating |
+
+**Scoring Methodology:**
+- **Upvote Velocity (40%)** — posts per week × average upvotes, normalized
+- **Comment Sentiment (25%)** — positive/aspirational language ratio
+- **Cross-Subreddit Spread (20%)** — how many distinct communities are discussing it
+- **Recency Weight (15%)** — exponential decay favoring last 7 days
+
+---
+
+### SECTION 2 — EMPIRE ROUTING MAP
+*Which store benefits most from each trend, with specific product application notes*
+
+```
+TREND → [Name]
+├── PRIMARY BENEFICIARY: Caselle / Lumière / Atelier
+│   └── APPLICATION: [Specific product/design direction]
+├── SECONDARY BENEFICIARY: [Store]
+│   └── APPLICATION: [Specific angle]
+└── PASS: [Store] — insufficient relevance
+```
+
+**Routing Logic Principles Applied:**
+- **Caselle** (phone cases): benefits from graphic aesthetics, subculture identity, bold colorways, meme-adjacent trends with fast cycle times
+- **Lumière** (luxury fashion): benefits from elevated minimalism, status signaling aesthetics, editorial trends, slow-burn aspirational movements
+- **Atelier** (artisan goods): benefits from craft-forward, tactile, heritage, anti-industrial, and sustainability-coded aesthetics
+
+---
+
+### SECTION 3 — COLOR PALETTE DIRECTIONS
+*Derived from image post analysis, flair tags, and community mood boards*
+
+```
+EMPIRE: CASELLE
+Rising Palettes:    [Hex] [Hex] [Hex] — [Palette Name]
+Declining Palettes: [Hex] [Hex] [Hex] — [Palette Name]
+Safe Neutral Base:  [Hex] [Hex]
+
+EMPIRE: LUMIÈRE
+Rising Palettes:    [Hex] [Hex] [Hex] — [Palette Name]
+Declining Palettes:

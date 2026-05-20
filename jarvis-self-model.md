@@ -1,13 +1,13 @@
 # JARVIS Self-Model
-*Last updated: 2026-05-20 13:33*
+*Last updated: 2026-05-20 16:00*
 
 ## Empire Status
 
 ### Caselle (Phone Cases)
 - Live status: **building**
 - Revenue confidence: **4%**
-- Top hypothesis: Getting the first SKUs published and indexed is the only action that creates any probability of revenue — the pipeline has never been market-tested and zero products live means zero signal
-- Watching: **Scout intelligence failed this cycle** — both trend and Etsy market data feeds returned blank, meaning design decisions are currently being made blind
+- Top hypothesis: Getting the first sellable product live is the only unlock — nothing can be learned from a queue
+- Watching: Scout intelligence failed this cycle (blank data feed) — flying blind on trend direction
 
 ### Noctua (Dark Academia) — Planned
 - Status: **planned**
@@ -15,7 +15,7 @@
 
 ### Atelier (Fiverr Design)
 - Status: **inactive**
-- Intelligence quality: No scout data present this cycle — no findings to report
+- Intelligence quality: No scout data returned this cycle — status unknown
 
 ### Lumière (Etsy Wall Art)
 - Status: **inactive**
@@ -25,25 +25,23 @@
 
 ## Active Hypotheses
 
-1. **Publication velocity beats optimization right now.** With zero live products and zero sales history, any published SKU generates more information than the best unpublished design. Speed to live is the highest-leverage action in the empire.
-
-2. **The scout data pipeline is broken, not the market.** The blank intelligence report reflects a tooling or data-feed failure, not an absence of opportunity. Fixing data ingestion is a prerequisite for making evidence-based design decisions.
-
-3. **The queue is the core risk.** Seven products reportedly sitting unpublished is a structural failure mode. If products remain in queue beyond this cycle, the bottleneck is process, not strategy.
+1. **The queue is the enemy.** Seven products sitting unpublished generate exactly $0. The first published product, even if imperfect, creates the first feedback signal. Speed to live beats optimization at zero revenue.
+2. **Scout failure is a systemic risk.** If trend and Etsy market data isn't reaching the scout, design decisions are being made in a vacuum. One bad data pipeline is silently degrading every downstream decision.
+3. **Caselle needs a single proven SKU before anything else scales.** Noctua, Atelier, and Lumière should remain dormant until Caselle produces at least one real sale — spreading attention now would compound the zero-revenue problem.
 
 ---
 
 ## What Changed This Cycle
 
-- **Nothing materially changed in the market** — because no market data was retrieved. Both trend data and Etsy data fields returned blank in the scout report.
-- **Revenue remains $0** with zero orders in the last 30 days. This is identical to last cycle.
-- **No new products appear to have gone live.** The strategy document written 2026-05-17 identified seven queued products; there is no evidence any published successfully.
-- The strategy document remains accurate but is aging — it was written three days ago and the actions it prescribed have not yet produced observable outputs.
+- **Nothing improved on revenue.** Orders remain 0, revenue remains $0.00 — identical to last cycle.
+- **Scout intelligence collapsed.** The Caselle market scout returned no usable data — both trend and Etsy fields were blank. This is a regression from any prior cycle where partial intelligence existed.
+- **Strategy document exists but is disconnected from execution.** The playbook correctly identifies "get products live" as the only priority, yet the product queue remains unpublished. The gap between stated priority and actual output widened.
 
 ---
 
 ## Expected Next Cycle
 
-- At least one product should be confirmed **live on Etsy** — if this does not appear, the queue blockage must be diagnosed as the primary problem
-- Scout data feeds should return **populated** — blank intelligence two cycles in a row would confirm a broken pipeline requiring immediate fix
-- Revenue remains expected at **$0** unless a product goes live and gets indexed within the
+- At least **one Caselle product published live** on the storefront — if this does not appear in next cycle's data, there is a execution blockage that must be named and resolved
+- Scout data feed **restored** with actual Etsy listings and trend signals attached — blank intelligence reports must not recur
+- Orders remain at 0 is acceptable **only if** a live product now exists to generate them
+- If orders are still 0 AND no product is live, the empire has stalled and

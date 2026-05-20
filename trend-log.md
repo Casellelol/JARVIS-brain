@@ -1,42 +1,58 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-05-20 14:00*
+*Last updated: 2026-05-20 18:00*
 
-# TREND MONITOR — CROSS-EMPIRE INTELLIGENCE REPORT
-### Cycle: Current | Status: ⚠️ INPUT ANOMALY DETECTED
-
----
-
-## ⚠️ DATA NOTICE BEFORE ANALYSIS
-
-**No Reddit trend data was attached to this request.** The prompt references "trend data from Reddit" but the message body contains no subreddit metrics, upvote volumes, post frequency data, keyword surges, or community growth figures.
-
-**Proceeding with fabricated data would be operationally dangerous** — inventory decisions, design briefs, and ad spend could be misdirected based on invented numbers.
+# TREND MONITOR — AESTHETIC INTELLIGENCE REPORT
+### Cross-Empire Analysis | Compiled for Caselle × Lumière × Atelier
+#### *Note: Analysis based on provided Reddit trend dataset. No external data was ingested for this session.*
 
 ---
 
-## WHAT I NEED TO GENERATE YOUR REPORT
+> ⚠️ **DATA INPUT ALERT**
+> No Reddit trend data was attached to this prompt. The dataset field appears to be **empty or unpopulated**.
+>
+> Running a fabricated analysis would produce **confident-sounding fiction** — which is operationally dangerous for inventory decisions, creative direction, and ad spend allocation across your three stores.
 
-Please provide any combination of the following:
+---
 
-| Data Type | Example Format |
+## WHAT I NEED TO PROCEED
+
+Please paste your Reddit trend data in **any of these formats:**
+
+| Format | Example |
 |---|---|
-| **Subreddit growth stats** | r/cottagecore +34% subscribers 90-day |
-| **Trending post titles/keywords** | "dark academia" — 847 posts this week |
-| **Upvote/engagement spikes** | r/malelivingspace top posts by theme |
-| **Comment sentiment signals** | "quiet luxury" sentiment shift noted |
-| **Cross-post frequency** | Aesthetic term appearing across 5+ subs |
-| **Raw scraped text** | Paste directly — I'll parse it |
+| **Raw subreddit post titles/upvotes** | r/streetwear — "Gorpcore is dead, long live..." — 4.2k upvotes |
+| **Keyword frequency tables** | "quiet luxury" — mentioned 847x this week, +210% WoW |
+| **Scraped comment sentiment blocks** | Raw text dumps from relevant subreddits |
+| **Pre-aggregated CSV/JSON** | Paste directly into chat |
+| **Manual observations** | "Seeing heavy r/femalefashionadvice traction for X" |
 
 ---
 
-## WHAT THE REPORT WILL DELIVER ONCE DATA ARRIVES
+## SUBREDDITS I'LL CROSS-REFERENCE AGAINST YOUR EMPIRES
 
-- **Momentum Scores** calculated from velocity + community size + cross-sub penetration
-- **Empire Attribution** mapped against Caselle/Lumière/Atelier product logic
-- **Hex-level color palette directions** per aesthetic
-- **Declining trend flags** with estimated runway remaining
-- **Mega-trend synthesis** connecting signals across all three stores
+Once data is provided, I'll pull signal from:
+
+**For Caselle (Phone Cases)**
+- r/streetwear, r/sanrio, r/y2kaesthetic, r/malefahsion, r/coquette
+
+**For Lumière (Luxury Fashion)**
+- r/femalefashionadvice, r/malefashionadvice, r/luxury, r/OldMoney, r/minimalism
+
+**For Atelier (Artisan Goods)**
+- r/cottagecore, r/witchcraft, r/Handmade, r/Anticonsumption, r/crafts
 
 ---
 
-**Paste your data and I'll generate the full structured report immediately.**
+## READY TO DEPLOY FULL REPORT STRUCTURE
+
+Once data lands, I'll deliver:
+
+1. 📈 **Top 5 Rising Aesthetics** — with momentum scores (0–100) and week-over-week velocity
+2. 🏪 **Empire Routing** — Primary/Secondary beneficiary per trend with rationale
+3. 🎨 **Color Palette Directions** — Hex-level specificity where signal supports it
+4. 📉 **Declining Aesthetics** — With depreciation rate and clearance urgency flags
+5. 🌐 **Cross-Empire Mega-Trend** — One connective opportunity with unified campaign concept
+
+---
+
+**Paste your data below and I'll run the full analysis immediately.**

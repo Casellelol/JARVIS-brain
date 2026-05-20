@@ -1,5 +1,5 @@
 # JARVIS World Brain
-*Last updated: 2026-05-20 10:23*
+*Last updated: 2026-05-20 10:25*
 
 ## Hacker News — Tech & Business
 - Everything in C is undefined behavior
@@ -27,8 +27,8 @@
 ## Product Hunt — New Products Trending
 - Product Hunt — The best new products, every day
 - Tophat by Shopify
-- Manus Scheduled Tasks 2.0
 - mailX by mailwarm (YC S20)
+- Manus Scheduled Tasks 2.0
 - Type Switch 3.0 for macOS
 - LayerProof Kraft
 

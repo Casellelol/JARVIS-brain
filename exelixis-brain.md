@@ -1,40 +1,35 @@
 # Caselle Scout — Market Intelligence
-*Last updated: 2026-05-20 05:53*
+*Last updated: 2026-05-21 05:53*
 
-# Caselle Scout Intelligence Report
-### Market Analysis | Current Cycle
+## ⚠️ No Data Detected
 
----
-
-> ⚠️ **Data Notice:** No trend data or Etsy market information was successfully attached to this prompt. Both data fields appear to be blank.
+It looks like the trend data and Etsy market data fields were submitted **empty**. No content came through with your message.
 
 ---
 
-## To Generate Your Full Intelligence Report, Please Provide:
+### To generate your intelligence report, please provide:
 
-**Fashion Trends Data** — such as:
-- Pinterest/TikTok trending aesthetic keywords
-- Google Trends search volume data
-- Runway or streetwear trend reports
-- Social engagement metrics by aesthetic category
+**1. Fashion Trends Data** — e.g.:
+- Pinterest/TikTok trend reports
+- Google Trends keyword data
+- Runway or streetwear trend summaries
 
-**Etsy Market Data** — such as:
-- Top-selling listing titles & prices
-- Bestseller badge counts by category
-- Review velocity on competitor listings
-- Search result positioning data
-
----
-
-## What I'll Deliver Once Data is Received:
-
-| Section | Output |
-|---|---|
-| 🎨 Top 3 Rising Aesthetics | Named trends + growth signals |
-| ✏️ Design Directions | Specific motifs, palettes, copy angles |
-| 💰 Competitor Pricing | Price bands, perceived value gaps |
-| 🎯 High-Confidence Opportunity | One actionable SKU recommendation |
+**2. Etsy Market Data** — e.g.:
+- Search volume or listing counts
+- Bestseller titles/tags
+- Pricing ranges from competitor listings
+- Review counts or "in X carts" signals
 
 ---
 
-**Please re-paste or upload your data and I'll produce the full report immediately.**
+### You can paste data in formats like:
+
+> *"Keyword: 'coquette phone case' — searches up 340% MoM, avg price $18.99, top listings have 200+ reviews"*
+
+Or drop in raw CSV data, screenshot descriptions, or copied text from any trend tool (Everbee, Sale Samurai, Google Trends, etc.).
+
+Once you share the data, I'll produce a full **Caselle Scout Intelligence Report** with:
+- 🔺 Top 3 rising aesthetics
+- 🎨 Design direction recommendations
+- 💰 Competitor pricing observations
+- 🎯 One high-confidence opportunity

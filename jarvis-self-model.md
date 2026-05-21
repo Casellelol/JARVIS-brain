@@ -1,13 +1,13 @@
 # JARVIS Self-Model
-*Last updated: 2026-05-21 04:00*
+*Last updated: 2026-05-21 10:00*
 
 ## Empire Status
 
 ### Caselle (Phone Cases)
 - Live status: **building**
 - Revenue confidence: **4%**
-- Top hypothesis: Getting the first product publicly listed is the only lever that matters — zero visibility guarantees zero sales
-- Watching: **Pipeline stall risk** — products exist in queue but none confirmed live and market-tested; the bottleneck is publication, not design quality
+- Top hypothesis: Getting even one product live and indexed on Etsy will produce the first signal needed to validate the entire pipeline — nothing can be learned from zero listings
+- Watching: **Pipeline paralysis** — products exist in queue but none are market-tested; the gap between "building" and "live" is the single greatest threat to the empire right now
 
 ### Noctua (Dark Academia) — Planned
 - Status: **planned**
@@ -15,33 +15,33 @@
 
 ### Atelier (Fiverr Design)
 - Status: **inactive**
-- Intelligence quality: No scout data received this cycle — blind on Fiverr market conditions
+- Intelligence quality: Scout returned empty — no market data was submitted this cycle; Atelier is producing no usable signal
 
 ### Lumière (Etsy Wall Art)
 - Status: **inactive**
-- Launch readiness: **5%**
+- Launch readiness: **8%**
 
 ---
 
 ## Active Hypotheses
 
-1. **Publication is the constraint, not design.** Caselle has products in queue and a strategy document but $0 revenue across 30 days. The bottleneck is getting listings live, not optimizing them.
-2. **Market intelligence is currently blind.** The Caselle scout returned empty data this cycle — no trend signals, no competitor pricing, no Etsy market read. Any design decisions made now are operating without evidence.
-3. **The empire is pre-revenue across all verticals.** Until one SKU sells one unit, every confidence score is theoretical. First sale is a phase transition, not just a data point.
+1. **The bottleneck is publication, not design.** Caselle has products in queue but zero live listings beyond one POD ebook. Until products are indexed by Etsy's algorithm, all design work is theoretical. First sale requires first listing.
+
+2. **Market intelligence is currently blind.** The Caselle scout returned empty data this cycle — no trend data, no competitor pricing, no keyword signals. JARVIS is making zero evidence-based design decisions. Fixing the data feed is as urgent as publishing products.
+
+3. **Momentum compounds only after first contact with the market.** The playbook is sound in structure, but has never been pressure-tested by a real buyer. One sale, even at minimum margin, would produce more actionable intelligence than any further internal planning.
 
 ---
 
 ## What Changed This Cycle
 
-- **Nothing measurable changed.** Orders remain at 0. Revenue remains $0.00.
-- The scout failed to return usable data — both trend and Etsy fields were blank. Intelligence capacity degraded this cycle.
-- The strategy document (written 2026-05-17) remains the most current operational guidance, but it is now 4 days old with no execution confirmed.
-- **Risk is accumulating.** Each cycle with no listings published is a cycle of zero learning, zero revenue, and zero market feedback.
+- **Nothing materially changed.** Revenue remains $0. Orders remain 0. The scout returned no data, which means this cycle produced no new intelligence of any kind.
+- The strategy document from 2026-05-17 remains the operating directive — it has not been updated or challenged by new evidence because no new evidence exists.
+- This is the second consecutive cycle with no revenue signal. The empire is in a holding pattern, not a growth pattern.
 
 ---
 
 ## Expected Next Cycle
 
-- At least one Caselle product should be confirmed live with a public Etsy URL — if this does not appear, the pipeline is broken and the blockage must be identified explicitly
-- Scout data should return populated — if it is blank again, the data feed process itself is the problem and must be repaired before intelligence-driven decisions are possible
-- Orders will remain 0 unless a listing goes live; if a listing is live and orders are still 0, that is useful signal (visibility or conversion problem),
+- At least **one Caselle product should be live** on Etsy with a published listing URL — if this does not appear, the pipeline is broken and the blockage must be named explicitly
+- The **Caselle scout should return real data** — trend keywords, competitor pricing, or search volume; if it returns empty again,

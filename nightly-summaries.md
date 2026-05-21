@@ -315,3 +315,50 @@ Status: Published 2026-05-15
 
 ### 2026-05-19 08:44
 Query: JARVIS remember: Lumière store is launching on May 20th (tomorrow) with 80 designs live. Pinterest and SEO strategy are being built in parallel. Video brief pipeline under construction.
+
+## Nightly Summary — 2026-05-21
+1. Overnight Agent Activity
+Three think cycles ran between 2026-05-17 and 2026-05-21. Agents scanned dashboard, finance, competitor intel, and world brain. External data feeds largely failed: Reddit blocked, Etsy returned empty across all 5 target keywords (dark academia, celestial witch, coquette, booktok, y2k), BURGA and Pela unavailable. CASETiFY price data scraped successfully — pricing spans $1–$40. No automated triggers fired. No products published. No sales detected.
+
+2. Intelligence Brain Updates
+
+  Confirmed: Caselle has 7 products queued, zero live, zero visibility — classified as distribution failure, not product failure
+  Confirmed: Lumière had 80 designs ready targeting May 20 launch — launch status unverified as of this report
+  New hypothesis logged: "Naming a deadline without a forcing function does nothing" — H4 partially disproven
+  CASETiFY price floor: $5–$9 for standard cases, $40 ceiling for premium — stored for pricing strategy
+  Printify API key not configured — blocks all COGS calculations and order verification
+  Memory note standing: AI Prompt Pack live at £9.97 via Stripe — no sales recorded against it
+
+
+3. Opportunity Queue
+
+  No new opportunities added this cycle — Etsy and Reddit both dark
+  5 keyword niches remain unvalidated (dark academia, celestial witch, coquette, booktok, y2k) — cannot score without market data
+  CASETiFY price gap: their $5–$9 range suggests a mid-market opening at £8–£12 remains viable — held in queue, not promoted
+  Lumière launch (May 20): if live, 80 designs represent the single largest opportunity currently in the empire — status must be manually confirmed
+
+
+4. Revenue Events
+
+  Total orders (30d): 0
+  Total revenue: £0.00
+  Refunds: 0
+  Printify orders: 0 — API key not configured, cannot verify independently
+  Stripe (AI Prompt Pack £9.97): payment link active, no confirmed sales this period
+
+
+5. Pending Manual Actions
+
+  CRITICAL — Lumière launch verification: Confirm whether the May 20 launch actually executed. 80 designs sitting unpublished = 0 revenue opportunity.
+  CRITICAL — Printify API key: Configure immediately. Without it, JARVIS cannot track orders, calculate COGS, or verify fulfillment.
+  HIGH — Caselle distribution fix: 7 products queued with zero published. Decide: publish this week or deprioritise in favour of Lumière.
+  MEDIUM — Etsy + Reddit access: Both feeds failing. Manual check or credential rotation needed to restore market intelligence.
+  LOW — Upgrade queue: 14 pending system upgrades, 0 completed. Review and clear or formally defer.
+
+
+6. JARVIS Confidence Score
+31 / 100
+Primary data feeds (Etsy, Reddit, Printify) are all down or unconfigured. Sales data is confirmed zero but cannot be cross-verified. Lumière launch status is unknown — the empire's largest near-term bet is unconfirmed. JARVIS is operating on internal memory and partial scrapes only. Confidence will not exceed 50 until external feeds are restored and at least one product is confirmed live with traffic.
+
+7. Top Priority for Today
+Confirm whether Lumière launched on May 20. Open the Etsy seller dashboard, verify how many of the 80 designs are live, and check impressions from the first 24 hours. If nothing published, publish a minimum of 10 listings today before anything else. Every hour of delay on 80 ready designs

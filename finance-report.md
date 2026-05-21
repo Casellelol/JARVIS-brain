@@ -1,40 +1,41 @@
 # Accountant — Daily Financial Report
-*Generated: 2026-05-20 23:24*
+*Generated: 2026-05-21 23:24*
 
 ## Raw Data
 - Orders (30d): 0 | Revenue: £0.00
 - Printify key not configured
 
 ## Analysis
-## Daily Financial Summary — Phone Case Dropshipping Empire
+## Daily Financial Summary — ⚠️ CRITICAL ALERT
 
 ---
 
-### ⚠️ CRITICAL: SYSTEM NOT OPERATIONAL
+### 📊 Core Metrics
 
 | Metric | Value |
 |---|---|
-| **Gross Revenue (30d)** | £0.00 |
-| **COGS** | £0.00 (unverifiable) |
-| **Net Profit** | £0.00 |
-| **Margin %** | N/A |
+| Gross Revenue | £0.00 |
+| Cost of Goods | £0.00 (unverifiable) |
+| Net Profit | **£0.00** |
+| Margin % | **N/A** |
+| Orders (30d) | **0** |
 
 ---
 
-### Key Observations
+### 🔴 Key Observations
 
-1. **Zero orders recorded** — no revenue has been generated in the 30-day window
-2. **Printify API not configured** — COGS data is completely blind; no supplier costs can be tracked or verified
-3. **Two simultaneous blockers exist** — even if orders were flowing, profitability cannot be calculated without the Printify connection
+1. **Zero revenue, zero orders** — the business is generating no income whatsoever over the last 30 days.
+2. **Printify API not configured** — COGS data is blind. No supplier costs can be tracked, meaning profitability is unmeasurable even if orders arrived.
+3. **Dual failure state** — both the sales pipeline AND the cost infrastructure are non-functional simultaneously.
+
+---
+
+### ✅ Single Recommended Action
+
+**Fix the Printify API key first — today.**
+
+Without it, you cannot price correctly, fulfil orders, or calculate margin. Even if sales recovered, you'd be flying blind on every transaction. This is the single highest-leverage unblock.
 
 ---
 
-### Priority Action
-
-🔴 **Configure Printify API key immediately.**
-This is the single highest-leverage fix — without it, cost data is invisible and profit margins are untrackable. Revenue of £0 combined with unverified costs means the business is effectively unmonitored.
-
-**Next step:** Add Printify API key → confirm product cost sync → then diagnose the zero-order pipeline (ads, listings, or store traffic issue).
-
----
-*No financial decisions should be made until both blockers are resolved.*
+> *No financial modelling is possible until both integrations are live. Next meaningful summary requires: active orders + confirmed COGS data.*

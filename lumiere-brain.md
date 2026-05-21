@@ -1,67 +1,53 @@
 # Lumière Scout — Market Intelligence
-*Last updated: 2026-05-20 02:08*
+*Last updated: 2026-05-21 02:08*
 
 # LUMIÈRE SCOUT INTELLIGENCE BRIEF
-### Premium Market Intelligence Report — Q2 2025
-*Confidential | For Strategic Leadership & Creative Direction*
+### Premium Market Analysis | Current Season
 
 ---
 
-> *"In luxury, timing is not everything — it is the only thing."*
+> *"Fashion is not something that exists in dresses only. Fashion is in the sky, in the street — in ideas, the way we live, what is happening."* — Coco Chanel
 
 ---
 
-## ⚠️ DATA NOTE
+## ⚠️ NOTICE: NO MARKET DATA PROVIDED
 
-No market data was attached to this brief. The intelligence below is drawn from **Lumière Scout's curated trend synthesis engine**, incorporating pattern intelligence through early 2025. For fully calibrated analysis, please resubmit with your proprietary market data feed.
+Before proceeding, the Scout must flag a critical input gap.
 
----
-
-# PART I — THE AESTHETIC PULSE
-## Top 3 Rising Luxury Aesthetics
+**No fashion market data was attached to this request.** The data field reads empty. Producing fabricated figures dressed in analytical language would be a disservice — and frankly, beneath the standard this brief demands.
 
 ---
 
-### 01 · **SOVEREIGN MINIMALISM**
-*Confidence Level: ██████████ 94%*
+## WHAT THE SCOUT NEEDS TO DELIVER PRECISION INTELLIGENCE
 
-The maximalism fatigue is real. Ultra-high-net-worth consumers are gravitating toward a refined, almost austere language of dress — but with material opulence doing the heavy lifting. Think **The Row meets early Jil Sander**, but with geological-weight fabrics and architectural precision that signals wealth without broadcasting it.
+To generate a report worthy of your brand's positioning, please supply any combination of the following:
 
-**Key Signals:**
-- Double-faced cashmere coats in single-tonal earth spectrums (chalk, warm taupe, iron)
-- Absence of visible logos at the $4,000+ price tier
-- Controlled, deliberate proportions — nothing "relaxed," everything *considered*
-- Rising search volume: *"quiet luxury," "investment dressing," "heritage tailoring"* — up 340% YoY
-
-**Who's leading it:** Loro Piana, The Row, Khaite, Totême at scale
-
----
-
-### 02 · **NEO-BAROQUE UTILITY**
-*Confidence Level: ████████░░ 78%*
-
-A sophisticated contradiction emerging from the collision of utilitarian structure and baroque ornamentation. This is **not** maximalism's return — it is maximalism *edited*. One extraordinary detail on an otherwise architectural garment. The ornate becomes the punctuation, not the sentence.
-
-**Key Signals:**
-- Military-grade hardware on evening-weight silk
-- Embroidered cuffs on structured, unadorned blazers
-- Tapestry-inspired prints contained to single panels (not all-over)
-- Growing traction in the **$1,500–$3,500 ready-to-wear** sweet spot
-- Strong resonance in Middle Eastern and East Asian luxury markets
-
-**Who's leading it:** Valentino (under Piccioli's legacy DNA), Alexander McQueen, Zimmermann elevated tier
+| Data Type | Examples |
+|---|---|
+| **Search & Social Signals** | Google Trends exports, Pinterest trend reports, TikTok/Instagram engagement metrics |
+| **Runway & Editorial Data** | Recent season show notes, Vogue Runway coverage, WGSN snapshots |
+| **Sales & Commercial Data** | SKU performance, category growth figures, conversion rates |
+| **Competitive Intelligence** | Competitor launches, pricing lists, stockist data |
+| **Consumer Sentiment** | Survey results, focus group findings, review aggregates |
+| **Macro Context** | Economic indicators, luxury spend indices, regional market data |
 
 ---
 
-### 03 · **TECHNO-HERITAGE FUSION**
-*Confidence Level: ███████░░░ 71%*
+## WHAT I WILL PRODUCE WITH YOUR DATA
 
-Heritage craftsmanship meeting performance material science. The luxury customer who once chose between *beautiful* and *functional* is now refusing the compromise. Brands that can authentically stitch together artisanal provenance with advanced textile engineering will capture the next decade.
+Once supplied, the Lumière Scout will deliver:
 
-**Key Signals:**
-- Japanese selvedge and GOTS-certified technical wovens in the same construction
-- Gore-Tex integrated into tailoring (see: Brunello Cucinelli's resort 2025 line)
-- Recycled cashmere blends commanding *premium* — not discount — pricing
-- Strongest traction: **35–50 age bracket**, dual-income urban professionals
+1. **🌅 Top 3 Rising Luxury Aesthetics** — named, contextualized, and culturally situated
+2. **🛍️ Product Direction Recommendations** — category-specific, margin-aware, seasonally calibrated
+3. **💎 Competitive Pricing Analysis** — tiered benchmarking across the premium segment
+4. **✂️ Silhouette & Material Trends** — with specific fabric callouts and construction notes
+5. **🎯 High-Confidence Luxury Opportunity** — one singular, actionable white-space play with rationale
 
-**Who's leading it:** Brunello Cucinelli, Arc'teryx VEILANCE, Stone Island Shadow
+---
+
+*The Scout does not speculate. The Scout illuminates.*
+
+**→ Please resubmit with your market data attached.**
+
+---
+*Lumière Scout | Market Intelligence Division*

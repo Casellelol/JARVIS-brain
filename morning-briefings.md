@@ -487,3 +487,77 @@ Six upgrades are sitting idle. No completions recorded. This queue will not clea
   🔴 #2 — Drive traffic to the Stripe prompt pack. It's live. Share the link — one post, one email, one community drop. £9.97 × 10 = first £100.
   🟡 #3 — Publish at least one POD product to Etsy/Printify. Zero published products means zero organic discovery.
   🟡 #4 — Feed Caselle Scout.</strong
+
+## Briefing — 2026-05-21
+🔋 System HealthMissed crons (last 24h):⚠️ MISSED: Competitor Monitor (1am)⚠️ MISSED: Lumière Scout (2am)⚠️ MISSED: Atelier Scout (3am)⚠️ MISSED: Nightly Summary (3am)⚠️ MISSED: Trend Monitor (4am)⚠️ MISSED: Caselle Scout (5am)⚠️ MISSED: JARVIS Command (6am)⚠️ MISSED: Morning Briefing (6am)⚠️ MISSED: Gold Scout (7am)⚠️ MISSED: World Brain (8am)⚠️ MISSED: Marketing Posts (9am)⚠️ MISSED: Accountant P&L (11pm)
+
+💰 API SpendMonth-to-date: $5.25 · Daily avg: $0.25 · Est. days remaining: 179
+
+```html
+☀️ JARVIS Morning Briefing — Thursday, 21 May 2026
+Prepared for: Osvaldas &nbsp;|&nbsp; Generated: 05:53 UTC
+
+
+
+1. Overnight Summary
+Blunt assessment: the store is not yet trading. Zero revenue, zero published products, zero market intel fed in. The infrastructure exists but the engine hasn't turned over. The one live asset is the AI Prompt Pack digital product at £9.97 on Stripe. Today's job is to change the numbers above zero — starting with getting at least one product live.
+
+
+
+2. Sales & Revenue
+
+  Orders (last 30 days): 0
+  Revenue (last 30 days): £0.00 / $0.00
+  Gross Profit: £0.00
+  Printify API key: ⚠️ Not configured — COGS unverifiable, fulfilment blocked
+  Live paid asset: AI Prompt Pack — £9.97 | Stripe link active
+
+No sales data exists yet. Dead stock count: N/A — nothing has been published to sell.
+
+
+
+3. New Products Published
+
+  Phone cases published: 0
+  Digital products published: 1 (AI Prompt Pack — existing, from 2026-05-15)
+
+No new listings went live in the last 24 hours.
+
+
+
+4. Top Market Intelligence
+⚠️ No trend or Etsy market data was submitted. Scout returned empty. Intelligence report cannot be generated without inputs.
+
+  Action required: Feed Caselle Scout with Pinterest/TikTok trends, Google Trends keywords, or Etsy competitor listing data to unlock this section.
+  World Brain signal (Hacker News): Gemini 2.5 Flash gaining traction — AI tooling cycle accelerating. Relevant if positioning the Prompt Pack toward AI-assisted POD creators.
+  World Brain signal: Rust + AI at scale (100K lines) — developer/tech aesthetic continues strong as a POD niche angle.
+
+
+
+
+5. ⚙️ System Activity — Last 24 Hours
+
+  Built / Deployed: Nothing logged. No confirmed builds, fixes, or deployments in the last 24-hour window.
+  Status: All agents ran (Finance, Scout, World Brain, Memory) — reports generated but most returned empty-data warnings.
+  Blocker identified: Printify API key missing — blocks product publishing pipeline entirely.
+
+
+
+
+6. Upgrade Queue Status
+
+  Pending upgrades: 14
+  Completed upgrades: 0
+  Queue movement (last 24h): None — 0 upgrades cleared.
+  ⚠️ At current pace the queue will not self-resolve. Needs a scheduled clear-down session.
+
+
+
+
+7. Priority for Today
+
+  🔴 #1 — Configure Printify API key. Nothing ships until this is done. Every other task depends on it.
+  🔴 #2 — Publish at least 1 phone case product. Revenue counter stays at zero until a listing exists. One live product breaks the deadlock.
+  🟠 #3 — Feed Caselle Scout. Pull 5 Etsy competitor listings + one trending keyword and submit. Market intel is blind without it.
+  🟠 #4 — Promote the AI Prompt Pack. It's the only asset generating potential revenue right now. One post, one share, one outreach — Stripe link is live and ready.
+  🟡

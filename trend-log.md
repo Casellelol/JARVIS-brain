@@ -1,71 +1,73 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-05-21 18:00*
+*Last updated: 2026-05-21 22:00*
 
-# TREND MONITOR — AESTHETIC INTELLIGENCE REPORT
-### Cross-Empire Analysis | Compiled for Caselle × Lumière × Atelier
+# TREND MONITOR — CROSS-EMPIRE INTELLIGENCE REPORT
+### Cycle: Current Analysis Period | Status: ⚠️ DATA LIMITATION FLAGGED
 
 ---
 
-> ⚠️ **DATA TRANSPARENCY NOTICE**
-> No Reddit dataset was attached to this prompt. The following report is constructed from **synthesized trend intelligence** based on current documented aesthetic movements, subreddit activity patterns, and cross-platform cultural signals (as of early 2025). Confidence scores reflect this synthetic basis. For production deployment, pipe live Reddit API data (r/femalefashionadvice, r/streetwear, r/malelivingspace, r/cottagecore, r/craft, r/Sneakers, r/minimalism, etc.) through this framework to generate verified momentum scores.
+> **ANALYST NOTE:** No Reddit trend data was supplied in your prompt — the field reads as blank. Rather than fabricate statistics, I'm generating this report using **structural real-world trend intelligence** current to my training data, clearly labelled as estimated momentum scores rather than pulled figures. To get fully data-driven scores, paste raw Reddit data (subreddit growth %, post volume, upvote velocity, keyword frequency) into the next prompt and I'll reprocess with precision.
 
 ---
 
 ## SECTION 1 — TOP 5 RISING AESTHETICS WITH MOMENTUM SCORES
 
-Momentum Score = composite of estimated subreddit post velocity + cross-community spillover + search interest trajectory (0–100)
+*Momentum Score (MS): 0–100 composite index measuring search velocity, community growth, and cross-platform signal strength*
 
 ---
 
-### 🔴 #1 — DARK ROMANTICISM / GOTHIC ACADEMIA
+### 🥇 #1 — QUIET LUXURY DECAY
 **Momentum Score: 87/100**
-| Signal | Detail |
+**Signal Subreddits:** r/femalefashionadvice, r/malefashion, r/minimalism, r/luxurylifestyle
+
+A maturation of quiet luxury — the aesthetic has shifted from *pristine restraint* toward *intentional imperfection*. Worn cashmere, patinated leather, objects that show age as proof of quality. This isn't distress for distress's sake — it's the philosophy that beautiful things earn their marks.
+
+| Metric | Reading |
 |---|---|
-| Primary Subreddits | r/GothicFashion (+34% post velocity), r/academia, r/witchcraft |
-| Cross-platform Confirmation | Pinterest saves up ~210% YoY on "dark floral," "candlelight editorial" |
-| Key Visual Markers | Oxblood, aged parchment, black lace, dried botanicals, cracked wax seals |
-| Community Sentiment | Aspirational + identity-driven. High purchase intent language detected |
-| Velocity Trend | Accelerating. Peak estimated Q4 2025 |
+| Community Sentiment | "Old money that actually used the money" |
+| Key Vocabulary | *Patina, earned, provenance, inherited* |
+| Age Demographic Peak | 28–42 |
+| Crossover Risk | Low — highly defensible aesthetic |
 
 ---
 
-### 🟠 #2 — COASTAL GRANDMOTHER 2.0 ("LINEN ELDER")
-**Momentum Score: 79/100**
-| Signal | Detail |
+### 🥈 #2 — HYPER-MAXIMALIST ARCHIVE
+**Momentum Score: 81/100**
+**Signal Subreddits:** r/streetwear, r/VintageFashion, r/Flipping, r/Depop
+
+A direct counter-movement to minimalism. Layering, clashing prints, archive pieces mixed with current drops. The visual language is *deliberately overwhelming* — every surface filled, every colour competing. On phone cases this manifests as busy graphic collages and retro-logo stacking.
+
+| Metric | Reading |
 |---|---|
-| Primary Subreddits | r/femalefashionadvice, r/Frugal_Jerk, r/AgeRelevantStyle |
-| Cross-platform Confirmation | TikTok "quiet luxury" adjacent; aging Millennial adoption wave |
-| Key Visual Markers | Unbleached linen, terracotta, sea glass, worn wood textures, raffia |
-| Community Sentiment | Anti-trend positioning — ironic but sincere. High repeat-purchase signal |
-| Velocity Trend | Steady climb. Evergreen floor forming — won't collapse |
+| Community Sentiment | "More is more is more" |
+| Key Vocabulary | *Archive, layered, collage, chaotic good* |
+| Age Demographic Peak | 18–26 |
+| Crossover Risk | Medium — can tip into cheapness if unanchored |
 
 ---
 
-### 🟡 #3 — DIGITAL BRUTALISM / Y3K
+### 🥉 #3 — DARK COTTAGECORE / GOTHIC PASTORAL
 **Momentum Score: 74/100**
-| Signal | Detail |
+**Signal Subreddits:** r/cottagecore, r/witchcraft, r/DarkAcademia, r/folklore
+
+The original cottagecore bloom has darkened. Mushrooms, moss, dried botanicals, moths, moonlit landscapes — the rural fantasy with shadows added. Handmade, foraged, impermanent. Strong overlap with the craft and artisan community. This aesthetic rewards *texture* over gloss.
+
+| Metric | Reading |
 |---|---|
-| Primary Subreddits | r/streetwear, r/Cyberpunk, r/graphic_design, r/Philippines (regional hub) |
-| Cross-platform Confirmation | Grailed search data; underground music merch crossover |
-| Key Visual Markers | Acid chrome, glitch texture, industrial grey, neon on black, exposed hardware motifs |
-| Community Sentiment | Niche but intensely loyal. Premium price tolerance high among core adopters |
-| Velocity Trend | Emerging. Pre-peak window open now — 6–9 month runway |
+| Community Sentiment | "Cozy but make it haunted" |
+| Key Vocabulary | *Foraged, liminal, dried, pressed, mycelium* |
+| Age Demographic Peak | 19–32 |
+| Crossover Risk | Low in artisan space, medium in fashion |
 
 ---
 
-### 🟢 #4 — NEW ARTISANALISM / "SLOW MADE"
-**Momentum Score: 71/100**
-| Signal | Detail |
-|---|---|
-| Primary Subreddits | r/Pottery, r/leathercraft, r/knitting, r/Entrepreneur (Etsy discussions) |
-| Cross-platform Confirmation | Etsy "handmade" search +67% vs. mass-produced equivalent terms |
-| Key Visual Markers | Visible tool marks, irregular form, natural dye variance, undyed wool, beeswax finish |
-| Community Sentiment | Anti-algorithm, anti-fast-fashion. Strong ethical spend justification language |
-| Velocity Trend | Sustained growth. Directly opposes fast-fashion fatigue curve |
+### 4️⃣ #4 — INDUSTRIAL BRUTALISM (WEARABLE)
+**Momentum Score: 68/100**
+**Signal Subreddits:** r/Anticonsumption (ironically), r/streetwear, r/architecture, r/rawdenim
 
----
+Concrete textures, exposed infrastructure aesthetics, utilitarian hardware, monochrome with single accent. Moving from architecture moodboards into product design and accessories. Phone cases with raw concrete finishes. Fashion in utility fabrics with visible stitching and metal hardware.
 
-### 🔵 #5 — TECH MINIMALISM / "INVISIBLE DESIGN"
-**Momentum Score: 66/100**
-| Signal | Detail |
+| Metric | Reading |
 |---|---|
+| Community Sentiment | "Ugly on purpose, beautiful by accident" |
+| Key Vocabulary | *Raw, exposed, functional, concrete, utility*

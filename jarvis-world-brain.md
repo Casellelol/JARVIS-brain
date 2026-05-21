@@ -1,36 +1,36 @@
 # JARVIS World Brain
-*Last updated: 2026-05-20 10:30*
+*Last updated: 2026-05-21 08:44*
 
 ## Hacker News — Tech & Business
-- Everything in C is undefined behavior
-- Gemini 3.5 Flash
-- FiveThirtyEight articles on the Internet Archive
-- Learnings from 100K lines of Rust with AI (2025)
-- I’ve built a virtual museum with nearly every operating system you can think of
-- Infomaniak transitions to a foundation model to protect user data privacy
+- An OpenAI model has disproved a central conjecture in discrete geometry
+- GitHub confirms breach of 3,800 repos via malicious VSCode extension
+- Haskell Foundation 2026 Update
+- Vivaldi 8.0
+- Show HN: I reverse engineered Apple's video wallpapers
+- New features in GCC 16: Improved error messages and SARIF output
 
 ## Entrepreneur Magazine — Latest
-- Your Appearance Is Part of Your Business Strategy. Here’s How It Can Work for — or Against — You
-- Why the Words You Choose as a Leader Can Build (or Break) Team Performance
-- I Sold Across 19 European Markets. Here’s What Most Founders Get Wrong About Europe
-- AI Search Is Growing — But Most Companies Aren’t Tracking It. Here’s How to Turn That Gap Into a Real Advantage.
-- The Social Economy Is Worth Trillions. Chronicle Is Building the Agentic Infrastructure to Unlock It.
-- I Shifted My Budget Mindset From Control to Collaboration — and Nearly Tripled My Revenue
+- AI Is Exposing the Leadership Problem That’s Costing You Speed, Focus and Results
+- AI Is Rewriting What Makes Workers Valuable — Take This 3-Part Test That Defines What Matters Now
+- Americans Eat 10 Billion Doughnuts a Year — And These Franchises Are Cashing In
+- CEOs Who Trust AI-Generated Reports Are Flying Blind. Here’s How to Build Smarter Safeguards.
+- I’ve Seen Too Many Businesses Improve Their SEO and Still Struggle to Convert. Here’s What They’re Missing.
+- The Marketing Role Your Company Desperately Needs — and How It Creates Clarity in a World Full of Noise
 
 ## Inc.com — Business News
-- Why Mass Layoffs Like Meta’s Keep Happening and How To Avoid Them
-- 25 Best Small Business Ideas for 2026
-- The Gerrymandering Wars Show Every CEO Exactly What Not to Do
-- 5 Books to Help Leaders Avoid Burnout on the Journey to Success
-- Wall Street Is Betting Big on Tech and Chips, but a Rare Sell Signal Just Flashed for the First Time in Years
+- Record Data Center Demand Lifts Nvidia Up, With AI Spending To Reach $4 Trillion This Decade
+- SpaceX IPO: 11 Key Takeaways From Its S-1 Filing
+- ‘We Want to Meet That Demand’: A Famous Women’s Sports Bar Launches a $1.2 Million Crowdfunding Campaign
+- Wartime CEO Can’t Act Like Peacetime One
+- Target’s $5 Billion Facelift May Have Just Triggered Its Biggest Sales Jump in Years
 
 ## Product Hunt — New Products Trending
 - Product Hunt — The best new products, every day
-- mailX by mailwarm (YC S20)
-- Manus Scheduled Tasks 2.0
-- Tophat by Shopify
-- LayerProof Kraft
-- Type Switch 3.0 for macOS
+- Mixpanel Headless
+- CatchAll by NewsCatcher
+- AutoSubtitles 2.0
+- Google Antigravity 2.0
+- Mintlify Workflows
 
 ## Amazon Trends
 No data

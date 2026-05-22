@@ -1,35 +1,29 @@
 # Caselle Scout — Market Intelligence
-*Last updated: 2026-05-21 05:53*
+*Last updated: 2026-05-22 05:53*
 
 ## ⚠️ No Data Detected
 
-It looks like the trend data and Etsy market data fields were submitted **empty**. No content came through with your message.
+It looks like the trend data and Etsy market data **didn't come through** in your message — the fields appear to be empty.
 
 ---
 
-### To generate your intelligence report, please provide:
+### To generate your intelligence report, please share:
 
-**1. Fashion Trends Data** — e.g.:
-- Pinterest/TikTok trend reports
-- Google Trends keyword data
-- Runway or streetwear trend summaries
+**Fashion Trends data** — e.g.:
+- Google Trends keywords/scores
+- Pinterest trend reports
+- TikTok/Instagram aesthetic tags gaining traction
+- Runway or street style notes
 
-**2. Etsy Market Data** — e.g.:
-- Search volume or listing counts
-- Bestseller titles/tags
-- Pricing ranges from competitor listings
-- Review counts or "in X carts" signals
+**Etsy Market data** — e.g.:
+- Top-selling listings (title, price, reviews)
+- Search volume keywords
+- Bestseller badge products
+- Competitor shop snapshots
 
 ---
 
-### You can paste data in formats like:
+### You can paste data in any format:
+> Raw text, CSV, a list of product titles, screenshot descriptions, or even a rough dump of search results — I'll work with it.
 
-> *"Keyword: 'coquette phone case' — searches up 340% MoM, avg price $18.99, top listings have 200+ reviews"*
-
-Or drop in raw CSV data, screenshot descriptions, or copied text from any trend tool (Everbee, Sale Samurai, Google Trends, etc.).
-
-Once you share the data, I'll produce a full **Caselle Scout Intelligence Report** with:
-- 🔺 Top 3 rising aesthetics
-- 🎨 Design direction recommendations
-- 💰 Competitor pricing observations
-- 🎯 One high-confidence opportunity
+Drop the data and I'll produce your full **Caselle Scout intelligence report** immediately. 📊

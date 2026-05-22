@@ -1,36 +1,36 @@
 # JARVIS World Brain
-*Last updated: 2026-05-21 08:44*
+*Last updated: 2026-05-22 08:44*
 
 ## Hacker News — Tech & Business
-- An OpenAI model has disproved a central conjecture in discrete geometry
-- GitHub confirms breach of 3,800 repos via malicious VSCode extension
-- Haskell Foundation 2026 Update
-- Vivaldi 8.0
-- Show HN: I reverse engineered Apple's video wallpapers
-- New features in GCC 16: Improved error messages and SARIF output
+- CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs
+- Project Hail Mary – Stellar Navigation Chart
+- Slumber a TUI HTTP Client
+- The surprising story behind the first British person in space
+- We should get rid of average CPU utilization
+- Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD
 
 ## Entrepreneur Magazine — Latest
-- AI Is Exposing the Leadership Problem That’s Costing You Speed, Focus and Results
-- AI Is Rewriting What Makes Workers Valuable — Take This 3-Part Test That Defines What Matters Now
-- Americans Eat 10 Billion Doughnuts a Year — And These Franchises Are Cashing In
-- CEOs Who Trust AI-Generated Reports Are Flying Blind. Here’s How to Build Smarter Safeguards.
-- I’ve Seen Too Many Businesses Improve Their SEO and Still Struggle to Convert. Here’s What They’re Missing.
-- The Marketing Role Your Company Desperately Needs — and How It Creates Clarity in a World Full of Noise
+- 7 Decisions That Determine Whether Your Merger Succeeds or Fails in the First 100 Days
+- What Ted Lasso Understands About Leadership That Most Founders Get Wrong
+- If You Own the First Hour of Your Day, You Own Everything That Follows
+- Why CEOs Often Push Back on Marketing Investment — and the Language Shift That Gets Budgets Approved
+- Why a High-Performance Leadership Team Is Your Most Powerful Business Asset
+- This CEO Says Screen Addiction Is ‘the New Tobacco.’ Here’s What His Company Is Doing to Fight Back
 
 ## Inc.com — Business News
-- Record Data Center Demand Lifts Nvidia Up, With AI Spending To Reach $4 Trillion This Decade
-- SpaceX IPO: 11 Key Takeaways From Its S-1 Filing
-- ‘We Want to Meet That Demand’: A Famous Women’s Sports Bar Launches a $1.2 Million Crowdfunding Campaign
-- Wartime CEO Can’t Act Like Peacetime One
-- Target’s $5 Billion Facelift May Have Just Triggered Its Biggest Sales Jump in Years
+- The Bolt CEO Fired His Entire HR Team for ‘Creating Problems That Didn’t Exist.’ He Missed the Actual Problem
+- Walmart Delivery Can Now Reach 60 Percent of Americans in Under 30 Minutes
+- A Major Airline Expects This Summer Travel Season to Be One of Its Busiest—Despite Rising Fuel Costs
+- Microsoft’s ‘Data Cowboy’ Says These 2 Tools Will Help You Build Safer AI Agents From Day 1
+- I Turned My Home Into a Design Lab and You Should Too
 
 ## Product Hunt — New Products Trending
 - Product Hunt — The best new products, every day
-- Mixpanel Headless
-- CatchAll by NewsCatcher
-- AutoSubtitles 2.0
-- Google Antigravity 2.0
-- Mintlify Workflows
+- DecisionBox for Databricks
+- Shuffle Design CLI
+- General Compute
+- iPromise - AI focus buddy for deep work.
+- Training Data - AI Microgames
 
 ## Amazon Trends
 No data

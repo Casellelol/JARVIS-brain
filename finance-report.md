@@ -1,5 +1,5 @@
 # Accountant — Daily Financial Report
-*Generated: 2026-05-21 23:24*
+*Generated: 2026-05-22 23:24*
 
 ## Raw Data
 - Orders (30d): 0 | Revenue: £0.00
@@ -10,32 +10,29 @@
 
 ---
 
-### 📊 Core Metrics
-
+### Core Metrics
 | Metric | Value |
-|---|---|
+|--------|-------|
 | Gross Revenue | £0.00 |
 | Cost of Goods | £0.00 (unverifiable) |
 | Net Profit | **£0.00** |
 | Margin % | **N/A** |
-| Orders (30d) | **0** |
 
 ---
 
-### 🔴 Key Observations
+### Key Observations
 
-1. **Zero revenue, zero orders** — the business is generating no income whatsoever over the last 30 days.
-2. **Printify API not configured** — COGS data is blind. No supplier costs can be tracked, meaning profitability is unmeasurable even if orders arrived.
-3. **Dual failure state** — both the sales pipeline AND the cost infrastructure are non-functional simultaneously.
-
----
-
-### ✅ Single Recommended Action
-
-**Fix the Printify API key first — today.**
-
-Without it, you cannot price correctly, fulfil orders, or calculate margin. Even if sales recovered, you'd be flying blind on every transaction. This is the single highest-leverage unblock.
+1. **🔴 Zero Trading Activity** — 0 orders in 30 days. The business is generating no income whatsoever.
+2. **🔴 Printify Not Configured** — Supply chain is broken. Even if orders arrived, fulfilment would fail. This is a critical infrastructure gap.
+3. **🟡 Cost Blind Spot** — Without Printify connected, COGS, base costs, and margin per SKU are completely unknown.
 
 ---
 
-> *No financial modelling is possible until both integrations are live. Next meaningful summary requires: active orders + confirmed COGS data.*
+### Recommended Action
+
+**Priority 1 — Fix Printify integration immediately.**
+No supplier connection = no fulfilment = no viable business. Configure the API key today before any marketing spend is considered. Running ads to a broken fulfilment pipeline will burn budget with zero return.
+
+---
+
+*Until both data feeds return valid figures, no meaningful profitability analysis is possible. Resolve infrastructure first.*

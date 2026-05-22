@@ -561,3 +561,80 @@ No new listings went live in the last 24 hours.
   🟠 #3 — Feed Caselle Scout. Pull 5 Etsy competitor listings + one trending keyword and submit. Market intel is blind without it.
   🟠 #4 — Promote the AI Prompt Pack. It's the only asset generating potential revenue right now. One post, one share, one outreach — Stripe link is live and ready.
   🟡
+
+## Briefing — 2026-05-22
+🔋 System HealthMissed crons (last 24h):⚠️ MISSED: Competitor Monitor (1am)⚠️ MISSED: Lumière Scout (2am)⚠️ MISSED: Atelier Scout (3am)⚠️ MISSED: Nightly Summary (3am)⚠️ MISSED: Trend Monitor (4am)⚠️ MISSED: Caselle Scout (5am)⚠️ MISSED: JARVIS Command (6am)⚠️ MISSED: Morning Briefing (6am)⚠️ MISSED: Gold Scout (7am)⚠️ MISSED: World Brain (8am)⚠️ MISSED: Marketing Posts (9am)⚠️ MISSED: Accountant P&L (11pm)
+
+💰 API SpendMonth-to-date: $5.5 · Daily avg: $0.25 · Est. days remaining: 178
+
+```html
+☀️ JARVIS Morning Briefing — Friday, 22 May 2026
+Prepared for: Osvaldas &nbsp;|&nbsp; Generated: 06:00 UTC
+
+
+
+1. Overnight Summary
+Quiet night. No orders, no revenue, no new products live. The business is in pre-revenue build phase. Market intelligence feed failed to populate — scout received empty data. System activity log is still dark. The one live monetised asset remains the AI Prompt Pack at £9.97. Primary risk today: zero inbound revenue streams actively converting.
+
+
+
+2. Sales &amp; Revenue
+
+  Orders (last 30 days): 0
+  Gross Revenue: £0.00
+  Net Profit: £0.00
+  Margin: N/A
+  Printify API: ⚠️ Not configured — cost of goods unverifiable
+  Top design: None — no sales data exists yet
+  Dead stock: All designs (no units sold on any SKU)
+
+Note: The Stripe payment link for the AI Prompt Pack (buy.stripe.com/cNi14n2ngeFs77s1U) is live but no sales have been recorded in this feed. Confirm whether Stripe revenue is being tracked separately.
+
+
+
+3. New Products Published
+
+  POD phone case designs published: 0
+  Digital products published: 0 (existing: 1 — AI Prompt Pack at £9.97)
+  Etsy listings added: 0
+
+Pipeline is empty. No new SKUs entered the market in the last 24 hours.
+
+
+
+4. Top Market Intelligence
+⚠️ Scout feed returned empty. Trend data and Etsy market data did not come through. No actionable intelligence to report.
+Available from World Brain (Hacker News overnight):
+
+  OpenAI model disproves discrete geometry conjecture — AI capability milestone; signals accelerating AI usefulness in technical domains
+  GitHub breach — 3,800 repos compromised via malicious VSCode extension. Action: audit any VSCode extensions in dev environment immediately.
+  GCC 16 ships with improved error messages + SARIF output — relevant if any backend tooling is compiled
+  Vivaldi 8.0 released — minor note
+
+Market intel gap is a problem. Without Etsy keyword data or trend scores, design prioritisation is flying blind. Fix the scout feed today.
+
+
+
+5. ⚙️ System Activity — Last 24 Hours
+
+  Logged builds/deployments/fixes: None recorded
+  Activity log status: Empty — either no work was done or logging is not functioning
+
+If work was done manually and not logged, this is a tracking gap. JARVIS cannot audit what it cannot see.
+
+
+
+6. Upgrade Queue Status
+
+  Pending upgrades: 14
+  Completed upgrades: 0
+  Queue velocity: Stalled — 0 completions to date
+
+14 items sitting untouched. Without knowing queue contents it's impossible to prioritise, but a 0% completion rate against 14 items is a bottleneck signal. Recommend: review and triage the queue today — assign at least 3 items to active.
+
+
+
+7. Priority for Today
+
+  #1 — Configure Printify API key. Without it, COGS are unverifiable and product publishing is blocked at the data layer.
+  #2 — Audit VSCode extensions now. GitHub breach via malicious extension is live threat.

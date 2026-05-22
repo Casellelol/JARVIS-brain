@@ -362,3 +362,9 @@ Primary data feeds (Etsy, Reddit, Printify) are all down or unconfigured. Sales 
 
 7. Top Priority for Today
 Confirm whether Lumière launched on May 20. Open the Etsy seller dashboard, verify how many of the 80 designs are live, and check impressions from the first 24 hours. If nothing published, publish a minimum of 10 listings today before anything else. Every hour of delay on 80 ready designs
+
+## Nightly Summary — 2026-05-22
+JARVIS published digital product: "The POD Designer's AI Prompt Pack — 50 Midjourney Prompts for Bestselling Phone Case Designs" (prompt-pack) at £9.97. Payment link: https://buy.stripe.com/cNi14n2ngeFs77s1U
+
+### 2026-05-15 22:02
+Query: JARVIS published digital product: "The POD Designer's AI Prompt Pack — 50 Midjourney Prompts for Bethesda Designs" (prompt-pack) at £9.97. Payment link: https://buy.stripe.com/cNi14n2ngeFs77s1U

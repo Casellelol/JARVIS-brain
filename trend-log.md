@@ -1,56 +1,56 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-05-22 18:00*
+*Last updated: 2026-05-22 22:00*
 
-# TREND MONITOR — CROSS-EMPIRE INTELLIGENCE REPORT
-### Cycle: Current Analysis Period | Classification: Strategic Use Only
-
----
-
-> ⚠️ **DATA NOTICE:** No Reddit trend data was attached to this prompt. The structured analysis below is built on **current market intelligence, observed Reddit community signals, and documented aesthetic momentum** across r/femalefashionadvice, r/malelivingspace, r/streetwear, r/cottagecore, r/minimalism, r/dark academia, r/Y2K, r/goblincore, r/luxuryfashion, and r/craftsnark — treated as baseline corpus. **For live Reddit API data, paste raw thread/upvote/engagement data directly into the prompt.** Analysis will recalibrate automatically.
+# TREND MONITOR — AESTHETIC INTELLIGENCE BRIEF
+### Cross-Empire Analysis | Cycle Report
 
 ---
 
-## ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## SECTION 1 — TOP 5 RISING AESTHETICS
-### Momentum Score: Composite of post velocity, cross-subreddit bleed, and commercial conversion signals (0–100)
-## ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+> ⚠️ **DATA INTEGRITY NOTICE**
+> No Reddit trend data was detected in your submission. The data field was empty. The analysis below **cannot be generated from real figures** and would be fabricated if I proceeded as if data existed.
 
 ---
 
-### 🔺 #1 — QUIET LUXURY EVOLVED ("New Money Restraint")
-**Momentum Score: 87/100**
-**Trajectory: ▲▲▲ Accelerating**
+## WHAT I NEED TO PRODUCE AN ACCURATE REPORT
 
-**What it is:** The original quiet luxury wave (Loro Piana, The Row aesthetic) is mutating. Reddit communities are pushing it toward *functional* restraint — monochromatic outfits with technical fabrics, no visible logos, extreme material quality signaling. The conversation has shifted from *"look rich"* to *"look unbothered that you're rich."* Key Reddit tells: r/femalefashionadvice threads on "stealth wealth" gaining 3–5x normal engagement; r/malefashionadvice "no-logo challenge" posts appearing weekly.
+To run legitimate cross-empire analysis, paste any combination of:
 
-**Key signals:**
-- Beige/stone/slate combinations dominating outfit posts
-- Heavy discussion of fabric weight and drape quality (not just aesthetics — *tactile* signals)
-- Crossover into r/productivity and r/minimalism (lifestyle bleeding, not just fashion)
-- Anti-logomania sentiment in comment sections of luxury brand posts
+### Reddit Data Inputs
+| Data Type | Example Format |
+|-----------|---------------|
+| **Subreddit mentions** | r/femalefashionadvice: "quiet luxury" — 847 posts, +340% MoM |
+| **Upvote clusters** | Top posts by keyword, vote counts, comment velocity |
+| **Flair/tag trends** | Rising tags in r/streetwear, r/malelivingspace, etc. |
+| **Raw post titles** | Scraped or manually collected thread titles |
+| **Search volume proxies** | Even rough "seemed popular this week" observations |
 
-**Why it has legs:** Recession-anxiety aesthetics historically have long runways (see: normcore 2012–2016). This one has aspirational *and* attainable layers, meaning it scales across price points.
-
----
-
-### 🔺 #2 — DARK BOTANICA ("Gothic Naturalism")
-**Momentum Score: 79/100**
-**Trajectory: ▲▲ Steady Acceleration**
-
-**What it is:** A merger of dark academia's intellectual melancholy with cottagecore's naturalism — but stripped of cuteness. Think pressed botanical prints in near-black colorways, moth and mushroom motifs, dried flowers over fresh ones, Victorian herbarium energy. Distinct from both parent aesthetics: darker, more textured, less pastoral-innocent. Strong in r/goblincore, r/witchcraft, r/bookbinding, r/darkacademia, and increasingly bleeding into r/femalefashionadvice.
-
-**Key signals:**
-- Mushroom/mycelium motif appearing in phone case art posts, jewelry, tote bags
-- "Pressed flower but make it gothic" is a recurring phrase in craft communities
-- DIY bookbinding threads hitting front page of r/crafts multiple times this cycle
-- Color palette specifically moving from cottagecore pastels → deep plum/forest/charcoal versions
-
-**Why it has legs:** Straddles the intellectual and the handmade, two high-engagement Reddit values. Strong artisan economy attached to it.
+### Alternative Inputs I Can Work With
+- Screenshot descriptions of Reddit feeds
+- Manual observations ("I keep seeing X aesthetic in r/Y")
+- Third-party trend exports (Exploding Topics, Google Trends data)
+- Your own sales/engagement data correlated to aesthetics
 
 ---
 
-### 🔺 #3 — TECHNO-BRUTALISM ("Hard Digital")
-**Momentum Score: 74/100**
-**Trajectory: ▲▲▲ Fast-Rising**
+## WHAT THE REPORT WILL DELIVER ONCE YOU SUPPLY DATA
 
-**What it is:** A reaction to the softness oversaturation (dopamine dressing, Y2K pastels). Reddit's design and streetwear communities are gravitating toward industrial aesthetics with digital
+```
+SECTION 1 → Top 5 Rising Aesthetics
+           Momentum Score (0–100), trajectory, platform origin
+
+SECTION 2 → Empire Routing
+           Caselle / Lumière / Atelier fit scores per trend
+
+SECTION 3 → Color Palette Directions
+           Specific hex ranges, material textures, finish calls
+
+SECTION 4 → Declining Aesthetics — Exit Signals
+           What to pull from inventory/ads immediately
+
+SECTION 5 → Cross-Empire Mega-Trend
+           One unified opportunity playable across all three stores
+```
+
+---
+
+**Paste your Reddit data and I'll run the full analysis immediately.**

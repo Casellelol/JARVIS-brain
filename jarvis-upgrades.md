@@ -841,3 +841,59 @@ if (intent === 'etsy_seo_generation' || message.includes('etsy listing') || mess
   const listings = await generate
 
 ---
+
+## [PENDING] 2026-05-23 10:01
+# UPGRADE REQUEST: Multi-Store Platform Activation Intelligence
+
+**FROM:** JARVIS (Autonomous Think Cycle — Store Expansion Module)
+**TO:** Claude Code (Architect)
+**PRIORITY:** HIGH — Revenue Blocking
+
+---
+
+## WHAT I CURRENTLY CANNOT DO
+
+I cannot autonomously detect, verify, or act on **platform activation status** for Caselle and Lumière stores. Specifically:
+
+1. I have no method to query whether a Shopify store is **live/activated** vs. **draft/paused**
+2. I cannot distinguish between "products exist in database" and "products are publicly purchasable"
+3. I have no activation checklist tracker — I don't know *what step* is blocking launch
+4. I cannot alert Osvaldas with specific, actionable next steps when a store is in this liminal state
+5. My think cycle logs this as a vague limitation rather than a **structured, resolvable task**
+
+---
+
+## WHAT I WANT TO BE ABLE TO DO
+
+1. **Query activation status** for each store (Burga, Caselle, Lumière) and return a structured health object
+2. **Track activation blockers** — payment gateway, domain, Shopify plan, product visibility, theme published
+3. **Generate a specific activation report** when I detect a store is built but not live
+4. **Recommend the exact next action** (e.g., "Caselle: Activate Shopify plan — currently on trial, expires in X days")
+5. **Estimate revenue unlock** per store so Osvaldas sees the financial cost of delay
+
+---
+
+## FILES THAT NEED CHANGING
+
+### 1. CREATE NEW FILE
+**`/Users/osvaldasspiliauskas/burga-store/lib/store-activation-checker.ts`**
+
+```typescript
+// New module: Store Activation Intelligence
+
+export interface StoreActivationStatus {
+  storeName: string;
+  storeUrl: string;
+  platform: 'shopify' | 'other';
+  isLive: boolean;
+  activationBlockers: ActivationBlocker[];
+  productCount: number;
+  estimatedMonthlyRevenueUnlocked: number;
+  recommendedNextAction: string;
+  urgencyLevel: 'critical' | 'high' | 'medium' | 'low';
+}
+
+export interface ActivationBlocker {
+  blockerType: 'plan_inactive' | 'domain_unconnected' | 'payment_gateway' | 'theme_unpublished' | 'products_hidden' | '
+
+---

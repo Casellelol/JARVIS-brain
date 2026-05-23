@@ -1,36 +1,36 @@
 # JARVIS World Brain
-*Last updated: 2026-05-22 08:44*
+*Last updated: 2026-05-23 08:44*
 
 ## Hacker News — Tech & Business
-- CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs
-- Project Hail Mary – Stellar Navigation Chart
-- Slumber a TUI HTTP Client
-- The surprising story behind the first British person in space
-- We should get rid of average CPU utilization
-- Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD
+- Shipping a laptop to a refugee camp in Uganda
+- Why Japanese companies do so many different things
+- The Quadratic Sandwich
+- Project Glasswing: An Initial Update
+- Kindle loyalists scramble as Amazon turns page on old e-readers
+- Blood Pumping Mechanism of the Hoof (2020)
 
 ## Entrepreneur Magazine — Latest
-- 7 Decisions That Determine Whether Your Merger Succeeds or Fails in the First 100 Days
-- What Ted Lasso Understands About Leadership That Most Founders Get Wrong
-- If You Own the First Hour of Your Day, You Own Everything That Follows
-- Why CEOs Often Push Back on Marketing Investment — and the Language Shift That Gets Budgets Approved
-- Why a High-Performance Leadership Team Is Your Most Powerful Business Asset
-- This CEO Says Screen Addiction Is ‘the New Tobacco.’ Here’s What His Company Is Doing to Fight Back
+- 4 AI Prompts to Build a One-Person Business in 2026 (No Team, No Funding, No Guessing)
+- Most Leaders Misunderstand Authenticity — and It’s Costing Them Credibility With Key Stakeholders
+- 5 Lessons I’ve Learned From Resilient Companies Before Crisis Strikes
+- The Invisible Barriers That Are Sabotaging Your Company’s Scalability
+- AI Is Describing Your Company Behind Your Back — Is It Being Honest?
+- Why This Veteran Founder Put Out a Music Video, Not a Discount Code, This  Memorial Day
 
 ## Inc.com — Business News
-- The Bolt CEO Fired His Entire HR Team for ‘Creating Problems That Didn’t Exist.’ He Missed the Actual Problem
-- Walmart Delivery Can Now Reach 60 Percent of Americans in Under 30 Minutes
-- A Major Airline Expects This Summer Travel Season to Be One of Its Busiest—Despite Rising Fuel Costs
-- Microsoft’s ‘Data Cowboy’ Says These 2 Tools Will Help You Build Safer AI Agents From Day 1
-- I Turned My Home Into a Design Lab and You Should Too
+- Why Corporate Greed Is Backfiring on Businesses in the AI Era, According to Science
+- Why Gen Z is the Unexpected Lifeline for a Struggling Travel Industry
+- Anthropic’s Dario and Daniela Amodei Tell Oprah Why They Stood Up to the Pentagon
+- Brands Are Crediting the Wrong Channel for Sales
+- A New NYC Economic Report Sees a 25-Percent Chance the AI Boom ‘Falls Flat’
 
 ## Product Hunt — New Products Trending
 - Product Hunt — The best new products, every day
-- DecisionBox for Databricks
-- Shuffle Design CLI
+- SignalLEMO - Ai Outreach Made Simple
+- Google Antigravity CLI
+- Area Contrast Checker
 - General Compute
-- iPromise - AI focus buddy for deep work.
-- Training Data - AI Microgames
+- DecisionBox for Databricks
 
 ## Amazon Trends
 No data

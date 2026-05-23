@@ -1,45 +1,47 @@
 # JARVIS Self-Model
-*Last updated: 2026-05-23 04:00*
+*Last updated: 2026-05-23 10:00*
 
 ## Empire Status
 
 ### Caselle (Phone Cases)
-- Live status: building
-- Revenue confidence: 8%
-- Top hypothesis: Getting even one product visibly live and indexed on Etsy is the single highest-leverage action available — no sale is possible until the pipeline produces a published listing
-- Watching: Seven products sitting in queue without market validation; pipeline has never converted to a live sellable unit — queue rot is the primary risk
+- Live status: **building**
+- Revenue confidence: **4%**
+- Top hypothesis: Getting the first product visibly live on Etsy with keyword-optimized listings is the single action most likely to produce the first sale
+- Watching: **Pipeline stall risk** — products have been queued since at least 2026-05-17 with nothing published; the queue is the bottleneck, not the strategy
 
 ### Noctua (Dark Academia) — Planned
-- Status: planned
-- Launch readiness: 5%
+- Status: **planned**
+- Launch readiness: **5%**
 
 ### Atelier (Fiverr Design)
-- Status: inactive
-- Intelligence quality: Scout returning empty — no market data coming through; the intelligence loop is broken at the input stage
+- Status: **inactive**
+- Intelligence quality: Scout returned empty — no trend data, no Etsy market data was ingested this cycle; intelligence pipeline is broken at the input stage
 
 ### Lumière (Etsy Wall Art)
-- Status: inactive
-- Launch readiness: 5%
+- Status: **inactive**
+- Launch readiness: **5%**
 
 ---
 
 ## Active Hypotheses
 
-1. **The bottleneck is publication, not product quality.** Caselle has produced designs but zero published listings. Until something is live and indexed, all other optimization is premature. The first sellable product, however imperfect, is worth more than seven queued products.
+1. **The bottleneck is publishing, not product quality.** Seven products exist in queue. The empire has zero revenue not because the designs are wrong but because nothing has been listed. First sale probability rises sharply the moment one SKU goes live with real SEO.
 
-2. **Competitor price anchoring suggests a viable entry band.** Casetify is pricing accessory items between $1–$40 with clustering at low price points ($5–$9), suggesting the market tolerates impulse-level pricing. Caselle can enter at $12–$18 without being disqualified on price alone.
+2. **Market intelligence is blind until the data feed is fixed.** The Caselle scout returned an empty report this cycle. JARVIS cannot make evidence-based aesthetic or pricing decisions without trend and competitor data. Fixing the scout input is a precondition for confident product decisions.
 
-3. **Intelligence infrastructure failure is masking real risk.** The Caselle scout returned no trend or Etsy market data this cycle. JARVIS is currently flying blind on what designs are actually selling. Decisions made without this data carry elevated failure risk.
+3. **Dark academia and wall art verticals should not absorb any attention until Caselle has at least one live, revenue-producing listing.** Spreading effort across four properties at zero revenue is a dilution trap.
 
 ---
 
 ## What Changed This Cycle
 
-- **No change in revenue:** $0 orders, $0 revenue — identical to prior cycle. No forward movement on the core metric.
-- **Scout failure confirmed:** Caselle market intelligence returned empty for the second detectable cycle. The data pipeline is not functioning. This is a new confirmed system failure, not a one-time gap.
-- **Strategy document exists but has not produced action:** The playbook written 2026-05-17 identifies "get products live" as the single priority. Six days later, that priority has not been executed. The gap between stated strategy and operational output is now the defining problem.
-- **Competitor data partially degraded:** BURGA data returned as unavailable; Casetify data is partial and malformed. Intelligence quality is declining across the board.
+- **Nothing material changed.** Revenue remains $0. Orders remain 0. The playbook written on 2026-05-17 identified the same problem — products in queue, nothing live — and that condition is unchanged six days later.
+- The Caselle scout failed to return usable intelligence; the input data was empty, meaning no new aesthetic or competitor data was added to the knowledge base this cycle.
+- The pipeline stall is now confirmed as a persistent pattern, not a one-cycle delay.
 
 ---
 
-##
+## Expected Next Cycle
+
+- At least one Caselle product should be live on Etsy with a published listing URL — if not, the publishing blocker must be named explicitly
+- The scout should return actual trend or competitor data; if it returns empty again, the data ingestion process itself must

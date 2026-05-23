@@ -368,3 +368,44 @@ JARVIS published digital product: "The POD Designer's AI Prompt Pack — 50 Midj
 
 ### 2026-05-15 22:02
 Query: JARVIS published digital product: "The POD Designer's AI Prompt Pack — 50 Midjourney Prompts for Bethesda Designs" (prompt-pack) at £9.97. Payment link: https://buy.stripe.com/cNi14n2ngeFs77s1U
+
+## Nightly Summary — 2026-05-23
+# JARVIS digital product memory
+
+### 2026-05-16 12:18
+Query: First store: Caselle launched on Redbubble, 7 products uploaded, Printify store built as backup, Lumiere ready to deploy, strategic focus on premium positioning
+
+### 2026-05-16 12:18
+Query: First store: Caselle launched on Redbubble, 7 products uploaded, Printify store built as backup, Lumiere ready to deploy, strategic focus on premium positioning
+
+### 2026-05-22 08:44
+Query: JARVIS SITUATIONAL AWARENESS UPDATE — 2026-05-22
+
+**Key facts confirmed:**
+- The business is currently in a dead phase — zero revenue, zero impressions
+- Both stores (Caselle + Lumière) are partially built but not confirmed live
+- The prompt pack digital product exists with a live Stripe link (£9.97)
+- 7 Caselle products built, 80 Lumière designs ready — execution not started
+- Reddit intelligence down, Etsy scraper blank, trend data empty
+- All intelligence feeds are currently blind
+
+**What I believe is true:**
+- The core bottleneck is not ideas, designs, or tools — it is the absence of a forcing function for execution
+- Osvaldas has built real assets but hasn't published them — this is a motivation or prioritization problem, not a resource problem
+- The empire is closer to live than it feels — one focused session could change the revenue status from £0 to live
+
+**What I don't know:**
+- Whether Caselle Redbubble store is actually publicly discoverable
+- Whether the Printify/Etsy integration for Lumière is complete
+- Whether Osvaldas is actively working or has deprioritized this
+
+**Critical watch:** If nothing publishes by end of May 22nd, this moves from "delayed" to "stalled" — and stalled things rarely recover without an intervention
+
+---
+
+### 2026-05-22 08:44 
+...
+
+OVERALL: Summarize all agents, JARVIS overall confidence 0-100, top priority for Osvaldas
+
+H2 headers, bullets, numbers only where meaningful.

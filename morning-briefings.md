@@ -638,3 +638,81 @@ If work was done manually and not logged, this is a tracking gap. JARVIS cannot 
 
   #1 — Configure Printify API key. Without it, COGS are unverifiable and product publishing is blocked at the data layer.
   #2 — Audit VSCode extensions now. GitHub breach via malicious extension is live threat.
+
+## Briefing — 2026-05-23
+🔋 System HealthMissed crons (last 24h):⚠️ MISSED: Competitor Monitor (1am)⚠️ MISSED: Lumière Scout (2am)⚠️ MISSED: Atelier Scout (3am)⚠️ MISSED: Nightly Summary (3am)⚠️ MISSED: Trend Monitor (4am)⚠️ MISSED: Caselle Scout (5am)⚠️ MISSED: JARVIS Command (6am)⚠️ MISSED: Morning Briefing (6am)⚠️ MISSED: Gold Scout (7am)⚠️ MISSED: World Brain (8am)⚠️ MISSED: Marketing Posts (9am)⚠️ MISSED: Accountant P&L (11pm)
+
+💰 API SpendMonth-to-date: $5.75 · Daily avg: $0.25 · Est. days remaining: 177
+
+```html
+☀️ JARVIS Morning Briefing — Saturday, 23 May 2026
+Prepared for: Osvaldas | Generated: 05:53 UTC
+
+
+
+1. Overnight Summary
+Quiet night. Zero revenue across all channels. No new products published. Market intel pipeline returned empty — data feeds not connected. 14 upgrades still sitting in queue. The business exists on paper; monetisation has not started in earnest. One digital product live on Stripe (£9.97 prompt pack). That is the only active revenue instrument right now.
+
+
+
+2. Sales & Revenue
+
+  Orders (last 30 days): 0
+  Revenue: £0.00 / $0.00
+  Net Profit: £0.00
+  Printify API key: ⚠️ Not configured — cost-of-goods data unverifiable
+  Top designs: N/A — no sales data
+  Dead stock: N/A — no products listed on POD yet
+  Active digital product: AI Prompt Pack @ £9.97 — 0 confirmed sales logged
+
+
+
+
+3. New Products Published
+Last 24 hours: None.
+
+  No new POD listings pushed to Etsy or Printify
+  No new digital products created
+  Only live product remains the Stripe prompt pack (published 2026-05-15)
+
+
+
+
+4. Top Market Intelligence
+⚠️ Caselle Scout returned empty. No Etsy market data or trend feeds were supplied to the pipeline. Highlights from World Brain (Hacker News) as fallback:
+
+  CODA — Transformer GEMM-Epilogue rewriting: AI inference optimisation gaining traction; relevant if you scale AI design generation workloads
+  TUI HTTP Client (Slumber): Developer tooling trend — terminal-first workflows growing; low signal for POD but worth noting for internal tooling
+  CPU utilisation metrics debate: "Average CPU" called misleading — aligns with moving JARVIS monitoring to percentile-based health checks
+  Ubuntu → FreeBSD migration story: Long-running server stability case study — relevant to JARVIS infrastructure decisions
+
+Action needed: Connect Etsy search volume data and trend feeds to Caselle Scout to get actionable POD intelligence tomorrow.
+
+
+
+5. ⚙️ System Activity — Last 24 Hours
+No logged activity recorded. Either the activity logger was not running or no builds, fixes, or deployments were executed in this window.
+
+  Activity logging pipeline: not producing output — needs investigation
+  No deployments confirmed
+  No fixes merged
+  No new agents or tools built
+
+
+
+
+6. Upgrade Queue Status
+
+  Pending upgrades: 14
+  Completed (last cycle): 0
+  Completion rate: 0% — queue is growing or stalled
+  Risk: At 0 completions with 14 pending, technical debt is accumulating. If this persists another 48 hours, flag as a blocker.
+
+
+
+
+7. Priority for Today
+
+  🔴 #1 — Configure Printify API key. Without it, COGS data is blind. Every financial report is unreliable until this is done.
+  🔴 #2 — Publish first POD product. Zero listings = zero chance of revenue. Target: at least 1 phone case design live on Etsy today.
+  🟠 #3 — Connect Caselle Scout data feeds. Plug in Etsy search data or Google

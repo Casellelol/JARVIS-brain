@@ -36,3 +36,10 @@
 - **Rationale:** No dominant Notion template exists for POD store management. Sellers are manually tracking listings, profit margins, restock notes, and launch calendars. This template fills that gap and pairs directly with the
 - **Confidence:** 70%
 - **Status:** executing
+
+## The POD Launch Checklist — 47 steps to your first Etsy sale — 2026-05-23 10:00
+- **Type:** checklist
+- **Revenue model:** £4.97 one-time download
+- **Rationale:** POD sellers consistently overwhelmed by the launch process; no concise, actionable checklist product exists in the market; complements the existing ebook and prompt pack as a low-friction entry product
+- **Confidence:** 74%
+- **Status:** executing

@@ -1,29 +1,40 @@
 # Caselle Scout — Market Intelligence
-*Last updated: 2026-05-22 05:53*
+*Last updated: 2026-05-23 05:53*
 
-## ⚠️ No Data Detected
+# Caselle Scout — Market Intelligence Report
+## ⚠️ Data Notice
 
-It looks like the trend data and Etsy market data **didn't come through** in your message — the fields appear to be empty.
-
----
-
-### To generate your intelligence report, please share:
-
-**Fashion Trends data** — e.g.:
-- Google Trends keywords/scores
-- Pinterest trend reports
-- TikTok/Instagram aesthetic tags gaining traction
-- Runway or street style notes
-
-**Etsy Market data** — e.g.:
-- Top-selling listings (title, price, reviews)
-- Search volume keywords
-- Bestseller badge products
-- Competitor shop snapshots
+**No trend data or Etsy market data was received in your message.** The fields appear to have been submitted empty.
 
 ---
 
-### You can paste data in any format:
-> Raw text, CSV, a list of product titles, screenshot descriptions, or even a rough dump of search results — I'll work with it.
+## To Generate Your Report, Please Provide:
 
-Drop the data and I'll produce your full **Caselle Scout intelligence report** immediately. 📊
+### Fashion Trends Data
+Examples of useful inputs:
+- Pinterest/Google Trends search volume data
+- TikTok hashtag performance (#aesthetics, #phonecase, etc.)
+- Runway/street style references
+- Seasonal color reports (e.g., Pantone forecasts)
+
+### Etsy Market Data
+Examples of useful inputs:
+- Search result listings (titles, prices, review counts)
+- Bestseller tags and keywords
+- Estimated monthly sales figures
+- Competitor shop names or URLs
+
+---
+
+## What You'll Get Once Data Is Supplied:
+
+| Section | Output |
+|---|---|
+| 🎨 Top 3 Rising Aesthetics | Named trends + evidence |
+| ✏️ Design Directions | Specific, production-ready recommendations |
+| 💰 Competitor Pricing | Price bands, gaps, positioning advice |
+| 🎯 High-Confidence Opportunity | One actionable SKU/niche to pursue now |
+
+---
+
+**Paste your data below and I'll produce the full intelligence report immediately.**

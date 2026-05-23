@@ -1,64 +1,62 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-05-23 04:58*
+*Last updated: 2026-05-23 06:00*
 
-# TREND MONITOR — AESTHETIC INTELLIGENCE REPORT
-### Cross-Empire Analysis | Compiled for Caselle × Lumière × Atelier
-
----
-
-> ⚠️ **DATA TRANSPARENCY NOTICE**
-> No live Reddit data was provided in this prompt. The following report is constructed from **synthesized trend intelligence** drawn from my training knowledge (patterns observed through early 2025), combined with documented Reddit community behaviors across r/femalefashionadvice, r/malelivingspace, r/streetwear, r/cottagecore, r/SCA, r/minimalism, r/VintageStyle, r/Drops, and adjacent communities. Where I cite momentum scores, these reflect **relative directional confidence**, not live upvote metrics.
->
-> **To generate a live data-driven report, pipe in:** subreddit growth rates, post velocity, comment sentiment ratios, and cross-post frequency from your Reddit API pipeline.
+# TREND MONITOR — CROSS-EMPIRE AESTHETIC INTELLIGENCE REPORT
+### Cycle Analysis | Reddit Data Input: **[NULL DATASET RECEIVED]**
 
 ---
 
-## SECTION 1 — TOP 5 RISING AESTHETICS WITH MOMENTUM SCORES
+> ⚠️ **DATA INTEGRITY NOTICE**
+> No Reddit trend data was submitted with this request. The prompt references trend data but the payload field is empty. I'm flagging this rather than fabricating analysis, because in a dropshipping operation, **acting on invented trend data causes real inventory and margin damage.**
 
 ---
 
-### #1 · DARK ROMANTICISM
-**Momentum Score: 91/100**
+## WHAT I NEED TO GENERATE A VALID REPORT
 
-**Signal Indicators:**
-- Sustained surge across r/GothFashion, r/witchesvspatriarchy, r/DarkAcademia — combined active membership exceeding 4.2M with post velocity up approximately 34% YoY
-- "Moody floral," "Victorian decay," and "candlelit" as recurring descriptor clusters in fashion comment threads
-- Heavily indexed in wedding, stationery, and apparel cross-posts — indicating the aesthetic is maturing beyond subculture into mainstream purchase intent
+Please resubmit with any combination of the following:
 
-**Defining Visual Vocabulary:**
-Oxblood velvets · dried botanicals · aged brass hardware · asymmetric silhouettes · wax seal motifs · layered lace over dark base fabrics · tarnished silver · manuscript typography
-
-**Why the Momentum Is Durable:**
-This is not a flash trend. Dark Romanticism has been building since 2022 and is now entering its commercial peak — the phase where aesthetics move from aspiration posts to actual buying behavior. It has strong seasonal stickiness (Q3/Q4 acceleration) and cross-demographic appeal spanning Gen Z through older millennials.
-
----
-
-### #2 · QUIET UTILITY (POST-NORMCORE FUNCTIONALISM)
-**Momentum Score: 84/100**
-
-**Signal Indicators:**
-- Dominant thread topic in r/Minimalism (2.1M members), r/BuyItForLife, and r/malefashionadvice
-- "Intentional consumption," "considered design," and "anti-trend" language proliferating in high-upvote posts
-- Strong overlap with r/Frugal and r/financialindependence communities — linking aesthetics to values-based purchasing, which drives higher conversion and lower return rates
-
-**Defining Visual Vocabulary:**
-Stone · warm ecru · slate grey · waxed canvas textures · exposed stitching · modular/stackable forms · utilitarian hardware in matte black or raw brass · negative space · no visible logomarks
-
-**Why the Momentum Is Durable:**
-Economic uncertainty is extending the "buy less, buy better" sentiment. This aesthetic benefits from news cycles — every inflation headline reinforces the values that underpin it. Longevity play.
+| Data Type | Example Format |
+|---|---|
+| **Subreddit mentions** | r/streetwear: "quiet luxury" — 847 posts this week, +340% MoM |
+| **Raw post/comment excerpts** | Top posts, upvote counts, flair tags |
+| **Keyword frequency data** | CSV, JSON, or plain text dump |
+| **Upvote/engagement metrics** | Post volume, comment velocity, award counts |
+| **Subreddit sources** | Which communities were scraped (r/femalefashionadvice, r/malefashion, etc.) |
+| **Time window** | Last 7 days? 30 days? Quarter-over-quarter? |
 
 ---
 
-### #3 · HYPER-MAXIMALIST KITSCH (DOPAMINE DRESSING 2.0)
-**Momentum Score: 79/100**
+## WHAT THE FULL REPORT WILL COVER
 
-**Signal Indicators:**
-- Explosive activity in r/ATBGE (Awful Taste But Great Execution — 1.7M members), r/PhoneCases, r/kawaii
-- "Weird girl aesthetic," "clutter core," and "more is more" tagged posts receiving disproportionate share and save rates vs. upvotes — indicating strong passive bookmarking behavior (purchase intent signal)
-- Heavy Gen Z concentration; strongest momentum on Reddit's 18–24 demographic
+Once valid data is received, your structured output will include:
 
-**Defining Visual Vocabulary:**
-Saturated primaries against black · mixed pattern clashing · 3D embellishment · cartoon and camp references · holographic finishes · excessive charm stacking · Y2K-to-Y3K spectrum · ironic luxury signifiers
+### 1. 🔺 Top 5 Rising Aesthetics
+```
+Aesthetic Name | Momentum Score (0–100) | Velocity (WoW %) | Confidence Level
+```
 
-**Why the Momentum Is Durable:**
-Functions as a counter-signal to
+### 2. 🏪 Empire Routing Matrix
+```
+Caselle (phone cases) | Lumière (luxury fashion) | Atelier (artisan goods)
+Which trend maps to which store — and WHY, with product angle
+```
+
+### 3. 🎨 Color Palette Directions
+```
+Hex anchors | Seasonal context | Application by empire
+```
+
+### 4. 🔻 Declining Aesthetics — Kill List
+```
+What to phase out | Inventory risk rating | Markdown urgency
+```
+
+### 5. ⚡ Cross-Empire Mega-Trend
+```
+The one macro shift that all three stores can exploit simultaneously
+with differentiated positioning per brand
+```
+
+---
+
+**Resubmit your data and I'll generate the full intelligence report immediately.**

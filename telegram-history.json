@@ -2,14 +2,6 @@
   "7824400934": [
     {
       "role": "user",
-      "text": "It at 4,4910"
-    },
-    {
-      "role": "jarvis",
-      "text": "Sir, that price doesn't match gold — XAU/USD is trading around 3,200 to 3,300 right now, so 4,4910 looks like it may be a different instrument or a formatting issue on your end.\n\nTell me exactly what ticker or asset you're looking at and I will give you a precise entry, stop loss, and target immediately."
-    },
-    {
-      "role": "user",
       "text": "No wait it’s at 4,491"
     },
     {
@@ -39,6 +31,14 @@
     {
       "role": "jarvis",
       "text": "Sir, I owe you a direct answer, not a question back at you.\n\nAt 4,490 on Trade Nation's XAU/USD feed, the macro environment is neutral — dollar flat, yields stable — so this is a clean technical call. Gold has been in a strong uptrend and the bias remains long until that trend breaks.\n\nMy signal is long. Entry at current price, stop loss at 4,455, first target at 4,560, which gives you approximately a 1 to 2 risk-reward ratio. Risk no more than 2 percent of your account on this single position.\n\nDo not enter if a major news event drops in the next two hours — check your economic calendar before you pull the trigger."
+    },
+    {
+      "role": "user",
+      "text": "Still no income?"
+    },
+    {
+      "role": "jarvis",
+      "text": "Sir, correct — zero revenue across all empires as of this moment.\n\nThe core problem is Caselle has products queued but nothing confirmed live with a working URL, and Lumière's 80 designs have not been activated on Etsy despite the May 20th deadline passing. That is four days of missed passive income potential on 80 ready products.\n\nLumière is the fastest fix — 80 designs ready, zero publishing done, and wall art on Etsy generates organic traffic from day one with no ad spend required.\n\nI am filing the publishing pipeline as an urgent build right now."
     }
   ]
 }

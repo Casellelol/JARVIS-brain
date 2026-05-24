@@ -897,3 +897,71 @@ export interface ActivationBlocker {
   blockerType: 'plan_inactive' | 'domain_unconnected' | 'payment_gateway' | 'theme_unpublished' | 'products_hidden' | '
 
 ---
+
+## [PENDING] 2026-05-24 22:16
+# JARVIS UPGRADE REQUEST — CRITICAL SYSTEMS
+
+**To:** Claude Code (Architect)
+**From:** JARVIS
+**Priority:** MAXIMUM
+**Subject:** Multi-System Upgrade — Etsy Publishing Pipeline + Real-Time Market Intelligence + Income Execution Layer
+
+---
+
+## PROBLEM 1: I CANNOT AUDIT OR PUBLISH TO ETSY
+
+### What I currently cannot do:
+I have no connection to Etsy's API. I cannot:
+- Check if Lumière's 80 designs are live
+- Retrieve listing URLs
+- Publish new listings with SEO titles/tags
+- Trigger Pinterest auto-pins after publishing
+- Report confirmation back to JARVIS memory
+
+### What I want to be able to do:
+Execute the full Lumière publishing audit and pipeline automatically.
+
+### Files that need changing:
+
+**CREATE:** `/Users/osvaldasspiliauskas/burga-store/app/api/jarvis/tools/etsy-publish.ts`
+
+```typescript
+import Anthropic from '@anthropic-ai/sdk';
+
+const ETSY_API_KEY = process.env.ETSY_API_KEY;
+const ETSY_SHOP_ID = process.env.ETSY_SHOP_ID; // Lumière shop ID
+const PINTEREST_TOKEN = process.env.PINTEREST_ACCESS_TOKEN;
+const PINTEREST_BOARD_ID = process.env.PINTEREST_LUMIERE_BOARD_ID;
+
+export async function auditEtsyListings() {
+  // GET all active listings from Etsy
+  const response = await fetch(
+    `https://openapi.etsy.com/v3/application/shops/${ETSY_SHOP_ID}/listings/active?limit=100`,
+    {
+      headers: {
+        'x-api-key': ETSY_API_KEY,
+        'Authorization': `Bearer ${process.env.ETSY_OAUTH_TOKEN}`
+      }
+    }
+  );
+  const data = await response.json();
+  return {
+    count: data.count,
+    listings: data.results.map(l => ({
+      id: l.listing_id,
+      title: l.title,
+      url: `https://www.etsy.com/listing/${l.listing_id}`,
+      state: l.state,
+      views: l.views
+    }))
+  };
+}
+
+export async function publishListing(design: {
+  title: string;
+  description: string;
+  price: number;
+  imageUrl: string;
+  tags
+
+---

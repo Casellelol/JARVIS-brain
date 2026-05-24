@@ -1,5 +1,5 @@
 # Accountant — Daily Financial Report
-*Generated: 2026-05-23 23:24*
+*Generated: 2026-05-24 23:24*
 
 ## Raw Data
 - Orders (30d): 0 | Revenue: £0.00
@@ -12,12 +12,10 @@
 
 ### ⚠️ SYSTEM STATUS: NON-OPERATIONAL
 
----
-
 | Metric | Value |
-|---|---|
+|--------|-------|
 | Gross Revenue | £0.00 |
-| Est. COGS | £0.00 |
+| Cost of Goods | £0.00 |
 | Net Profit | £0.00 |
 | Margin % | N/A |
 
@@ -25,22 +23,17 @@
 
 ### Key Observations
 
-1. **Zero orders, zero revenue** — no trading activity to analyse in the 30-day window
-2. **Printify API not configured** — cost data pipeline is broken; even if orders existed, margins could not be calculated
-3. **Dual failure state** — both the revenue stream and cost-tracking infrastructure are inactive simultaneously
+1. **Zero revenue** — No orders processed in 30 days. The business is generating no income.
+2. **Printify not configured** — Product sourcing/fulfillment is **disconnected**. No orders *can* process even if traffic exists.
+3. **Fixed costs still running** — Any platform fees, domain, or ad spend are currently **pure loss** with no offsetting revenue.
 
 ---
 
-### 🔴 Priority Action (Single)
+### 🔴 Priority Action (Single, Highest Impact)
 
-**Configure the Printify API key immediately.**
-
-This is the critical blocker. Without it:
-- No product sync → no live listings → explains £0 revenue
-- No cost data → margin reporting is impossible even after launch
-
-**Fix the integration first. Everything else is downstream of this.**
+**Configure Printify API key immediately.**
+This is a hard blocker. Until fulfillment is connected, the store cannot function. Every day unresolved = continued £0 revenue. Setup takes <30 minutes and unlocks the entire revenue pipeline.
 
 ---
 
-*No meaningful financial analysis is possible until operational data flows. Rerun this report once the Printify key is active and first orders are recorded.*
+*No further optimisation analysis is meaningful until the integration is live and transactional data flows. Return here once first orders are recorded.*

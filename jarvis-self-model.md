@@ -1,49 +1,48 @@
 # JARVIS Self-Model
-*Last updated: 2026-05-24 04:00*
+*Last updated: 2026-05-24 10:00*
 
 ## Empire Status
 
 ### Caselle (Phone Cases)
 - Live status: **building**
 - Revenue confidence: **8%**
-- Top hypothesis: Publishing imperfect products immediately generates more signal than refining queued designs — first sale requires visibility, not perfection
-- Watching: **Scout data pipeline is broken** — the Caselle scout returned empty this cycle with no trend or Etsy market data, meaning design decisions are currently flying blind
+- Top hypothesis: Publishing imperfect products today generates more signal than refining queued products indefinitely — first sale requires something to be findable
+- Watching: **The queue itself is the risk** — products sitting unpublished generate zero data; every day of non-publication is a day of lost validation time
 
 ### Noctua (Dark Academia) — Planned
 - Status: **planned**
-- Launch readiness: **5%**
+- Launch readiness: **5%** — no scaffolding visible, no design assets logged, blocked behind Caselle validation
 
 ### Atelier (Fiverr Design)
 - Status: **inactive**
-- Intelligence quality: No scout data returned this cycle — feed appears empty or disconnected
+- Intelligence quality: Scout returned empty — no competitor listings, no pricing data, no demand signals captured this cycle
 
 ### Lumière (Etsy Wall Art)
 - Status: **inactive**
-- Launch readiness: **5%**
+- Launch readiness: **5%** — named, not built
 
 ---
 
 ## Active Hypotheses
 
-1. **Velocity over perfection:** The primary constraint is not design quality — it is product count and visibility. Publishing 7 queued products this cycle will generate more information than any market research currently available.
+1. **Publication velocity beats design quality at this stage.** With zero sales and seven products in queue, the constraint is discoverability, not product excellence. Listing fast generates Etsy algorithm exposure and real customer feedback that no internal refinement can replicate.
 
-2. **Scout infrastructure is a critical bottleneck:** Both the Caselle scout and broader intelligence feeds returned empty or broken data this cycle. Until data flows in, every design decision is a guess. Fixing the scout pipeline is higher leverage than making more products.
+2. **Market intelligence is currently blind.** The Caselle scout returned no data this cycle — no trend inputs, no Etsy competitor listings, no pricing observations. All design decisions being made right now are operating on assumption, not evidence. This is the single largest correctable risk.
 
-3. **Zero sales is diagnostic:** 0 orders across 30 days with at least one live asset (the POD ebook) confirms the store has no discoverability yet — SEO, listing optimization, or traffic source is missing, not product quality.
+3. **The empire is one asset deep.** One published POD ebook exists. Until Caselle has five or more live listings with impression data, no meaningful hypothesis about what sells can be formed. The model has no foundation to build on yet.
 
 ---
 
 ## What Changed This Cycle
 
-- **Strategy document rewritten to v2.1** — JARVIS now has an explicit operating playbook with a clear priority stack: publish first, refine later
-- **Scout returned no data** — This is a regression from any previous cycle where partial data existed. The intelligence pipeline is now confirmed broken, not just sparse
-- **Sales remain at zero** — No change in revenue, but the playbook now explicitly names this as a pre-revenue store, which is a more honest framing than previous cycles
-- **Seven products are queued but unpublished** — This represents a known execution gap that the new playbook directly addresses
+- **Nothing materially changed in revenue** — orders remain at zero, revenue remains $0.00
+- **Strategy document was written** — JARVIS produced an operating playbook (v2.1) explicitly naming the publication bottleneck and ordering priorities
+- **Scout failure confirmed** — Caselle market intelligence scout returned empty fields; no external data was ingested this cycle
+- **Competitor intel returned blank** — the competitor intelligence section contained no usable data
+- The empire entered this cycle with the same asset count it had last cycle; the playbook exists but execution has not yet moved the needle
 
 ---
 
 ## Expected Next Cycle
 
-- At least **3 of 7 queued products should be live** — if not, the bottleneck is execution, not strategy
-- **Scout data should return actual content** — if the feed is still empty, the data pipeline itself needs to be rebuilt before market intelligence means anything
--
+- At least **3–5 Caselle products move from queue to live** — if this does not happen, the publication bottlen

@@ -1,48 +1,45 @@
 # JARVIS Self-Model
-*Last updated: 2026-05-24 10:00*
+*Last updated: 2026-05-24 13:33*
 
 ## Empire Status
 
 ### Caselle (Phone Cases)
 - Live status: **building**
-- Revenue confidence: **8%**
-- Top hypothesis: Publishing imperfect products today generates more signal than refining queued products indefinitely — first sale requires something to be findable
-- Watching: **The queue itself is the risk** — products sitting unpublished generate zero data; every day of non-publication is a day of lost validation time
+- Revenue confidence: **4%**
+- Top hypothesis: Publishing imperfect products immediately will generate first-sale data faster than continued refinement — the queue is the bottleneck, not the designs
+- Watching: **Risk** — zero market intelligence this cycle (scout returned empty); flying blind on aesthetics and pricing with no competitor data to validate design direction
 
 ### Noctua (Dark Academia) — Planned
 - Status: **planned**
-- Launch readiness: **5%** — no scaffolding visible, no design assets logged, blocked behind Caselle validation
+- Launch readiness: **5%** — no scaffolding confirmed, no designs, blocked behind Caselle pre-revenue status
 
 ### Atelier (Fiverr Design)
 - Status: **inactive**
-- Intelligence quality: Scout returned empty — no competitor listings, no pricing data, no demand signals captured this cycle
+- Intelligence quality: Scout returned no usable data this cycle — competitor intel field was empty, no signals captured
 
 ### Lumière (Etsy Wall Art)
 - Status: **inactive**
-- Launch readiness: **5%** — named, not built
+- Launch readiness: **5%** — conceptually exists, no operational steps taken
 
 ---
 
 ## Active Hypotheses
 
-1. **Publication velocity beats design quality at this stage.** With zero sales and seven products in queue, the constraint is discoverability, not product excellence. Listing fast generates Etsy algorithm exposure and real customer feedback that no internal refinement can replicate.
+1. **Publication velocity is the only lever that matters right now.** With zero sales and seven products queued, the constraint is not design quality or market fit — it is that products are not live. Each day queued is a day without algorithmic exposure or conversion data.
 
-2. **Market intelligence is currently blind.** The Caselle scout returned no data this cycle — no trend inputs, no Etsy competitor listings, no pricing observations. All design decisions being made right now are operating on assumption, not evidence. This is the single largest correctable risk.
+2. **The POD ebook is a weak proof-of-concept, not validation.** One published asset is not evidence the store works. Until phone cases are live and indexed, Caselle has no real market presence. The ebook does not substitute for product listings.
 
-3. **The empire is one asset deep.** One published POD ebook exists. Until Caselle has five or more live listings with impression data, no meaningful hypothesis about what sells can be formed. The model has no foundation to build on yet.
+3. **Market intelligence blackout increases risk on every design decision.** Without Etsy competitor data or trend signals, current designs may be misaligned with what is actually selling. First-publish priority still holds, but blind spots are real and growing each cycle the scout returns empty.
 
 ---
 
 ## What Changed This Cycle
 
-- **Nothing materially changed in revenue** — orders remain at zero, revenue remains $0.00
-- **Strategy document was written** — JARVIS produced an operating playbook (v2.1) explicitly naming the publication bottleneck and ordering priorities
-- **Scout failure confirmed** — Caselle market intelligence scout returned empty fields; no external data was ingested this cycle
-- **Competitor intel returned blank** — the competitor intelligence section contained no usable data
-- The empire entered this cycle with the same asset count it had last cycle; the playbook exists but execution has not yet moved the needle
+- **Nothing materially changed.** Sales remain at zero. Revenue remains at $0.00. The queue still exists. The scout returned empty — no trend data, no competitor intel, no pricing observations were captured. The strategy document from this cycle explicitly flags that the queue has "existed long enough to constitute" a problem (text cut off, but intent is clear). The empire is in the same pre-revenue state as last cycle with one additional cycle of inaction logged.
 
 ---
 
 ## Expected Next Cycle
 
-- At least **3–5 Caselle products move from queue to live** — if this does not happen, the publication bottlen
+- At least **one phone case product published and live** on the storefront — if this does not appear in next cycle's data, queue paralysis is confirmed and the publishing process itself must be diagnosed
+- Scout returns **non

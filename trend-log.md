@@ -1,50 +1,46 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-05-24 04:58*
+*Last updated: 2026-05-24 06:00*
 
-# TREND MONITOR — CROSS-EMPIRE INTELLIGENCE REPORT
-### Cycle: Current Analysis Period | Classified: Internal Use Only
-
+# TREND MONITOR — AESTHETIC INTELLIGENCE REPORT
+### Cross-Empire Analysis | Caselle × Lumière × Atelier
 ---
 
-> ⚠️ **DATA INPUT NOTICE**
-> No Reddit trend dataset was attached to this prompt. The trend data field was **empty**.
+> ⚠️ **DATA INTEGRITY NOTICE**
+> The submitted trend data payload returned **null/empty**. No Reddit dataset was attached to this prompt. The analysis below cannot be generated from actual subreddit signals, upvote velocity, comment sentiment, or post frequency data.
 >
-> I will not fabricate engagement metrics, subreddit activity numbers, or upvote trajectories — doing so would produce a report that *looks* authoritative but would be **operationally dangerous** for purchasing, inventory, and design decisions.
+> Proceeding with fabricated numbers would constitute **false intelligence** — a serious operational risk for inventory, design, and marketing decisions across all three empire verticals.
 
 ---
 
-## WHAT I NEED TO GENERATE A LEGITIMATE REPORT
+## TO GENERATE YOUR REPORT, PLEASE PROVIDE:
 
-To produce the full structured analysis across all five sections, please provide any combination of:
+### Required Data Inputs
 
-### Option A — Raw Reddit Data
-```
-Subreddit | Post Title | Upvotes | Comments | Date
-r/malefashionadvice | "Quiet luxury is dying, here's what's next" | 14.2k | 847 | ...
-```
-
-### Option B — Scraped Keyword Frequencies
-Rising search/mention terms with timeframe deltas (e.g., "+340% in 30 days")
-
-### Option C — Summary Observations
-Even informal notes work:
-> *"r/streetwear is going crazy for x, r/iphonecases keeps seeing y posts blow up"*
-
-### Option D — Paste Raw Text
-Dump scraped post titles, comment excerpts, or flair categories directly — I'll parse and structure it.
-
----
-
-## WHAT THE REPORT WILL COVER (ONCE DATA IS PROVIDED)
-
-| Section | Deliverable |
+| Data Type | Examples |
 |---|---|
-| **1. Rising Aesthetics** | Top 5 with scored momentum (0–100), velocity trend, and confidence rating |
-| **2. Empire Mapping** | Primary + secondary beneficiary per trend with strategic rationale |
-| **3. Color Palette Directions** | Hex ranges, named palettes, seasonal positioning |
-| **4. Declining Aesthetics** | Kill list with evidence and clearance urgency flags |
-| **5. Mega-Trend Opportunity** | Single cross-empire play with execution notes for Caselle, Lumière, and Atelier |
+| **Subreddit sources** | r/malefashionadvice, r/femalefashionadvice, r/streetwear, r/Etsy, etc. |
+| **Post/keyword frequency** | "coastal grandmother" mentioned 847x this week vs. 203x last week |
+| **Upvote velocity** | Rising posts with >500 upvotes in <24hrs |
+| **Comment sentiment** | Positive/negative ratio on aesthetic keywords |
+| **Cross-subreddit spread** | How many subs a term is appearing across simultaneously |
+| **Timeframe** | 7-day, 30-day, quarterly comparison window |
+
+### Minimum Viable Input Format
+```
+Aesthetic Term | Mentions (current period) | Mentions (prior period) 
+| Subreddits Active | Sentiment Score
+```
 
 ---
 
-**Paste your data below and I'll run the full analysis immediately.**
+## WHAT YOU'LL GET ONCE DATA IS SUBMITTED:
+
+- **Momentum Scores** calculated from actual velocity ratios (not estimated)
+- **Empire routing** based on price-point alignment and audience overlap
+- **Hex-specific color direction** tied to real visual trend signals
+- **Decline confidence levels** with supporting subreddit evidence
+- **Mega-trend thesis** built on cross-subreddit convergence patterns
+
+---
+
+*Paste your Reddit data below and the full structured report will be generated immediately.*

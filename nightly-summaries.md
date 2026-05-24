@@ -409,3 +409,49 @@ Query: JARVIS SITUATIONAL AWARENESS UPDATE — 2026-05-22
 OVERALL: Summarize all agents, JARVIS overall confidence 0-100, top priority for Osvaldas
 
 H2 headers, bullets, numbers only where meaningful.
+
+## Nightly Summary — 2026-05-24
+1. Overnight Agent Activity
+Cycles run: 2 (16:00 on 22 May, 16:00 on 23 May). Net output: 5 products queued, 1 business idea filed, 1 upgrade queued. Zero stores launched. Zero products confirmed published.
+
+  80 Lumière designs confirmed ready — platform still not locked, nothing live.
+  Caselle: Products remain in queue. No activation. No traffic. No SEO exposure.
+  Market intelligence feed: Near-empty. Etsy feeds returned nothing. Reddit blocked. BURGA and Pela unavailable. Only Casetify pricing scraped ($1–$40 range, limited signal).
+  Upgrade queue: 15 pending, 0 completed. One new upgrade queued this cycle.
+  Results log flagged: Agent self-assessment framing ("what would a CEO do") producing zero actionable output — upgrade requested to replace with task-completion logging.
+
+
+2. Intelligence Brain Updates
+
+  Confirmed hard deadline breach: Caselle and Lumière were both due live by 20 May. Both missed. Now 3–4 days overdue. Written to memory as execution gap, not a planning gap.
+  Casetify pricing range logged: $1–$40, median cluster around $5–$9 for standard cases.
+  Data source degradation noted: Etsy, Reddit, BURGA, Pela all returning empty. Flagged for source repair or deprioritisation.
+  Stripe digital product active: AI Prompt Pack at £9.97 — payment link live but no orders recorded in 30-day window.
+  No new facts of high signal value added this cycle — world brain feeds (Hacker News, Entrepreneur) non-relevant to current operations.
+
+
+3. Opportunity Queue
+
+  1 new business idea filed — not yet scored or detailed in available data.
+  Lumière (80 designs ready): Highest-score opportunity in queue. Blocked only by platform decision. No new competitor data to validate or challenge the niche.
+  Caselle phone cases: 7+ products built, queued, unactivated. Opportunity cost accruing daily — each day offline is a day of zero SEO indexing.
+  Coquette / dark academia / Y2K / celestial witch aesthetics: Etsy search returned empty this cycle — not confirmed dead, data source failed. Do not discard these niches based on feed failure.
+  AI Prompt Pack (Stripe, £9.97): Zero sales. Either no traffic or no promotion. Needs a push or a pricing test.
+
+
+4. Revenue Events
+
+  Total orders (30 days): 0
+  Total revenue: £0.00 / $0.00
+  Printify: Not configured — no fulfilment pipeline operational.
+  Refunds: None (no orders to refund).
+  Status: Non-operational. No revenue stream is currently live and converting.
+
+
+5. Pending Manual Actions
+
+  CRITICAL — Lock Lumière platform now. 80 designs are sitting idle. Every day without a platform decision is a day of zero impressions. Decision needed: Etsy, Shopify, or Printify-direct?
+  CRITICAL — Activate Caselle products. Products are built and queued. Manual publish required. This is a same-day task.
+  DECISION — Review the 1 new business idea filed. Needs your read and a go/no-go.
+  ACTION — Promote the AI Prompt Pack. £9.97 Stripe link is live with zero sales. One post, one mention, one targeted share could test demand at zero cost.
+  SYSTEM — Fix or replace data sources. Etsy, Reddit, BURGA, Pela all broken. Upgrade queue has 15 pending items, 0

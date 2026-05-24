@@ -1,50 +1,57 @@
 # Atelier Scout — Market Intelligence
-*Last updated: 2026-05-23 03:27*
+*Last updated: 2026-05-24 03:27*
 
 # Atelier Scout — Market Intelligence Report
-### Luxury Artisan Goods | Trend Analysis Brief
+### Luxury Artisan Goods | Q2 2025 Briefing
 
 ---
 
-> ⚠️ **Data Notice:** No market data was attached to this prompt. The analysis below is based on my training knowledge through early 2025. For live Etsy pricing and real-time trend signals, append current search data, sales figures, or category URLs to your next query.
+## ⚠️ Note on Data
+No market data was appended to your prompt. The analysis below is built from **trained knowledge through early 2025** and established trend-signal methodology. For live Etsy pricing, supplement with direct platform scraping or tools like Marmalead/eRank.
 
 ---
 
-## 01 · TOP 3 RISING CRAFT AESTHETICS
+## 01 | TOP 3 RISING CRAFT AESTHETICS
 
-### 🌿 1. Quiet Luxury Naturalism
-Clean organic forms, undyed or naturally-dyed textiles, raw-edge ceramics in greige/ecru/clay tones. Heavily influenced by Scandinavian and Japanese wabi-sabi crossover. Consumers want **proof of material origin** — the story of the clay, the fleece, the bark is part of the product.
+### 🌿 1. Quiet Naturalism
+**Signal strength: High**
+A deliberate retreat from maximalism. Undyed fibers, raw edges, botanical imperfections, and muted earth palettes (lichen, ochre, pale clay). Consumers are buying *restraint* as a luxury signal. Think Japanese *wabi-sabi* filtered through Scandinavian minimalism — but with tactile warmth.
 
-### 🏺 2. Neo-Artisanal Maximalism
-A direct counter-movement — bold glazes, clashing patterns, dopamine color palettes in handwoven textiles and statement ceramics. Think Matisse-coded pottery and hand-embroidered cushions with saturated folkloric motifs. Strong on TikTok and Pinterest saves among 25–38 demographic.
-
-### 🔩 3. Industrial Folk
-Mixed-material pieces fusing reclaimed metal, leather, and hand-carved wood. Utility objects elevated — forged hooks, hand-stitched tool rolls, riveted leather trays. Masculine-leaning but crossing gender categories fast. Driven by "slow living" and anti-fast-furniture sentiment.
+> Key visual markers: unbleached linen, visible stitch work, pressed botanical inlays, asymmetric hand-thrown ceramics
 
 ---
 
-## 02 · RECOMMENDED PRODUCT DIRECTIONS
+### 🔧 2. Industrial Heritage Revival
+**Signal strength: Medium-High**
+A nostalgia-driven aesthetic rooted in pre-industrial craft guilds — blacksmithing textures, riveted leather, aged brass hardware, forge patinas. Resonates strongly with male buyers (an underserved luxury artisan demographic) and interior design crossover markets.
 
-| Priority | Product Direction | Rationale |
-|----------|------------------|-----------|
-| **High** | Ritual/wellness objects (incense holders, oil trays, meditation beads) | High perceived value, low material cost, strong gifting demand |
-| **High** | Functional kitchen ceramics with provenance labeling | Food-adjacent craft commands premium; "made where" is a purchase driver |
-| **Medium** | Heirloom textile accessories (linen napkins, hand-dyed throws) | Strong wedding/registry channel; slow fashion tailwind |
-| **Medium** | Personalized leather everyday-carry (wallets, passport covers) | Customization justifies 40–60% price premium |
-| **Watch** | Architectural wall objects (woven panels, sculptural fiber art) | Interior design channel opening; interior creators are key distribution |
+> Key visual markers: hammered metal surfaces, waxed canvas, maker's stamps/hallmarks, visible joinery
 
 ---
 
-## 03 · ETSY PRICING OBSERVATIONS
+### 🪞 3. Maximalist Folk (Neo-Baroque Craft)
+**Signal strength: Medium-High and accelerating**
+A counter-movement to minimalism. Embroidered maximalism drawing from Eastern European folk traditions, Mexican *bordado*, and South Asian textile heritage — but recontextualised as high-end objects. Heavy ornamentation is being reclaimed as cultural sophistication, not kitsch.
 
-**Key patterns observed across luxury handmade categories:**
-
-- **Sweet spot for impulse-gift ceramics:** $48–$95 — below $95 sees significantly lower cart abandonment
-- **Textile goods threshold:** Buyers accept $120–$180 for hand-dyed/woven items *when process is documented* (video, photos of making)
-- **Personalized leather:** $65–$160 with engraving commands **22–35% premium** over non-personalized equivalents
-- **Wall/art objects:** $200–$450 is an underserved gap — most listings jump from $120 to $600+ with little in between
-- **Conversion insight:** Listings with material sourcing copy ("Oaxacan wool," "Oregon stoneware clay") show measurably stronger conversion — specificity = trust = sale
+> Key visual markers: densely embroidered panels, mirrored embellishment, jewel-toned silk thread, layered textile compositions
 
 ---
 
-## 04 · IN-DEMAND MATERIALS &
+## 02 | RECOMMENDED PRODUCT DIRECTIONS
+
+| Priority | Product Direction | Aesthetic Alignment | Rationale |
+|----------|------------------|-------------------|-----------|
+| **1** | Hand-thrown ceramic ritual vessels (oil dishes, incense holders, salt cellars) | Quiet Naturalism | High margin, giftable, repeat purchase driver |
+| **2** | Structured leather goods with visible hand-stitching + brass hardware | Industrial Heritage | Underserved luxury male buyer; $150–$400 sweet spot |
+| **3** | Heirloom textile wall pieces (framed embroidery, woven panels) | Neo-Baroque Folk | Interior design channel; command $200–$800+ |
+| **4** | Linen + beeswax home goods (wraps, covered journals, apothecary) | Quiet Naturalism | Strong sustainability narrative; high perceived value |
+| **5** | Personalized maker's-mark jewelry (stamped, forged, not cast) | Industrial Heritage | Customization premium; low inventory risk |
+
+---
+
+## 03 | ETSY PRICING OBSERVATIONS
+
+> *Based on category benchmarking through early 2025. Validate against live listings.*
+
+**Ceramics**
+- Mugs: $28–$65 (hand-thrown commands 40–60% premium over

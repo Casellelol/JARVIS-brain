@@ -1,13 +1,13 @@
 # JARVIS World Brain
-*Last updated: 2026-05-24 08:44*
+*Last updated: 2026-05-24 22:15*
 
 ## Hacker News — Tech & Business
-- Microsoft open-sources "the earliest DOS source code discovered to date"
-- Why is Vivado 2026.1 dropping Linux support for free tier?
-- Scammers are abusing an internal Microsoft account to send spam links
-- Wake up! 16b
-- Alexander Grothendieck Revolutionized 20th-Century Mathematics
-- The C64 Dead Test Font
+- DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost
+- Defeating Git Rigour Fatigue with Jujutsu
+- Australia Four-Day Work Week Study Data Shows Boosted Productivity
+- LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years
+- Memory has grown to nearly two-thirds of AI chip component costs
+- Using HTTP/2 Cleartext for a server in Go 1.24
 
 ## Entrepreneur Magazine — Latest
 - The First Sentence of Your Pitch Determines Your Success — Here’s How to Perfect It
@@ -18,19 +18,19 @@
 - AI Is Describing Your Company Behind Your Back — Is It Being Honest?
 
 ## Inc.com — Business News
-- Waymo Halts Highway Rides Nationwide
-- How Smart Professionals Use AI to Sharpen, Not Replace, Their Voice
-- How a Child’s Junk-Food Diet Rewires the Brain
-- Starbucks’ AI Inventory Tool Comes Up Short
-- You Don’t Need to Be a Landlord to Profit From Real Estate
+- Under Armour’s ‘Super Shoes’ Are Winning Marathons. Here’s Why
+- Scientists Debunk a Myth About Fasting and Brainpower
+- Why Authenticity Still Feels Risky at Work
+- More Women Are Starting Businesses Than Ever but Many Are Doing It Alone
+- When Business Partnerships Quietly Fall Apart Behind the Scenes
 
 ## Product Hunt — New Products Trending
 - Product Hunt — The best new products, every day
 - Edgee Fallback Models
 - Stitch 3.0 by Google
-- Area Contrast Checker
 - SignalLEMO - Ai Outreach Made Simple
 - Google Antigravity CLI
+- Area Contrast Checker
 
 ## Amazon Trends
 No data

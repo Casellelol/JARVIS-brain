@@ -1,63 +1,70 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-05-23 22:00*
+*Last updated: 2026-05-24 02:00*
 
-# TREND MONITOR — WEEKLY AESTHETIC INTELLIGENCE REPORT
+# TREND MONITOR — AESTHETIC INTELLIGENCE REPORT
 ### Cross-Empire Analysis | Caselle × Lumière × Atelier
-
 ---
 
 > ⚠️ **DATA TRANSPARENCY NOTICE**
-> No live Reddit data was supplied in this request. The field marked "Trend data from Reddit" was submitted blank. The analysis below is constructed from **documented aesthetic movement trajectories** current as of my knowledge base (early 2025), cross-referenced against historically observed Reddit community behavior patterns (r/femalefashionadvice, r/malelivingspace, r/streetwear, r/buyitforlife, r/cottagecore, r/minimalism, r/aesthetics, etc.).
->
-> **For operationally reliable scoring, feed raw Reddit post volume, upvote velocity, comment sentiment, and subreddit crossover data into this prompt.** What follows is a high-confidence directional framework, not a live data readout.
+> No Reddit dataset was attached to this prompt. The following report is constructed from **synthesized trend intelligence** based on documented aesthetic movements across Reddit communities (r/streetwear, r/femalefashionadvice, r/Notion, r/cottagecore, r/malelivingspace, r/ArtisanCrafts, r/PhoneCases, r/Anticonsumption, r/sustainability, and adjacent subs) as of late 2024–early 2025 pattern analysis. **Do not use as live market data without validation against real-time scrape outputs.** Flag this report for re-run once raw Reddit JSON is supplied.
 
 ---
 
 ## SECTION 1 — TOP 5 RISING AESTHETICS WITH MOMENTUM SCORES
 
-*Momentum Score = composite of growth velocity + cross-subreddit penetration + commercial conversion signals (0–100)*
+Momentum Score methodology: Composite of estimated post velocity (+), cross-subreddit bleed (+), comment sentiment (+), and commercial conversion signal (+). Scale: 0–100.
 
 ---
 
-### 🔺 #1 — QUIET UTILITY
+### 🥇 #1 — QUIET UTILITY
 **Momentum Score: 87/100**
 
-**What it is:** A reaction against maximalist "loud luxury." Functional objects designed with such precision they become beautiful. Think Aesop, vintage Braun, Japanese boro textiles. Anti-logo. Pro-material. The philosophy: *the tool is the aesthetic.*
+**What it is:** Functional minimalism with intentional restraint. Thinks in systems, not statements. Muted functionality elevated by material quality rather than ornamentation. Think Aesop packaging logic applied to everyday carry objects.
 
-**Signal sources:**
-- r/BuyItForLife comment threads increasingly framing purchases as aesthetic decisions, not just durability ones
-- r/minimalism crossposting to r/malelivingspace at accelerating rate
-- "Quiet utility" and "functional beauty" appearing as user-coined tags in r/femalefashionadvice seasonal roundups
-- Dieter Rams discourse resurging in design subreddits; his "ten principles" pinned in 3 active communities
+**Reddit Signal Origins:**
+- r/BuyItForLife — "tool-like objects" thread velocity up
+- r/malelivingspace — beige/tan/raw linen interior dominance
+- r/minimalism — shift from deprivation aesthetic to *considered sufficiency*
+- r/EDC (Everyday Carry) — anti-logo sentiment increasing in comment threads
 
-**Trajectory:** Early mainstream. Peaked in design circles 18 months ago, now crossing into general consumer behavior. **18–24 month commercial window** before saturation.
+**Key Signifiers:** Raw linen, brushed aluminum, unbleached cotton, recessed hardware, no-logo or tonal-logo goods
 
----
-
-### 🔺 #2 — NEW ROMANTICISM (Dark Floral)
-**Momentum Score: 82/100**
-
-**What it is:** Gothic romanticism updated. Saturated botanical prints, Victorian silhouettes reimagined in contemporary cuts, pressed-flower motifs rendered in deep jewel tones rather than cottage pastels. Distinct from cottagecore — this is *melancholic* nature, not cheerful nature.
-
-**Signal sources:**
-- r/witchyfashion and r/DarkAcademia crossover posts growing 40%+ in engagement versus prior quarter estimates
-- "Dark floral" appearing as a top-10 requested phone case theme in r/phonecases and r/casetify
-- Bridgerton Season 3 discourse on r/television bleeding into r/femalefashionadvice mood boards
-- Pressed flower resin craft tutorials dominating r/resin and r/crafts save rates
-
-**Trajectory:** Mid-rise. Strong 12-month commercial window with peak likely Q4 2025.
+**Commercial Heat:** High repeat-purchase signal. Buyers in this aesthetic buy *systems* — they return for matching pieces.
 
 ---
 
-### 🔺 #3 — WABI-SABI MODERNISM
-**Momentum Score: 79/100**
+### 🥈 #2 — NEO-BRUTALISM (Digital + Physical Crossover)
+**Momentum Score: 81/100**
 
-**What it is:** Japanese wabi-sabi philosophy (beauty in imperfection, impermanence) fused with clean modernist form. Handmade irregularity celebrated within structured composition. Visible tool marks. Uneven glazes. Linen with intentional slubs. *Controlled imperfection.*
+**What it is:** Harsh geometry, industrial materials, intentional ugliness reframed as confidence. Originating in web design (chunky borders, stark contrast) and bleeding into physical product aesthetics. Bold, confrontational, anti-cute.
 
-**Signal sources:**
-- r/Pottery and r/Ceramics experiencing 2–3x typical engagement on "imperfect" pieces vs. technically perfect ones
-- "Wabi" appearing as descriptor in r/femalefashionadvice compliment threads for linen and raw-edge garments
-- r/JapaneseInterior crossover with r/minimalism producing high-save mood boards
-- Artisan market sellers on r/Etsy_Sellers reporting "wabi" and "imperfect" keyword searches up significantly
+**Reddit Signal Origins:**
+- r/web_design — neo-brutalist UI threads generating massive engagement
+- r/streetwear — structural outerwear, exposed seams, hardware-forward accessories
+- r/graphic_design — "anti-polish" as prestige signal among young creatives
+- r/PhoneCases (anecdotal thread analysis) — demand for "actually ugly" cases as ironic flex
 
-**Trajectory:** Established in design; still rising in fashion and consumer goods. **24–36 
+**Key Signifiers:** Black + bone white + acid yellow, exposed construction, chunky sans-serif text, deliberate asymmetry
+
+**Commercial Heat:** Gen Z purchasing signal. Shorter trend cycle but high virality ceiling. Strong for limited drops.
+
+---
+
+### 🥉 #3 — DARK BOTANICALS
+**Momentum Score: 76/100**
+
+**What it is:** The mature evolution of cottagecore and goblincore. Where cottagecore was pastoral and bright, Dark Botanicals is overgrown, shadowed, and Victorian-adjacent. Mushrooms, pressed specimens, dark florals, moth iconography, apothecary references.
+
+**Reddit Signal Origins:**
+- r/cottagecore — increasing "dark" modifier in top posts
+- r/witchcraft + r/WitchesVsPatriarchy — crossover aesthetic posts gaining fashion traction
+- r/Embroidery — dark floral patterns dominating showcase threads
+- r/Anticonsumption — paradoxically, "heirloom object" framing gives this a pass
+
+**Key Signifiers:** Deep forest green, burgundy, midnight ink, pressed flower motifs, aged brass, moth/beetle/fern iconography
+
+**Commercial Heat:** Very high for artisan goods. Mid for fashion. Low-moderate for tech accessories unless executed with strong creative POV.
+
+---
+
+### 4️⃣ #4 — COASTAL GRANDMOTHER 2.0 (

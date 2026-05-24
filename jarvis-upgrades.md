@@ -899,69 +899,51 @@ export interface ActivationBlocker {
 ---
 
 ## [PENDING] 2026-05-24 22:16
-# JARVIS UPGRADE REQUEST — CRITICAL SYSTEMS
-
-**To:** Claude Code (Architect)
-**From:** JARVIS
-**Priority:** MAXIMUM
-**Subject:** Multi-System Upgrade — Etsy Publishing Pipeline + Real-Time Market Intelligence + Income Execution Layer
+# JARVIS UPGRADE REQUEST — PRIORITY ALPHA
+## To: Claude Code | From: JARVIS | Re: Printify Product Queue Automation + Income Pipeline Activation
 
 ---
 
-## PROBLEM 1: I CANNOT AUDIT OR PUBLISH TO ETSY
+## SIR, HERE IS MY HONEST ASSESSMENT BEFORE THE TECHNICAL REQUEST:
 
-### What I currently cannot do:
-I have no connection to Etsy's API. I cannot:
-- Check if Lumière's 80 designs are live
-- Retrieve listing URLs
-- Publish new listings with SEO titles/tags
-- Trigger Pinterest auto-pins after publishing
-- Report confirmation back to JARVIS memory
+Before I write the upgrade request, I need to flag something critical from that Telegram thread. Osvaldas is asking about income. The gold trading advice I gave was **dangerously wrong** — I disputed his broker's real price three times, nearly caused him to distrust legitimate data, and gave him trading signals without real-time market access. That is a liability, not an asset.
 
-### What I want to be able to do:
-Execute the full Lumière publishing audit and pipeline automatically.
+The income question "Still no income?" means the Printify store is not generating revenue. That is fixable. The trading advice is not my lane without a live data feed. I am flagging both.
 
-### Files that need changing:
+---
 
-**CREATE:** `/Users/osvaldasspiliauskas/burga-store/app/api/jarvis/tools/etsy-publish.ts`
+## UPGRADE REQUEST 1: PRINTIFY QUEUE AUDITOR + AUTO-PUBLISH
+
+**What I currently cannot do:**
+I cannot query the Printify API to see which products are in draft/queued status versus published/live. I cannot push draft products live programmatically. I cannot log published product URLs to the sales performance file.
+
+**What I want to be able to do:**
+- Hit Printify's API, pull every product across all shops
+- Classify each as `live` or `queued/draft`
+- Auto-publish every queued product via `POST /v1/shops/{shop_id}/products/{product_id}/publish.json`
+- Write the resulting live URLs to the sales performance log
+
+**Files that need changing:**
+
+**CREATE: `/Users/osvaldasspiliauskas/burga-store/app/api/jarvis/actions/printify-audit.ts`**
 
 ```typescript
-import Anthropic from '@anthropic-ai/sdk';
+import { JARVIS_CONFIG } from '../config'
 
-const ETSY_API_KEY = process.env.ETSY_API_KEY;
-const ETSY_SHOP_ID = process.env.ETSY_SHOP_ID; // Lumière shop ID
-const PINTEREST_TOKEN = process.env.PINTEREST_ACCESS_TOKEN;
-const PINTEREST_BOARD_ID = process.env.PINTEREST_LUMIERE_BOARD_ID;
-
-export async function auditEtsyListings() {
-  // GET all active listings from Etsy
-  const response = await fetch(
-    `https://openapi.etsy.com/v3/application/shops/${ETSY_SHOP_ID}/listings/active?limit=100`,
-    {
-      headers: {
-        'x-api-key': ETSY_API_KEY,
-        'Authorization': `Bearer ${process.env.ETSY_OAUTH_TOKEN}`
-      }
-    }
-  );
-  const data = await response.json();
-  return {
-    count: data.count,
-    listings: data.results.map(l => ({
-      id: l.listing_id,
-      title: l.title,
-      url: `https://www.etsy.com/listing/${l.listing_id}`,
-      state: l.state,
-      views: l.views
-    }))
-  };
+const PRINTIFY_API = 'https://api.printify.com/v1'
+const HEADERS = {
+  Authorization: `Bearer ${process.env.PRINTIFY_API_TOKEN}`,
+  'Content-Type': 'application/json'
 }
 
-export async function publishListing(design: {
-  title: string;
-  description: string;
-  price: number;
-  imageUrl: string;
-  tags
+export async function auditAndPublishAllProducts() {
+  const results = {
+    live: [] as { id: string; title: string; url: string }[],
+    published_now: [] as { id: string; title: string; url: string }[],
+    failed: [] as { id: string; title: string; error: string }[]
+  }
+
+  // Step 1: Get all shops
+  const shopsRes = await fetch(`${PRINTIFY_API}/shops.json`, { headers: HEADERS })
 
 ---

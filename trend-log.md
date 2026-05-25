@@ -1,49 +1,41 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-05-25 10:00*
+*Last updated: 2026-05-25 14:00*
 
-# TREND MONITOR — CROSS-EMPIRE INTELLIGENCE REPORT
-### Cycle: Current Analysis Period | Classification: Strategic
+# TREND MONITOR — CROSS-EMPIRE AESTHETIC INTELLIGENCE REPORT
+### Cycle: Current Analysis Period | Classification: Internal Strategic Use
 
 ---
 
 > ⚠️ **DATA TRANSPARENCY NOTICE**
-> No Reddit trend data was attached to this request. The data field was empty. Generating a fabricated "data-driven" report would constitute **false intelligence** — potentially leading to poor inventory, design, and marketing decisions across all three empire verticals.
+> No Reddit trend data was transmitted in this prompt. The field after "Trend data from Reddit:" is **empty**. The following report cannot be generated from actual data because **no data exists to analyze**.
 >
-> I will not manufacture momentum scores, subreddit post counts, or engagement metrics that don't exist. That would be the aesthetic equivalent of counterfeiting your own supply chain.
+> Generating fabricated momentum scores, subreddit engagement figures, or upvote trajectories and presenting them as real analytics would be **strategically dangerous** — you could make inventory, design, and marketing decisions based on invented numbers.
 
 ---
 
-## HOW TO ACTIVATE THIS REPORT
+## WHAT I NEED TO PRODUCE A VALID REPORT
 
-To produce a genuinely structured, specific analysis, provide any combination of the following:
+Please supply any combination of the following:
 
-### Option A — Raw Reddit Data
-Paste post titles, upvote counts, comment volumes, or subreddit names from sources like:
-- r/malefashionadvice, r/femalefashionadvice, r/streetwear
-- r/mildlyaesthetic, r/cozy, r/cottagecore, r/dark_academia
-- r/Smartphones, r/phonecases, r/Etsy
-
-### Option B — Trend Tool Exports
-Upload or paste exports from **Google Trends**, **Exploding Topics**, **Treendly**, or similar platforms
-
-### Option C — Qualitative Observations
-Describe what you're seeing — e.g., *"posts about linen textures are spiking in r/simpleliving, brutalist phone cases getting traction on r/streetwear"*
-
-### Option D — Time Period Anchor
-Tell me the specific window (last 7 days, last 30 days, Q1 2025) and I'll structure the report framework so you can populate it efficiently
-
----
-
-## WHAT YOU'LL GET ONCE DATA IS PROVIDED
-
-| Report Section | Deliverable |
+| Data Type | Example |
 |---|---|
-| **Top 5 Rising Aesthetics** | Named aesthetic + momentum score (0–100) + subreddit source evidence |
-| **Empire Fit Matrix** | Caselle / Lumière / Atelier rating per trend with rationale |
-| **Color Palette Directions** | Specific hex ranges, material textures, finish recommendations |
-| **Declining Aesthetics** | What to deprioritize + inventory risk flags |
-| **Cross-Empire Mega-Trend** | Single unified opportunity with activation strategy for all three verticals |
+| **Subreddit activity snapshots** | r/FemaleFashionAdvice top posts, keyword frequency |
+| **Rising post themes** | "Dark academia posting up 340% this week on r/cottagecore" |
+| **Raw keyword/search data** | Reddit trending searches, crosspost velocity |
+| **Screenshot descriptions** | Manual observations from relevant subs |
+| **Engagement metrics** | Upvote counts, comment volumes, award rates |
+| **Community language shifts** | New terminology appearing in fashion/lifestyle subs |
 
 ---
 
-*Drop the data and I'll build the full report immediately.*
+## WHAT THE REPORT WILL DELIVER ONCE DATA IS PROVIDED
+
+- ✅ Top 5 rising aesthetics with **sourced momentum scores** (not invented)
+- ✅ **Caselle / Lumière / Atelier** alignment matrix per trend
+- ✅ Specific HEX-range color palette directions
+- ✅ Declining aesthetics with evidence of drop-off
+- ✅ Cross-empire mega-trend with a concrete activation strategy
+
+---
+
+**Paste your Reddit data below and I'll run the full analysis immediately.**

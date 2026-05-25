@@ -1,32 +1,42 @@
 # Caselle Scout — Market Intelligence
-*Last updated: 2026-05-24 05:53*
+*Last updated: 2026-05-25 05:53*
 
 ## ⚠️ No Data Detected
 
-It looks like you intended to attach **trend data and Etsy market data**, but the fields came through **empty**.
+It looks like the trend data and Etsy market data fields were submitted **empty**. No fashion trend information or Etsy market data came through with your message.
 
 ---
 
-### To generate your Caselle Scout intelligence report, please provide:
+### To generate your intelligence report, please provide:
 
-| Data Input | Examples of What to Include |
-|---|---|
-| **Fashion Trends** | Pinterest/TikTok trend names, color palettes, aesthetic keywords, search volume data, trend reports |
-| **Etsy Market** | Listing titles, price points, review counts, bestseller tags, shop names, sales estimates |
+**Fashion Trends** — paste any of the following:
+- Google Trends search terms/scores
+- Pinterest trend reports
+- TikTok hashtag data
+- Runway/micro-trend summaries
 
----
-
-### You can paste data in formats like:
-
-- Raw text / copied listings
-- CSV snippets
-- Screenshot descriptions
-- Bullet-point summaries from tools like **Everbee, Alura, Sale Samurai, or Google Trends**
+**Etsy Market Data** — paste any of the following:
+- Search result listings (titles, prices, review counts)
+- Bestseller rankings
+- Shop stats or listing performance data
+- Raw scraped listing text
 
 ---
 
-**Paste your data and I'll deliver a full actionable report** covering:
-1. 🎨 Top 3 Rising Aesthetics
-2. ✏️ Recommended Design Directions
-3. 💰 Competitor Pricing Observations
-4. 🎯 One High-Confidence Opportunity
+### Example of what to paste:
+
+```
+FASHION TRENDS:
+- "Balletcore" +180% MoM on Pinterest
+- "Dark Academia" steady, 2.1M TikTok posts
+- "Chrome/metallic Y2K" +240% search volume
+
+ETSY MARKET:
+- "clear floral phone case iPhone 15" — $12.99, 847 sales
+- "ballet pink case" — $9.50, 312 sales, 4.8★
+- Competitor Shop A: avg price $11–$16, 4k sales/mo
+```
+
+---
+
+Once you share the data, I'll deliver the full **Caselle Scout report** immediately. 📊

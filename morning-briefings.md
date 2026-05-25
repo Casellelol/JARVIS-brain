@@ -785,3 +785,67 @@ No system activity was recorded in the last 24 hours. The upgrade queue has not 
   #1 — Configure Printify API key. Nothing ships until this is done. Full stop.
   #2 — Publish first 5 phone case listings. Use the AI Prompt Pack you already own to generate designs. Get something live.
   #3 — Drive one traffic action to the £9.97 digital product. Post it somewhere — Reddit, a Facebook group, a single tweet. One action.
+
+## Briefing — 2026-05-25
+🔋 System HealthMissed crons (last 24h):⚠️ MISSED: Competitor Monitor (1am)⚠️ MISSED: Lumière Scout (2am)⚠️ MISSED: Atelier Scout (3am)⚠️ MISSED: Nightly Summary (3am)⚠️ MISSED: Trend Monitor (4am)⚠️ MISSED: Caselle Scout (5am)⚠️ MISSED: JARVIS Command (6am)⚠️ MISSED: Morning Briefing (6am)⚠️ MISSED: Gold Scout (7am)⚠️ MISSED: World Brain (8am)⚠️ MISSED: Marketing Posts (9am)⚠️ MISSED: Accountant P&L (11pm)
+
+💰 API SpendMonth-to-date: $6.25 · Daily avg: $0.25 · Est. days remaining: 175
+
+```html
+☀️ JARVIS Morning Briefing — Monday, 26 May 2026
+Prepared for: Osvaldas | Generated: 05:00 UTC
+
+
+
+1. Overnight Summary
+System is alive but commercially dormant. Zero revenue across all channels. Printify integration is unconfigured — the entire POD pipeline is blocked at source. No products are live on Etsy. Market intelligence feeds returned empty. The one active revenue asset is the manually published Stripe digital product. Today's priority must be unblocking the pipeline, not optimising it.
+
+2. Sales & Revenue
+
+  Orders (last 30d): 0
+  Revenue (last 30d): £0.00 / $0.00
+  Net Profit: £0.00
+  Margin: N/A
+  Active Stripe Asset: POD Designer's AI Prompt Pack — £9.97 | buy link — 0 recorded sales to date
+  Dead Stock: No units exist to go dead — publishing pipeline has not fired yet
+
+⚠️ Root cause of £0.00 revenue: Printify API key not configured. No key = no products = no orders. This is the single highest-leverage fix available.
+
+3. New Products Published
+
+  Live on Etsy: 0
+  Live on Printify: 0
+  Queued for publish: Unknown — pipeline blocked before queue stage
+  Only confirmed live product: Stripe digital download (prompt pack, £9.97) — published 2026-05-15
+
+
+4. Top Market Intelligence
+⚠️ Scout returned empty — no trend data or Etsy listing data was fed into the system in the last cycle. The following signals come from World Brain (Hacker News) only:
+
+  DeepSeek "Reasonix" coding agent: High caching, low cost — potential upgrade for JARVIS design generation pipeline. Flag for evaluation.
+  AI chip memory now ~⅔ of component cost: GPU/inference costs trending upward long-term — lock in API rates where possible.
+  Australia 4-day work week data: Productivity boosted. Irrelevant to ops but signals cultural shift — potential niche for lifestyle/work-from-home phone case designs.
+  No Etsy competitor data available. Scout must be fed listing data manually or via automation before next cycle.
+
+
+5. ⚙️ System Activity — Last 24 Hours
+
+  Built: Nothing logged
+  Fixed: Nothing logged
+  Deployed: Nothing logged
+  Reports generated: Sales report ✓ | Financial report ✓ | Market Intel ✗ (empty feed) | World Brain ✓
+
+⚠️ No productive system activity recorded in the last 24 hours. 16 upgrades remain pending. Zero upgrades shipped.
+
+6. Upgrade Queue Status
+
+  Pending upgrades: 16
+  Completed upgrades: 0
+  Queue velocity: 0 upgrades/day (stalled)
+  Highest-impact blocked upgrade: Almost certainly Printify API configuration — unlocks the entire product + revenue pipeline
+  Recommendation: Triage the 16 items today. Rank by revenue impact. Ship the top 3 before end of day.
+
+
+7. Priority for Today
+
+  🔴 #1 — Configure Printify API key. This is the single action that unblocks products, orders, and revenue. Everything else is secondary.

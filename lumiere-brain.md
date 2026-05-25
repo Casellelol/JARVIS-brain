@@ -1,8 +1,8 @@
 # Lumière Scout — Market Intelligence
-*Last updated: 2026-05-24 02:08*
+*Last updated: 2026-05-25 02:08*
 
-# LUMIÈRE SCOUT INTELLIGENCE BRIEF
-### Premium Market Intelligence Report | Q2 2025 Edition
+# LUMIÈRE SCOUT INTELLIGENCE REPORT
+### Premium Market Analysis | Q2 2025 Edition
 
 ---
 
@@ -10,32 +10,95 @@
 
 ---
 
-## ⚠️ NOTICE: NO MARKET DATA RECEIVED
+## ⚠️ DATA NOTICE
 
-The data field in your prompt appears to be **empty**. The Lumière Scout operates on intelligence you provide — runway feeds, retail analytics, social listening exports, search trend data, or competitive pricing files.
+Before the full brief — a transparency note befitting our editorial standards:
+
+**No market data was provided in your submission.** The dataset field was left empty.
+
+Rather than fabricate figures or present speculative data dressed as intelligence, Lumière Scout will outline precisely what this report *will deliver* the moment data is supplied — and offer a **structural preview** of our analytical framework.
 
 ---
 
-## WHAT TO SUBMIT FOR A FULL REPORT
+## THE LUMIÈRE SCOUT REPORT ARCHITECTURE
 
-To generate a high-fidelity luxury market intelligence brief, please provide any combination of the following:
+When you supply your market data — runway coverage, search trend indices, sales velocity metrics, competitor pricing sheets, social listening data, or editorial signals — here is what you will receive:
 
-| Data Type | Examples |
+---
+
+### 01 | RISING LUXURY AESTHETICS *(Top 3)*
+```
+Each aesthetic profiled across:
+→ Cultural origin & momentum vector
+→ Key design codes & visual language
+→ Consumer psychographic alignment
+→ Runway validation (house + season)
+→ Street-to-suite crossover potential
+```
+
+---
+
+### 02 | PRODUCT DIRECTION RECOMMENDATIONS
+```
+→ Hero category priorities (RTW, accessories, footwear)
+→ Capsule collection concepts
+→ Entry-to-aspirational price ladder strategy
+→ Seasonal drop sequencing
+→ Collaboration or licensing signals
+```
+
+---
+
+### 03 | COMPETITIVE PRICING INTELLIGENCE
+```
+→ Segment benchmarking by category
+→ Price-to-perceived-value gaps
+→ White space identification
+→ Markdown risk assessment
+→ Elasticity signals by demographic
+```
+
+---
+
+### 04 | SILHOUETTES & MATERIALS BRIEF
+```
+→ Dominant silhouette directions (structured vs. fluid)
+→ Fabric & material innovation signals
+→ Artisanal vs. technical material tensions
+→ Color palette momentum
+→ Construction & finish elevation notes
+```
+
+---
+
+### 05 | THE HIGH-CONFIDENCE OPPORTUNITY
+```
+One singular, specific, actionable luxury play —
+backed by converging trend, consumer, and commercial signals.
+The Scout's highest-conviction call.
+```
+
+---
+
+## WHAT TO SHARE WITH YOUR SCOUT
+
+To generate your full intelligence brief, please provide any combination of:
+
+| Data Type | Example |
 |---|---|
-| **Trend Signals** | Search trends, social mentions, editorial coverage |
-| **Retail Performance** | Sell-through rates, category growth, inventory data |
-| **Competitive Intel** | Competitor pricing, launches, runway notes |
-| **Consumer Insights** | Demographic shifts, sentiment data, purchase behavior |
-| **Raw Observations** | Store visits, show notes, buyer feedback |
+| 📊 **Search/trend data** | Google Trends exports, Tagwalk, Lyst Index |
+| 💰 **Pricing data** | Competitor SKU pricing, margin benchmarks |
+| 🛍️ **Sales signals** | Category sell-through rates, bestsellers |
+| 📱 **Social intelligence** | Engagement data, hashtag velocity |
+| 🗞️ **Editorial signals** | Recent runway coverage, press mentions |
+| 🎯 **Brand parameters** | Your price positioning, target customer |
 
 ---
 
-## SAMPLE PROMPT TO ACTIVATE FULL REPORT
-
-> *"Fashion market data: Quiet luxury searches up 34% YoY. Boucle fabric mentions rising on Pinterest. Competitor X launched a €4,200 structured tote. Maximalist jewelry trending among Gen Z. Muted earth tones dominating SS25 runways..."*
+*The Scout does not speculate. The Scout illuminates.*
+*Supply the data — and we begin.*
 
 ---
 
-**Submit your data and the Lumière Scout will deliver a Vogue-meets-Bloomberg deep brief — precise, elevated, actionable.**
-
-*— Lumière Scout, standing by.*
+**LUMIÈRE SCOUT** | Market Intelligence Division
+*Precision. Elevation. Conviction.*

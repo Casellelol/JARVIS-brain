@@ -455,3 +455,55 @@ Cycles run: 2 (16:00 on 22 May, 16:00 on 23 May). Net output: 5 products queued,
   DECISION — Review the 1 new business idea filed. Needs your read and a go/no-go.
   ACTION — Promote the AI Prompt Pack. £9.97 Stripe link is live with zero sales. One post, one mention, one targeted share could test demand at zero cost.
   SYSTEM — Fix or replace data sources. Etsy, Reddit, BURGA, Pela all broken. Upgrade queue has 15 pending items, 0
+
+## Nightly Summary — 2026-05-25
+```html
+1. Overnight Agent Activity
+Three think cycles ran (16:00 on 23rd, 22:00 on 24th, 00:44 on 25th). Scouts returned mostly empty — Etsy feeds blank, Reddit blocked, BURGA and Pela unavailable. Casetify partial pricing captured: range $1–$40, median cluster around $5–$9. No new products published. No Printify orders processed. Results log self-diagnosed the failure: same dead queries running in loops, zero corrective action taken.
+
+  Think cycles completed: 3
+  Products published overnight: 0
+  Data sources operational: 1 of 5 (Casetify partial only)
+  Upgrade queue: 16 pending, 0 done
+  Self-flagged issue: scouts re-running dead queries without fix — confirmed loop waste
+
+
+2. Intelligence Brain Updates
+No new facts confirmed written to long-term memory this cycle. World Brain captured the following signals worth noting:
+
+  AI chip memory now represents nearly two-thirds of AI chip component cost — hardware cost structure shifting
+  Australia 4-day work week study shows productivity gains — cultural signal, weak relevance to POD
+  DeepSeek native coding agent with high caching and low cost — potential future JARVIS tooling candidate
+  Memory entry from 2026-05-15 confirmed: digital product "POD Designer's AI Prompt Pack" live at £9.97 via Stripe link — no sales recorded against it
+  No new competitive positioning data written — Etsy trend keywords (dark academia, celestial witch, coquette, booktok, y2k) all returned empty
+
+
+3. Opportunity Queue
+No new opportunities formally scored or promoted overnight. One business idea filed but not detailed in logs. Queue status:
+
+  Products in queue: 5 (stalled, publication status unconfirmed)
+  Digital products in queue: 0
+  New business ideas filed: 1 (content unknown from logs)
+  Summer window flagged by JARVIS — beach, festival, coastal aesthetics 3–4 weeks from peak. This is a time-sensitive opportunity currently being wasted. Score: 8/10 urgency, 0/10 action taken
+  Casetify pricing gap identified: their low end hits $5–$9 — room to compete on aesthetic differentiation, not price
+
+
+4. Revenue Events
+Nothing to report.
+
+  Total orders (30 days): 0
+  Total revenue: £0.00 / $0.00
+  Printify: not configured — no orders possible in current state
+  Stripe digital product (Prompt Pack, £9.97): 0 sales
+  Refunds: 0
+  Status: non-operational for 5+ consecutive days
+
+
+5. Pending Manual Actions
+The following require your decision or hands-on action — JARVIS cannot unblock these autonomously:
+
+  [CRITICAL] Configure Printify API key — without this, no POD orders can process. Zero revenue is partly a systems failure, not just a traffic failure
+  [CRITICAL] Confirm publication status of 5 queued products — are they live? Drafted? Invisible to search? Unknown without manual check
+  [HIGH] Unblock or replace dead data sources — Etsy, Reddit, BURGA, Pela all failing. 16 upgrades pending, 0 done. Pick one fix today
+  [HIGH] Oj deadline was missed — referenced in logs as a credibility and momentum problem. What was the commitment and what is the revised date?
+  [MEDIUM] Review the 1 business idea

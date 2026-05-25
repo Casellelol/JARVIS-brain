@@ -1,39 +1,39 @@
 # Accountant — Daily Financial Report
-*Generated: 2026-05-24 23:24*
+*Generated: 2026-05-25 23:24*
 
 ## Raw Data
 - Orders (30d): 0 | Revenue: £0.00
 - Printify key not configured
 
 ## Analysis
-## Daily Financial Summary
+## Daily Financial Summary — ⚠️ CRITICAL ALERT
 
 ---
 
-### ⚠️ SYSTEM STATUS: NON-OPERATIONAL
-
+### Key Metrics
 | Metric | Value |
-|--------|-------|
-| Gross Revenue | £0.00 |
-| Cost of Goods | £0.00 |
-| Net Profit | £0.00 |
-| Margin % | N/A |
+|---|---|
+| **Revenue (30d)** | £0.00 |
+| **COGS** | £0.00 (unverifiable) |
+| **Net Profit** | £0.00 |
+| **Margin %** | N/A |
 
 ---
 
-### Key Observations
+### 🔴 Key Observations
 
-1. **Zero revenue** — No orders processed in 30 days. The business is generating no income.
-2. **Printify not configured** — Product sourcing/fulfillment is **disconnected**. No orders *can* process even if traffic exists.
-3. **Fixed costs still running** — Any platform fees, domain, or ad spend are currently **pure loss** with no offsetting revenue.
-
----
-
-### 🔴 Priority Action (Single, Highest Impact)
-
-**Configure Printify API key immediately.**
-This is a hard blocker. Until fulfillment is connected, the store cannot function. Every day unresolved = continued £0 revenue. Setup takes <30 minutes and unlocks the entire revenue pipeline.
+1. **Zero orders, zero revenue** — the business is generating no income. Fixed/platform costs are burning with no offset.
+2. **Printify not configured** — COGS data is completely blind. No supplier connection means **fulfilment is broken**; even if orders came in, they could not be processed.
+3. **These two issues are likely linked** — a broken supplier integration typically breaks product listings or checkout flows upstream.
 
 ---
 
-*No further optimisation analysis is meaningful until the integration is live and transactional data flows. Return here once first orders are recorded.*
+### ✅ Single Recommended Action
+
+**Fix the Printify API key immediately.**
+
+> Navigate to Settings → Integrations → Printify and enter a valid API key. This is the critical path blocker. Everything else — pricing, margins, scaling — is irrelevant until fulfilment is operational.
+
+---
+
+*No meaningful financial analysis is possible until data pipelines are restored. Re-run this summary once Printify is connected and orders are live.*

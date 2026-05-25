@@ -1,77 +1,64 @@
 # Social Performance Report
-*Generated: 2026-05-18 12:52*
+*Generated: 2026-05-25 12:52*
 
 # Weekly Social Performance Report
-### Caselle | Week of May 18, 2026
+**Caselle Scout — Social Performance Agent**
+*Week of 2026-05-25 | Status: Pre-Launch Baseline Report*
 
 ---
 
-> ## ⚠️ Data Transparency Notice
->
-> **This report cannot be data-driven in the true sense this week.**
->
-> All three data sources required for this analysis returned empty:
-> - Reddit engagement data → No data across all 4 niches
-> - Published products → None yet
-> - Market intelligence context → No trend figures attached
->
-> **I will not fabricate engagement numbers, upvote counts, or hashtag performance metrics.**
-> Doing so would lead to real strategic decisions built on invented data — that's a risk to the brand.
+## ⚠️ Data Availability Notice
 
----
+Both the Reddit engagement feeds and the market intelligence pipeline returned **empty datasets** this cycle. This report cannot produce engagement metrics, upvote counts, or hashtag performance rankings because **no live data was ingested.**
 
-## What This Report Can Do Instead
+Here is exactly what is missing and why it matters:
 
-Rather than produce false confidence, here's how to move forward productively.
-
----
-
-### 🔧 SECTION 1 | Data Collection Setup (Do This Now)
-
-Before next week's report is meaningful, these inputs need to be live:
-
-| Data Source | What to Track | Where |
+| Data Source | Status | Impact |
 |---|---|---|
-| Reddit | Upvotes, comment volume, post frequency | r/phonecases, r/coquette, r/DarkAcademia, r/Y2K, r/witchcraft |
-| TikTok | View-to-engagement ratio on case aesthetic videos | TikTok search + Creator Marketplace trends |
-| Etsy | Search volume, bestseller badge frequency, review velocity | Etsy search + eRank or Marmalead |
-| Instagram | Save rate, share rate on aesthetic content | Native Instagram Insights |
-
-**The Reddit scout specifically needs to return actual post data** — upvote counts, comment counts, post titles, and posting frequency per niche — for this report to do its job.
+| Reddit niche scrapes (all 4 aesthetics) | No data returned | Cannot rank aesthetics by community engagement |
+| Etsy market intel | Empty submission | Cannot validate trend-product alignment |
+| Fashion trend signals | Empty submission | Cannot confirm which aesthetics are ascending vs. declining |
+| Published products | None yet | No owned content performance to analyse |
 
 ---
 
-### 🧠 SECTION 2 | Structural Framework Ready to Populate
+## What This Report Cannot Responsibly Do Right Now
 
-When data arrives, this is the exact framework that will be applied:
+A performance report built on fabricated numbers would actively harm your strategy. Specifically, I will not:
 
----
-
-**① Aesthetic Engagement Ranking**
-Niches will be ranked by:
-- Reddit post frequency (posts per week in niche subreddits)
-- Average upvotes on phone case adjacent content
-- Comment sentiment (desire-signaling language vs. passive scrolling)
-- Cross-platform signal alignment (TikTok + Pinterest + Etsy simultaneously trending)
+- **Invent engagement rankings** — telling you "coquette is outperforming celestial by 34%" when no data supports that would cause you to allocate budget incorrectly
+- **Fabricate hashtag performance data** — hashtag reach figures require real impression and post volume data
+- **Manufacture a "high-momentum" content idea** — momentum requires a measurable signal to be called momentum
 
 ---
 
-**② Content Format Recommendations**
-Will be matched to what's actually performing, not assumed. Variables assessed:
-- Static image vs. video vs. carousel performance by niche
-- Caption length correlating with comment volume
-- Whether lifestyle context (case on desk, in hand, flat lay) outperforms product-only shots
+## What You Can Do Right Now to Unlock This Report
+
+### Step 1 — Feed the Reddit Pipeline
+For each aesthetic, the scraper needs actual post data. Manually or via your tool, pull from:
+
+- **r/coquette** — search "phone case" or "accessories"
+- **r/DarkAcademia** — search "phone" or "tech accessories"
+- **r/Y2Kfashion** — search "case" or "phone"
+- **r/witchcraft / r/astrology** — for celestial signals
+
+For each post collect: upvote count, comment count, post age, and top 3 comment themes.
+
+### Step 2 — Resubmit Market Intel
+Paste raw data into the Market Intelligence agent covering:
+- Google Trends terms for each aesthetic
+- Etsy search volume or bestseller observations
+- Any TikTok sound or hashtag you have noticed trending
+
+### Step 3 — Define Your Launch Aesthetic Priority
+Even before data arrives, confirm which one or two aesthetics you are launching first. This lets the Content and SEO agents begin parallel work while the data pipeline is fixed.
 
 ---
 
-**③ Hashtag & Caption Strategy Per Aesthetic**
-Will be built from:
-- Hashtag size (avoiding oversaturated tags >10M posts)
-- Niche-specific vocabulary pulled from high-upvote Reddit posts
-- Caption tone matching community voice (ironic, sincere, aspirational, etc.)
+## Standing Framework — Ready to Activate When Data Arrives
 
----
+Once data is ingested, this report will automatically structure around:
 
-**④ High-Momentum Content Idea**
-Will be a specific, timed recommendation based on:
-- What's trending
+1. **Aesthetic Engagement Ranking** — scored on upvote velocity, comment sentiment, and cross-platform signal strength
+2. **Content Format Recommendations** — ranked by format performance within each subreddit community
+3. **Hashtag and Caption Strategy** — one tactical brief per aesthetic with primary, secondary, and niche hashtag

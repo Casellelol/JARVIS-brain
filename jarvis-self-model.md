@@ -1,48 +1,47 @@
 # JARVIS Self-Model
-*Last updated: 2026-05-25 16:00*
-
----
+*Last updated: 2026-05-25 22:00*
 
 ## Empire Status
 
 ### Caselle (Phone Cases)
-- **Live status:** Building
-- **Revenue confidence:** 8%
-- **Top hypothesis:** Publishing the queued 7 products live — even imperfect — is the single action most likely to produce first revenue, since zero live products guarantees zero sales
-- **Watching:** Risk of continued queue paralysis; the strategy doc flags this explicitly — products have been queued long enough that delay itself is now the primary threat
+- Live status: **building**
+- Revenue confidence: **4%**
+- Top hypothesis: Publishing imperfect live products will generate first data faster than refining queued ones — velocity beats perfection at zero revenue
+- Watching: **Queue rot** — products have been staged long enough that continued non-publication is now the primary risk, not product quality
 
 ### Noctua (Dark Academia) — Planned
-- **Status:** Planned
-- **Launch readiness:** 5%
+- Status: **planned**
+- Launch readiness: **5%**
 
 ### Atelier (Fiverr Design)
-- **Status:** Active
-- **Intelligence quality:** Unknown — no scout data returned this cycle; field appears to be running but producing no usable signal
+- Status: **inactive**
+- Intelligence quality: Scout returning no usable data — input pipeline is empty, no trend or Etsy market data flowing through
 
 ### Lumière (Etsy Wall Art)
-- **Status:** Active
-- **Launch readiness:** 10%
+- Status: **inactive**
+- Launch readiness: **8%**
 
 ---
 
 ## Active Hypotheses
 
-1. **Publish-first beats refine-first.** The store has seven products queued and zero published beyond the POD ebook. The hypothesis is that getting imperfect products live will generate more information — and potentially first revenue — faster than any amount of pre-publication optimization.
+1. **Publication velocity is the only lever that matters right now.** Caselle has zero sales, zero published products generating traffic, and a strategy doc that correctly diagnoses the problem. The hypothesis is that publishing 7+ products in the next cycle will produce first-sale signal within 14 days — or reveal why it won't.
 
-2. **Market intelligence blackout is masking real opportunity or real risk.** The Caselle scout returned empty data this cycle. JARVIS cannot confirm or deny whether current product concepts align with live Etsy demand. This ignorance is a structural liability until resolved.
+2. **The scout pipeline failure is masking real opportunity.** Caselle's intelligence report came back empty because data was never fed in. The market hasn't been read. The hypothesis is that once trend data flows (balletcore, coquette, Y2K metallic remain plausible bets based on prior cycle context), at least one design angle will show clear demand with low competition.
 
-3. **No design has been market-validated.** With 0 orders across 30 days, every design in the queue is a hypothesis, not a product. First sales data — even a single order — will be worth more than any scouting report currently available.
+3. **POD ebook is a dead asset until products exist.** The one published asset is a product-of-a-product — it only converts if someone trusts the store. With zero case sales and no social proof, the ebook generates nothing. Hypothesis: it stays inert until 10+ case listings are live and reviewed.
 
 ---
 
 ## What Changed This Cycle
 
-- **Sales remain at zero.** No movement from last cycle. Thirty-day window closed at $0.00, 0 orders.
-- **Scout failed to return data.** Caselle market intelligence report came back empty — trend data and Etsy market data fields were both blank. This is a degradation in intelligence capability compared to any prior cycle where data existed.
-- **Strategy document was rewritten (v2.1, 2026-05-24).** The playbook now explicitly names queue paralysis as the primary threat and sets product publication as Priority 1 above all other tasks.
+- **Nothing changed in revenue** — still $0.00, 0 orders, identical to last cycle
+- **Strategy doc was written** (2026-05-24) and correctly identifies the core failure: products are queued but not published
+- **Scout returned empty** — the intelligence loop is broken; no trend data was submitted, so no market read was possible
+- **The gap between diagnosis and action widened** — JARVIS has a correct strategy document and is not executing it, which is now the defining fact of this cycle
 
 ---
 
 ## Expected Next Cycle
 
-- At least 3 of the 7 queued products should be live on the store — if the strategy is being followed, this is ver
+- At least **3 products move

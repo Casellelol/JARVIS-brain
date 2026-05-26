@@ -1,47 +1,45 @@
 # JARVIS Self-Model
-*Last updated: 2026-05-26 04:00*
-
----
+*Last updated: 2026-05-26 13:33*
 
 ## Empire Status
 
 ### Caselle (Phone Cases)
-- **Live status:** building
-- **Revenue confidence:** 4%
-- **Top hypothesis:** First sales will come from trend-aligned listings (balletcore, dark academia aesthetics) once the queued products actually go live — the queue is the current bottleneck, not the designs
-- **Watching:** Queue rot — products that sit unpublished long enough become stale relative to trend cycles; every day without publishing is compounding risk
+- Live status: **building**
+- Revenue confidence: **4%**
+- Top hypothesis: Publishing any live product beats refining queued products — first sale requires something to buy, not something to perfect
+- Watching: **Scout data pipeline is broken** — market intelligence returned empty this cycle, meaning product decisions are being made blind
 
 ### Noctua (Dark Academia) — Planned
-- **Status:** planned
-- **Launch readiness:** 8%
+- Status: **planned**
+- Launch readiness: **5%**
 
 ### Atelier (Fiverr Design)
-- **Status:** inactive
-- **Intelligence quality:** Scout returning empty — no market data is being fed in; the pipeline exists but is producing no signal
+- Status: **inactive**
+- Intelligence quality: No scout activity detected this cycle — no findings to report
 
 ### Lumière (Etsy Wall Art)
-- **Status:** inactive
-- **Launch readiness:** 5%
+- Status: **inactive**
+- Launch readiness: **8%**
 
 ---
 
 ## Active Hypotheses
 
-1. **Publishing velocity is the only variable that matters right now.** Caselle has zero sales and zero live products generating traffic. Design quality and market positioning are secondary concerns until there are live listings to validate or invalidate. The empire is stuck at a pre-revenue state not because of bad strategy but because of execution delay.
-
-2. **The scout pipeline is broken, not the market.** Caselle Scout returned empty data this cycle — this is not evidence the market is quiet, it is evidence the intelligence feed is not being supplied. Decisions are being made blind. Restoring data input is a prerequisite to real strategy.
-
-3. **Noctua and Lumière have no business being prioritized.** With Caselle at $0 revenue and seven products queued but unpublished, expanding to new verticals is a distraction. All energy routes through Caselle until it posts its first sale.
+1. **The queue is the enemy.** Products sitting in draft or queue state have contributed to zero revenue for 30+ days. The single highest-leverage action is publication, not optimization. Every cycle without a live product is a cycle with a structural ceiling of $0.
+2. **Competitor intel is a critical gap.** The competitor intelligence feed returned raw truncated data ("DIRE"). Until this pipeline is repaired, Caselle is pricing and designing without knowing what the market rewards — this is the most dangerous known unknown.
+3. **No market signal exists yet.** With 0 orders and a broken scout, JARVIS cannot yet distinguish between "wrong products," "wrong pricing," "wrong SEO," or "not enough time." The first 5 live products will generate the first falsifiable data.
 
 ---
 
 ## What Changed This Cycle
 
-- **Nothing materially changed.** Sales remain at $0. The 30-day performance report confirms zero orders, zero revenue, no top designs, no top phone models — identical to prior cycle.
-- Caselle Scout returned **no intelligence data** — the market feed was empty, meaning this cycle produced no new signal about trends, competitor pricing, or Etsy demand.
-- The strategy document (v2.1) already diagnosed the core problem accurately: products are queued but not published. That diagnosis has not been acted upon based on available evidence.
-- This is now a pattern, not an anomaly. The queue has been referenced across multiple cycles without resolution.
+- **Nothing materially improved.** Revenue remains $0. Orders remain 0. This is the same state as the prior cycle.
+- **Two data pipelines confirmed broken:** Caselle Scout returned a no-data error; Competitor Intel returned truncated/corrupted output. Last cycle these may have been assumed functional — they are now confirmed non-functional.
+- **The queue problem persists.** Strategy written 2026-05-24 explicitly named "publish today" as Priority 1. As of 2026-05-26, that directive has not produced observable results in the sales data.
 
 ---
 
 ## Expected Next Cycle
+
+- At least **1 new live product** should appear in the sales performance report — if the playbook directive was followed, this is verifiable
+- If revenue remains $0 and orders remain 0 with live products, the hypothesis shifts from "nothing is published" to "SEO/discoverability is

@@ -1,45 +1,43 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-05-26 04:58*
+*Last updated: 2026-05-26 06:00*
 
-# TREND MONITOR — WEEKLY AESTHETIC INTELLIGENCE REPORT
-### Cross-Empire Analysis | Caselle × Lumière × Atelier
+# TREND MONITOR — CROSS-EMPIRE INTELLIGENCE REPORT
+### Cycle: Current Analysis Period | Classification: Strategic
 
 ---
 
 > ⚠️ **DATA TRANSPARENCY NOTICE**
-> No Reddit trend data was included in your prompt submission. The data block was empty. I will not fabricate subreddit engagement numbers, upvote velocities, or post frequencies — doing so would corrupt your purchasing and inventory decisions.
+> No Reddit trend data was attached to this prompt. The data field was empty. Producing a fabricated "data-driven" report with invented upvote counts, subreddit engagement figures, or momentum scores would be **analytically irresponsible** and could lead to real inventory, design, and marketing decisions built on fiction.
+>
+> I won't do that.
 
 ---
 
-## TO GENERATE YOUR REPORT, SUBMIT DATA IN THIS FORMAT:
+## HERE'S WHAT I CAN DO INSTEAD
 
-```
-SUBREDDIT          | TOP POSTS (7-DAY)  | KEYWORD CLUSTERS        | VELOCITY
-r/femalefashionadvice | 847 posts       | "quiet luxury," "beige" | ↑ +34%
-r/streetwear          | 1,203 posts     | "gorpcore," "technical" | ↑ +61%
-r/malelivingspace     | 445 posts       | "wabi-sabi," "neutral"  | → stable
-...
-```
+### Option A — **Submit Your Data**
+Paste in your Reddit trend data in any format:
+- Raw post titles + upvote counts
+- Subreddit activity summaries
+- Keyword frequency tables
+- Screenshot transcriptions
+- CSV exports
 
-**Minimum viable inputs I can work with:**
-- Raw subreddit post titles or keyword lists
-- Screenshot descriptions of trending posts
-- Engagement numbers (upvotes, comments, share velocity)
-- Cross-platform signals you've manually pulled (TikTok, Pinterest boards)
-- Even anecdotal "I'm seeing a lot of X on r/Y" observations
+I'll run the full structured analysis immediately.
 
 ---
 
-## WHAT YOUR REPORT WILL COVER ONCE DATA IS RECEIVED:
-
-| Section | Output |
-|---|---|
-| **① Rising Aesthetics** | Top 5 ranked by momentum score (0–100), calculated from post velocity + comment sentiment + cross-subreddit spread |
-| **② Empire Routing** | Primary/secondary beneficiary per trend — Caselle / Lumière / Atelier |
-| **③ Color Palettes** | Hex direction clusters, naming, seasonal relevance |
-| **④ Declining Aesthetics** | What to markdown, discontinue, or avoid in new orders |
-| **⑤ Mega-Trend** | One cross-empire play with product overlap opportunity |
+### Option B — **Template-Driven Hypothetical**
+Tell me: *"Run it as a hypothetical with clearly labeled assumptions"* and I'll produce the full report structure with **explicitly flagged placeholder data** — useful for testing your reporting format before real data arrives.
 
 ---
 
-*Resubmit with your trend data and I'll run the full analysis immediately.*
+### Option C — **Define Your Data Sources**
+If you're building this pipeline, I can help you specify:
+- Which subreddits to monitor per empire (r/malelivingspace for Atelier, r/Louisvuitton for Lumière, etc.)
+- What signals constitute a valid momentum score
+- Scraping/API methodology for Reddit trend capture
+
+---
+
+**Which direction works best for your operation?**

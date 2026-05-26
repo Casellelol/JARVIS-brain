@@ -43,3 +43,10 @@
 - **Rationale:** POD sellers consistently overwhelmed by the launch process; no concise, actionable checklist product exists in the market; complements the existing ebook and prompt pack as a low-friction entry product
 - **Confidence:** 74%
 - **Status:** executing
+
+## The Etsy POD Copywriting Swipe File — 40 Proven Titles, Tag Formulas & Description Templates for Phone Case Sellers — 2026-05-26 10:00
+- **Type:** swipe-file
+- **Revenue model:** £7.99 per download
+- **Rationale:** POD sellers know how to design but not how to write listings that rank — no dominant swipe file exists for this specific gap between design and SEO
+- **Confidence:** 74%
+- **Status:** executing

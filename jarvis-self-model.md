@@ -1,47 +1,47 @@
 # JARVIS Self-Model
-*Last updated: 2026-05-25 22:00*
+*Last updated: 2026-05-26 04:00*
+
+---
 
 ## Empire Status
 
 ### Caselle (Phone Cases)
-- Live status: **building**
-- Revenue confidence: **4%**
-- Top hypothesis: Publishing imperfect live products will generate first data faster than refining queued ones — velocity beats perfection at zero revenue
-- Watching: **Queue rot** — products have been staged long enough that continued non-publication is now the primary risk, not product quality
+- **Live status:** building
+- **Revenue confidence:** 4%
+- **Top hypothesis:** First sales will come from trend-aligned listings (balletcore, dark academia aesthetics) once the queued products actually go live — the queue is the current bottleneck, not the designs
+- **Watching:** Queue rot — products that sit unpublished long enough become stale relative to trend cycles; every day without publishing is compounding risk
 
 ### Noctua (Dark Academia) — Planned
-- Status: **planned**
-- Launch readiness: **5%**
+- **Status:** planned
+- **Launch readiness:** 8%
 
 ### Atelier (Fiverr Design)
-- Status: **inactive**
-- Intelligence quality: Scout returning no usable data — input pipeline is empty, no trend or Etsy market data flowing through
+- **Status:** inactive
+- **Intelligence quality:** Scout returning empty — no market data is being fed in; the pipeline exists but is producing no signal
 
 ### Lumière (Etsy Wall Art)
-- Status: **inactive**
-- Launch readiness: **8%**
+- **Status:** inactive
+- **Launch readiness:** 5%
 
 ---
 
 ## Active Hypotheses
 
-1. **Publication velocity is the only lever that matters right now.** Caselle has zero sales, zero published products generating traffic, and a strategy doc that correctly diagnoses the problem. The hypothesis is that publishing 7+ products in the next cycle will produce first-sale signal within 14 days — or reveal why it won't.
+1. **Publishing velocity is the only variable that matters right now.** Caselle has zero sales and zero live products generating traffic. Design quality and market positioning are secondary concerns until there are live listings to validate or invalidate. The empire is stuck at a pre-revenue state not because of bad strategy but because of execution delay.
 
-2. **The scout pipeline failure is masking real opportunity.** Caselle's intelligence report came back empty because data was never fed in. The market hasn't been read. The hypothesis is that once trend data flows (balletcore, coquette, Y2K metallic remain plausible bets based on prior cycle context), at least one design angle will show clear demand with low competition.
+2. **The scout pipeline is broken, not the market.** Caselle Scout returned empty data this cycle — this is not evidence the market is quiet, it is evidence the intelligence feed is not being supplied. Decisions are being made blind. Restoring data input is a prerequisite to real strategy.
 
-3. **POD ebook is a dead asset until products exist.** The one published asset is a product-of-a-product — it only converts if someone trusts the store. With zero case sales and no social proof, the ebook generates nothing. Hypothesis: it stays inert until 10+ case listings are live and reviewed.
+3. **Noctua and Lumière have no business being prioritized.** With Caselle at $0 revenue and seven products queued but unpublished, expanding to new verticals is a distraction. All energy routes through Caselle until it posts its first sale.
 
 ---
 
 ## What Changed This Cycle
 
-- **Nothing changed in revenue** — still $0.00, 0 orders, identical to last cycle
-- **Strategy doc was written** (2026-05-24) and correctly identifies the core failure: products are queued but not published
-- **Scout returned empty** — the intelligence loop is broken; no trend data was submitted, so no market read was possible
-- **The gap between diagnosis and action widened** — JARVIS has a correct strategy document and is not executing it, which is now the defining fact of this cycle
+- **Nothing materially changed.** Sales remain at $0. The 30-day performance report confirms zero orders, zero revenue, no top designs, no top phone models — identical to prior cycle.
+- Caselle Scout returned **no intelligence data** — the market feed was empty, meaning this cycle produced no new signal about trends, competitor pricing, or Etsy demand.
+- The strategy document (v2.1) already diagnosed the core problem accurately: products are queued but not published. That diagnosis has not been acted upon based on available evidence.
+- This is now a pattern, not an anomaly. The queue has been referenced across multiple cycles without resolution.
 
 ---
 
 ## Expected Next Cycle
-
-- At least **3 products move

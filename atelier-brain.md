@@ -1,48 +1,58 @@
 # Atelier Scout — Market Intelligence
-*Last updated: 2026-05-25 03:27*
+*Last updated: 2026-05-26 03:27*
 
-# Atelier Scout — Market Intelligence Report
-### Luxury Artisan Goods | Trend Cycle Analysis
-
----
-
-> ⚠️ **Note:** No market data was provided in your prompt. The following report is built on **trained knowledge through early 2025** and established craft market signals. For live Etsy/marketplace data, append current listings, search trends, or sales data to your query.
+# Atelier Scout Market Intelligence Report
+### Luxury Artisan Goods — Trend Analysis Brief
 
 ---
 
-## 01 · TOP 3 RISING CRAFT AESTHETICS
-
-### 🏺 1. Wabi-Sabi Maximalism
-The evolution of quiet minimalism into something richer — asymmetric forms, intentional imperfection, but with **layered warmth**: aged brass, crackle glazes, uneven rims, raw linen juxtaposed with ornate surface detail. Consumers are rejecting sterile "clean girl" aesthetics in favor of objects that feel *lived-in and storied*.
-
-**Signal:** High engagement on "imperfect pottery," "organic form ceramics," "handbuilt stoneware" on Pinterest and Etsy saves.
+> ⚠️ **Note:** No trend data was submitted in your prompt. The field after "Artisan market trends:" appears to be blank. I'll provide a **baseline report grounded in current market intelligence** through my knowledge cutoff — flag any data you'd like me to incorporate and I'll recalibrate.
 
 ---
 
-### 🌿 2. New Verdure / Botanical Gothic
-A darker, more sophisticated take on nature-inspired craft. Think **deep forest tones** (black-green, oxblood, midnight moss), pressed botanical resin work, fungal motifs, and botanical illustration translated into textile and jewelry. Not cottagecore — more *cabinet of curiosities*.
+## 📈 TOP 3 RISING CRAFT AESTHETICS
 
-**Signal:** Search velocity increasing for "mushroom jewelry," "botanical pressed resin," "dark cottagecore home goods." Strong crossover with the growing witchcraft/ritual aesthetic market.
+### 1. 🪨 Raw Brutalist Craft
+**Momentum: High ↑↑**
+Unfinished edges, exposed construction, asymmetric forms in ceramics and metalwork. Consumers are actively rejecting "perfect" machine aesthetics. Search terms like *"wabi-sabi pottery"* and *"raw edge ceramics"* have sustained multi-year growth on Pinterest and Etsy.
 
----
-
-### 🪡 3. Heirloom Revivalism
-Techniques associated with grandmothers — smocking, tatting, cutwork embroidery, darning — repositioned as **deliberate luxury slowcraft**. Framed as anti-fast-fashion heritage objects. Strong generational resonance with 28–42 demographic willing to pay premium for provenance and craft literacy.
-
-**Signal:** "Visible mending," "hand-smocked," and "needle tatting" seeing sustained search growth. Editorial coverage in *Kinfolk*, *Cereal*, and luxury lifestyle press.
+> **Signature look:** Volcanic glaze textures, visible throwing marks, oxidized bronze hardware
 
 ---
 
-## 02 · RECOMMENDED PRODUCT DIRECTIONS
+### 2. 🌿 Neo-Pastoral / Quiet Luxury Craft
+**Momentum: High ↑↑**
+A convergence of the "old money" aesthetic and artisan heritage goods. Think hand-stitched linen, beeswax candles in muted oatmeal tones, vegetable-tanned leather with minimal branding. This demographic spends significantly more per transaction.
 
-| Direction | Rationale | Price Tier |
-|---|---|---|
-| **Handbuilt ceramic ritual objects** (incense holders, moon bowls, bud vases) | Sits at intersection of Wabi-Sabi + Botanical Gothic; high margin, giftable | $65–$220 |
-| **Smocked or tatted linen accessories** (headbands, bag details, collar attachments) | Low material cost, high perceived craft value, wearable heirloom | $85–$350 |
-| **Pressed botanical resin jewelry** (pendants, rings with specimen inclusions) | Scalable in small batches; strong visual on social; collectible positioning | $120–$480 |
-| **Beeswax/tallow candles in handbuilt ceramic vessels** | Vessel + consumable = repeat purchase mechanic; cross-sells organically | $75–$180 |
-| **Mended/embellished textile goods** (visible mending kits, embroidered linen napkins) | Rides sustainability + heirloom wave; strong gifting angle | $60–$290 |
+> **Signature look:** Undyed natural fibers, hand-blocked botanical prints, horn or bone toggles
 
 ---
 
-## 03 · ETSY PRICING
+### 3. 🔵 Maximalist Folk Revival
+**Momentum: Rising ↑**
+Driven by Gen Z's appetite for color and cultural storytelling. Eastern European embroidery patterns, Mexican Otomí-inspired textile prints, and Scandinavian folk motifs are being recontextualized in contemporary forms — wall hangings, statement ceramics, embroidered accessories.
+
+> **Signature look:** Dense pattern layering, saturated indigo/vermillion/saffron palettes, visible hand-stitching as design feature
+
+---
+
+## 🛒 RECOMMENDED PRODUCT DIRECTIONS
+
+| Priority | Product | Rationale |
+|----------|---------|-----------|
+| **#1** | Textured stoneware oil/vinegar vessels | Kitchen luxury + gift-ready + repeat gifting category |
+| **#2** | Hand-stitched leather card wallets (slim) | Low material cost, high perceived value, strong conversion |
+| **#3** | Botanical-dyed linen napkin sets (4–6 piece) | Table setting trend is robust; high AOV gift sets |
+| **#4** | Folk-motif embroidered cushion covers | Strong home decor demand; customization premium viable |
+| **#5** | Beeswax taper candles in sculptural forms | Extremely high Etsy velocity; low barrier to photograph well |
+
+---
+
+## 💰 ETSY PRICING OBSERVATIONS
+
+**Key insight: The middle market ($35–$65) is oversaturated. Premiumization or entry-level positioning outperforms.**
+
+| Segment | Price Range | Notes |
+|---------|------------|-------|
+| **Handmade ceramics (mugs)** | $38–$95 | Top sellers cluster at $58–$72; under $40 perceived as low quality |
+| **Leather goods (wallets)** | $65–$

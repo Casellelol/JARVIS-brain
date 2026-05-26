@@ -1,42 +1,27 @@
 # Caselle Scout — Market Intelligence
-*Last updated: 2026-05-25 05:53*
+*Last updated: 2026-05-26 05:53*
 
 ## ⚠️ No Data Detected
 
-It looks like the trend data and Etsy market data fields were submitted **empty**. No fashion trend information or Etsy market data came through with your message.
+It looks like **no trend data or Etsy market information was actually included** in your message — the fields appear to be blank.
 
 ---
 
-### To generate your intelligence report, please provide:
+### To generate your Caselle Scout intelligence report, please provide any combination of:
 
-**Fashion Trends** — paste any of the following:
-- Google Trends search terms/scores
-- Pinterest trend reports
-- TikTok hashtag data
-- Runway/micro-trend summaries
-
-**Etsy Market Data** — paste any of the following:
-- Search result listings (titles, prices, review counts)
-- Bestseller rankings
-- Shop stats or listing performance data
-- Raw scraped listing text
+| Data Type | Examples |
+|---|---|
+| **Fashion trend data** | Pinterest trend reports, Google Trends keywords, TikTok hashtag volumes, runway/color trend summaries |
+| **Etsy market data** | Bestseller listings, search result screenshots, pricing data, review counts, shop names |
+| **Additional context** | Target phone models (iPhone 16, Samsung S24, etc.), your current catalog, price point goals |
 
 ---
 
-### Example of what to paste:
+### You can paste data in formats like:
 
-```
-FASHION TRENDS:
-- "Balletcore" +180% MoM on Pinterest
-- "Dark Academia" steady, 2.1M TikTok posts
-- "Chrome/metallic Y2K" +240% search volume
+- Raw text / CSV
+- Screenshot descriptions
+- Bullet lists of trending keywords
+- Copied Etsy listing details (title, price, review count)
 
-ETSY MARKET:
-- "clear floral phone case iPhone 15" — $12.99, 847 sales
-- "ballet pink case" — $9.50, 312 sales, 4.8★
-- Competitor Shop A: avg price $11–$16, 4k sales/mo
-```
-
----
-
-Once you share the data, I'll deliver the full **Caselle Scout report** immediately. 📊
+**Drop in your data and I'll produce the full intelligence report immediately.** 🔍

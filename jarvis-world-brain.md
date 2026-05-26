@@ -1,36 +1,36 @@
 # JARVIS World Brain
-*Last updated: 2026-05-25 08:44*
+*Last updated: 2026-05-26 08:44*
 
 ## Hacker News — Tech & Business
-- Jira Is Turing-Complete
-- Didgeridoo playing as alternative treatment for obstructive sleep apnea(2006)
-- I love my Bluetooth keyboard
-- Show HN: Audiomass – a free, open-source multitrack audio editor for the web
-- DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost
-- Migrating from Go to Rust
+- DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD
+- Using AI to write better code more slowly
+- Taking a walk may lead to more creativity than sitting, study finds (2014)
+- The User Is Visibly Frustrated
+- Use Boring Languages with LLMs
+- Earthion: A New Mega Drive-Style Shoot-Em-Up
 
 ## Entrepreneur Magazine — Latest
-- How Leaders Lose Trust During AI Change and the Simple Communication Framework That Prevents It
-- The First Sentence of Your Pitch Determines Your Success — Here’s How to Perfect It
-- 4 AI Prompts to Build a One-Person Business in 2026 (No Team, No Funding, No Guessing)
-- Most Leaders Misunderstand Authenticity — and It’s Costing Them Credibility With Key Stakeholders
-- 5 Lessons I’ve Learned From Resilient Companies Before Crisis Strikes
-- The Invisible Barriers That Are Sabotaging Your Company’s Scalability
+- What My First Major Business Setback Taught Me About Rebuilding Stronger Companies Across 22+ Ventures
+- Most Entrepreneurs Think They’re Winning at AI — They’re Not and Their Competitors Already Know It
+- Working Hard Isn’t Enough — Why Self-Awareness Is What Actually Moves Your Career Forward
+- How New AI Breakthroughs Are Helping Entrepreneurs Cut Costs and Scale Faster
+- 3 Reasons Why Your Business Will Stall Without a Clear Personal Mission
+- What These 3 ‘Accidental’ Startup Stories Reveal About Where the Best Business Ideas Really Come From
 
 ## Inc.com — Business News
-- Walmart Just Revealed Some Fascinating Numbers About Its AI Shopping Agent, and This Key Trend Mattered Most
-- Apple’s Secret New Headphones Just Leaked—and They’re Not AirPods
-- ‘AI Likes to Use AI’: The Shocking Quirk All Job Applicants Need to Know
-- Under Armour’s ‘Super Shoes’ Are Winning Marathons. Here’s Why
-- Scientists Debunk a Myth About Fasting and Brainpower
+- Science Says You’re Probably Making Smoothies Wrong, and I’ve Never Felt More Validated
+- Want to Remix Your Favorite Songs? Spotify’s New AI Tool Lets You Be the DJ
+- McDonald’s Just Announced a Bold Solution to a Very Big Problem. (A Harvard Professor Explained It)
+- Japan’s Biggest Snack Maker Is Changing Its Iconic Chip Bags Because of a Growing Global Crisis
+- Why Estée Lauder and Puig’s Mega-Merger Suddenly Collapsed
 
 ## Product Hunt — New Products Trending
 - Product Hunt — The best new products, every day
-- Pi Coding Agent
+- ReplylessAI Sequences
+- AVTR-1 Real-Time Open Weights Model
+- Parrot Speech-to-text API
 - The Incident Challenge
-- Stitch 3.0 by Google
-- Edgee Fallback Models
-- Area Contrast Checker
+- Pi Coding Agent
 
 ## Amazon Trends
 No data

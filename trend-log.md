@@ -1,38 +1,109 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-05-25 22:00*
+*Last updated: 2026-05-26 02:00*
 
 # TREND MONITOR — AESTHETIC INTELLIGENCE REPORT
 ### Cross-Empire Analysis | Caselle × Lumière × Atelier
 ---
 
-> **⚠️ DATA TRANSPARENCY FLAG**
-> No Reddit trend data was attached to this prompt. The field above reads as blank/empty. I will not fabricate subreddit engagement numbers, upvote velocities, or post volume statistics — doing so would corrupt your buying and inventory decisions with fictional intelligence.
+> ⚠️ **DATA TRANSPARENCY NOTICE**
+> No Reddit trend data was attached to this prompt. The feed appears empty. Rather than fabricate subreddit metrics, upvote velocities, or post volumes — which would corrupt your sourcing decisions — this report flags the gap and provides a **methodology-forward framework** you can populate the moment data is supplied.
 
 ---
 
-## TO GENERATE YOUR ACTUAL REPORT, PROVIDE:
+## HOW TO SUBMIT DATA FOR ANALYSIS
 
-**Paste any combination of the following:**
+To generate a fully scored report, supply any combination of:
 
 | Data Type | Example Format |
 |---|---|
-| Subreddit activity | r/MobileWallpaper — 847 posts this week, top tags: #darkacademia #moody |
-| Keyword velocity | "quiet luxury" searches up 340% vs. prior 30 days |
-| Post titles/thumbnails | Raw text dumps from trend-tracking tools |
-| Upvote counts on aesthetic posts | Top 20 posts from r/femalefashionadvice |
-| Comment sentiment excerpts | User quotes describing what they're buying/wanting |
-| Cross-platform signals | TikTok sounds, Pinterest board names, if available |
+| Subreddit post volumes | r/malelivingspace: +340% posts, 30-day window |
+| Rising keywords | "quiet luxury," "dark academia," "mob wife" |
+| Upvote/comment ratios | Post title + engagement numbers |
+| Flair or tag clusters | Most-used tags in r/femalefashionadvice |
+| Screenshot text | Raw copied Reddit thread data |
+| Search trend exports | Google Trends CSV or Reddit Search data |
 
 ---
 
-## WHAT THE REPORT WILL COVER ONCE DATA IS LIVE:
+## REPORT STRUCTURE — READY TO EXECUTE
 
-1. **Top 5 Rising Aesthetics** — momentum scores (0–100), trajectory direction
-2. **Empire Routing** — which of Caselle / Lumière / Atelier captures each trend best, and *why*
-3. **Color Palette Directions** — specific hex range guidance, not vague descriptors
-4. **Declining Aesthetics** — what to liquidate or avoid commissioning
-5. **Cross-Empire Mega-Trend** — one cohesive narrative to run simultaneously across all three stores
+Once data lands, your report will deliver exactly this architecture:
 
 ---
 
-*Drop the data and I'll generate the full structured report immediately.*
+### SECTION 1 — TOP 5 RISING AESTHETICS
+*With Momentum Scores (0–100)*
+
+```
+AESTHETIC NAME
+Momentum Score: [X/100]
+Velocity: Rising Fast / Steady Climb / Emerging
+Key Subreddits Driving Signal: [r/___]
+Core Visual Markers: [descriptors]
+Consumer Language: [exact phrases from posts]
+```
+
+Momentum scores are calculated from:
+- **Volume weight (40%)** — raw post/comment count growth
+- **Sentiment weight (30%)** — positive framing vs. ironic/critical usage
+- **Cross-subreddit spread (20%)** — appearing in 2+ unrelated communities
+- **Commercial signal (10%)** — "where to buy" / "link?" comment frequency
+
+---
+
+### SECTION 2 — EMPIRE ALLOCATION MAP
+
+Each aesthetic will be mapped across a priority matrix:
+
+```
+HIGH BENEFIT      | Caselle | Lumière | Atelier
+─────────────────────────────────────────────
+Aesthetic #1      |   ★★★   |   ★☆☆   |  ★★☆
+Aesthetic #2      |   ★☆☆   |   ★★★   |  ★★☆
+```
+
+Allocation logic factors:
+- **Caselle** — mass-market accessibility, Gen Z digital natives, impulse buy cycle
+- **Lumière** — aspiration and status signaling, higher AOV tolerance, editorial aesthetics
+- **Atelier** — craft narrative, provenance storytelling, anti-fast-fashion positioning
+
+---
+
+### SECTION 3 — COLOR PALETTE DIRECTIONS
+
+Delivered as named palettes per dominant aesthetic:
+
+```
+PALETTE NAME: [e.g., "Oxidised Copper Dusk"]
+Hex anchors: #___ / #___ / #___
+Mood: [descriptors]
+Apply to: [which empire's product lines/campaigns]
+Avoid pairing with: [colours creating dissonance]
+```
+
+---
+
+### SECTION 4 — DECLINING AESTHETICS TO AVOID
+
+```
+AESTHETIC: [Name]
+Peak Period: [e.g., Q3 2023]
+Decline Signal: [irony posts / saturation / celebrity abandonment]
+Risk if pursued: [overstock / brand-dating / mockability]
+Empire most exposed: [Caselle / Lumière / Atelier]
+```
+
+*Declining aesthetics carry higher risk for Caselle (fast inventory turnover) and Lumière (brand equity erosion).*
+
+---
+
+### SECTION 5 — CROSS-EMPIRE MEGA-TREND
+
+The single opportunity where all three empires can execute a **coordinated aesthetic story** — different price points, unified visual language.
+
+```
+MEGA-TREND NAME: [___]
+Thesis: [2-sentence strategic framing]
+Caselle Execution: [specific product/campaign angle]
+Lumière Execution: [specific product/campaign angle]
+Atelier

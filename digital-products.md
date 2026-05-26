@@ -33,3 +33,11 @@
 - Download: https://raw.githubusercontent.com/Casellelol/JARVIS-brain/main/digital-products/30-etsy-seo-title-formulas-for-digital-product-sel.md
 - Payment: https://buy.stripe.com/eVqdR90f80OC9fA56Lg7e03
 - Status: LIVE
+
+## The Etsy POD Copywriting Swipe File — 40 Proven Titles, Tag Formulas & Description Templates for Phone Case Sellers — 2026-05-26 10:00
+- Type: swipe-file
+- Slug: the-etsy-pod-copywriting-swipe-file-40-proven-titl
+- Price: £9.97
+- Download: https://raw.githubusercontent.com/Casellelol/JARVIS-brain/main/digital-products/the-etsy-pod-copywriting-swipe-file-40-proven-titl.md
+- Payment: https://buy.stripe.com/9B63cv8LEdBo63o9n1g7e04
+- Status: LIVE

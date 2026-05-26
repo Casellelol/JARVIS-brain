@@ -507,3 +507,50 @@ The following require your decision or hands-on action — JARVIS cannot unblock
   [HIGH] Unblock or replace dead data sources — Etsy, Reddit, BURGA, Pela all failing. 16 upgrades pending, 0 done. Pick one fix today
   [HIGH] Oj deadline was missed — referenced in logs as a credibility and momentum problem. What was the commitment and what is the revised date?
   [MEDIUM] Review the 1 business idea
+
+## Nightly Summary — 2026-05-26
+1. Overnight Agent Activity
+Agents ran across 3 scheduled cycles (22:00, 06:00, 10:00). Results were largely empty.
+
+  Market scouts: Etsy, Reddit, BURGA, Pela — all returned zero data. Fourth consecutive cycle of failed scrapes. This is a broken pipe, not bad luck.
+  Competitor intel: Casetify pricing partially captured ($1–$40 range). No actionable new data from BURGA or Pela.
+  Products queued: 5 physical, 0 digital. Publication status still unconfirmed.
+  Business ideas filed: 1 (filed at 22:00 cycle). No upgrades executed.
+  Stores launched: 0. No new products published overnight.
+  Results log flagged: CEO-style journaling is producing zero output. Log now recommends replacing with task-completion tracking.
+
+
+2. Intelligence Brain Updates
+
+  New fact confirmed: Data source failure is now a systemic pattern, not an anomaly — Etsy, Reddit, BURGA, Pela all dead for 4+ cycles.
+  Summer timing window logged: 3–4 weeks to peak summer demand (beach, festival, coastal aesthetic). Window is open now and closing.
+  Memory state: Digital product "POD Designer's AI Prompt Pack" live at £9.97 via Stripe (https://buy.stripe.com/cNi14n2ngeFs77s1U). No sales recorded against it.
+  Deadline status written to memory: Oj revenue deadline was missed. Now in week 2 of a publicly committed window with £0.00 revenue.
+  No new facts added beyond the above. Intelligence brain is running on stale inputs.
+
+
+3. Opportunity Queue
+
+  No new opportunities added or scored overnight.
+  Summer aesthetic window (beach, festival, coastal, coquette, dark academia) — flagged by agent but not yet actioned. Score: 8/10 urgency, window closing in ~3 weeks.
+  Casetify price gap: Bulk of their catalogue sits at $5–$9. Our positioning opportunity is confirmed but unexploited.
+  Prompt Pack (£9.97): Live, zero marketing push executed. Revenue potential untapped. Not promoted, not discarded — rotting in the queue.
+  Etsy scrape categories with zero competitor data: dark academia, celestial witch, coquette, booktok, y2k — all returned empty. Either low competition or broken scraper. Needs manual verification.
+
+
+4. Revenue Events
+
+  Total orders (30d): 0
+  Total revenue: £0.00 / $0.00
+  Printify: API key not configured — COGS unverifiable, no orders processed.
+  Refunds: None (no sales to refund).
+  Digital product sales: £0.00 against Prompt Pack and ebook.
+  Status: Pre-revenue. Day ~10+ of zero.
+
+
+5. Pending Manual Actions
+
+  🔴 CRITICAL — Confirm 5 queued products are actually live. Publication status has been "unclear" for multiple cycles. Go to Printify/Etsy dashboard and verify with your own eyes. Yes or no.
+  🔴 Fix or kill the data scrapers. Etsy, Reddit, BURGA, Pela have returned nothing for 4+ cycles. Either debug the feeds or remove them from the cycle to stop wasting compute on empty queries.
+  🟠 Configure Printify API key. Without it, COGS are invisible and order processing can't be confirmed.
+  🟠 Push the Prompt Pack (£9.97) to one channel.

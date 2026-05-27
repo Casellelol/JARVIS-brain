@@ -1,5 +1,5 @@
 # JARVIS Self-Model
-*Last updated: 2026-05-27 16:00*
+*Last updated: 2026-05-27 22:00*
 
 ---
 
@@ -8,8 +8,8 @@
 ### Caselle (Phone Cases)
 - Live status: **building**
 - Revenue confidence: **4%**
-- Top hypothesis: Publishing imperfect live products generates more signal than refining unpublished ones — first sale requires first visibility
-- Watching: **Queue stagnation risk** — products have been in queue long enough that the strategy doc flagged it explicitly; non-publication is the primary failure mode right now
+- Top hypothesis: Publishing imperfect products immediately outperforms refining unpublished ones — first sale requires something to be buyable
+- Watching: **Queue rot** — products have been "queued" long enough that delay itself is now the primary risk, not product quality
 
 ### Noctua (Dark Academia) — Planned
 - Status: **planned**
@@ -17,35 +17,35 @@
 
 ### Atelier (Fiverr Design)
 - Status: **inactive**
-- Intelligence quality: No scout data received this cycle — field came back empty
+- Intelligence quality: Scout returning no usable data — submissions arriving empty, pipeline is structurally broken before insight stage
 
 ### Lumière (Etsy Wall Art)
 - Status: **inactive**
-- Launch readiness: **5%**
+- Launch readiness: **10%**
 
 ---
 
 ## Active Hypotheses
 
-1. **Publication velocity beats product perfection at this stage.** Caselle has zero sales and zero live products doing real market work. The bottleneck is not design quality — it is units live on a shelf. Every cycle without publication is a cycle of zero data.
+1. **Publication velocity beats optimization velocity.** With zero sales and seven products queued, the constraint is not design quality — it is listings that exist. Every day a product is not live is a day it cannot be found, indexed, or purchased.
 
-2. **Market intelligence is currently blind.** The Caselle scout returned empty this cycle. JARVIS cannot identify rising aesthetics, competitor pricing, or validated niches without data input. Decisions made without this are guesses.
+2. **The scout pipeline is broken, not the market.** Caselle has received zero market intelligence this cycle because data is not being fed into the scout. The absence of signal is not a market signal — it is a process failure. Market opportunity is unknown, not absent.
 
-3. **The empire is pre-validation across all four verticals.** No sales, no scout data, no Fiverr activity. The confidence floor on every vertical is near zero until one of them produces an order.
+3. **$0 revenue at Day 30+ is a publishing problem, not a product problem.** No dead stock exists because no live stock exists to go dead. The bottleneck is upstream of sales entirely.
 
 ---
 
 ## What Changed This Cycle
 
-- **No material change in revenue** — still $0.00, 0 orders confirmed for the last 30 days
-- **Scout failure detected** — Caselle market intelligence returned empty, meaning this cycle produced no new trend data to act on
-- **Strategy document confirms pre-revenue state** — the playbook explicitly names queue stagnation as the active risk, which remains unresolved
-- The empire is in the same structural position as the previous cycle: products queued but not confirmed live, no sales, no external market signal
+- **Nothing changed in the market** — scout returned empty for the second observable cycle, confirming the intelligence feed is not functioning
+- **Nothing changed in sales** — 0 orders, $0 revenue, identical to prior cycle
+- **Strategy document confirms awareness of the problem** — JARVIS-authored playbook explicitly names "publish today" as priority #1, meaning the problem is identified but not yet acted on
+- **The gap between diagnosis and action is now the defining story of this cycle**
 
 ---
 
 ## Expected Next Cycle
 
-- At least one Caselle product confirmed **live** on storefront — if none, stagnation hypothesis is validated and escalation is required
-- Scout data should be **non-empty** — if the intelligence field returns blank again, the scout process itself needs repair before strategy decisions can be made
-- Sales dashboard should show **at least one impression or click** if products are published — zero traffic after publication would
+- At least **3 products move from queued to live** on Caselle — if this does not happen, the publishing bottleneck is structural and requires an intervention diagnosis
+- Scout receives **at least one data input** (Etsy search terms, trend keywords, or competitor observations) — empty scout report should not appear a third consecutive cycle
+- Sales remain at **$0 unless publishing occurs** — no

@@ -1,51 +1,44 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-05-27 10:00*
+*Last updated: 2026-05-27 14:00*
 
-# TREND MONITOR — AESTHETIC INTELLIGENCE BRIEF
-### Cross-Empire Analysis | Cycle Report
+# TREND MONITOR — EMPIRE INTELLIGENCE REPORT
+### Cycle: Current Analysis Period | Classification: Strategic
 
 ---
 
-> **⚠️ DATA INTEGRITY NOTICE**
-> No Reddit trend data was attached to this prompt. The feed appears empty or failed to transmit. The analysis below **cannot be generated from real data** this cycle.
+> ⚠️ **DATA INTEGRITY NOTICE**
+> No Reddit trend data was attached to this prompt. The data field was submitted empty.
 >
-> Proceeding with fabricated figures would produce a report that *looks* authoritative but is **operationally dangerous** — you could stock inventory, run ad creative, or adjust pricing based on invented momentum scores.
+> **I will not fabricate subreddit engagement numbers, upvote velocities, comment sentiment scores, or post frequency metrics.** Generating invented data would corrupt your sourcing decisions and inventory positioning.
 
 ---
 
-## WHAT YOU NEED TO SUBMIT
+## HOW TO SUBMIT FOR FULL ANALYSIS
 
-For a valid Trend Monitor report, paste the raw Reddit data in one of these formats:
+To receive the structured 5-section report, paste your Reddit trend data in any of these formats:
+
+### ✅ Accepted Input Formats
 
 | Format | Example |
 |---|---|
-| **Subreddit post volume** | r/mallgoth — 4,200 posts, +340% WoW |
-| **Keyword frequency** | "coastal grandmother" — 892 mentions, trending |
-| **Upvote/engagement data** | Post: "quiet luxury inspo" — 47k upvotes |
-| **Comment sentiment** | "dark academia" — 78% positive, buying intent detected |
-| **Screenshot paste** | Raw text from Reddit, Exploding Topics, etc. |
+| **Raw subreddit post titles + upvotes** | "r/malefashionadvice: 'Quiet Luxury is dead' — 4.2k upvotes, 847 comments" |
+| **Keyword frequency export** | "gorpcore: 312 mentions / 7d; coastal grandmother: 89 mentions / 7d" |
+| **Screenshot transcription** | Paste text from Reddit's search or a social listening tool |
+| **Trend tool export** | CSV or text from Exploding Topics, Glimpse, or similar |
+| **Manual observations** | "r/streetwear trending posts this week include..." |
 
 ---
 
-## WHAT THE REPORT WILL COVER ONCE DATA IS LIVE
+## WHAT THE REPORT WILL COVER
 
-```
-01 — TOP 5 RISING AESTHETICS
-     Momentum scores (0–100), velocity, subreddit sources
+Once data is received, I'll produce:
 
-02 — EMPIRE ROUTING
-     Caselle / Lumière / Atelier fit scores per trend
-
-03 — COLOR PALETTE DIRECTIONS
-     Hex ranges, saturation trends, accent forecasts
-
-04 — DECLINING AESTHETICS
-     What to clear inventory on, ad spend to kill
-
-05 — CROSS-EMPIRE MEGA-TREND
-     One unified opportunity across all three stores
-```
+1. **Top 5 Rising Aesthetics** — momentum scores (velocity + sustained engagement), subreddit sourcing cited
+2. **Empire Fit Matrix** — Caselle / Lumière / Atelier primary and secondary beneficiary for each trend
+3. **Color Palette Directions** — specific hex families and named palette movements
+4. **Declining Aesthetics** — what to clear inventory on and avoid commissioning
+5. **Cross-Empire Mega-Trend** — one unifying opportunity actionable across all three stores
 
 ---
 
-**Paste your data and I'll run the full analysis immediately.**
+*Paste your data below and the full report will be generated immediately.*

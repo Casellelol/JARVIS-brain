@@ -1,36 +1,36 @@
 # JARVIS World Brain
-*Last updated: 2026-05-26 08:44*
+*Last updated: 2026-05-27 08:44*
 
 ## Hacker News — Tech & Business
-- DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD
-- Using AI to write better code more slowly
-- Taking a walk may lead to more creativity than sitting, study finds (2014)
-- The User Is Visibly Frustrated
-- Use Boring Languages with LLMs
-- Earthion: A New Mega Drive-Style Shoot-Em-Up
+- The Melancholy of Slaying Monsters
+- What Gets Kept
+- Cloudflare Flagship
+- BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass
+- That Methyl Methacrylate Tank
+- Prompt Politeness Affects LLM Accuracy (2025)
 
 ## Entrepreneur Magazine — Latest
-- What My First Major Business Setback Taught Me About Rebuilding Stronger Companies Across 22+ Ventures
-- Most Entrepreneurs Think They’re Winning at AI — They’re Not and Their Competitors Already Know It
-- Working Hard Isn’t Enough — Why Self-Awareness Is What Actually Moves Your Career Forward
-- How New AI Breakthroughs Are Helping Entrepreneurs Cut Costs and Scale Faster
-- 3 Reasons Why Your Business Will Stall Without a Clear Personal Mission
-- What These 3 ‘Accidental’ Startup Stories Reveal About Where the Best Business Ideas Really Come From
+- I Received a Suspicious Six-Figure Client Inquiry — Here Are the 5 Red Flags
+- I Taught Myself to Code at Age 10. After Working At Google and Twitter, I Turned to Venture Capital. Here’s What I Look for When Investing in Startups.
+- This $4 Billion Startup Just Laid Off 22% of Employees — So It Can Offer Remaining Staff $1 Million Salaries
+- This Global Survey Reveals a Brutal Truth About AI in Customer Service. Here’s What Every Leader Needs to Hear.
+- His Business Was Burning Cash and Nearly Closed in the First 6 Months — Here’s the Counterintuitive Strategy That Turned Everything Around
+- I Built 2 Invisible Companies Alone With Almost No Costs — Now They’re Both Worth Over $500K. You Can Do It Too With This One Simple Strategy.
 
 ## Inc.com — Business News
-- Science Says You’re Probably Making Smoothies Wrong, and I’ve Never Felt More Validated
-- Want to Remix Your Favorite Songs? Spotify’s New AI Tool Lets You Be the DJ
-- McDonald’s Just Announced a Bold Solution to a Very Big Problem. (A Harvard Professor Explained It)
-- Japan’s Biggest Snack Maker Is Changing Its Iconic Chip Bags Because of a Growing Global Crisis
-- Why Estée Lauder and Puig’s Mega-Merger Suddenly Collapsed
+- Thinking Isn’t Random—Your Brain Uses Specific Shapes
+- What Are AI Tarpits? Understanding the Tools People Are Using to Poison LLMs
+- Dropbox’s Founder Is Stepping Down After 19 Years—and His Next Move Involves AI
+- What I Learned From a Decade of Studying Personality Types
+- A YC-Backed Fintech Raised $200 Million. Then, It Shut Down, Leaving Users Stranded
 
 ## Product Hunt — New Products Trending
 - Product Hunt — The best new products, every day
-- ReplylessAI Sequences
-- AVTR-1 Real-Time Open Weights Model
-- Parrot Speech-to-text API
-- The Incident Challenge
-- Pi Coding Agent
+- QuickSheet v1.2
+- BankStatementLab
+- Studio Practice
+- Calling Skills for AI Agents
+- Oasis Browser for Mac
 
 ## Amazon Trends
 No data

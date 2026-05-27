@@ -1,35 +1,51 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-05-27 06:00*
+*Last updated: 2026-05-27 10:00*
 
 # TREND MONITOR — AESTHETIC INTELLIGENCE BRIEF
-### Cross-Empire Analysis | Caselle × Lumière × Atelier
+### Cross-Empire Analysis | Cycle Report
+
 ---
 
-> ⚠️ **ANALYST NOTE:** No Reddit data payload was attached to this prompt. The data field reads as empty. The report below **cannot be generated with fabricated metrics** — doing so would corrupt your inventory, creative, and marketing decisions with hallucinated numbers.
+> **⚠️ DATA INTEGRITY NOTICE**
+> No Reddit trend data was attached to this prompt. The feed appears empty or failed to transmit. The analysis below **cannot be generated from real data** this cycle.
+>
+> Proceeding with fabricated figures would produce a report that *looks* authoritative but is **operationally dangerous** — you could stock inventory, run ad creative, or adjust pricing based on invented momentum scores.
 
 ---
 
 ## WHAT YOU NEED TO SUBMIT
 
-To produce your structured 5-section report, paste the raw Reddit trend data in one or more of these formats:
+For a valid Trend Monitor report, paste the raw Reddit data in one of these formats:
 
 | Format | Example |
 |---|---|
-| **Subreddit growth stats** | r/goblincore +34% subscribers 30d |
-| **Post engagement data** | "quiet luxury" — 4,200 upvotes, r/femalefashionadvice |
-| **Search/mention volume** | "coastal grandmother" mentions: 8,400 this week vs 2,100 last week |
-| **Raw post titles/flairs** | List of trending post titles from target subreddits |
-| **Screenshot transcripts** | Pasted text from Reddit trend tools |
+| **Subreddit post volume** | r/mallgoth — 4,200 posts, +340% WoW |
+| **Keyword frequency** | "coastal grandmother" — 892 mentions, trending |
+| **Upvote/engagement data** | Post: "quiet luxury inspo" — 47k upvotes |
+| **Comment sentiment** | "dark academia" — 78% positive, buying intent detected |
+| **Screenshot paste** | Raw text from Reddit, Exploding Topics, etc. |
 
 ---
 
-## RECOMMENDED DATA SOURCES TO PULL FROM
+## WHAT THE REPORT WILL COVER ONCE DATA IS LIVE
 
-- **r/femalefashionadvice**, **r/malefashionadvice**, **r/streetwear** — for Lumière signals
-- **r/Casefit**, **r/iPhone**, **r/androidthemes** — for Caselle signals
-- **r/cottagecore**, **r/goblincore**, **r/DIY**, **r/Etsy** — for Atelier signals
-- **Reddit keyword tools** — Keyworddit, GummySearch, Reddit search sorted by Top/Week
+```
+01 — TOP 5 RISING AESTHETICS
+     Momentum scores (0–100), velocity, subreddit sources
+
+02 — EMPIRE ROUTING
+     Caselle / Lumière / Atelier fit scores per trend
+
+03 — COLOR PALETTE DIRECTIONS
+     Hex ranges, saturation trends, accent forecasts
+
+04 — DECLINING AESTHETICS
+     What to clear inventory on, ad spend to kill
+
+05 — CROSS-EMPIRE MEGA-TREND
+     One unified opportunity across all three stores
+```
 
 ---
 
-*Resubmit with data attached and your full report will be generated immediately.*
+**Paste your data and I'll run the full analysis immediately.**

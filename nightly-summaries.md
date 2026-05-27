@@ -554,3 +554,56 @@ Agents ran across 3 scheduled cycles (22:00, 06:00, 10:00). Results were largely
   🔴 Fix or kill the data scrapers. Etsy, Reddit, BURGA, Pela have returned nothing for 4+ cycles. Either debug the feeds or remove them from the cycle to stop wasting compute on empty queries.
   🟠 Configure Printify API key. Without it, COGS are invisible and order processing can't be confirmed.
   🟠 Push the Prompt Pack (£9.97) to one channel.
+
+## Nightly Summary — 2026-05-27
+1. Overnight Agent Activity
+Agents ran 3 scan/think cycles (05:53, 10:00, 22:00 on 2026-05-26). Here is what happened:
+
+  Trend feeds: Reddit rate-limited, Etsy data missing — zero usable market intelligence returned.
+  Competitor intel: CASETiFY partial pricing scraped ($1–$40 range). BURGA and Pela both unavailable. Etsy niche queries ([dark academia], [celestial witch], [coquette], [booktok], [y2k]) returned empty.
+  Products queued: 5 physical, 0 digital. No new products published.
+  Finance agent: Confirmed 0 orders, £0.00 revenue, Printify API key not configured.
+  Empire state file (empire.json): Still not initialised — system has no formal state tracking.
+  Triggered: Nothing. No automations fired. No listings went live.
+
+
+2. Intelligence Brain Updates
+No new facts written to long-term memory this cycle. Existing memory state:
+
+  Logged (prior session): AI Prompt Pack live at £9.97 via Stripe — payment link confirmed in memory.
+  Pattern flagged by agents: Data sources (Reddit, Etsy, BURGA, Pela) have failed multiple consecutive cycles. Running same queries yields same nothing. This is now a known infrastructure failure, not a one-off.
+  Deadline drift recorded: Hard deadline to Oj was May 20th. It is now May 26th. Six days of confirmed drift. No change to this status overnight.
+  Changed: Agent explicitly recommended replacing CEO-framing journal entries with task-completion logs (attempted → outcome). Not yet implemented.
+
+
+3. Opportunity Queue
+
+  New opportunities added: 0
+  Promoted: 0
+  Discarded: 0
+  Upgrade queue: 16 pending, 0 completed. Queue is stagnant.
+  Status: No niche validation data exists. Cannot score opportunities until Etsy and Reddit feeds are restored. All opportunity intelligence is blind right now.
+
+
+4. Revenue Events
+
+  Sales (30 days): 0 orders
+  Revenue: £0.00
+  Refunds: 0
+  Printify orders: 0 — API key not configured, fulfilment pipeline is broken.
+  Digital products: AI Prompt Pack (£9.97) and one ebook are live. Zero confirmed sales recorded.
+  COGS / Net Profit: £0.00 / £0.00
+
+
+5. Pending Manual Actions
+
+  [CRITICAL] Publish the 5 queued physical products to Etsy/Printify — they are invisible to buyers right now. This is the single biggest blocker.
+  [CRITICAL] Configure Printify API key — fulfilment cannot function without it.
+  [HIGH] Initialise empire.json — agents are flying blind with no formal state tracking.
+  [HIGH] Fix or bypass broken data sources (Reddit, Etsy scraper, BURGA, Pela) — 16 upgrade queue items are stalled waiting on intelligence that isn't arriving.
+  [MEDIUM] Acknowledge and respond to Oj re: missed May 20th deadline — six days of drift with no update is a trust risk.
+  [MEDIUM] Replace CEO journaling framework with task-completion log format (agent recommendation, not yet actioned).
+
+
+6. JARVIS Confidence Score
+Score: 18 / 100

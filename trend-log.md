@@ -1,33 +1,35 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-05-27 04:57*
+*Last updated: 2026-05-27 06:00*
 
-# TREND MONITOR — AESTHETIC INTELLIGENCE REPORT
+# TREND MONITOR — AESTHETIC INTELLIGENCE BRIEF
 ### Cross-Empire Analysis | Caselle × Lumière × Atelier
 ---
 
-> ⚠️ **DATA INTEGRITY NOTICE**
-> No Reddit trend data was attached to this prompt. The field following "Trend data from Reddit:" is empty.
->
-> **I will not fabricate subreddit engagement figures, upvote velocities, comment sentiment ratios, or post volume metrics.** Generating invented numbers would corrupt your merchandising decisions with false confidence.
+> ⚠️ **ANALYST NOTE:** No Reddit data payload was attached to this prompt. The data field reads as empty. The report below **cannot be generated with fabricated metrics** — doing so would corrupt your inventory, creative, and marketing decisions with hallucinated numbers.
 
 ---
 
-## TO GENERATE YOUR REPORT, PROVIDE ANY OF THE FOLLOWING:
+## WHAT YOU NEED TO SUBMIT
 
-### Option A — Raw Reddit Data
-Paste post titles, subreddit names, upvote counts, comment volumes, and posting dates from relevant communities such as:
-- r/Anticonsumption, r/cottagecore, r/streetwear, r/luxuryfashion, r/minimalism, r/phonecase, r/craftsnark, r/ArtisanCrafts, r/ColorPalettes, r/malefashionadvice, r/femalefashionadvice
+To produce your structured 5-section report, paste the raw Reddit trend data in one or more of these formats:
 
-### Option B — Aggregated Metrics
-Share a CSV or summary table with columns like:
-`[Keyword | Subreddit | 30-Day Post Volume | Avg Upvotes | Sentiment Score | MoM Change %]`
-
-### Option C — Screenshot Descriptions
-Describe what you're seeing — trending post titles, flair categories, comment themes — and I will structure the analysis from your observations.
-
-### Option D — Competitor Context
-Share what aesthetics you're already tracking so I can build momentum scoring against your existing baseline.
+| Format | Example |
+|---|---|
+| **Subreddit growth stats** | r/goblincore +34% subscribers 30d |
+| **Post engagement data** | "quiet luxury" — 4,200 upvotes, r/femalefashionadvice |
+| **Search/mention volume** | "coastal grandmother" mentions: 8,400 this week vs 2,100 last week |
+| **Raw post titles/flairs** | List of trending post titles from target subreddits |
+| **Screenshot transcripts** | Pasted text from Reddit trend tools |
 
 ---
 
-Once data is provided, your report will include **momentum scores with explicit sourcing**, not invented benchmarks.
+## RECOMMENDED DATA SOURCES TO PULL FROM
+
+- **r/femalefashionadvice**, **r/malefashionadvice**, **r/streetwear** — for Lumière signals
+- **r/Casefit**, **r/iPhone**, **r/androidthemes** — for Caselle signals
+- **r/cottagecore**, **r/goblincore**, **r/DIY**, **r/Etsy** — for Atelier signals
+- **Reddit keyword tools** — Keyworddit, GummySearch, Reddit search sorted by Top/Week
+
+---
+
+*Resubmit with data attached and your full report will be generated immediately.*

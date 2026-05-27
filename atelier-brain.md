@@ -1,58 +1,47 @@
 # Atelier Scout — Market Intelligence
-*Last updated: 2026-05-26 03:27*
+*Last updated: 2026-05-27 03:27*
 
-# Atelier Scout Market Intelligence Report
-### Luxury Artisan Goods — Trend Analysis Brief
-
----
-
-> ⚠️ **Note:** No trend data was submitted in your prompt. The field after "Artisan market trends:" appears to be blank. I'll provide a **baseline report grounded in current market intelligence** through my knowledge cutoff — flag any data you'd like me to incorporate and I'll recalibrate.
+# Atelier Scout — Market Intelligence Report
+### Luxury Artisan Goods | Q2 2025 Trend Analysis
 
 ---
 
-## 📈 TOP 3 RISING CRAFT AESTHETICS
+## ⚠️ Input Note
+No trend data was submitted in your prompt. The field after **"Artisan market trends:"** was left blank. I'm generating this report from my **trained knowledge base through early 2025**, which carries strong signal but will not reflect real-time Etsy listings or live search data.
 
-### 1. 🪨 Raw Brutalist Craft
-**Momentum: High ↑↑**
-Unfinished edges, exposed construction, asymmetric forms in ceramics and metalwork. Consumers are actively rejecting "perfect" machine aesthetics. Search terms like *"wabi-sabi pottery"* and *"raw edge ceramics"* have sustained multi-year growth on Pinterest and Etsy.
-
-> **Signature look:** Volcanic glaze textures, visible throwing marks, oxidized bronze hardware
+*For a data-rich report, paste in: Etsy search terms, Pinterest trend keywords, recent sales data, competitor listings, or social media observations.*
 
 ---
 
-### 2. 🌿 Neo-Pastoral / Quiet Luxury Craft
-**Momentum: High ↑↑**
-A convergence of the "old money" aesthetic and artisan heritage goods. Think hand-stitched linen, beeswax candles in muted oatmeal tones, vegetable-tanned leather with minimal branding. This demographic spends significantly more per transaction.
+## 01 | TOP 3 RISING CRAFT AESTHETICS
 
-> **Signature look:** Undyed natural fibers, hand-blocked botanical prints, horn or bone toggles
-
----
-
-### 3. 🔵 Maximalist Folk Revival
-**Momentum: Rising ↑**
-Driven by Gen Z's appetite for color and cultural storytelling. Eastern European embroidery patterns, Mexican Otomí-inspired textile prints, and Scandinavian folk motifs are being recontextualized in contemporary forms — wall hangings, statement ceramics, embroidered accessories.
-
-> **Signature look:** Dense pattern layering, saturated indigo/vermillion/saffron palettes, visible hand-stitching as design feature
+### 🪨 1. Quiet Luxury Naturalism
+**What it is:** Stripped-back organic forms — unglazed ceramics, raw-edge leather, undyed linen — with an emphasis on material honesty over decoration. No maximalism. The beauty *is* the imperfection.
+**Where it's moving:** Away from "rustic farmhouse" toward something cooler, more editorial, and gallery-adjacent.
+**Key signals:** Searches for "wabi-sabi home goods," "unglazed stoneware," and "natural linen accessories" have maintained strong upward trajectory since 2023.
 
 ---
 
-## 🛒 RECOMMENDED PRODUCT DIRECTIONS
-
-| Priority | Product | Rationale |
-|----------|---------|-----------|
-| **#1** | Textured stoneware oil/vinegar vessels | Kitchen luxury + gift-ready + repeat gifting category |
-| **#2** | Hand-stitched leather card wallets (slim) | Low material cost, high perceived value, strong conversion |
-| **#3** | Botanical-dyed linen napkin sets (4–6 piece) | Table setting trend is robust; high AOV gift sets |
-| **#4** | Folk-motif embroidered cushion covers | Strong home decor demand; customization premium viable |
-| **#5** | Beeswax taper candles in sculptural forms | Extremely high Etsy velocity; low barrier to photograph well |
+### 🌿 2. Neo-Craft Botanical
+**What it is:** Botanical motifs executed with technical precision — hand-carved, etched, or inlaid rather than printed. Think pressed-herb resin trays, hand-engraved leaf patterns on brass, botanical resist-dyed textiles.
+**Differentiator:** The "handmade-obvious" quality is the selling point. Buyers want visible tool marks, asymmetry, and provenance.
+**Key signals:** Driven by wellness culture crossover + growing appetite for pieces that tell a material story.
 
 ---
 
-## 💰 ETSY PRICING OBSERVATIONS
+### 🏺 3. Archival / Heritage Revival
+**What it is:** Craft traditions being reclaimed and recontextualized — caning, tatting, hand-thrown majolica, smocking, traditional indigo dyeing — but presented through a contemporary, minimal lens.
+**Buyer psychology:** A reaction against fast-fashion aesthetics; buyers are paying premiums for *cultural continuity* and demonstrable skill.
+**Key signals:** Strong alignment with the "slow living" movement; high engagement on long-form maker content explaining technique history.
 
-**Key insight: The middle market ($35–$65) is oversaturated. Premiumization or entry-level positioning outperforms.**
+---
 
-| Segment | Price Range | Notes |
-|---------|------------|-------|
-| **Handmade ceramics (mugs)** | $38–$95 | Top sellers cluster at $58–$72; under $40 perceived as low quality |
-| **Leather goods (wallets)** | $65–$
+## 02 | RECOMMENDED PRODUCT DIRECTIONS
+
+| Direction | Rationale | Priority |
+|---|---|---|
+| **Functional objects with ceremony** — e.g., hand-thrown pour-over sets, carved wooden serving boards | Bridges daily use with considered ritual; gift market is enormous | 🔴 High |
+| **Customisable heirloom pieces** — monogrammed leather goods, named ceramic vessels | Personalisation commands 30–50% price premiums on Etsy; drives repeat customers | 🔴 High |
+| **Limited material-story collections** — "single-clay" or "one-harvest linen" capsule drops | Creates scarcity narrative and editorial press opportunity | 🟡 Medium |
+| **Maker-collaboration bundles** — curated gift sets crossing disciplines (ceramic + textile + paper) | Average order value multiplier; strong for Q4 gifting | 🟡 Medium |
+| **Architectural small objects** — sculptural candle holders, bud vases with structural interest | High margin,

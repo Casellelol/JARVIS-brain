@@ -1,5 +1,5 @@
 # Accountant — Daily Financial Report
-*Generated: 2026-05-26 23:24*
+*Generated: 2026-05-27 23:24*
 
 ## Raw Data
 - Orders (30d): 0 | Revenue: £0.00
@@ -11,10 +11,9 @@
 ---
 
 ### 📊 Key Metrics
-
 | Metric | Value |
 |---|---|
-| Revenue | £0.00 |
+| Revenue (30d) | £0.00 |
 | COGS | £0.00 |
 | Net Profit | £0.00 |
 | Margin % | — |
@@ -23,18 +22,32 @@
 
 ### ⚠️ Critical Observations
 
-1. **Zero revenue recorded** — 0 orders in the 30-day window. No sales activity to analyse.
-2. **Printify API not configured** — Cost data pipeline is broken. Even if orders existed, COGS would be untrackable, making margin calculation impossible.
-3. **Dual failure point** — Both the revenue and cost sides of the P&L are non-functional. This is a setup/infrastructure problem, not a trading problem.
+1. **Zero revenue recorded** — 0 orders in the last 30 days. The business is generating no income.
+2. **Printify not configured** — Cost data is completely unavailable. COGS, product margins, and profit calculations are **impossible** until resolved.
+3. **No financial summary is producible** in any meaningful sense. Both data pipelines are broken.
+
+---
+
+### 🔴 Status: Pre-Operational / Stalled
+
+This is not a profitability problem yet — it's a **setup problem.**
 
 ---
 
 ### ✅ Single Recommended Action
 
-**Fix the Printify API key first.**
+**Configure your Printify API key immediately.**
 
-No cost data = no real P&L = no trustworthy decisions. Configure the key, verify the product cost feed is pulling correctly, then confirm your store integration is live and accepting orders. Everything else is blocked behind these two steps.
+Without it:
+- No product costs → no margin visibility
+- No fulfilment data → no order processing
+- No orders → no revenue
+
+**Priority order:**
+1. Add Printify API key to settings
+2. Verify at least one product is live and purchasable
+3. Confirm store is connected to a sales channel (Etsy/Shopify/etc.)
 
 ---
 
-> 🔴 **Status: Pre-revenue. Nothing to optimise until infrastructure is operational.**
+*Return once operational for a meaningful profitability analysis.*

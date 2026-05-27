@@ -1,19 +1,18 @@
 # Lumière Scout — Market Intelligence
-*Last updated: 2026-05-26 02:08*
+*Last updated: 2026-05-27 02:08*
 
 # LUMIÈRE SCOUT — MARKET INTELLIGENCE BRIEF
-### Premium Trend Intelligence Report | Q2 2025 Edition
+### Premium Trend Dispatch | Q2 2025 Edition
 
 ---
 
-> *"Luxury is not a product. It is a state of permanent desirability."*
-> — Lumière Scout Editorial
+> *"Luxury is not about price. It is about the architecture of desire."*
 
 ---
 
 ## ⚠️ INTELLIGENCE NOTE
 
-*No market data was transmitted in this query. The following report is constructed from embedded trend knowledge through early 2025. For live data integration, feed current SKU performance metrics, regional sales indices, runway coverage, and social sentiment scores to activate full analytical protocol.*
+No market data was appended to this request. The following report synthesizes **current macro trend intelligence** drawn from the Lumière Scout knowledge base through early 2025. For data-calibrated analysis, please resubmit with attached market inputs — sales indices, search velocity data, editorial pull reports, or runway summaries.
 
 ---
 
@@ -21,39 +20,43 @@
 
 ---
 
-### 01. **Sovereign Minimalism** *(Confidence: 94%)*
-> Quiet luxury, evolved — now with architectural authority.
+### 🥇 01. QUIET NATURALISM
+**Trajectory: ↑↑ Accelerating | Confidence: HIGH**
 
-The market has moved beyond "stealth wealth" as aspiration. What's emerging is **Sovereign Minimalism** — pieces that communicate power not through restraint alone, but through **perfection of construction**. The customer isn't hiding wealth; she's demonstrating taste so refined that ornamentation becomes irrelevant.
+The backlash against maximalism has crystallized into something more sophisticated than mere minimalism. **Quiet Naturalism** draws from artisanal heritage, organic material stories, and an almost architectural restraint. Think Loro Piana's undyed cashmere meeting the structural precision of Jil Sander. The consumer is not disappearing — they are *curating* their visibility.
 
-**Key signals:**
-- The Row, Loro Piana, and Jil Sander accelerating into directional rather than derivative silhouettes
-- Demand spike for unlined tailoring with exposed hand-stitching as a visible craftsmanship marker
-- Search velocity: *"Italian tailoring women," "unstructured blazer cashmere,"* and *"sculptural minimalism"* trending +38% YoY in high-income demographics
-
-**Aesthetic Hallmarks:** Bone, oyster, and deep slate colorways. Negative space as design intent. Weight as luxury currency.
+- **Key signals:** Undyed wools, linen-cotton hybrids, natural horn hardware replacing gold
+- **Consumer profile:** 35–55, ultra-HNW, values craft provenance over logo visibility
+- **Runway evidence:** Bottega Veneta, The Row, Zegna SS25 collections
 
 ---
 
-### 02. **Romantic Brutalism** *(Confidence: 87%)*
-> The collision of feminine delicacy and industrial resolve.
+### 🥈 02. DARK CLASSICISM
+**Trajectory: ↑ Emerging → Mainstream | Confidence: HIGH**
 
-Fashion's most intellectually provocative current movement — **Romantic Brutalism** fuses the fragility of silk, lace, and bias-cut draping with hard-edge structural elements: raw hems, exposed boning, hardware-weight closures, and volume that defies gravity rather than flatters it. Think Balenciaga's architectural precision meeting a Dior couture atelier.
+A reinterpretation of European aristocratic codes filtered through a modern, slightly subversive lens. Gothic tailoring, black-on-black tone layering, brocade in unexpected silhouettes. This is not goth — it is **Sotheby's after dark**. Alexander McQueen's legacy is being claimed by a new generation of luxury consumers who reject cheerful optimism aesthetics.
 
-**Key signals:**
-- Coperni, Loewe, and Givenchy driving the narrative with cross-category editorial dominance
-- *"Deconstructed corsetry"* and *"avant-garde evening wear"* showing strong engagement in the 28–42 luxury consumer cohort
-- Significant white space in the American and Gulf markets — European aesthetic not yet fully adopted
-
-**Aesthetic Hallmarks:** Bone and pearl against gunmetal and concrete grey. Organza over neoprene. Corset seaming on outerwear.
+- **Key signals:** Jacquard coats, sculptural jet jewelry, velvet re-emerging in tailoring
+- **Consumer profile:** 28–45, culturally elite, high engagement with art world/film
+- **Runway evidence:** Loewe, Burberry, Valentino AW25 directions
 
 ---
 
-### 03. **Neo-Heritage Craft** *(Confidence: 91%)*
-> Provenance as the ultimate luxury signal.
+### 🥉 03. TECHNO-HERITAGE FUSION
+**Trajectory: ↑ Emerging | Confidence: MEDIUM-HIGH**
 
-In an era of AI-generated design and fast-cycle production, the counter-luxury narrative is **demonstrable human authorship**. Consumers in the €3,000+ purchase tier are actively seeking products with traceable artisan origins — not nostalgia for nostalgia's sake, but **craftsmanship as proof-of-value** in a skeptical market.
+The most sophisticated articulation of performance luxury — where **Swiss watchmaking precision meets technical textiles**. Hermès equestrian codes rendered in recycled aerospace-grade materials. This is not athleisure. This is the death of athleisure and the birth of something far more expensive.
 
-**Key signals:**
-- Hermès and Brunello Cucinelli reinforcing artisan-origin marketing with measurable brand equity gains
-- Rise of "made in" specificity: not just *Italy*, but *Naples*,
+- **Key signals:** Gore-Tex in bespoke silhouettes, technical outerwear at couture price points, functional hardware as jewelry
+- **Consumer profile:** 30–50, global executive class, frequent travelers, sustainability-literate
+- **Runway evidence:** Moncler Genius, Brunello Cucinelli sport lines, Kiton Active
+
+---
+
+## II. RECOMMENDED PRODUCT DIRECTIONS
+
+---
+
+| Priority | Category | Direction | Rationale |
+|----------|----------|-----------|-----------|
+| 🔴 **Tier 1** | Outerwear | Unstructured, oversized coat in natural camel or undyed wool | Hero

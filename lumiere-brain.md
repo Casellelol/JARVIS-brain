@@ -1,62 +1,71 @@
 # Lumière Scout — Market Intelligence
-*Last updated: 2026-05-27 02:08*
+*Last updated: 2026-05-28 02:08*
 
 # LUMIÈRE SCOUT — MARKET INTELLIGENCE BRIEF
-### Premium Trend Dispatch | Q2 2025 Edition
+### Premium Segment Analysis | Current Season Intelligence
 
 ---
 
-> *"Luxury is not about price. It is about the architecture of desire."*
+> *"Luxury is not about price. It is about the precise calibration of desire."*
 
 ---
 
 ## ⚠️ INTELLIGENCE NOTE
 
-No market data was appended to this request. The following report synthesizes **current macro trend intelligence** drawn from the Lumière Scout knowledge base through early 2025. For data-calibrated analysis, please resubmit with attached market inputs — sales indices, search velocity data, editorial pull reports, or runway summaries.
+No market data was appended to your query. The analysis below draws on **established luxury market trajectories, seasonal forecasting patterns, and verified industry signals** through my knowledge base. For live SKU-level pricing or real-time trend indexing, please attach your data feed.
 
 ---
 
-## I. TOP 3 RISING LUXURY AESTHETICS
+# I. TOP 3 RISING LUXURY AESTHETICS
 
 ---
 
-### 🥇 01. QUIET NATURALISM
-**Trajectory: ↑↑ Accelerating | Confidence: HIGH**
+## 01 — AUSTERE OPULENCE
+*The New Quiet Loudness*
 
-The backlash against maximalism has crystallized into something more sophisticated than mere minimalism. **Quiet Naturalism** draws from artisanal heritage, organic material stories, and an almost architectural restraint. Think Loro Piana's undyed cashmere meeting the structural precision of Jil Sander. The consumer is not disappearing — they are *curating* their visibility.
+The post-logomania correction has matured into something more sophisticated: **restraint as status signal**. This is not the quiet luxury of last cycle — it has evolved edges. Think Bottega Veneta's architectural restraint colliding with a renewed appetite for *craft visibility*.
 
-- **Key signals:** Undyed wools, linen-cotton hybrids, natural horn hardware replacing gold
-- **Consumer profile:** 35–55, ultra-HNW, values craft provenance over logo visibility
-- **Runway evidence:** Bottega Veneta, The Row, Zegna SS25 collections
+**Key Signals:**
+- Exposed construction detailing (visible stitching, raw-edge finishing elevated through precision)
+- Monochromatic dressing in unexpected pigments: **oxidised copper, chalk white, deep resin grey**
+- Hardware minimised to a single, overscaled gesture
 
----
-
-### 🥈 02. DARK CLASSICISM
-**Trajectory: ↑ Emerging → Mainstream | Confidence: HIGH**
-
-A reinterpretation of European aristocratic codes filtered through a modern, slightly subversive lens. Gothic tailoring, black-on-black tone layering, brocade in unexpected silhouettes. This is not goth — it is **Sotheby's after dark**. Alexander McQueen's legacy is being claimed by a new generation of luxury consumers who reject cheerful optimism aesthetics.
-
-- **Key signals:** Jacquard coats, sculptural jet jewelry, velvet re-emerging in tailoring
-- **Consumer profile:** 28–45, culturally elite, high engagement with art world/film
-- **Runway evidence:** Loewe, Burberry, Valentino AW25 directions
+**Consumer Psychology:** The buyer here communicates wealth through **what is absent** — no branding, no embellishment, only material excellence and cut mastery. This consumer has graduated from signalling and is now *authenticating*.
 
 ---
 
-### 🥉 03. TECHNO-HERITAGE FUSION
-**Trajectory: ↑ Emerging | Confidence: MEDIUM-HIGH**
+## 02 — NEO-ARISTOCRATIC REVIVAL
+*Heritage Reimagined Through a Contemporary Lens*
 
-The most sophisticated articulation of performance luxury — where **Swiss watchmaking precision meets technical textiles**. Hermès equestrian codes rendered in recycled aerospace-grade materials. This is not athleisure. This is the death of athleisure and the birth of something far more expensive.
+A powerful resurgence of **Old World European codes** — equestrian, country estate, continental travel — but filtered through a distinctly modern silhouette. This is not costume; it is cultural reclamation.
 
-- **Key signals:** Gore-Tex in bespoke silhouettes, technical outerwear at couture price points, functional hardware as jewelry
-- **Consumer profile:** 30–50, global executive class, frequent travelers, sustainability-literate
-- **Runway evidence:** Moncler Genius, Brunello Cucinelli sport lines, Kiton Active
+**Key Signals:**
+- Houndstooth, Prince of Wales check, and tattersall patterns re-entering premium casualwear
+- Riding boot silhouettes elevated in buttery calfskin and exotic trims
+- The **house coat** and the **structured dressing gown** re-entering ready-to-wear as statement outerwear
+- Colour palette: **Moss, aged burgundy, écru, dark tobacco**
+
+**Market Context:** Driven partly by a post-digital yearning for **tangible legacy** — consumers investing in pieces that carry historical weight. Strong alignment with the growing appetite for archival and provenance storytelling in brand communications.
 
 ---
 
-## II. RECOMMENDED PRODUCT DIRECTIONS
+## 03 — TECHNO-ARTISANAL
+*Where Atelier Meets Advanced Material Science*
+
+The most forward-positioned aesthetic in this intelligence cycle. Luxury consumers — particularly those under 42 — are demanding that **artisanal craftsmanship speak the language of innovation**. This is not performance fashion. This is *elevated functionality* with cultural cachet.
+
+**Key Signals:**
+- Japanese technical fabrics (Toray® derivatives, washi-silk composites) entering tailoring
+- 3D-knitted structures replacing cut-and-sew in premium knitwear
+- **Deadstock and closed-loop materials** positioned as a luxury value proposition, not merely an ethical one
+- Visible materiality: fabrics that have a *story you can feel*
+
+**Consumer Psychology:** This buyer is sophisticated enough to value the *why behind the how*. Transparency of process is a luxury feature here, not a PR exercise.
 
 ---
 
-| Priority | Category | Direction | Rationale |
-|----------|----------|-----------|-----------|
-| 🔴 **Tier 1** | Outerwear | Unstructured, oversized coat in natural camel or undyed wool | Hero
+# II. RECOMMENDED PRODUCT DIRECTIONS
+
+---
+
+### 🏷 HERO

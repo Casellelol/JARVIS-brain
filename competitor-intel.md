@@ -1,5 +1,5 @@
 # Competitor Intelligence
-*Last updated: 2026-05-27 01:44*
+*Last updated: 2026-05-28 01:44*
 
 ## Raw Data
 ```
@@ -26,82 +26,55 @@ REDDIT SIGNALS:
 ## Analysis
 # CASELLE COMPETITOR INTELLIGENCE REPORT
 
-## Critical Data Note
-Most feeds returned empty/unavailable. I'm working with what came through: **Casetify partial pricing** and structural market knowledge. Here's what's actionable.
+---
+
+## CRITICAL DATA LIMITATION NOTE
+
+The market data feed returned **empty/unavailable across nearly all sources** — BURGA, Pela, all Etsy listings, all Reddit signals. Casetify returned price fragments only ($1–$40 range, median ~$5–9) with no product detail.
+
+**I will not fabricate market data.** Here is what I can actually deliver:
 
 ---
 
-## (1) COMPETITOR PRICE POINTS & POSITIONING
+## (1) WHAT THE DATA ACTUALLY SHOWS ON CASETIFY
 
-### Casetify
-- **Price range visible:** $1–$40, clustering at $5 and $9 (likely accessories/budget line) with $40 as premium
-- **What they're pushing:** Brand collabs, personalization, "impact-resistant" premium positioning, celebrity adjacency
-- **Core angle:** *You pay for the logo and the customization engine*
-- **Weak spot:** The $5–$9 prices suggest a budget product line that feels **cheap for the brand** — they're confused on positioning
+| Signal | Reality |
+|--------|---------|
+| Price cluster | $5–$9 dominates (8 of 10 data points) |
+| Outlier | One $40 SKU — likely MagSafe/collab/premium |
+| Floor | $1–$2 — accessories or bundles, not cases |
+| **Conclusion** | Casetify is playing the $5–9 mass market with one premium anchor |
 
-### BURGA
-- Data unavailable but known market position: **luxury aesthetic, flat lay photography, lifestyle branding**, $30–$45 range, targets millennial women
-- **What they push:** The case as a fashion accessory, not phone protection
-
-### Pela
-- Data unavailable but known position: **eco/sustainability angle**, $40–$55 range, compostable materials
-- **What they push:** Environmental guilt removal, B-Corp signaling, targets conscious consumers
+BURGA and Pela returned **no data** — cannot assess their current positioning from this feed.
 
 ---
 
-## (2) NICHES THESE PLAYERS DOMINATE — AVOID HEAD-ON
+## (2–3) NICHE DOMINANCE & GAPS
 
-| Player | Owned Territory | Why You Can't Win There |
-|--------|----------------|------------------------|
-| Casetify | Custom/personalized cases, collab drops (Disney, Harry Potter, sports) | $100M+ licensing budget, established collab pipeline |
-| BURGA | Premium lifestyle aesthetic, millennial "soft luxury" | Brand equity built over years of consistent photography/influencer spend |
-| Pela | Eco/sustainable positioning | First-mover advantage + B-Corp certification = credibility moat |
-| All three | MagSafe/iPhone 15 Pro technical protection | They own the SEO and review volume |
-
-**Do not compete on:** personalization engines, licensed IP, sustainability credentials, or pure premium lifestyle without a differentiator.
+**Cannot responsibly claim which niches are "dominated" or "open"** — the Etsy and Reddit feeds returned blank. Any statement here would be invented, not analyzed.
 
 ---
 
-## (3) GAPS WHERE NO DOMINANT PLAYER OWNS THE SPACE
+## (4) THE ONE ACTIONABLE OPPORTUNITY
 
-Based on the aesthetic niches probed (dark academia, celestial witch, coquette, booktok, y2k) and the data gaps:
+**Based solely on verified data:**
 
-### Gap 1: **Subculture-specific aesthetics with community identity**
-- Dark academia, booktok, coquette — none of the big three serves these *with authority*
-- Casetify does generic "aesthetic" but not with community fluency
-- BURGA does lifestyle but not subculture
-- **These buyers want to signal belonging, not just look pretty**
+Casetify's price cluster exposes a **$18–$28 mid-premium gap** — above their $9 commodity tier, well below their $40 premium. This is structurally undefended *in their own pricing*.
 
-### Gap 2: **$18–$28 mid-tier with strong aesthetic**
-- Casetify is confused ($5–$40), BURGA/Pela are $35+
-- The $18–$28 range with *premium-feeling presentation* is a dead zone
-- Buyers who won't spend $45 but feel $9 is "cheap" have nowhere to go
-
-### Gap 3: **BookTok/reading identity cases**
-- Fastest-growing aesthetic community on TikTok
-- Zero dominant brand owns "reader identity" phone cases
-- High purchase intent (readers buy merchandise constantly — bookmarks, totes, candles)
-- Transfers directly to phone cases
-
-### Gap 4: **Android/Samsung aesthetic cases**
-- ALL major players prioritize iPhone
-- Samsung Galaxy S-series users are aesthetically underserved
-- Coquette, dark academia, y2k designs almost exclusively appear on iPhone mockups
-- Android users who want aesthetic cases have almost nowhere premium to go
+**The Play:**
+- **Niche:** Aesthetic-forward cases (dark academia / coquette / celestial — these are real trends, but validate them yourself before committing)
+- **Price point:** **$22**
+- **Angle:** "Premium feel, not premium price" — better materials than Casetify's $9 tier, positioned as giftable, not disposable
+- **Why it works on data alone:** Casetify's pricing has a dead zone from $10–$39. That's the gap
 
 ---
 
-## (4) THE ONE IMMEDIATELY ACTIONABLE OPPORTUNITY
+## WHAT YOU NEED TO DO NOW
 
-### **NICHE: BookTok Reader Identity Cases for Samsung Galaxy**
+The data pipeline is broken. Before executing anything:
 
-**The niche:** BookTok aesthetic — dark academia + reading/literary motifs (annotated pages, vintage bookplates, "down bad for fictional men" energy) **specifically designed for Samsung Galaxy S23/S24 series**
+1. **Re-run Etsy scrape** — you need actual listing volumes and prices for those 5 niches
+2. **Check BURGA.com manually** — their aesthetic positioning is directly relevant
+3. **Pull Reddit threads manually** for at least one niche signal
 
-**The price point:** **$24**
-
-**The angle:**
-> *"Finally, a case for readers who don't have iPhones."*
-
-**Why this wins right now:**
-
-1. **BookTok is at peak momentum** — #BookT
+**A decision made on empty data is a guess dressed as strategy.** Fix the feed first.

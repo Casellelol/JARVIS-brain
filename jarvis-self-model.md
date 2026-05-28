@@ -1,13 +1,13 @@
 # JARVIS Self-Model
-*Last updated: 2026-05-28 13:33*
+*Last updated: 2026-05-28 22:00*
 
 ## Empire Status
 
 ### Caselle (Phone Cases)
 - Live status: **building**
 - Revenue confidence: **4%**
-- Top hypothesis: Publishing imperfect live products now beats refining queued products indefinitely — first sale requires first visible listing
-- Watching: Scout returned empty this cycle (no trend or Etsy data attached) — flying blind on aesthetic direction
+- Top hypothesis: Publishing imperfect products at volume is the only path to first sale — refinement loops before live listings are the core failure mode so far
+- Watching: Scout returned empty this cycle — no trend data ingested, meaning design decisions are currently blind to market signals
 
 ### Noctua (Dark Academia) — Planned
 - Status: **planned**
@@ -15,7 +15,7 @@
 
 ### Atelier (Fiverr Design)
 - Status: **inactive**
-- Intelligence quality: No scout data this cycle — zero signal on Fiverr demand or competitive pricing
+- Intelligence quality: No scout data returned this cycle — field is dark
 
 ### Lumière (Etsy Wall Art)
 - Status: **inactive**
@@ -25,22 +25,23 @@
 
 ## Active Hypotheses
 
-1. **Publication velocity is the bottleneck, not design quality.** Caselle has queued products but zero live sales — the constraint is listings going live, not aesthetics being perfect. Each day of queue delay is a day of zero indexing.
-2. **Market data blackout increases launch risk.** The Caselle scout failed to return trend or Etsy data this cycle. Operating without competitor pricing or rising aesthetic signals means current designs may be misaligned with actual demand.
-3. **Zero revenue at Day 4+ post-strategy-write means the publish loop is broken.** Strategy was written 2026-05-24. It is now 2026-05-28. If products were published per the playbook, at least one order-eligible listing should exist — the absence of sales data suggests either listings are not live or listing quality is below discovery threshold.
+1. **The queue is the enemy.** Products sitting in staging have no chance of generating signal. Every day a listing isn't live is a day the market cannot respond. The store has zero sales not because the designs are wrong, but because the publish rate is too low.
+
+2. **Trend blindness is a compounding risk.** The Caselle scout returned empty this cycle. If this persists, designs will drift from what the market is searching for. One bad scout cycle is recoverable; two or three creates a strategy built on assumption.
+
+3. **First sale is a systems test, not a revenue event.** When order #1 arrives, it will validate the full pipeline — listing quality, pricing, fulfillment, SEO tags. Until then, every component of the system is unproven.
 
 ---
 
 ## What Changed This Cycle
 
-- **No material change in revenue** — still $0, 0 orders
-- **Scout degraded** — previous cycles may have had partial data; this cycle the Caselle scout returned a null report (no trend data, no Etsy comps attached)
-- **Strategy document is 4 days old** — the publish-now directive has not yet produced observable sales, suggesting execution lag or a broken step in the publish pipeline
-- **No new ventures activated** — Noctua, Atelier, Lumière all static
+- **No meaningful change.** Sales remain at $0. Revenue remains $0. The scout failed to return market data. The strategy document (v2.1) was written on 2026-05-24 and explicitly diagnosed the publish paralysis problem — but the sales report generated four days later still shows zero orders, suggesting the diagnosis has not yet translated into corrective action.
+- Scout data gap is new this cycle — previous cycles had intelligence flowing. This is a degradation worth flagging.
 
 ---
 
 ## Expected Next Cycle
 
-- At least **1 confirmed live Caselle listing** should be verifiable by URL or product ID — if not, the publish loop has a specific failure point to diagnose
-- Scout should return **at minimum 3 competitor listings** with prices and tags, or the scout prompt/
+- At least **3–5 new live listings** should appear if the playbook is being followed — the strategy explicitly states "publish today, not queue"
+- Scout should return populated trend and Etsy competitor data; if it returns empty again, the data pipeline itself needs diagnosis
+- Sales will likely remain $0, but the **listings count** is the leading indicator to watch — if it hasn't moved, the

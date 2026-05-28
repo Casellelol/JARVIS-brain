@@ -1,5 +1,5 @@
 # Accountant — Daily Financial Report
-*Generated: 2026-05-27 23:24*
+*Generated: 2026-05-28 23:24*
 
 ## Raw Data
 - Orders (30d): 0 | Revenue: £0.00
@@ -11,43 +11,36 @@
 ---
 
 ### 📊 Key Metrics
+
 | Metric | Value |
 |---|---|
 | Revenue (30d) | £0.00 |
 | COGS | £0.00 |
 | Net Profit | £0.00 |
-| Margin % | — |
+| Margin % | N/A |
 
 ---
 
 ### ⚠️ Critical Observations
 
-1. **Zero revenue recorded** — 0 orders in the last 30 days. The business is generating no income.
-2. **Printify not configured** — Cost data is completely unavailable. COGS, product margins, and profit calculations are **impossible** until resolved.
-3. **No financial summary is producible** in any meaningful sense. Both data pipelines are broken.
+1. **Zero revenue** — No orders processed in the last 30 days. Business is effectively dormant.
+2. **Printify not configured** — Cost data pipeline is broken. COGS calculations are **impossible** until resolved. This is a blocker for all financial analysis.
+3. **No baseline established** — Cannot trend, forecast, or benchmark without historical data flowing through.
 
 ---
 
-### 🔴 Status: Pre-Operational / Stalled
+### 🔴 Status: Pre-Revenue / System Misconfiguration
 
-This is not a profitability problem yet — it's a **setup problem.**
+This is not a profitability problem yet — it's an **infrastructure problem.**
 
 ---
 
 ### ✅ Single Recommended Action
 
-**Configure your Printify API key immediately.**
+**Configure the Printify API key immediately.**
 
-Without it:
-- No product costs → no margin visibility
-- No fulfilment data → no order processing
-- No orders → no revenue
-
-**Priority order:**
-1. Add Printify API key to settings
-2. Verify at least one product is live and purchasable
-3. Confirm store is connected to a sales channel (Etsy/Shopify/etc.)
+> Without it: no cost data → no margin tracking → no informed pricing decisions. This is Priority 1 before any marketing or sales activity is meaningful. Every day unresolved is a day of blind trading.
 
 ---
 
-*Return once operational for a meaningful profitability analysis.*
+*Summary generated with £0 revenue base. Re-run once Printify integration is live.*

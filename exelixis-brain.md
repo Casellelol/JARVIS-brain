@@ -1,32 +1,37 @@
 # Caselle Scout — Market Intelligence
-*Last updated: 2026-05-27 05:53*
+*Last updated: 2026-05-28 05:53*
 
 ## ⚠️ No Data Detected
 
-It looks like the trend data and Etsy market data fields were submitted **empty**. No content, files, or structured data came through with your message.
+It looks like the **trend data and Etsy market data were not successfully attached** to your message. Both fields appear to be empty.
 
 ---
 
-### To generate your intelligence report, please provide any combination of:
+### To generate your intelligence report, please provide:
 
-| Data Type | Examples |
-|---|---|
-| **Fashion trends** | Google Trends keywords, TikTok hashtag volumes, Pinterest search data, runway notes |
-| **Etsy market data** | Search terms, bestseller listings, price points, review counts, shop names |
-| **Additional context** | Target audience, current product catalog, price tier you operate in |
+**Fashion Trends Data** — could include:
+- Google Trends keywords/scores
+- Pinterest trend reports
+- TikTok hashtag data
+- Runway/seasonal color reports
+
+**Etsy Market Data** — could include:
+- Listing titles & prices
+- Bestseller tags
+- Review counts / sales volume
+- Shop names or search result screenshots
 
 ---
 
-### You can paste data as:
-- **Raw text / CSV**
-- **Copied table from a spreadsheet**
-- **Bullet-point observations**
-- **Screenshot descriptions**
+### You can share data as:
+- 📋 **Pasted text** (CSV, copied tables, bullet lists)
+- 🖼️ **Uploaded images** (screenshots of trend dashboards or Etsy search results)
+- 📎 **Structured numbers** (e.g., "Coquette: 340% search increase")
+
+---
 
 Once you share the data, I'll produce a full report covering:
-1. 🎨 Top 3 rising aesthetics
-2. ✏️ Recommended design directions
-3. 💰 Competitor pricing observations
-4. 🎯 One high-confidence opportunity
 
-**Go ahead and paste your data and I'll get straight to work.**
+> 🎨 Top 3 Rising Aesthetics → 🖌️ Design Directions → 💰 Competitor Pricing → 🎯 High-Confidence Opportunity
+
+**Paste or upload your data and I'll get started immediately.**

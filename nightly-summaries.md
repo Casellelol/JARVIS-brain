@@ -607,3 +607,60 @@ No new facts written to long-term memory this cycle. Existing memory state:
 
 6. JARVIS Confidence Score
 Score: 18 / 100
+
+## Nightly Summary — 2026-05-28
+```html
+1. Overnight Agent Activity
+Three scan cycles ran between 06:00 and 01:44. Market intelligence feeds were largely dead — Reddit rate-limited, Etsy feeds empty, BURGA and Pela both unavailable. Casetify returned partial pricing data ($1–$40 range). No fabricated data was written to memory this cycle — JARVIS held the line on that.
+
+  Scans completed: 3
+  Products queued: 5 (unchanged from prior cycle — no new additions overnight)
+  Digital products queued: 0
+  Business ideas filed: 1
+  Stores launched: 0
+  New products published: 0
+  Triggered actions: None — feeds failed, no signals to act on
+
+
+2. Intelligence Brain Updates
+Minimal new intelligence written. Empty feeds produce nothing worth storing.
+
+  Casetify pricing confirmed: Active product range $1–$40. They are live and trading. We are not.
+  Dead sources flagged: Reddit, Etsy, BURGA, Pela all failed this cycle — pattern now 2+ consecutive cycles. Either fix or deprioritize.
+  Existing memory: Prompt Pack live at £9.97 (Stripe link active). Ebook live. 5 products in queue, unpublished for 2+ weeks past the May 20 deadline.
+  No new facts written — no Etsy trend data, no Reddit signals, no competitor movement to record.
+
+
+3. Opportunity Queue
+
+  5 products queued, unpublished — this is the active bottleneck. Score: Critical. Every day unpublished is a day with zero chance of a sale.
+  Business idea filed (1): Not yet scored or promoted — needs your review.
+  Seasonal window: Summer is opening. Phone case gifting peaks Q2–Q3. The queue is sitting on potential revenue during the right season.
+  No new opportunities added, none discarded, none promoted this cycle.
+
+
+4. Revenue Events
+
+  Orders (30 days): 0
+  Revenue: £0.00
+  COGS: £0.00
+  Net Profit: £0.00
+  Printify: Not configured — no orders possible even if a buyer arrived
+  Refunds: 0
+  Digital product sales (Prompt Pack / Ebook): No Stripe data surfaced — assume £0.00 until confirmed
+
+
+5. Pending Manual Actions
+
+  🔴 CRITICAL — Publish the 5 queued products. This is week 2+ past your own deadline. Nothing sells from a queue.
+  🔴 CRITICAL — Configure Printify API key. Orders cannot be fulfilled without it. The store cannot function.
+  🟠 HIGH — Fix or replace dead intelligence feeds (Reddit, Etsy, BURGA, Pela). Running failed queries wastes cycles. Either restore access or redirect agent time to something that returns data.
+  🟡 MEDIUM — Review the 1 business idea filed. Needs scoring and a go/no-go decision before it ages into irrelevance.
+  🟡 MEDIUM — Confirm Stripe revenue for Prompt Pack and Ebook. No sales data surfaced — check Stripe dashboard manually to rule out silent sales.
+  🟡 MEDIUM — 16 upgrades pending, 0 done. Queue is growing, not shrinking. Set a weekly completion target or cull the list.
+
+
+6. JARVIS Confidence Score
+Score: 28 / 100
+
+  Primary feeds failed — Etsy, Reddit, BURGA

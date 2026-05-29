@@ -1,46 +1,38 @@
 # Accountant — Daily Financial Report
-*Generated: 2026-05-28 23:24*
+*Generated: 2026-05-29 23:24*
 
 ## Raw Data
 - Orders (30d): 0 | Revenue: £0.00
 - Printify key not configured
 
 ## Analysis
-## Daily Financial Summary
+## Daily Financial Summary — ⚠️ CRITICAL ALERT
 
 ---
 
-### 📊 Key Metrics
-
+### Key Metrics
 | Metric | Value |
 |---|---|
-| Revenue (30d) | £0.00 |
-| COGS | £0.00 |
-| Net Profit | £0.00 |
-| Margin % | N/A |
+| **Revenue** | £0.00 |
+| **COGS** | £0.00 (unverifiable) |
+| **Net Profit** | £0.00 |
+| **Margin %** | N/A |
 
 ---
 
-### ⚠️ Critical Observations
+### 🔴 Key Observations
 
-1. **Zero revenue** — No orders processed in the last 30 days. Business is effectively dormant.
-2. **Printify not configured** — Cost data pipeline is broken. COGS calculations are **impossible** until resolved. This is a blocker for all financial analysis.
-3. **No baseline established** — Cannot trend, forecast, or benchmark without historical data flowing through.
-
----
-
-### 🔴 Status: Pre-Revenue / System Misconfiguration
-
-This is not a profitability problem yet — it's an **infrastructure problem.**
+1. **Zero orders (30d)** — The business is generating no revenue. This is the primary emergency.
+2. **Printify API not configured** — Cost data is blind. No COGS visibility means no real margin calculation is possible even if sales resume.
+3. **Fixed costs are still running** — Any platform fees, domain costs, or ad spend are burning against £0.00 revenue. Every day of inactivity worsens the loss position.
 
 ---
 
-### ✅ Single Recommended Action
+### ✅ One Recommended Action
 
 **Configure the Printify API key immediately.**
-
-> Without it: no cost data → no margin tracking → no informed pricing decisions. This is Priority 1 before any marketing or sales activity is meaningful. Every day unresolved is a day of blind trading.
+You cannot run a dropshipping operation without supplier integration. This is almost certainly *why* orders are zero — if the store cannot process fulfilment, it cannot sell. Resolving this unblocks revenue, restores cost visibility, and is the single highest-leverage fix available right now.
 
 ---
 
-*Summary generated with £0 revenue base. Re-run once Printify integration is live.*
+*No meaningful financial analysis is possible until both data feeds are live.*

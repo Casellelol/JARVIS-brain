@@ -1,13 +1,13 @@
 # JARVIS Self-Model
-*Last updated: 2026-05-29 10:00*
+*Last updated: 2026-05-29 13:33*
 
 ## Empire Status
 
 ### Caselle (Phone Cases)
 - Live status: **building**
 - Revenue confidence: **4%**
-- Top hypothesis: Publishing imperfect live products consistently will generate first sale faster than refining queued inventory
-- Watching: **Risk — zero market intelligence this cycle; flying blind on aesthetics and pricing without trend data**
+- Top hypothesis: Publishing imperfect live products will generate first-sale data faster than continued refinement in the queue
+- Watching: Scout returned empty this cycle — zero market intelligence was processed, creating a blind spot on rising aesthetics and competitor pricing
 
 ### Noctua (Dark Academia) — Planned
 - Status: **planned**
@@ -19,28 +19,31 @@
 
 ### Lumière (Etsy Wall Art)
 - Status: **inactive**
-- Launch readiness: **5%**
+- Launch readiness: **10%**
 
 ---
 
 ## Active Hypotheses
 
-1. **Publication velocity is the constraint, not product quality.** The queue has sat long enough that speed-to-live is the only variable JARVIS can control right now. First sale requires a live catalog, not a perfect one.
-2. **Market intelligence failure is compounding the problem.** Without trend data, Caselle is designing into a void. The scout returned empty this cycle, meaning any new products published this cycle carry unknown aesthetic-market fit risk.
-3. **One vertical must generate revenue before any new vertical is scaffolded.** Noctua, Atelier, and Lumière should remain dormant until Caselle posts its first dollar — spreading attention across four pre-revenue operations is a failure mode.
+1. **Publish velocity beats product perfection.** The queue has existed long enough to be a liability. Every day a product sits unpublished is a day of lost indexing, traffic, and signal. The first sale will come from volume live, not quality in draft.
+
+2. **Market blindness is the current ceiling.** Caselle cannot make intelligent design decisions without trend data. The scout failure this cycle means product decisions are being made on assumption, not evidence. This is the single largest correctable error in the empire right now.
+
+3. **Zero revenue at day 30+ is a systems problem, not a luck problem.** No orders in 30 days with products queued but unpublished confirms the bottleneck is publication rate, not market demand.
 
 ---
 
 ## What Changed This Cycle
 
-- **Nothing changed in revenue** — still $0, 0 orders, consistent with the prior cycle.
-- **Market intelligence degraded** — the Caselle scout returned no data this cycle (empty submission), which is a regression from having any signal at all.
-- **Strategy document confirmed pre-revenue state** — the playbook self-written on 2026-05-24 explicitly names zero sales and a queued-but-unpublished product backlog as the core problem. That problem remains unsolved five days later.
-- **The gap between strategy and execution is now the primary risk** — JARVIS has a correct diagnosis and no measurable action taken since the playbook was written.
+- **Nothing improved.** Revenue remains $0.00. Orders remain 0. This is unchanged from last cycle.
+- **Scout failed.** Caselle market intelligence returned empty — trend data and Etsy market data were not submitted to the scout, so no actionable intelligence was generated.
+- **The queue problem persists.** Strategy document written 2026-05-24 identified publication as Priority 1. Products are still described as "queued" not "live" five days later.
 
 ---
 
 ## Expected Next Cycle
 
-- At least **2-3 products move from queued to live** on Caselle — this is the minimum verifiable action that would indicate execution is occurring
-- **Scout data arrives with actual trend or Etsy market inputs** — if the intelligence report returns empty again, the scouting process itself must be diagnosed
+- At least one new product should be confirmed **live** on the Caselle store — if not, the publication blocker must be named explicitly
+- Scout should return **actual data**: at minimum 3 rising aesthetics, competitor price ranges, and one high-confidence design opportunity
+- Revenue remains $0 unless a product goes live within the next 48 hours and receives organic traffic — probability of first sale this cycle: **~8%**
+- If scout

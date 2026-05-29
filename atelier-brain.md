@@ -1,48 +1,39 @@
 # Atelier Scout — Market Intelligence
-*Last updated: 2026-05-28 03:27*
+*Last updated: 2026-05-29 03:27*
 
-# Atelier Scout — Market Intelligence Report
-### Craft & Handmade Market Analysis | Current Cycle
-
----
-
-> *Note: No external trend data was provided in your prompt. The analysis below draws on my training knowledge of artisan market dynamics through early 2025. For live Etsy pricing, supplement with current seller research.*
+# Atelier Scout — Market Intelligence Brief
+### Luxury Artisan Goods | Q2 2025 Trend Report
 
 ---
 
-## 🎨 TOP 3 RISING CRAFT AESTHETICS
+## ⚠️ Input Notice
+No trend data was submitted with your request. The field after **"Artisan market trends:"** appears to be blank.
 
-### 1. **Quiet Luxury Craft** *(High momentum)*
-Minimalist forms, muted natural palettes (warm stone, aged linen, deep tallow), and restrained ornamentation. Consumers are moving away from maximalist "cottagecore" toward pieces that signal understated sophistication. Think: unglazed stoneware, undyed wool, raw-edge leather.
+To generate a high-confidence, actionable report, please provide any combination of:
 
-### 2. **Wabi-Sabi Modernism** *(Sustained + accelerating)*
-Celebrating intentional imperfection — asymmetric ceramics, visible hand-stitching as design feature, patinated metals. Distinct from vintage revival; this is **contemporary making with deliberate flaws**. Strong crossover with interior design and gift markets.
-
-### 3. **Functional Arcana** *(Emerging)*
-Objects that blend utility with ritual or symbolic meaning — botanical-dyed textiles with herbalist references, carved wooden tools with runic or celestial motifs, beeswax goods tied to apothecary aesthetics. Driven by wellness culture intersecting with craft authenticity.
-
----
-
-## 🛍️ RECOMMENDED PRODUCT DIRECTIONS
-
-| Priority | Product Direction | Rationale |
-|----------|-------------------|-----------|
-| **1** | Ceramic/stoneware tableware in matte neutral glazes | High search volume, repeat gifting occasion, strong AOV |
-| **2** | Handbound leather or linen journals with minimal embossing | "Quiet luxury" stationery is under-supplied at mid-luxury price points |
-| **3** | Botanical/naturally dyed textile accessories (pouches, wraps, small home goods) | Materials story drives premium pricing; low competition at quality tier |
-| **4** | Beeswax or tallow candles with apothecary-style vessels | Vessel retention drives perceived value; strong subscription potential |
-| **5** | Carved/turned wooden kitchen tools with provenance labeling | Functional Arcana sweet spot; viral potential on food-adjacent platforms |
+| Data Type | Examples |
+|---|---|
+| **Platform signals** | Etsy search trends, bestseller categories, review themes |
+| **Social indicators** | Pinterest saves, TikTok hashtag volumes, Instagram aesthetics |
+| **Competitor notes** | Pricing observations, new product launches |
+| **Customer feedback** | Requests, complaints, wishlist items |
+| **Raw search terms** | Keywords you've noticed gaining traction |
+| **Sales data** | Your own top/bottom performers |
 
 ---
 
-## 💰 ETSY PRICING OBSERVATIONS
+## What You'll Receive Once Data Is Submitted
 
-**Key dynamic: The "handmade premium ceiling" is rising.**
+✦ **Top 3 Rising Craft Aesthetics** — named, described, and benchmarked against prior cycles
 
-- **Ceramics (mugs/bowls):** Saturated at $18–35; breakout pricing of $55–120 achievable with strong narrative, photography, and clay/glaze provenance story
-- **Candles:** Race-to-bottom at $12–22 in mass segment; vessels + natural materials command $38–75
-- **Textiles/accessories:** $45–180 range for naturally dyed goods; buyers actively filtering *out* synthetic alternatives
-- **Journals/stationery:** $30–85 sweet spot; under $30 signals low quality; over $90 requires significant brand trust
-- **Wooden goods:** $40–200+ with provenance ("reclaimed walnut, Pacific Northwest"); timber sourcing story is a direct price multiplier
+✦ **Product Direction Recommendations** — specific SKU-level suggestions aligned to your positioning
 
-> **Pattern observed:** Listings with a defined **materials provenance sentence** and 6+ lifestyle photos consistently command **30–45% higher prices** than equivalent
+✦ **Etsy Pricing Observations** — sweet spots, premium anchors, and race-to-bottom warnings
+
+✦ **In-Demand Materials & Techniques** — what's commanding search and margin
+
+✦ **One High-Confidence Opportunity** — a single actionable move with rationale
+
+---
+
+*Paste your data below and I'll generate the full brief immediately.*

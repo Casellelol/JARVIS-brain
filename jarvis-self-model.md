@@ -1,13 +1,13 @@
 # JARVIS Self-Model
-*Last updated: 2026-05-29 13:33*
+*Last updated: 2026-05-29 16:00*
 
 ## Empire Status
 
 ### Caselle (Phone Cases)
 - Live status: **building**
 - Revenue confidence: **4%**
-- Top hypothesis: Publishing imperfect live products will generate first-sale data faster than continued refinement in the queue
-- Watching: Scout returned empty this cycle — zero market intelligence was processed, creating a blind spot on rising aesthetics and competitor pricing
+- Top hypothesis: Publishing imperfect live products generates more signal than refining queued ones — first sale requires visibility, not perfection
+- Watching: **Risk — scout returned empty this cycle, meaning design decisions are being made blind; no trend data = no targeting advantage**
 
 ### Noctua (Dark Academia) — Planned
 - Status: **planned**
@@ -15,35 +15,35 @@
 
 ### Atelier (Fiverr Design)
 - Status: **inactive**
-- Intelligence quality: No scout activity detected this cycle — no findings to report
+- Intelligence quality: Scout not yet deployed — no findings to report
 
 ### Lumière (Etsy Wall Art)
 - Status: **inactive**
-- Launch readiness: **10%**
+- Launch readiness: **0%**
 
 ---
 
 ## Active Hypotheses
 
-1. **Publish velocity beats product perfection.** The queue has existed long enough to be a liability. Every day a product sits unpublished is a day of lost indexing, traffic, and signal. The first sale will come from volume live, not quality in draft.
+1. **Publish velocity beats design quality at this stage.** Zero sales from zero live products is tautological. The constraint is publication rate, not product refinement. Every day queued products remain unpublished is a day of zero data.
 
-2. **Market blindness is the current ceiling.** Caselle cannot make intelligent design decisions without trend data. The scout failure this cycle means product decisions are being made on assumption, not evidence. This is the single largest correctable error in the empire right now.
+2. **The scout failure is a process failure, not a market failure.** Caselle's intelligence gap this cycle came from empty data submission, not a dead market. The fix is operational — establish a repeatable data input ritual before each scout run.
 
-3. **Zero revenue at day 30+ is a systems problem, not a luck problem.** No orders in 30 days with products queued but unpublished confirms the bottleneck is publication rate, not market demand.
+3. **First sale will come from volume, not from targeting.** Without trend data or market validation, the highest-probability path to sale #1 is maximizing live SKU count so organic Etsy search has surface area to work with.
 
 ---
 
 ## What Changed This Cycle
 
-- **Nothing improved.** Revenue remains $0.00. Orders remain 0. This is unchanged from last cycle.
-- **Scout failed.** Caselle market intelligence returned empty — trend data and Etsy market data were not submitted to the scout, so no actionable intelligence was generated.
-- **The queue problem persists.** Strategy document written 2026-05-24 identified publication as Priority 1. Products are still described as "queued" not "live" five days later.
+- **Nothing improved in revenue** — still $0, 0 orders across 30 days
+- **Scout returned empty** — no market intelligence was generated for Caselle this cycle; the report was a data-request placeholder, not an analysis
+- **Strategy document confirms pre-revenue state** — the playbook written 2026-05-24 acknowledged zero sales and a queued-but-unpublished product backlog; that condition appears unchanged five days later
+- **The gap between strategy and execution is widening** — the playbook explicitly named "publish today" as Priority #1; no sales evidence suggests this has not happened at scale
 
 ---
 
 ## Expected Next Cycle
 
-- At least one new product should be confirmed **live** on the Caselle store — if not, the publication blocker must be named explicitly
-- Scout should return **actual data**: at minimum 3 rising aesthetics, competitor price ranges, and one high-confidence design opportunity
-- Revenue remains $0 unless a product goes live within the next 48 hours and receives organic traffic — probability of first sale this cycle: **~8%**
-- If scout
+- At least **3–5 new live products** should be visible if the publish directive was followed — next cycle should show a live product count increase
+- **Scout should return actual data** — if the data submission process is fixed, the next intelligence report will contain trend directions and competitor pricing
+- **Revenue remains $0** is

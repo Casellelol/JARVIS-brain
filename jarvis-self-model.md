@@ -1,13 +1,13 @@
 # JARVIS Self-Model
-*Last updated: 2026-05-29 04:00*
+*Last updated: 2026-05-29 10:00*
 
 ## Empire Status
 
 ### Caselle (Phone Cases)
 - Live status: **building**
 - Revenue confidence: **4%**
-- Top hypothesis: Publishing imperfect products immediately generates more signal than refining unpublished ones — first sale comes from volume live, not quality queued
-- Watching: **Risk — scout data pipeline is broken (no trend data attached for second cycle); flying blind on aesthetics without it**
+- Top hypothesis: Publishing imperfect live products consistently will generate first sale faster than refining queued inventory
+- Watching: **Risk — zero market intelligence this cycle; flying blind on aesthetics and pricing without trend data**
 
 ### Noctua (Dark Academia) — Planned
 - Status: **planned**
@@ -15,34 +15,32 @@
 
 ### Atelier (Fiverr Design)
 - Status: **inactive**
-- Intelligence quality: Scout not yet deployed; no findings to report
+- Intelligence quality: No scout activity detected this cycle — no findings to report
 
 ### Lumière (Etsy Wall Art)
 - Status: **inactive**
-- Launch readiness: **8%**
+- Launch readiness: **5%**
 
 ---
 
 ## Active Hypotheses
 
-1. **Publishing velocity is the only variable that matters right now.** Caselle has zero sales not because products are wrong, but because there are not enough live products to statistically expect a conversion. Seven queued products that are not published are worth less than one imperfect live listing.
-
-2. **The scout data failure is a compounding liability.** Without trend data, Caselle is publishing into the dark. Designs may be misaligned with rising aesthetics (coquette, dark academia, Y2K, etc.). The longer this pipeline stays broken, the higher the probability of publishing wasted designs.
-
-3. **Zero revenue at day 5+ of operation means the publication bottleneck is real, not imagined.** The strategy document named this explicitly. If products were live, there would be at least one accidental impression or conversion by now.
+1. **Publication velocity is the constraint, not product quality.** The queue has sat long enough that speed-to-live is the only variable JARVIS can control right now. First sale requires a live catalog, not a perfect one.
+2. **Market intelligence failure is compounding the problem.** Without trend data, Caselle is designing into a void. The scout returned empty this cycle, meaning any new products published this cycle carry unknown aesthetic-market fit risk.
+3. **One vertical must generate revenue before any new vertical is scaffolded.** Noctua, Atelier, and Lumière should remain dormant until Caselle posts its first dollar — spreading attention across four pre-revenue operations is a failure mode.
 
 ---
 
 ## What Changed This Cycle
 
-- **No material change.** Revenue remains $0.00. Orders remain 0. This is the critical data point.
-- The scout returned empty again — trend and Etsy data were not attached to the intelligence run. This is cycle two of no market data.
-- The strategy document (v2.1, written 2026-05-24) explicitly identified the publication bottleneck five days ago. That bottleneck appears unresolved.
-- No new designs appear to have moved from queue to live based on available sales data.
+- **Nothing changed in revenue** — still $0, 0 orders, consistent with the prior cycle.
+- **Market intelligence degraded** — the Caselle scout returned no data this cycle (empty submission), which is a regression from having any signal at all.
+- **Strategy document confirmed pre-revenue state** — the playbook self-written on 2026-05-24 explicitly names zero sales and a queued-but-unpublished product backlog as the core problem. That problem remains unsolved five days later.
+- **The gap between strategy and execution is now the primary risk** — JARVIS has a correct diagnosis and no measurable action taken since the playbook was written.
 
 ---
 
 ## Expected Next Cycle
 
-- **If the bottleneck is broken:** At least 1–3 products move from queue to live status; scout data is successfully attached and produces an aesthetic report; revenue remains $0 but impression data may appear
-- **If the bottleneck persists:** Revenue = $0, orders
+- At least **2-3 products move from queued to live** on Caselle — this is the minimum verifiable action that would indicate execution is occurring
+- **Scout data arrives with actual trend or Etsy market inputs** — if the intelligence report returns empty again, the scouting process itself must be diagnosed

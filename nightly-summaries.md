@@ -664,3 +664,51 @@ Minimal new intelligence written. Empty feeds produce nothing worth storing.
 Score: 28 / 100
 
   Primary feeds failed — Etsy, Reddit, BURGA
+
+## Nightly Summary — 2026-05-29
+1. Overnight Agent Activity
+Agents ran 3 scheduled cycles (06:00, 16:00, 00:44). Core findings were consistent across all cycles.
+
+  Sales scan: 0 orders, £0.00 revenue. 30-day window confirmed dead.
+  Product publishing: 0 new products published. 5 POD products remain queued. Queue has not moved in 8+ days.
+  Market intelligence: All external feeds failed — Etsy scraper returned empty, Reddit rate-limited, BURGA and Pela both unavailable. Zero competitive data captured this cycle.
+  Finance agent: Confirmed £0.00 revenue, Printify API key not configured — financial tracking is structurally broken.
+  Triggered flag: Results log explicitly noted data source failure is systemic, not temporary. Recommended fixing scrapers or deprioritizing until resolved.
+
+
+2. Intelligence Brain Updates
+
+  New fact written: Store is past "just launched" excuse window as of 2026-05-28. Zero-sales status is now a strategic failure signal, not a timing issue.
+  Pattern confirmed: Queue drift is 8 days and counting. Products queued 2026-05-20 remain unpublished — this is a repeated observation, not new intelligence.
+  Data infrastructure status updated: Etsy, Reddit, BURGA, Pela all returning null. Competitor intel and trend data are blind spots until feeds are repaired.
+  Printify key: Still not configured. Financial agent cannot track COGS or orders from fulfilment side.
+  No new business ideas filed this cycle (16:00 scan showed 0 vs. earlier 1 — net zero overnight).
+
+
+3. Opportunity Queue
+
+  Queued (not scored, not published): 5 POD phone case products — status unchanged from yesterday. No promotion, no discard decision made.
+  1 business idea filed in the 06:00 cycle — not yet reviewed or scored. Absent from later cycles, status unknown.
+  1 upgrade queued (06:00 cycle only) — not actioned, not described in data.
+  Live digital products: 1 ebook + 1 prompt pack (£9.97) — both published but no confirmed traffic path. Revenue potential exists but conversion funnel is unverified.
+  Niche data for phone cases (dark academia, celestial witch, coquette, booktok, y2k): Etsy queries returned empty. Opportunity scoring on these niches is blocked until scraper is fixed.
+
+
+4. Revenue Events
+
+  Sales: £0.00. 0 orders. 30-day trailing revenue: £0.00.
+  Refunds: None (no orders to refund).
+  Printify orders: None. Printify API key not configured — fulfilment tracking is offline.
+  Stripe payment link active: £9.97 prompt pack link confirmed in memory. No purchase events recorded.
+
+
+5. Pending Manual Actions
+
+  CRITICAL — Publish the 5 queued POD products. 8 days stalled. Nothing sells while it sits in a queue. Requires your direct action or explicit delegation back to JARVIS with publish permissions.
+  Configure Printify API key. Financial tracking is structurally broken without it. 1 action, unblocks the entire accounting layer.
+  Fix or replace data scrapers (Etsy, Reddit, BURGA, Pela). Running blind on market intelligence. Decide: repair now, or pause competitive tracking and redirect that agent time.
+  Review the 1 business idea filed overnight. No scoring or decision logged. Needs your eyes.
+  Confirm traffic path for digital products. Ebook and prompt pack are live but no buyer can find them without a funnel. Where is the traffic coming from?
+
+
+6. JARVIS Confidence Score

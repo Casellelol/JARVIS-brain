@@ -1,36 +1,36 @@
 # JARVIS World Brain
-*Last updated: 2026-05-28 08:44*
+*Last updated: 2026-05-29 08:44*
 
 ## Hacker News — Tech & Business
-- A Eureka machine that thinks like nature and explores what AI cannot
-- YouTube to automatically label AI-generated videos
-- I analysed 20 years of my chats
-- Hallucinate – Massively Multiplayer Online Rave
-- I think Anthropic and OpenAI have found product-market fit
-- AI Datacenters Were Built for GPUs. What Happens When You Remove the GPUs?
+- Volkswagen blocks Home Assistant by requiring client assertion
+- Claude Opus 4.8
+- Bricks and Minifigs Stole a Man's $200k Lego Collection
+- I made a million dollar product from my dorm room (2025)
+- Claude Code – Everything You Can Configure That the Docs Don't Tell You
+- Italians and Dutch share the same gestural instinct for teaching
 
 ## Entrepreneur Magazine — Latest
-- How Foreign Investments Can Lead to IRS Penalties That Wipe Out Profits
-- Sorry, Remote Workers: The U.S. Tax Man Travels With You — 8 Tax Strategies for Digital Nomads
-- He Started an Industry-Disrupting Business with Just $15K. Here Are His Secrets to Growth: ‘We’re On Our Way to $1 Billion’
-- CEOs Are Blaming AI for Layoffs. Nvidia’s Jensen Huang Says That’s a ‘Lazy’ Excuse.
-- Your Team Left the Meeting Aligned — Execution Fell Apart Anyway. Here’s Why.
-- “Better” Isn’t Always Enough. Why Smart Leaders Use This Hidden Curve to Decide Who Wins
+- 6 Data-Driven Practices That Separate High-Performing Companies From Everyone Else
+- I Never Ask My Team to Change — I Ask Them to Grow. Here’s Why It Works.
+- 18 Years Ago, I Felt Invisible — A Moment That Forced Me to Rethink Business Success and Learn 5 Critical Lessons
+- I’m a Business Consultant Who’s Seen the Best Advice Fail Companies — Here’s What Goes Wrong
+- 85% of Employees Experience at Least 1 Tech-Related Slowdown Every Day — and It’s Costing You More Than You Think
+- Your Employees Know What to Do — Do They Know Why It Matters? Here’s Why Teams Need Purpose, Not Just Direction.
 
 ## Inc.com — Business News
-- At I/O, Google Pronounced the Internet Dead
-- Massive New Study of 500,000 People: Sleep Exactly This Much Every Night
-- Rivian Just Announced When Customer Deliveries of Its R2 SUV Will Begin
-- Why Single Gen-Z Women Are Buying Homes at Double the Rate of Single Gen-Z Men
-- Stop Anchoring Your Ticket Sales on Your Keynote Speaker
+- This Sentence About AI Got Apple Co-Founder Steve Wozniak Applause—not Boos—for His Commencement Speech
+- Can $10 Chicken Caesar Wraps Save Sweetgreen?
+- When I Stopped Being Impressive, My Business Grew
+- After 4 Months of Backlash, Southwest Airlines Changes Its Controversial Seating Rule
+- The FBI Just Issued an Urgent Warning for Anyone Using Microsoft Teams, Outlook, or OneDrive Over a New Phishing Scheme
 
 ## Product Hunt — New Products Trending
 - Product Hunt — The best new products, every day
-- NeuralAgent 2.5
+- Agent A by Ahrefs
+- Basedash: Embedded Analytics
+- MCP Bridge by Appfactor
+- /monitor by Firecrawl
 - Kim Personal Health Assistant
-- Robinhood Agentic Trading
-- Angel Match 4.0
-- BankStatementLab
 
 ## Amazon Trends
 No data

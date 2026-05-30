@@ -1126,3 +1126,100 @@ System was effectively idle overnight. Logging pipeline may need to be confirmed
 
 JARVIS Confidence Score: 41 / 100
 Score is
+
+## Briefing — 2026-05-30
+🔋 System HealthMissed crons (last 24h):⚠️ MISSED: Competitor Monitor (1am)⚠️ MISSED: Lumière Scout (2am)⚠️ MISSED: Atelier Scout (3am)⚠️ MISSED: Nightly Summary (3am)⚠️ MISSED: Trend Monitor (4am)⚠️ MISSED: Caselle Scout (5am)⚠️ MISSED: JARVIS Command (6am)⚠️ MISSED: Morning Briefing (6am)⚠️ MISSED: Gold Scout (7am)⚠️ MISSED: World Brain (8am)⚠️ MISSED: Marketing Posts (9am)⚠️ MISSED: Accountant P&L (11pm)
+
+💰 API SpendMonth-to-date: $7.5 · Daily avg: $0.25 · Est. days remaining: 170
+
+```html
+
+
+
+  
+  JARVIS Morning Briefing — 30 May 2026
+
+
+
+  
+    🤖 JARVIS Morning Briefing — Saturday, 30 May 2026
+  
+
+  
+  1. Overnight Summary
+  
+    Status: Pre-revenue phase. No sales, no published products on POD storefronts,
+    and no market data was captured overnight. The Printify API key is still not configured —
+    this is blocking the entire product pipeline. 16 upgrades remain pending with 0 completed.
+    The business is structurally ready but commercially dormant. Today needs to change that.
+  
+
+  
+  2. Sales &amp; Revenue
+  
+    Orders (last 30d): 0
+    Revenue: £0.00
+    Net Profit: £0.00
+    Margin: N/A
+    Top Design: None — no sales data exists
+    Dead Stock: Entire catalogue (no units moved)
+  
+  
+    ⚠️ Critical: Printify API key is not configured. Revenue reporting is
+    unverifiable and product publishing via automation is blocked until this is resolved.
+  
+
+  
+  3. New Products Published
+  0 products published. No new listings went live in the last 24 hours.
+  
+    Known live asset: "The POD Designer's AI Prompt Pack — 50 Midjourney Prompts for
+    Bestselling Phone Case Designs" at £9.97 via Stripe
+    (buy.stripe.com). This is the only
+    confirmed revenue-capable product. No Etsy or Printify listings confirmed live.
+  
+
+  
+  4. Top Market Intelligence
+  
+    ⚠️ No trend or Etsy market data was captured overnight. Caselle Scout
+    returned empty — no TrendHunter, Pinterest, Google Trends, or Etsy scrape data was attached.
+  
+  From World Brain — notable signals worth watching:
+  
+    
+      Claude Opus 4.8 released — evaluate immediately for prompt quality
+      improvements across design generation workflows.
+    
+    
+      "I made a million dollar product from my dorm room (2025)" — trending on
+      Hacker News. Review the thread; likely contains POD/digital product positioning lessons.
+    
+    
+      Claude Code undocumented configuration — if any JARVIS modules run on
+      Claude Code, this thread may contain useful optimisation flags.
+    
+    
+      Volkswagen blocks Home Assistant — smart home/tech frustration aesthetic
+      trending; possible niche angle for tech-rage phone case designs.
+    
+  
+
+  
+  5. ⚙️ System Activity — Last 24 Hours
+  No logged activity recorded in the last 24 hours.
+  
+    0 builds deployed
+    0 fixes applied
+    0 automations triggered
+  
+  
+    Activity logging appears to be either non-functional or not yet wired up. This should be
+    treated as a gap — if things are running, they are running silently and untracked.
+  
+
+  
+  6. Upgrade Queue Status
+  
+    Pending upgrades: 16
+    <strong

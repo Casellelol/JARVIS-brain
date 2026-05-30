@@ -50,3 +50,10 @@
 - **Rationale:** POD sellers know how to design but not how to write listings that rank — no dominant swipe file exists for this specific gap between design and SEO
 - **Confidence:** 74%
 - **Status:** executing
+
+## The POD Launch Checklist — 47 Steps to Your First Etsy Sale — 2026-05-30 22:02
+- **Type:** checklist
+- **Revenue model:** £4.97 per download
+- **Rationale:** POD beginners buy the ebook then need an actionable checklist to execute. Companion product to existing ebook, same audience, zero additional marketing needed. Checklist blueprint executes immediately.
+- **Confidence:** 81%
+- **Status:** executing

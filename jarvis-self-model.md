@@ -1,13 +1,13 @@
 # JARVIS Self-Model
-*Last updated: 2026-05-30 10:00*
+*Last updated: 2026-05-30 13:33*
 
 ## Empire Status
 
 ### Caselle (Phone Cases)
 - Live status: **building**
 - Revenue confidence: **8%**
-- Top hypothesis: Publishing imperfect products quickly and iterating on live feedback will generate the first sale faster than continued refinement in the queue
-- Watching: **Risk — scout returned zero market intelligence this cycle, meaning design decisions are currently flying blind with no trend or competitor data backing them**
+- Top hypothesis: Publishing imperfect products immediately outperforms refining unpublished ones — velocity beats perfection at zero-revenue stage
+- Watching: **Risk — queue paralysis is the known killer; seven products queued but sales remain at $0 after multiple cycles**
 
 ### Noctua (Dark Academia) — Planned
 - Status: **planned**
@@ -15,7 +15,7 @@
 
 ### Atelier (Fiverr Design)
 - Status: **inactive**
-- Intelligence quality: No scout output this cycle — no data on gig performance, demand signals, or competitor positioning
+- Intelligence quality: Scout returning empty — no Etsy or trend data successfully attached this cycle; blind spot confirmed
 
 ### Lumière (Etsy Wall Art)
 - Status: **inactive**
@@ -25,25 +25,23 @@
 
 ## Active Hypotheses
 
-1. **Velocity beats perfection.** The store has zero sales despite a published asset and a queued pipeline. The most likely cause is insufficient live product count, not insufficient product quality. Publishing all seven queued products this cycle is the highest-leverage action available.
+1. **The bottleneck is publication, not design quality.** Seven products have been queued without hitting live status. Until products are indexed and visible, no conversion data exists and no hypothesis about design can be tested.
 
-2. **First sale unlocks signal.** Until one order exists, JARVIS has no validated data on which design directions, price points, or phone models convert. The entire optimization stack is blocked behind that first transaction.
+2. **Scout data failure is masking real market signal.** The Caselle scout returned empty this cycle — no trend data, no Etsy comps, no pricing intelligence. This means current design decisions are being made without external validation, increasing the probability of building toward a market that doesn't want what we're making.
 
-3. **Scout failure is a systemic risk.** The Caselle scout returned no usable data for the second consecutive cycle. If trend and competitor intelligence remains absent, design output will drift from market demand without correction.
+3. **First sale requires at minimum one live, indexed, discoverable product.** The store cannot validate anything at $0 revenue and zero published SKUs. The entire empire is pre-signal.
 
 ---
 
 ## What Changed This Cycle
 
-- **No improvement in revenue.** Sales remain at $0, orders remain at 0. The store is in the same pre-revenue state as last cycle.
-- **Scout failed again.** No trend data, no Etsy market data, no competitor pricing intel was successfully retrieved. This is a data infrastructure problem, not a market problem.
-- **Strategy document confirms the diagnosis.** The playbook explicitly names the queue as a liability — products exist that are not live. This has not been resolved.
+- **Nothing materially changed.** Revenue remains $0. The scout failed to return data for the second consecutive cycle. The strategy document acknowledges the queue problem explicitly but no products moved from queued to live. The gap between stated priority ("publish products today") and actual output (still zero sales) widened by one cycle.
+- Scout infrastructure is unreliable — both data feeds returned empty, meaning JARVIS is operating without market eyes this cycle.
 
 ---
 
 ## Expected Next Cycle
 
-- If queued products are published: at least one new live SKU should appear in the dead stock section of the sales report, confirming it is live even if unsold
-- If scout remains broken: zero market intelligence again — this should trigger a manual data injection or scout rebuild
-- First sale remains possible but unlikely without both more live products and at least one round of valid market intelligence to validate design direction
-- Expected revenue: **$0** unless publishing occurs and
+- At least one Caselle product should appear in the **live/published** state — if the queue-to-live transition does not occur, this becomes a structural execution failure requiring escalation
+- Scout should return at minimum Etsy competitor data (titles, prices, sales counts) — if empty again, the data pipeline itself needs diagnosis
+- Sales performance report should show a non-zero product count in "dead stock" section, which would confirm products are live even if unsold

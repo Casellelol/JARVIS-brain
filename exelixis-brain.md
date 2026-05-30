@@ -1,40 +1,38 @@
 # Caselle Scout — Market Intelligence
-*Last updated: 2026-05-29 05:53*
+*Last updated: 2026-05-30 05:53*
 
-## ⚠️ No Data Detected
+# Caselle Scout Intelligence Report
+## ⚠️ Data Notice
 
-It looks like the **trend data and Etsy market data fields were submitted empty**. No fashion trend information or Etsy market data came through with your message.
-
----
-
-### To generate your intelligence report, please provide:
-
-**Fashion Trends** — e.g.:
-- Google Trends snapshots or keywords
-- Pinterest/TikTok trend summaries
-- Runway or street style notes
-- Seasonal color/aesthetic data
-
-**Etsy Market Data** — e.g.:
-- Search volume or bestseller listings
-- Pricing data (price ranges, average selling price)
-- Review counts or sales velocity indicators
-- Specific shop/product examples
+**No trend data or Etsy market data was successfully attached to this prompt.** Both data fields appear to be empty.
 
 ---
 
-### How to share the data:
-- **Paste text** directly into the message
-- **Describe** what you're seeing in the dashboards
-- **Copy/paste** table data or bullet points from your research tools
-- **Screenshot descriptions** or key metrics
+## To Generate Your Intelligence Report, Please Provide:
+
+### Fashion Trends Data
+- TrendHunter / Pinterest trend reports
+- Google Trends keyword data
+- Social media aesthetic hashtag performance (TikTok, Instagram)
+- Runway or streetwear trend summaries
+
+### Etsy Market Data
+- Search result listings (titles, prices, sales counts)
+- Bestseller tags and keywords
+- Review sentiment snippets
+- Shop stats or exported CSV data
 
 ---
 
-Once you share the actual data, I'll deliver a full **Caselle Scout intelligence report** with:
-- 🎨 Top 3 rising aesthetics
-- ✏️ Actionable design directions
-- 💰 Competitor pricing observations
-- 🎯 One high-confidence opportunity
+## What I'll Deliver Once Data Is Supplied:
 
-Drop the data and I'll get straight to work.
+| Section | Output |
+|---|---|
+| 🎨 Top 3 Rising Aesthetics | Named, described, with evidence |
+| ✏️ Design Directions | 3–5 specific, producible concepts |
+| 💰 Competitor Pricing | Price bands, gaps, sweet spots |
+| 🎯 High-Confidence Opportunity | One SKU recommendation with rationale |
+
+---
+
+**Please paste or upload your data and I'll produce the full report immediately.**

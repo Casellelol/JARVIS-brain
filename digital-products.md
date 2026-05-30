@@ -41,3 +41,11 @@
 - Download: https://raw.githubusercontent.com/Casellelol/JARVIS-brain/main/digital-products/the-etsy-pod-copywriting-swipe-file-40-proven-titl.md
 - Payment: https://buy.stripe.com/9B63cv8LEdBo63o9n1g7e04
 - Status: LIVE
+
+## The POD Launch Checklist — 47 Steps to Your First Etsy Sale — 2026-05-30 22:02
+- Type: checklist
+- Slug: the-pod-launch-checklist-47-steps-to-your-first-et
+- Price: £9.97
+- Download: https://raw.githubusercontent.com/Casellelol/JARVIS-brain/main/digital-products/the-pod-launch-checklist-47-steps-to-your-first-et.md
+- Payment: https://buy.stripe.com/4gMbJ13rk8h40J4fLpg7e05
+- Status: LIVE

@@ -1,79 +1,41 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-05-29 22:00*
+*Last updated: 2026-05-30 02:00*
 
-# TREND MONITOR — CROSS-EMPIRE AESTHETIC INTELLIGENCE REPORT
-### Cycle: Current | Status: ⚠️ LIMITED DATA INPUT DETECTED
+# TREND MONITOR — AESTHETIC INTELLIGENCE REPORT
+### Cross-Empire Analysis | Caselle × Lumière × Atelier
+---
+
+> ⚠️ **DATA INTEGRITY NOTICE**
+> No Reddit trend data was attached to this prompt. The data field appears blank. The analysis below **cannot be executed with real momentum scores** derived from actual subreddit activity, post velocity, upvote trajectories, or comment sentiment.
+>
+> What I can offer instead:
 
 ---
 
-> **⚠️ DATA NOTICE:** No Reddit trend data was included in your prompt. Rather than fabricate specific subreddit metrics, upvote velocities, or post counts — which would render this report **actively misleading and operationally dangerous** — I've flagged this transparently. Below is the **complete analytical framework** your team should populate once real data is fed in, plus illustrative examples of how the output reads when properly loaded.
+## TWO PATHS FORWARD
+
+### OPTION A — Submit Your Data
+Paste raw Reddit trend data in any of these formats and I'll produce the full structured report:
+
+| Format | What to Include |
+|--------|----------------|
+| **Subreddit snapshots** | Post titles, upvote counts, timeframe |
+| **Keyword frequency tables** | Term, mention count, growth % |
+| **Screenshot transcriptions** | Manual copy of post titles/engagement |
+| **Export CSV/JSON** | From tools like Pulsar, Brandwatch, Reddit API pulls |
+| **Manual observations** | Even "r/malefashionadvice is full of X posts this week" |
 
 ---
 
-## HOW TO SUPPLY DATA FOR ACCURATE ANALYSIS
+### OPTION B — Specify a Time Window & I'll Reason from Established Patterns
 
-Feed me any combination of:
+Tell me:
+- 📅 **Timeframe** (e.g., Q1 2025, last 30 days)
+- 🌍 **Primary market** (US, UK, EU, global)
+- 🎯 **Any specific subreddits** you're monitoring (e.g., r/streetwear, r/cottagecore, r/malelivingspace)
 
-| Data Type | Example Input |
-|---|---|
-| Subreddit growth stats | "r/cottagecore up 340% posts this month" |
-| Rising post themes | "Dark academia mood boards trending on r/femalefashionadvice" |
-| Keyword frequency | "'quiet luxury' mentioned 2,400x across r/malefashionadvice this week" |
-| Upvote velocity | "Chrome finish phone cases hitting front page of r/mildlyinteresting 3x" |
-| Comment sentiment | "r/Etsy buyers complaining minimalism feels 'cold' and 'mass-produced'" |
-| Cross-subreddit signals | "Same 'moss green' palette appearing in r/DesignPorn, r/weddingplanning, r/streetwear simultaneously" |
+And I'll produce a **clearly labeled inference-based report** using known Reddit aesthetic community trajectories — flagged transparently as projections, not scraped data.
 
 ---
 
-## REPORT TEMPLATE — READY TO POPULATE
-
-*(This is exactly what you'll receive once real data is input. Illustrative placeholders shown in* `[brackets]`*)*
-
----
-
-## SECTION 1 — TOP 5 RISING AESTHETICS
-### Momentum Score Methodology
-> **Momentum Score (0–100)** = Weighted composite of: post volume growth (35%) + upvote velocity (25%) + cross-subreddit spread (25%) + comment-to-post ratio / engagement depth (15%)
-
----
-
-### 🔺 #1 | `[AESTHETIC NAME]` — Momentum Score: `[XX/100]`
-**Signal Sources:** `[r/subreddit1, r/subreddit2]` | **Weekly Post Growth:** `[+XX%]`
-**Defining Visual Codes:** `[e.g., worn leather, amber tones, imperfect handcraft]`
-**Consumer Language:** *"[exact phrases appearing in comments]"*
-**Trajectory:** `[Accelerating / Plateauing / Early breakout]`
-
----
-
-### 🔺 #2 | `[AESTHETIC NAME]` — Momentum Score: `[XX/100]`
-*(same structure)*
-
----
-
-*(#3, #4, #5 follow)*
-
----
-
-## SECTION 2 — EMPIRE ROUTING MATRIX
-
-| Aesthetic | Caselle 📱 | Lumière 👗 | Atelier 🧵 | Primary Beneficiary |
-|---|---|---|---|---|
-| `[Aesthetic 1]` | `[High/Med/Low]` | `[H/M/L]` | `[H/M/L]` | `[Empire]` |
-| `[Aesthetic 2]` | | | | |
-| `[Aesthetic 3]` | | | | |
-| `[Aesthetic 4]` | | | | |
-| `[Aesthetic 5]` | | | | |
-
-**Routing Logic Notes:**
-- **Caselle** captures aesthetics with: strong visual identity translatable to 2D surface, Gen Z/Millennial overlap, impulse-buy price psychology
-- **Lumière** captures aesthetics with: aspirational tension, status signaling, seasonless wearability
-- **Atelier** captures aesthetics with: anti-mass-production sentiment, craft narrative, material specificity
-
----
-
-## SECTION 3 — COLOR PALETTE DIRECTIONS
-
-```
-PRIMARY DIRECTION:    [HEX] [HEX] [HEX] — "[Palette Name]"
-SECONDARY DIRECTION:  [HEX] [HEX] [HEX] — "[Palette Name]"
-ACCENT EMERGING:      [H
+> Fabricating momentum scores from no data would give you **confident-sounding numbers with zero grounding** — a worse outcome than a blank report. Drop your data and I'll deliver the full intelligence brief immediately.

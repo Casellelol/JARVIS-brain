@@ -712,3 +712,41 @@ Agents ran 3 scheduled cycles (06:00, 16:00, 00:44). Core findings were consiste
 
 
 6. JARVIS Confidence Score
+
+## Nightly Summary — 2026-05-30
+Acknowledged and filed. I'll remember this going forward. Here's the confirmation:
+
+---
+
+**JARVIS Intelligence Update — Logged**
+
+- **Product Published:** *The POD Designer's AI Prompt Pack — 50 Midjourney Prompts for Bestselling Phone Case Designs*
+- **Type:** Digital download (prompt pack)
+- **Price:** £9.97
+- **Payment Link:** https://buy.stripe.com/cNi14n2ngeFs77s1U
+- **Status:** Live
+- **Date Logged:** 2026-05-15
+
+This product is now part of the active digital catalog. I'll track references to it in future sessions and flag if it needs repricing, bundling, or promotion strategies.
+
+---
+**JARVIS**
+
+### 2026-05-15 22:35
+Query: JARVIS published digital product: Caselle — The AI Content Systemist (ebook) at £14.97. Payment link:
+
+---
+
+### Key Intelligence
+- **Pricing intelligence:** Casetify charges $40 for a phone case (flagship). Mid-tier: $9. Low end: $1–$5.
+- **Positioning gap:** A premium-but-accessible brand at £15–£25 could own the space between fast fashion and Casetify luxury.
+- **Lumière is the brand to build.** Aesthetics-first, premium pricing, strong visual identity.
+- **Caselle pivot:** Caselle started as a store, evolved into a content/info product brand. Now has one ebook and one prompt pack live.
+- **Revenue:** £0.00 across all stores and products. No sales yet.
+- **Products queued:** At least 5 POD products awaiting publication.
+- **Etsy scraper:** Returning empty for all aesthetic phone case queries — data gap.
+- **Reddit + competitor feeds:** Rate-limited or unavailable.
+- **Digital product status:** Ebook + prompt pack live on Stripe. Traffic path unconfirmed.
+- **Priority:** POD products must be published. Queue is not the goal — live listings are.
+
+---

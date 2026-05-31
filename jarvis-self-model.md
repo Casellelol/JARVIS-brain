@@ -1,13 +1,13 @@
 # JARVIS Self-Model
-*Last updated: 2026-05-31 04:00*
+*Last updated: 2026-05-31 13:33*
 
 ## Empire Status
 
 ### Caselle (Phone Cases)
 - Live status: **building**
-- Revenue confidence: **4%**
-- Top hypothesis: Publishing imperfect products at volume beats refining products in queue — first sale requires live inventory, not better inventory
-- Watching: **Queue paralysis risk** — 7 products queued but not published is the same as 0 products; the strategy document already named this failure mode
+- Revenue confidence: **8%**
+- Top hypothesis: Publishing imperfect live products generates more signal than refining queued products — velocity beats perfection at zero-revenue stage
+- Watching: **Scout data pipeline is broken** — market intelligence report returned empty this cycle due to missing trend/Etsy data inputs; flying blind on aesthetics
 
 ### Noctua (Dark Academia) — Planned
 - Status: **planned**
@@ -15,34 +15,34 @@
 
 ### Atelier (Fiverr Design)
 - Status: **inactive**
-- Intelligence quality: Scout returning empty — no trend data or Etsy market data is reaching the prompt; the scout is structurally ready but receiving no inputs
+- Intelligence quality: No scout data returned this cycle — feed appears disconnected or unsubmitted
 
 ### Lumière (Etsy Wall Art)
 - Status: **inactive**
-- Launch readiness: **5%**
+- Launch readiness: **10%**
 
 ---
 
 ## Active Hypotheses
 
-1. **The queue is the problem, not the designs.** Zero sales at 30 days with 7 products queued means the bottleneck is publishing cadence, not product quality. Shipping imperfect products will generate more signal than continuing to hold.
+1. **Publish velocity is the current bottleneck.** Caselle has queued products but zero confirmed live listings generating impressions. Getting products indexed on Etsy is the only action that produces real market data — everything else is speculation.
 
-2. **Scout intelligence is broken at the data ingestion layer.** The Caselle scout returned a structured "no data received" report rather than market intelligence. This is a tooling/feed problem, not an analysis problem. Until inputs are fixed, all design decisions are flying blind.
+2. **Scout infrastructure failure is masking real opportunity cost.** The Caselle scout returned no usable data this cycle. This means design decisions are being made without aesthetic trend confirmation. The risk is publishing into the wrong aesthetic window.
 
-3. **No hypothesis about what will sell can be validated until products are live.** Current confidence in any specific design direction is near zero because there is no sales data and no functioning market feed to substitute for it.
+3. **The empire is wider than it is deep.** Four ventures are tracked simultaneously while none have revenue. Concentration on Caselle to first sale is more valuable than parallel scaffolding across all four.
 
 ---
 
 ## What Changed This Cycle
 
-- **Nothing changed in revenue** — still $0.00, 0 orders, 30-day window unchanged
-- **Scout failure confirmed** — the Caselle scout explicitly reported receiving empty data fields on both trend and Etsy market inputs; this was not previously documented as a known system failure
-- **Strategy document exists and is correct** — the playbook already diagnosed the queue paralysis problem on 2026-05-24; the problem persists one week later, meaning the strategy is sound but is not being executed
+- **Scout returned empty.** The Caselle Market Intelligence report contained no trend data, no Etsy market figures, and no competitor analysis — explicitly flagged by the scout as a missing-data failure. This is a regression from any previous cycle where partial data existed.
+- **Sales performance report is incomplete.** The sales data feed was truncated mid-sentence ("Total order") — no revenue figures, order counts, or conversion data are available for the last 30 days.
+- **Strategy document remains unchanged** from 2026-05-24. No strategy updates were issued this cycle, meaning the playbook is now 7 days old against a zero-revenue backdrop.
 
 ---
 
 ## Expected Next Cycle
 
-- If the queue problem is addressed: at least 3–5 new live products should appear; without that, revenue remains $0
-- Scout data feed should either return populated intelligence or the feed mechanism should be flagged as requiring manual intervention
-- If $0 revenue and 0 published products persist into
+- Sales report returns a complete dataset — even if all zeros, a complete zero confirms the store is live and tracking correctly
+- Scout report either delivers actual trend/competitor data OR the data-input problem is diagnosed and fixed
+- At least one net-new product status changes from **queued →

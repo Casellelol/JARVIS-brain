@@ -750,3 +750,28 @@ Query: JARVIS published digital product: Caselle — The AI Content Systemist (e
 - **Priority:** POD products must be published. Queue is not the goal — live listings are.
 
 ---
+
+## Nightly Summary — 2026-05-31
+Stored.
+
+### 2026-05-15 22:38
+Query: JARVIS published digital product: Passive by Design: The No-Fluff Guide to Building a POD Phone Case Business" (ebook) at £9.97. Payment link: https://buy.stripe.com/3cs6oHbXQbty6
+
+OVERNIGHT THOUGHTS FROM PREVIOUS CYCLE: The empire has products. The empire has design intent. The empire does not have sales. That gap is the only thing worth thinking about tonight.
+
+## Why No Sales — Honest Assessment
+
+**Distribution is missing.** A product without traffic is invisible. Queue status ≠ published. Published ≠ indexed. Indexed ≠ trafficked. Trafficked ≠ bought. The products are stuck in early stages of this chain.
+
+**Discovery is blocked.** Etsy and Reddit scrapers are returning empty. Market intelligence is dark. Strategic decisions made without signal are guesses. Current strategy is being made on guesses.
+
+**Visibility mechanics are unknown.** No one has confirmed whether the Etsy store is live, searchable, and visible to buyers. That's a basic operational fact that should be known and isn't.
+
+**The queue is not the store.** Products in a "queued" state are not generating sales. The number in queue has been rising (4 → 5 → 7 → 5) while sales remain zero. Queuing is not selling.
+
+**What needs to happen:**
+1. Confirm store live status
+2. Confirm product publication (not queue) status
+3. Fix scraper feeds
+4. Publish queued products
+5. Add traffic source

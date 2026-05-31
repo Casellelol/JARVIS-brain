@@ -1,38 +1,39 @@
 # Caselle Scout — Market Intelligence
-*Last updated: 2026-05-30 05:53*
+*Last updated: 2026-05-31 05:53*
 
-# Caselle Scout Intelligence Report
-## ⚠️ Data Notice
-
-**No trend data or Etsy market data was successfully attached to this prompt.** Both data fields appear to be empty.
+# Caselle Scout — Market Intelligence Report
 
 ---
 
-## To Generate Your Intelligence Report, Please Provide:
-
-### Fashion Trends Data
-- TrendHunter / Pinterest trend reports
-- Google Trends keyword data
-- Social media aesthetic hashtag performance (TikTok, Instagram)
-- Runway or streetwear trend summaries
-
-### Etsy Market Data
-- Search result listings (titles, prices, sales counts)
-- Bestseller tags and keywords
-- Review sentiment snippets
-- Shop stats or exported CSV data
+> ⚠️ **Data Notice:** No trend data or Etsy market figures were attached to this prompt. The fields for **Fashion Trends** and **Etsy Market** appear to be blank.
 
 ---
 
-## What I'll Deliver Once Data Is Supplied:
+## What I Need to Generate Your Report
 
-| Section | Output |
+To produce a specific, actionable intelligence report, please provide any combination of the following:
+
+### 📊 Fashion Trends Data
+- Google Trends keywords or screenshots
+- TikTok/Pinterest trending aesthetics
+- Social listening data (hashtag volume, engagement)
+- Runway or street style reports
+
+### 🛍️ Etsy Market Data
+- Search result screenshots or exports
+- Bestseller listings (titles, prices, review counts)
+- Competitor shop names or URLs
+- Sales estimates (e.g., from EverBee or Alura)
+
+---
+
+## Once You Share the Data, I'll Deliver:
+
+| Section | What You'll Get |
 |---|---|
-| 🎨 Top 3 Rising Aesthetics | Named, described, with evidence |
-| ✏️ Design Directions | 3–5 specific, producible concepts |
-| 💰 Competitor Pricing | Price bands, gaps, sweet spots |
-| 🎯 High-Confidence Opportunity | One SKU recommendation with rationale |
+| 🎨 Top 3 Rising Aesthetics | Named trends with evidence |
+| ✏️ Design Directions | Specific motifs, palettes, typography |
+| 💰 Competitor Pricing | Price bands, gaps, positioning |
+| 🚀 High-Confidence Opportunity | One actionable product move |
 
----
-
-**Please paste or upload your data and I'll produce the full report immediately.**
+**Please re-submit with your data attached and I'll get straight to work.**

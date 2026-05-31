@@ -1,65 +1,59 @@
 # Lumière Scout — Market Intelligence
-*Last updated: 2026-05-30 02:08*
+*Last updated: 2026-05-31 02:08*
 
-# LUMIÈRE SCOUT — MARKET INTELLIGENCE BRIEF
-### Premium Fashion Intelligence Report | Q2 2025 Edition
-
----
-
-> *"Luxury is not about price. It is about the architecture of desire."*
+# LUMIÈRE SCOUT
+### Premium Market Intelligence Report
+#### Q2 2025 | Confidential Briefing
 
 ---
 
-## EXECUTIVE SUMMARY
+> *"Luxury is not about price. It is about the calibration of desire."*
 
-The luxury fashion market enters Q2 2025 in a state of **elegant tension** — between maximalist nostalgia and austere minimalism, between digital provenance and artisanal craft, between global aspiration and hyper-local identity. Consumer sentiment in the premium segment is **discerning, deliberate, and deeply values-literate**. The houses that understand this will define the decade. The ones that don't will discount.
+---
+
+## ⚠️ INTELLIGENCE NOTE
+
+No market data was transmitted with this request. The data payload appears to have been **empty or corrupted in transit**. The analysis below draws on **trained knowledge through early 2025** and should be treated as a **baseline intelligence framework** rather than a data-reactive report. Provide structured market data for a fully calibrated analysis.
 
 ---
 
 ## I. TOP 3 RISING LUXURY AESTHETICS
 
----
+### 01 — **Quiet Opulence 2.0** *(Evolution)*
+The logoless luxury movement matures into what insiders are calling *"Considered Wealth"* — but with a critical pivot. Where Quiet Luxury 1.0 was about **subtraction**, QO 2.0 introduces **deliberate tension**: a single exquisite detail — hand-stitched collar, museum-quality button, or archival print placement — that signals connoisseurship to those who know.
 
-### 01 — QUIET OPULENCE 2.0
-**"The Heirloom Mentality"**
+> **Key Signal:** The customer no longer wants to hide wealth. They want to *curate* it.
 
-> *Refinement that whispers the name of the atelier, never shouts it.*
-
-The original quiet luxury wave has **matured and deepened**. Where 2023–2024 was about restraint as a reaction, 2025's iteration is about **intentional permanence**. Consumers are no longer buying *less* — they are buying *better*, with a philosophical conviction rooted in anti-disposability.
-
-**Key signals:**
-- Surge in bespoke tailoring commissions across European ateliers (+34% YoY, Savile Row data)
-- Cashmere and vicuña in neutral architectural palettes commanding 20–40% price premiums
-- Heritage brand archives being revisited — not as nostalgia, but as **provenance documents**
-
-**Defining mood:** A Côte d'Azur estate in late afternoon light. Nothing is new. Everything is perfect.
+**Aesthetic Markers:** Cream, slate, deep tobacco, warm ivory | Unstructured tailoring with interior couture finishing | Single-craft storytelling
 
 ---
 
-### 02 — NEO-BAROQUE MAXIMALISM
-**"The Counter-Reformation of Taste"**
+### 02 — **Neo-Baroque Maximalism** *(Insurgent)*
+A counter-current to minimalism with serious commercial momentum. Drawn from Valentino's Roman archives, Versace's Gianni-era iconography, and a new generation of designers — Ludovic de Saint Sernin, Di Petsa — who weaponize ornamentation as cultural statement.
 
-> *Ornamentation as intellectual argument, not decoration.*
+> **Key Signal:** The post-austerity consumer is emotionally hungry. Drama is functional again.
 
-A powerful counter-current to quiet opulence, Neo-Baroque is ascending among Gen Z ultra-high-net-worth individuals and the global creative class. This is **maximalism with credentials** — deeply referential, technically demanding, and resistant to mass replication.
-
-**Key signals:**
-- Embroidery, passementerie, and hand-applied embellishment surging on the runway (Valentino, Schiaparelli, Dolce & Gabbana all doubling down)
-- Red carpet returns to full spectacle post-pandemic caution
-- Archive and vintage couture resale at all-time highs, validating ornate craftsmanship
-- Searches for "statement evening gown" and "embellished jacket" up **67% and 52%** respectively (Vogue Business, Lyst Index)
-
-**Defining mood:** The private gallery opening where the art is wearing the guests.
+**Aesthetic Markers:** Brocade and jacquard revival | Gilded hardware, oversized rings, cascading silhouettes | Deep jewel tones — Byzantine blue, pomegranate, aged gold
 
 ---
 
-### 03 — TECHNO-NATURALISM
-**"Material Intelligence"**
+### 03 — **Technical Aristocracy** *(High-Growth)*
+The convergence of extreme performance materiality with old-world luxury craftsmanship. Think Hermès meets Gore-Tex — but make it Zegna's Techmerino or Loro Piana's Storm System. The luxury client increasingly demands clothing that performs *invisibly* while looking purely ceremonial.
 
-> *The luxury of a fabric that has a biography.*
+> **Key Signal:** Climate anxiety + travel culture + premium wellness = functional luxury is no longer niche.
 
-The most structurally significant of the three aesthetics, Techno-Naturalism sits at the intersection of **advanced textile innovation and ecological consciousness**. This is not greenwashing — this is the emergence of materials science as a luxury differentiator in its own right.
+**Aesthetic Markers:** Graphite, carbon navy, storm grey | Seam-sealed outerwear in cashmere-tech blends | Biomaterial leathers, aerogel-insulated pieces
 
-**Key signals:**
-- Mycelium leather, bio-fabricated silk, and regenerative wool entering mainline luxury collections (Stella McCartney pioneering; competitors following)
-- Consumers paying **15–25% premiums
+---
+
+## II. RECOMMENDED PRODUCT DIRECTIONS
+
+```
+PRIORITY TIER: IMMEDIATE (0–6 months)
+```
+
+| Direction | Category | Rationale |
+|---|---|---|
+| **Unlined Sartorial Blazers** | Ready-to-Wear | QO 2.0 anchor piece; high ASP, low return rate |
+| **Investment Bags in Non-Black Neutrals** | Leather Goods | Clay, truffle, warm sand — search velocity up significantly |
+| **Elevated Loungewear in Technical Cashmere** | Lifestyle | Post-pandemic habituation; premium client WFH culture ent

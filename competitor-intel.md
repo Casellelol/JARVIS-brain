@@ -1,5 +1,5 @@
 # Competitor Intelligence
-*Last updated: 2026-05-30 01:44*
+*Last updated: 2026-05-31 01:44*
 
 ## Raw Data
 ```
@@ -28,77 +28,45 @@ REDDIT SIGNALS:
 
 ---
 
-## CRITICAL DATA ISSUE — READ FIRST
+## CRITICAL DATA LIMITATION — READ FIRST
 
-The market data feed has **failed to populate**. BURGA and Pela returned unavailable. All Etsy and Reddit signal fields are empty. Casetify prices loaded but product category labels are generic/broken ("CASETiFY | iPhone Cases").
+The market data feed has **failed to return usable information**. Specifically:
+- BURGA: unavailable
+- Pela: unavailable
+- Etsy market data: all 5 niches returned empty
+- Reddit signals: all 5 niches returned empty
+- Casetify data is **partially corrupt** — prices listed ($1, $2, $5, $9, $40) with no product descriptions, just repeated brand name
 
-**What I can extract from the broken data:**
-
-Casetify price points confirmed: **$1, $2, $5, $5, $5, $5, $9, $9, $9, $40**
-- This tells me they're running a freemium/accessory upsell model — likely charms, screen protectors, or cable accessories at the low end, hero cases at $40
-- Their floor is nearly free; their ceiling is premium but not luxury
-
----
-
-## WHAT I CAN DELIVER WITH CONFIDENCE
-
-### (1) Competitor Intelligence — Based on Known Market Position
-
-**CASETIFY**
-- Price architecture: $1–$40, median likely $35–$45 for cases specifically
-- Pushing: collabs (anime, K-pop, Disney), maximalist aesthetics, MagSafe compatibility, impact resistance as a lifestyle signal
-- Their angle is **cultural cachet through licensing** — you pay for the brand association
-
-**BURGA** (data unavailable — using established market knowledge)
-- Price point: $35–$55
-- Pushing: fashion-forward patterns, Italian aesthetic, Instagram-ready unboxings
-- Their angle is **luxury adjacent** — Chanel-ish pattern language at accessible price
-
-**Pela** (data unavailable — using established market knowledge)
-- Price point: $40–$55
-- Pushing: compostable/eco materials exclusively
-- Their angle is **guilt-free consumption** — the entire brand is the environmental story
+I will not fabricate market intelligence from null data. That would be operationally dangerous for Caselle.
 
 ---
 
-### (2) Niches These Players Dominate — AVOID
+## WHAT THE DATA ACTUALLY TELLS US
 
-| Niche | Owner | Why They Win |
-|---|---|---|
-| Pop culture collabs / anime / K-pop | Casetify | Licensing budget you cannot match |
-| Fashion pattern / maximalist prints | BURGA | Brand aesthetic is the moat |
-| Eco/sustainable materials | Pela | Owns the word "compostable" in this category |
-| General MagSafe accessories | Casetify | Distribution + brand recognition |
-| Luxury streetwear crossover | Casetify | Collab pipeline is years deep |
+### Casetify (Partial Signal)
+The price ladder visible — **$1/$2 (accessories), $5 (budget tier), $9 (entry cases), $40 (premium)** — confirms Casetify runs a wide price architecture. The $40 anchor is their brand play. The $5–$9 range suggests digital products or screen protectors, not hero cases.
+
+### Everything Else
+**Zero signal returned.** The scrapers either hit blocks, rate limits, or the queries returned no indexed results.
 
 ---
 
-### (3) Gaps — Where No Dominant Player Owns the Space
+## WHAT I NEED TO DELIVER ACTIONABLE INTELLIGENCE
 
-**Gap 1: Hyper-specific literary/reading aesthetics**
-Dark academia and BookTok are fragmented across Etsy with no brand consolidating them. Casetify does not do literary. BURGA does not do intellectual aesthetics. Pela is eco-only.
+Run these data pulls again with working sources:
 
-**Gap 2: Coquette/feminine maximalism at sub-$30**
-Coquette aesthetic (bows, pearls, soft pink, Lana Del Rey energy) is surging on TikTok. No major brand owns it. BURGA's patterns skew Italian minimalist, not doe-eyed American femininity.
-
-**Gap 3: Y2K nostalgia with functional premium features**
-Y2K pattern language (chrome, butterfly, flip phone references) with MagSafe or card-holder functionality. Casetify's Y2K attempts are collab-dependent. No one owns the Y2K-meets-utility space.
-
-**Gap 4: Celestial/witchy with serious protection specs**
-Celestial witch aesthetic buyers skew toward Etsy custom but get no drop protection. Major brands don't touch this aesthetic. Gap between cute and functional is wide open.
+| Data Point | Where to Pull It |
+|---|---|
+| BURGA pricing + positioning | burga.com direct crawl + their Instagram ad library |
+| Pela positioning | pela.earth + Meta Ad Library search "Pela case" |
+| Etsy niche depth | Search manually: sort by "Most Recent" + note review velocity |
+| Reddit demand signals | r/feemagers, r/GiftIdeas, r/caserecommendations — search each niche term |
+| TikTok Shop pricing | TikTok Shop search each aesthetic term — shows real transaction data |
 
 ---
 
-## ⚡ THE ONE ACTIONABLE OPPORTUNITY
+## ONE HONEST PRELIMINARY SIGNAL
 
-**NICHE:** Coquette Aesthetic with MagSafe Card Wallet
+The fact that **all five aesthetic niches returned empty** from the automated scrape is itself a weak signal — these may be underindexed in structured data, which can mean **low SEO competition**. But I won't call that an opportunity without confirmation.
 
-**PRICE POINT:** **$28**
-
-**THE ANGLE:**
-> *"Finally a case that looks like your personality, not a tech store."*
-
-**Why this wins right now:**
-
-- Coquette is the fastest-moving Gen Z aesthetic on TikTok in 2024-2025 — bows, ballet pink, cherries, pearls, lace textures
-- No major brand has planted a flag here — Casetify's collabs skew streetwear/anime,
+**Rerun the data. I'll deliver the decisive analysis the moment I have real inputs.**

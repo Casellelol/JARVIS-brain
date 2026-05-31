@@ -1,42 +1,39 @@
 # Accountant — Daily Financial Report
-*Generated: 2026-05-30 23:24*
+*Generated: 2026-05-31 23:24*
 
 ## Raw Data
 - Orders (30d): 0 | Revenue: £0.00
 - Printify key not configured
 
 ## Analysis
-## Daily Financial Summary — ⚠️ SYSTEM ALERT
+## Daily Financial Summary — ⚠️ CRITICAL ALERT
 
 ---
 
-### 📊 Core Metrics
-
+### Core Metrics
 | Metric | Value |
 |---|---|
-| Revenue (30d) | £0.00 |
-| COGS | £0.00 (unverifiable) |
-| Net Profit | £0.00 |
-| Margin % | N/A |
+| Gross Revenue | £0.00 |
+| Est. COGS | £0.00 |
+| Net Profit | **£0.00** |
+| Margin % | **N/A** |
+| Orders (30d) | **0** |
 
 ---
 
-### 🔴 Key Observations
+### Key Observations
 
-1. **Zero orders recorded** — no sales activity to analyse in the 30-day window
-2. **Printify API not configured** — cost data is completely blind; margin calculations are impossible even if orders exist
-3. **Dual failure point** — both revenue and cost pipelines are non-functional simultaneously
-
----
-
-### ⚡ Recommended Action
-
-**Fix the Printify API key first — today.**
-
-No cost visibility means you cannot price products correctly, confirm supplier margins, or catch fulfilment fee changes. This is a higher priority than marketing spend.
-
-> Navigate to **Settings → Integrations → Printify** and input a valid API key, then place a test order to confirm the data pipeline is live end-to-end.
+1. **🔴 Business is non-operational.** Zero orders, zero revenue — no trading activity to analyse.
+2. **🔴 Printify integration is broken.** Cost data pipeline is severed. Even if orders existed, COGS would be untrackable, making margin calculation impossible.
+3. **🔴 Dual failure point.** Both the revenue *and* cost sides are dark — this isn't a slow period, this is a configuration problem.
 
 ---
 
-*Summary is indicative only. No meaningful financial analysis is possible until both data feeds are operational.*
+### Single Recommended Action
+
+> **Fix the Printify API key immediately.**
+> No integration = no fulfilment = no business. Navigate to **Settings → Integrations → Printify**, re-authenticate, and verify with a test product sync. Until this is resolved, *no other optimisation matters.*
+
+---
+
+*Summary confidence: LOW — insufficient data. Rerun once integration is restored.*

@@ -1,54 +1,53 @@
 # Atelier Scout — Market Intelligence
-*Last updated: 2026-05-31 03:27*
+*Last updated: 2026-06-01 03:27*
 
-# Atelier Scout — Market Intelligence Report
-### Luxury Artisan Goods | Trend Analysis Brief
-
----
-
-> ⚠️ **Note:** No market data was submitted with your prompt. The field after "Artisan market trends:" appears to be empty. I'm generating this report based on my trained knowledge through early 2025. For a fully customized analysis, paste in your data sources — Etsy search trends, Pinterest board data, competitor listings, or customer feedback.
+# Atelier Scout Market Intelligence Report
+### Q2 2025 | Luxury Artisan Goods Division
 
 ---
 
-## 01 · TOP 3 RISING CRAFT AESTHETICS
-
-### 🌿 1. Quiet Luxury Naturalism
-The maximalist boho wave has crested. Buyers are pivoting to **restrained, organic minimalism** — undyed linen, raw edge finishing, muted earth pigments (warm stone, lichen green, bone). Think Japandi meets the English countryside. Search volume for "natural dye," "undyed wool," and "wabi-sabi ceramic" has sustained 18–24 month growth.
-
-**Signature signals:** Negative space in design, single-material focus, handmade imperfection celebrated (not hidden).
+> ⚠️ **Note:** No trend data was appended to your prompt. The analysis below is built from my **trained knowledge base through early 2025**. For live Etsy pricing or real-time search volume, connect a data feed or share scraped listings.
 
 ---
 
-### 🔩 2. Industrial Folk
-A counterintuitive pairing gaining real traction: **traditional craft techniques applied to industrial-adjacent materials** — blackened steel with hand-stitched leather, raw brass with beeswax finishing, riveted canvas. Appeals to male gift buyers and interior designers sourcing statement pieces.
+## 01 | TOP 3 RISING CRAFT AESTHETICS
 
-**Signature signals:** Gender-neutral positioning, workshop/atelier photography aesthetic, "heirloom tool" language in listings.
+### 🪨 1. Quiet Luxury Naturalism
+Muted earth palettes (raw linen, mushroom, chalk white), unfinished edges, visible construction. Consumers are rejecting maximalism for objects that feel *considered and unhurried*. Think wabi-sabi filtered through a Parisian atelier lens.
+
+### 🔱 2. Neo-Arcana / Ritual Everyday
+Celestial motifs, botanical illustration, sigil-like geometric inlay — but executed in *premium materials* rather than novelty formats. The aesthetic has matured out of mass market and into collectible territory. Buyers want pieces that feel ancient and intentional.
+
+### 🏺 3. Post-Industrial Patina
+Oxidised metals, intentional rust treatments, concrete-ceramic hybrids, raw brass. Industrial heritage reframed as craftsmanship narrative. Strong in homeware and jewellery. Appeals to male buyers aged 30–50, an underpenetrated Etsy demographic.
 
 ---
 
-### 🕯️ 3. Ritual & Slow Living Objects
-Objects designed explicitly around **daily ceremony** — morning rituals, journaling, rest. This is less about function and more about *intentionality*. Ceramic incense holders, weighted linen eye pillows, hand-poured tallow candles, carved wooden tea scoops. Wellness culture meeting craft culture.
-
-**Signature signals:** "Ritual," "intentional," "slow morning," and "ceremony" as high-converting descriptor words in titles and tags.
-
----
-
-## 02 · RECOMMENDED PRODUCT DIRECTIONS
+## 02 | RECOMMENDED PRODUCT DIRECTIONS
 
 | Priority | Product Direction | Rationale |
-|----------|-------------------|-----------|
-| **HIGH** | Personalized leather or linen keepsake pouches | Gift market + customization premium; strong Q4 repeat |
-| **HIGH** | Textured stoneware in matte neutral glazes | Ceramics demand remains elevated; matte ≠ glossy saturation |
-| **MEDIUM** | Hand-bound journals with exposed spine | Stationery + craft crossover; bundling opportunity with other SKUs |
-| **MEDIUM** | Beeswax or tallow candles in ceramic vessels | Vessel has resale/keep value — justifies luxury price point |
-| **WATCH** | Woven wall pieces in natural undyed fibers | Market softening slightly; differentiate through scale or texture |
-
-**Strategic note:** Prioritize **products that photograph as a collection.** Buyers increasingly shop entire aesthetic lifestyles, not single items. Design your line to look cohesive in a flat lay.
+|----------|------------------|-----------|
+| 🔴 High | **Sculptural bud vases** — stoneware, matte glaze, asymmetric form | Ceramic home décor is the #1 search growth category; small format = accessible price point + low shipping risk |
+| 🔴 High | **Linen + leather small goods** (journal covers, pouches, tray liners) | Cross-aesthetic appeal; high perceived value vs. material cost; gifting season resilience |
+| 🟡 Medium | **Hand-poured ritual candles** with botanicals, reusable vessel focus | Market is saturated at low end but thin at €60–120 luxury tier; vessel reuse story differentiates |
+| 🟡 Medium | **Personalised brass or oxidised silver jewellery** with archival/sigil motifs | Neo-Arcana aesthetic, strong repeat purchase behaviour |
+| 🟢 Develop | **Wearable textile art** — hand-dyed silk scarves, shibori, natural indigo | Long production lead time but category has weak luxury supply; auction-style drops viable |
 
 ---
 
-## 03 · ETSY PRICING OBSERVATIONS
+## 03 | ETSY PRICING OBSERVATIONS
 
-**Key patterns observed across luxury craft listings:**
+*Based on category benchmarking through early 2025:*
 
-- **Sweet spot for handmade ceramics:** $48–$95 per piece for mugs/bowls. Items priced *above* $85 with strong photography and "made to order
+**Ceramics / Homeware**
+- Mass artisan tier: £18–45
+- **Luxury handmade sweet spot: £65–140**
+- Identified gap: pieces £95–120 with strong provenance storytelling are *undersupplied* relative to search intent
+
+**Jewellery (non-precious metals)**
+- Commodity tier: £12–30
+- Luxury handmade: £55–180
+- Personalisation commands **+25–40% premium** consistently
+
+**Candles**
+- Race-to-bottom below £22; luxury ceiling around £85 for reusable

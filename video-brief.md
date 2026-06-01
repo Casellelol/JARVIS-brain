@@ -1,74 +1,63 @@
 # Video Generator — Weekly Content Brief
-*Week of 2026-05-25*
+*Week of 2026-06-01*
 
 # Caselle Weekly Video Content Briefs
-### Week of May 25, 2026 | TikTok & Instagram Reels
+### Week of June 1, 2026 | TikTok & Instagram Reels
 
 ---
 
-> **⚠️ Note:** No live trend or market data was detected this week. These briefs are built on **evergreen high-converting frameworks** proven for phone case dropshipping. Once you feed Caselle Scout live trend data, briefs will be hyper-targeted to current search behavior.
+> ⚠️ **Scout Data Notice:** No trend or Etsy market data was detected this week. These briefs are built on **evergreen dropshipping best practices** and current platform content patterns. For sharper, trend-locked briefs next week, paste your Scout data into the prompt.
 
 ---
 
-## VIDEO BRIEF 01
-### *"The Drop Test That Sells Itself"*
+## BRIEF 01 — "The Drop Test"
+**Format:** 15–30 sec | **Platform:** TikTok Primary / Reels Secondary
 
 ---
 
-**🎣 HOOK — First 3 Seconds**
-Open on a slow-motion close-up of a phone *falling toward a marble countertop.* Cut to black. Then: the phone lands — case on, not a scratch. No voiceover. Just the impact sound, amplified.
+### 🎬 Hook (First 3 Seconds)
+A hand holds a phone case-less phone dramatically over a hard tile floor. Text flashes on screen: **"Would you do this to your phone?"** — then cut instantly to the case snapping on satisfyingly, followed by a confident drop onto the tile. Phone picks up. Screen is perfect.
 
-> The anxiety of the fall IS the hook. Don't show the case first. Show the fear.
-
----
-
-**🎨 Visual Style & Aesthetic**
-- Colour palette: **cool whites, grey marble, brushed chrome accents**
-- Lighting: **single overhead diffused light** — product feels clinical, premium, trustworthy
-- Shot sequence:
-  1. Extreme close-up of phone edge in hand (0–1s)
-  2. Slow-mo drop (1–3s)
-  3. Cut to normal speed — phone on floor, person picks it up (3–8s)
-  4. Flip phone over revealing pristine screen + case (8–12s)
-  5. Rotate case in light showing texture detail (12–18s)
-- **No clutter in frame.** One surface. One phone. One case.
-- Aspect ratio: **9:16 full bleed**
+> **Why it works:** Fear + relief is one of the highest-retention emotional arcs for short video. The threat creates an involuntary watch-through.
 
 ---
 
-**📝 On-Screen Text & Captions**
-| Timestamp | Text | Style |
-|---|---|---|
-| 0–1s | *(no text — let tension breathe)* | — |
-| 3s | **"We dropped it so you don't have to"** | White serif, bottom third |
-| 8s | **"Still perfect."** | Large bold white, center screen |
-| 12s | **"Military-grade protection. Caselle."** | Small clean sans-serif, lower left |
-| 17s | CTA card | See CTA section |
+### 🎨 Visual Style & Aesthetic
+- **Color palette:** Cool whites, slate grey tile floor, one hero phone case in a bold accent color (burnt orange or cobalt blue recommended)
+- **Lighting:** Bright, clinical overhead light for the "danger" shot → warm side light for the "safe" reveal. Creates subconscious emotional shift
+- **Camera movement:** Handheld, slightly tense for the drop → slow push-in macro shot on the undamaged screen
+- **Editing pace:** Fast cuts (4–6 frames) during the drop, then a deliberate slow hold (2 full seconds) on the intact screen
 
 ---
 
-**🎵 Music Vibe**
-- **Tone:** Deep, slow electronic pulse with a single bass drop timed to the moment of impact
-- **Feel:** Tense → satisfying. Think the audio equivalent of bubble wrap popping, but cinematic
-- **Rhythm:** Slow build for 3 seconds, hard cut/drop at impact, then smooth ambient resolution as the phone is revealed undamaged
-- **Volume:** Music sits low under the amplified real-world impact sound — sound design leads, music supports
+### 📝 On-Screen Text & Captions
+| Timing | Text |
+|---|---|
+| 0:00–0:03 | **"Would you do this to your phone?"** — large, bold, white sans-serif |
+| 0:04–0:08 | *(no text — let the drop breathe)* |
+| 0:09–0:15 | **"Caselle cases. Built different."** — bottom third, lowercase, minimal |
+| 0:18–0:25 | **"Shop the drop ↓"** — animated underline effect |
+
+> **Caption (post copy):** We tested it so you don't have to 😅 Shop link in bio. Free shipping this week only.
 
 ---
 
-**📣 CTA — Final 3 Seconds**
-Static card with:
-> **"Your phone deserves this."**
-> **[Link in bio → Shop Caselle]**
-> Caselle logo, bottom center
-> Background: matte black with subtle marble texture edge
+### 🎵 Music Vibe
+Low, building tension instrumental — think sparse single piano notes with a rising string swell — that **snaps** into an upbeat, punchy electronic beat exactly at the moment the case clicks onto the phone. The audio transition IS the hook payoff.
+
+---
+
+### 📣 CTA
+**Verbal/Text:** "Protect yours — link in bio, free shipping ends Sunday."
+**Visual:** Case product page mockup on phone screen in final frame, finger tapping "Add to Cart."
 
 ---
 ---
 
-## VIDEO BRIEF 02
-### *"The 'What's On My Phone' Aesthetic Flex"*
+## BRIEF 02 — "Personality Match"
+**Format:** 20–35 sec | **Platform:** Reels Primary / TikTok Secondary
 
 ---
 
-**🎣 HOOK — First 3 Seconds**
-Creator's hand slides a *brand new Caselle case* onto their phone
+### 🎬 Hook (First 3 Seconds)
+Close-up of three wildly different phone cases lined up side by side on a white surface. A hand reaches in from frame left. Text overlay: **"Your case says

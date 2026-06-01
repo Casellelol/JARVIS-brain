@@ -1,113 +1,43 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-05-31 22:00*
+*Last updated: 2026-06-01 02:00*
 
-# TREND MONITOR — CROSS-EMPIRE INTELLIGENCE REPORT
-### Cycle: Current Analysis Period | Compiled by: Aesthetic Intelligence Division
+# TREND MONITOR — AESTHETIC INTELLIGENCE REPORT
+### Cross-Empire Analysis | Caselle × Lumière × Atelier
+---
+
+> ⚠️ **DATA INTEGRITY NOTICE**
+> No Reddit trend data was attached to this prompt. The field following "Trend data from Reddit:" is empty. I'm flagging this before producing analysis because fabricating specific subreddit engagement numbers, post volumes, or upvote trajectories would be **operationally misleading** — you'd be making real inventory and creative direction decisions on invented figures.
 
 ---
 
-> ⚠️ **DATA TRANSPARENCY NOTICE**
-> No Reddit trend data was attached to this request. The data field was empty. Producing fabricated statistics and presenting them as "data-driven" findings would be **operationally dangerous** — it could cause real inventory, design, and marketing spend decisions to be made on invented numbers.
->
-> What follows is a **structural template** showing exactly what this report produces when real data is fed in, plus guidance on sourcing that data.
+## WHAT I CAN DELIVER RIGHT NOW
+
+I have two options for you. Tell me which you need:
 
 ---
 
-## HOW TO FEED THIS REPORT
+### OPTION A — Submit Your Data
+Paste the Reddit trend data (raw or formatted) and I'll produce the full structured report with:
+- Momentum scores derived from **your actual figures**
+- Empire-specific recommendations tied to **real subreddit signals**
+- Color directions pulled from **observed community language**
 
-Paste any combination of the following into your next message:
-
-| Source | What to Include |
-|---|---|
-| **Reddit post data** | Subreddit name, post title, upvotes, comment count, date |
-| **Subreddit growth stats** | Subscriber counts, posts/day, engagement rates |
-| **Keyword frequency data** | Terms appearing in post titles/comments, frequency counts |
-| **Cross-post signals** | Posts bridging multiple communities |
-| **Flair/tag data** | Community-applied labels showing category momentum |
-
-**Useful subreddits to scrape for your three empires:**
-
-- *Caselle (Phone Cases):* r/malelivingspace, r/femalefashionadvice, r/streetwear, r/caseswap, r/androidthemes, r/iphone
-- *Lumière (Luxury Fashion):* r/luxuryfashion, r/femalefashionadvice, r/malefashionadvice, r/handbags, r/watches
-- *Atelier (Artisan Goods):* r/Pottery, r/crafts, r/handmade, r/Anticonsumption, r/simpleliving, r/cottagecore
+**Useful data formats I can work with:**
+- Subreddit names + post/engagement counts
+- Trending search terms or flair tags
+- Screenshot descriptions or CSV exports
+- Even rough notes ("r/streetwear is going heavy on X")
 
 ---
 
-## REPORT SKELETON — POPULATES AUTOMATICALLY WITH REAL DATA
-
-Once you provide data, the report will output in this exact structure:
-
----
-
-### SECTION 1 — TOP 5 RISING AESTHETICS
-
-```
-AESTHETIC NAME
-├── Momentum Score: [0–100, composite of velocity + volume + cross-sub spread]
-├── Key Signal Posts: [specific titles, upvotes, subreddits]
-├── Velocity: [weeks trending / acceleration rate]
-└── Breakout Risk: [LOW / MEDIUM / HIGH — likelihood of oversaturation]
-```
+### OPTION B — Baseline Report Using Current Verified Trends
+I produce a report using **publicly documented aesthetic movements** (as of my knowledge base), clearly labeled as baseline intelligence rather than live Reddit data. Useful as a **strategic floor** while you gather live scrapes.
 
 ---
 
-### SECTION 2 — EMPIRE ALLOCATION MAP
-
-```
-Each aesthetic scored across:
-├── CASELLE fit:  [1–10] + rationale
-├── LUMIÈRE fit:  [1–10] + rationale
-└── ATELIER fit:  [1–10] + rationale
-
-Primary beneficiary flagged with ★
-```
+### OPTION C — Build You a Data Collection Framework
+I design the exact Reddit monitoring template you should be pulling — which subreddits to track per empire, which signals constitute momentum, and how to score them — so every future report is structurally consistent.
 
 ---
 
-### SECTION 3 — COLOR PALETTE DIRECTIONS
-
-```
-Per aesthetic:
-├── Hero color (Pantone + hex)
-├── Supporting palette (3 colors)
-├── Contrast accent
-└── Empire-specific application notes
-```
-
----
-
-### SECTION 4 — DECLINING AESTHETICS — AVOID LIST
-
-```
-Per declining trend:
-├── Peak period
-├── Current saturation indicators
-├── Which empire is most exposed
-└── Exit urgency: [IMMEDIATE / PHASE OUT / MONITOR]
-```
-
----
-
-### SECTION 5 — CROSS-EMPIRE MEGA-TREND
-
-```
-├── Trend name
-├── Unifying cultural narrative
-├── Caselle execution
-├── Lumière execution
-├── Atelier execution
-└── Coordinated campaign concept
-```
-
----
-
-## WHAT MAKES A GOOD DATA PASTE
-
-**Minimum viable input:**
-> *"r/cottagecore: 847K members, +12% growth last 30 days. Top posts this week: 'Pressed flower phone cases' 4.2K upvotes, 'Linen everything summer' 6.1K upvotes. Keyword spikes: 'foraged', 'natural dye', 'slow living' up 34% in post titles."*
-
-**That single paragraph unlocks a full aesthetic profile.**
-
----
-
-*Paste your Reddit data below
+**Which direction serves you best?** Drop the data or confirm Option B/C and I'll execute immediately.

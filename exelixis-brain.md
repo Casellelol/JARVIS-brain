@@ -1,39 +1,33 @@
 # Caselle Scout — Market Intelligence
-*Last updated: 2026-05-31 05:53*
+*Last updated: 2026-06-01 05:53*
 
-# Caselle Scout — Market Intelligence Report
+## ⚠️ No Data Detected
 
----
-
-> ⚠️ **Data Notice:** No trend data or Etsy market figures were attached to this prompt. The fields for **Fashion Trends** and **Etsy Market** appear to be blank.
+It looks like the trend data and Etsy market data fields were **submitted empty**. No content came through with your message.
 
 ---
 
-## What I Need to Generate Your Report
+### To get your Caselle Scout report, please share:
 
-To produce a specific, actionable intelligence report, please provide any combination of the following:
+**Fashion Trends Data** — e.g.
+- Google Trends search volume snapshots
+- TikTok/Pinterest trend reports
+- Runway or micro-trend summaries
+- Color/aesthetic trend forecasts (Pantone, WGSN, etc.)
 
-### 📊 Fashion Trends Data
-- Google Trends keywords or screenshots
-- TikTok/Pinterest trending aesthetics
-- Social listening data (hashtag volume, engagement)
-- Runway or street style reports
-
-### 🛍️ Etsy Market Data
+**Etsy Market Data** — e.g.
 - Search result screenshots or exports
-- Bestseller listings (titles, prices, review counts)
-- Competitor shop names or URLs
-- Sales estimates (e.g., from EverBee or Alura)
+- Listing titles, prices, review counts
+- Best-seller tags or shop stats
+- Any scraped or copied listing data
 
 ---
 
-## Once You Share the Data, I'll Deliver:
+### Accepted Formats
+> Raw text, pasted tables, CSV data, bullet-point summaries, or screenshot descriptions all work fine.
 
-| Section | What You'll Get |
-|---|---|
-| 🎨 Top 3 Rising Aesthetics | Named trends with evidence |
-| ✏️ Design Directions | Specific motifs, palettes, typography |
-| 💰 Competitor Pricing | Price bands, gaps, positioning |
-| 🚀 High-Confidence Opportunity | One actionable product move |
-
-**Please re-submit with your data attached and I'll get straight to work.**
+Paste your data and I'll deliver a full intelligence report covering:
+- 🎨 Top 3 rising aesthetics
+- ✏️ Recommended design directions
+- 💰 Competitor pricing observations
+- 🎯 One high-confidence opportunity

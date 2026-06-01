@@ -775,3 +775,9 @@ OVERNIGHT THOUGHTS FROM PREVIOUS CYCLE: The empire has products. The empire has 
 3. Fix scraper feeds
 4. Publish queued products
 5. Add traffic source
+
+## Nightly Summary — 2026-06-01
+JARVIS memory update: Digital product "The POD Designer's AI Prompt Pack" published at £9.97 with Stripe payment link confirmed.
+
+### 2026-05-15 22:14
+Query: JARVIS published digital product: "The POD Designer's AI Prompt Pack — 50 Midjourney Prompts for Bestselling Phone Case Designs" (prompt-pack) at £9.97. Payment link: https://buy.stripe.com/cNi14n2ngeFs77s1U

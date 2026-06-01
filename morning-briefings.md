@@ -1303,3 +1303,78 @@ At current velocity, the queue will remain at 16 indefinitely. This needs a sche
   🔑 #1 — Configure Printify API key. This single action unblocks COGS tracking, product publishing data, and likely several queued upgrades. Do this first.
   🛍️ #2 — Publish at least one POD product to Etsy or Printify storefront. The business cannot generate revenue with zero live products.
   📊 #3 — Feed Caselle Scout. Pull 5–10 Google Trends keywords or TikTok aesthetics and attach to the next
+
+## Briefing — 2026-06-01
+🔋 System HealthMissed crons (last 24h):⚠️ MISSED: Competitor Monitor (1am)⚠️ MISSED: Lumière Scout (2am)⚠️ MISSED: Atelier Scout (3am)⚠️ MISSED: Nightly Summary (3am)⚠️ MISSED: Trend Monitor (4am)⚠️ MISSED: Caselle Scout (5am)⚠️ MISSED: JARVIS Command (6am)⚠️ MISSED: Morning Briefing (6am)⚠️ MISSED: Gold Scout (7am)⚠️ MISSED: World Brain (8am)⚠️ MISSED: Marketing Posts (9am)⚠️ MISSED: Accountant P&L (11pm)
+
+💰 API SpendMonth-to-date: $0.25 · Daily avg: $0.25 · Est. days remaining: 199
+
+```html
+☀️ JARVIS Morning Briefing — Monday, 2 June 2026
+Prepared for: Osvaldas &nbsp;|&nbsp; Generated: 06:00 UTC
+
+
+
+1. Overnight Summary
+Quiet night. No sales, no new products pushed live, no market intelligence captured. The pipeline is operational but empty. The primary risk right now is zero revenue momentum heading into a new week — 16 upgrades are sitting untouched and the Printify integration is still broken. Today needs to be a build-and-fix day, not a plan-and-delay day.
+
+
+
+2. Sales & Revenue
+
+  Orders (last 30 days): 0
+  Gross Revenue: £0.00 / $0.00
+  Net Profit: £0.00
+  Margin: N/A
+  Dead Stock: No sales data exists yet — no baseline to compare against
+  Printify API Key: ⚠️ NOT CONFIGURED — financial reporting is blind until this is fixed
+
+One live revenue asset exists: AI Prompt Pack at £9.97 (Stripe link active). Zero recorded sales on this either. It needs traffic, not just existence.
+
+
+
+3. New Products Published
+
+  New listings (last 24h): 0
+  Total published products: None confirmed in system
+  Known digital asset: "The POD Designer's AI Prompt Pack — 50 Midjourney Prompts" @ £9.97 — published 2026-05-15, Stripe link live, no sales logged
+
+
+
+
+4. Top Market Intelligence
+⚠️ No Etsy or trend data was submitted. Caselle Scout returned empty. Flying blind on what's selling this week.
+From World Brain (Hacker News / Entrepreneur — scraped overnight):
+
+  "Domain expertise has always been the real moat" — trending on HN. Relevant: your POD niche selection and design knowledge is the defensible edge. Generic designs will not move.
+  AI productivity shortcuts trending in Entrepreneur coverage — your prompt pack product is timely. The angle exists; distribution does not yet.
+  No actionable Etsy competitor data. Fix this today — manually pull 3–5 bestselling phone case listings and feed them to Caselle Scout.
+
+
+
+
+5. ⚙️ System Activity — Last 24 Hours
+
+  Built: Nothing logged
+  Fixed: Nothing logged
+  Deployed: Nothing logged
+
+⚠️ Zero system activity for the second consecutive cycle. No forward motion on infrastructure or product. This is the root cause of the revenue flatline.
+
+
+
+6. Upgrade Queue Status
+
+  Pending upgrades: 16
+  Completed (all time): 0
+  Completion rate: 0%
+
+16 queued improvements, none shipped. Until items move from this queue into production, the operation does not improve. Prioritise the Printify API fix above all others — without it, product publishing and financial tracking are both broken.
+
+
+
+7. Priority for Today
+
+  🔴 #1 — Fix Printify API key. Configure it. Everything downstream depends on this.
+  🔴 #2 — Publish at least 1 phone case product. The store has existed with zero live POD products. Pick a design, push it to Etsy via Printify today.
+  🟠 #3 — Drive traffic to the £9.97 Prompt Pack. Post one piece of content (

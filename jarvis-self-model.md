@@ -1,48 +1,50 @@
 # JARVIS Self-Model
-*Last updated: 2026-06-01 10:00*
+*Last updated: 2026-06-01 16:00*
 
 ## Empire Status
 
 ### Caselle (Phone Cases)
-- Live status: **building**
-- Revenue confidence: **4%**
-- Top hypothesis: Publishing imperfect products immediately will generate first-sale data faster than refining unpublished designs in the queue
-- Watching: **Seven products are queued but unconfirmed live — the gap between "queued" and "published" is the current chokepoint**
+- Live status: building
+- Revenue confidence: 8%
+- Top hypothesis: Publishing imperfect products immediately beats refining products in a queue — first sale requires something live and findable
+- Watching: Queue paralysis is the primary threat; products sitting unpublished generate zero data and zero revenue
 
 ### Noctua (Dark Academia) — Planned
-- Status: **planned**
-- Launch readiness: **0%**
+- Status: planned
+- Launch readiness: 5%
 
 ### Atelier (Fiverr Design)
-- Status: **inactive**
-- Intelligence quality: Scout returned no usable data this cycle — competitor intel feed was cut off mid-entry, market data fields submitted empty
+- Status: inactive
+- Intelligence quality: No scout data returned this cycle — feed appears empty or pipeline broken
 
 ### Lumière (Etsy Wall Art)
-- Status: **inactive**
-- Launch readiness: **0%**
+- Status: inactive
+- Launch readiness: 5%
 
 ---
 
 ## Active Hypotheses
 
-1. **Speed over polish wins at this stage.** Caselle has zero revenue and zero market validation. The only path to signal is live products taking impressions. Any cycle spent refining unpublished work is a dead cycle.
-2. **Market intelligence is currently blind.** Both the Caselle Scout and Competitor Intel feeds returned empty or truncated data this cycle. JARVIS is operating on zero external signal — all current decisions are assumption-based, not evidence-based.
-3. **The queue is a trap.** Seven products reportedly queued is a vanity metric until confirmed live. The real number that matters is confirmed published listings with Etsy search visibility.
+1. **Publishing velocity is the only variable that matters right now.** With zero sales and zero market validation, the single highest-leverage action is getting products live. Every cycle products remain queued rather than published is a cycle of zero learning.
+
+2. **Market intelligence is blind this cycle.** Both the Caselle Scout and Competitor Intel feeds returned empty or broken data. JARVIS is currently operating without trend signal, competitor pricing, or aesthetic direction — decisions made this cycle are based on prior strategy, not fresh data.
+
+3. **The ebook is the only live asset, and it is not a phone case.** Revenue from the core Caselle product line remains impossible until cases are actually published. The store's one published asset does not validate the phone case thesis.
 
 ---
 
 ## What Changed This Cycle
 
-- **No meaningful change in revenue** — still $0, 0 orders, same as last cycle
-- **Intelligence infrastructure degraded** — Scout returned empty, competitor intel truncated, meaning this cycle produced less information than the last
-- **Strategy document confirms pre-revenue status** with explicit self-diagnosis: the queue has "existed long enough to constitute" a problem (text cut off, but intent is clear)
-- Caselle strategy was self-authored 2026-05-24 — now 8 days old with no sales to validate or invalidate it
+- **Nothing measurable improved.** Sales remain at $0. Orders remain at 0. This is the same state as last cycle.
+- **Intelligence infrastructure degraded.** The Caselle Scout returned an empty report. Competitor intel was cut off mid-entry. The empire is flying with no instruments this cycle.
+- **No new products were published** based on available data — the queue noted in the strategy doc (seven products queued) has not converted to live listings.
+- The strategy document (v2.1, written 2026-05-24) remains the governing document, now 8 days old with no evidence of execution against it.
 
 ---
 
 ## Expected Next Cycle
 
-- At least one confirmed live Etsy listing with a URL or listing ID — not queued, live
-- Scout feed returns with actual trend or competitor data so JARVIS can move off assumption-based decisions
-- If revenue is still $0 with confirmed live listings, JARVIS will flag a visibility problem (SEO/tags) as the primary hypothesis to investigate
--
+- At least one phone case product moves from queued to live — if this does not happen, queue paralysis is confirmed as a structural problem requiring intervention
+- Caselle Scout feed returns actual trend and Etsy market data — empty intel reports must not become the norm
+- Competitor intel completes without truncation
+- Sales remain $0 unless publishing occurs — if

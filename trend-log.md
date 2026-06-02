@@ -1,47 +1,95 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-06-02 04:58*
+*Last updated: 2026-06-02 06:00*
 
-# TREND MONITOR — CROSS-EMPIRE AESTHETIC INTELLIGENCE REPORT
-### Cycle: Current Analysis Period | Classification: Operational Priority
+# TREND MONITOR — CROSS-EMPIRE INTELLIGENCE REPORT
+### Cycle: Current Analysis Period | Classification: Strategic
 
 ---
 
-> ⚠️ **DATA INPUT NOTICE**
-> No Reddit trend data was attached to this request. The data field was submitted empty.
+> ⚠️ **DATA TRANSPARENCY NOTICE**
+> No Reddit trend data was transmitted with this prompt. The data field was empty. Producing fabricated subreddit engagement numbers, upvote velocities, or post frequencies as if they were real would constitute **false intelligence** — a strategic liability for all three empire verticals.
 >
-> **I will not fabricate subreddit post volumes, upvote trajectories, engagement rates, or community growth figures.** Producing invented numbers dressed as real analytics would corrupt your merchandising decisions and inventory planning.
+> What follows is a **methodological framework** ready to execute the moment real data is supplied.
 
 ---
 
-## TO GENERATE YOUR REPORT, PROVIDE:
+## REPORT ARCHITECTURE — READY TO POPULATE
 
-**Recommended data inputs (any combination works):**
+### SECTION 1 — TOP 5 RISING AESTHETICS (Momentum Scoring)
 
-| Data Type | Example Format |
-|---|---|
-| Subreddit growth metrics | r/aesthetics +34% MAU, top posts this week... |
-| Keyword frequency data | "quiet luxury" mentions: 12k posts, trending in r/femalefashionadvice |
-| Post/comment excerpts | Raw text dumps from relevant communities |
-| Upvote/engagement snapshots | Post titles + scores + subreddit source |
-| Cross-platform signals | Pinterest saves, TikTok hashtag data alongside Reddit |
+| Rank | Aesthetic | Momentum Score | Data Inputs Required |
+|------|-----------|---------------|----------------------|
+| #1 | [Aesthetic Name] | [0–100] | Subreddit growth %, post velocity, crossover appearances |
+| #2 | — | — | Same |
+| #3 | — | — | Same |
+| #4 | — | — | Same |
+| #5 | — | — | Same |
 
-**Relevant subreddits to pull from:**
-- r/femalefashionadvice, r/malefashionadvice, r/streetwear
-- r/malelivingspace, r/femalelivingspace
-- r/Anticonsumption, r/buyitforlife
-- r/Etsy, r/handmade, r/cottagecore
-- r/phonecases, r/Customization
-
----
-
-## ONCE DATA IS PROVIDED, YOUR REPORT WILL INCLUDE:
-
-1. **Top 5 Rising Aesthetics** — momentum scores, velocity direction, community saturation level
-2. **Empire Routing** — Caselle / Lumière / Atelier fit scoring per trend
-3. **Color Palette Directions** — specific hex-range guidance, material texture notes
-4. **Declining Aesthetics** — exit signals with clearance urgency ratings
-5. **Cross-Empire Mega-Trend** — single unified campaign opportunity with execution roadmap
+**Momentum Score Formula I'll Apply:**
+```
+Score = (Weekly post growth % × 0.4) + (Comment sentiment ratio × 0.3)
+      + (Cross-subreddit spread × 0.2) + (Award/engagement rate × 0.1)
+```
 
 ---
 
-*Paste your Reddit data below and the full structured report will be generated immediately.*
+### SECTION 2 — EMPIRE BENEFIT MAPPING
+
+Each trend will be routed to one primary and one secondary empire:
+
+| Trend | Primary Empire | Secondary Empire | Conflict/Overlap Risk |
+|-------|---------------|-----------------|----------------------|
+| [T1] | Caselle / Lumière / Atelier | — | — |
+
+**Routing logic considers:**
+- **Caselle** → Gen Z velocity, visual-first, mass-price tolerance
+- **Lumière** → Aspiration signal strength, scarcity language, heritage cues
+- **Atelier** → Craft narrative depth, material specificity, slow-consumption framing
+
+---
+
+### SECTION 3 — COLOR PALETTE DIRECTIONS
+
+Will produce:
+- **3 rising palettes** with hex anchors
+- **Subreddit sources** (e.g., r/femalefashionadvice, r/malelivingspace)
+- **Empire-specific application notes**
+
+---
+
+### SECTION 4 — DECLINING AESTHETICS (Avoid/Exit List)
+
+Will flag aesthetics showing:
+- >15% post velocity decline week-over-week
+- Saturation signals (mass retail co-option language)
+- Irony/mockery shift in comment tone
+
+---
+
+### SECTION 5 — CROSS-EMPIRE MEGA-TREND
+
+One convergence opportunity requiring coordinated positioning across all three brands, with a unified narrative strategy and differentiated execution per vertical.
+
+---
+
+## HOW TO SUPPLY THE DATA
+
+Paste your Reddit trend data in any of these formats and I'll execute the full report immediately:
+
+```
+FORMAT A — Raw dump
+Subreddit | Post Title | Upvotes | Comments | Date
+
+FORMAT B — Summary stats
+Aesthetic keyword | Weekly mentions | Growth % | Top subreddits
+
+FORMAT C — Screenshot description
+"r/[name] showing X posts about Y with Z engagement..."
+
+FORMAT D — Unstructured notes
+Free text observations — I'll parse and structure them
+```
+
+---
+
+*Trend Monitor standing by. Supply the data and the full intelligence report executes within this thread.*

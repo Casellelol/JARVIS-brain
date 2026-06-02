@@ -781,3 +781,80 @@ JARVIS memory update: Digital product "The POD Designer's AI Prompt Pack" publis
 
 ### 2026-05-15 22:14
 Query: JARVIS published digital product: "The POD Designer's AI Prompt Pack — 50 Midjourney Prompts for Bestselling Phone Case Designs" (prompt-pack) at £9.97. Payment link: https://buy.stripe.com/cNi14n2ngeFs77s1U
+
+## Nightly Summary — 2026-06-02
+# JARVIS Nightly Intelligence Summary
+*For: Osvaldas | Date: 2026-06-02*
+
+---
+
+1. Overnight Agent Activity
+
+Agents run: Scout, Accountant, Competitor Intel, World Brain, Finance, Results Logger. Useful output: near zero.
+
+
+  Scout: Returned empty datasets on all 5 Etsy keyword targets — dark academia, celestial witch, coquette, booktok, y2k. No competitor pricing on BURGA or Pela. Casetify partial scrape returned junk pricing ($1–$40 noise, no usable market data).
+  Accountant: Confirmed £0.00 revenue, 0 orders, 30-day window. Printify API key not configured — COGS unverifiable.
+  World Brain: Updated with general HN tech headlines. Zero business-relevant signals extracted.
+  Results Logger: Flagged same execution failure for the 6th consecutive session. Priority list regenerated, no new actions completed.
+  Products queued overnight: 0. Digital products: 0. Stores launched: 0. Upgrades done: 0 of 16 pending.
+
+
+---
+
+2. Intelligence Brain Updates
+
+New facts written to memory:
+
+
+  Lumière: 80 designs reported ready as of 2026-05-20 — 13 days ago. Publication status still unconfirmed.
+  Caselle: 7 products built, zero buyer impressions recorded. Hard deadline missed.
+  Etsy keyword scrape: all 5 target niches returned empty results — scraper broken or blocked.
+  Casetify pricing noise logged but flagged as unreliable.
+  Definition of "launched" has been formally written: live URL + 5 purchasable products + 1 active traffic source. Neither store qualifies.
+  No new strategic intelligence added. Memory state unchanged from yesterday.
+
+
+---
+
+3. Opportunity Queue
+
+
+  New opportunities added: 0
+  Promoted: 0
+  Discarded: 0
+  Scored opportunities in queue: None active. Upgrade queue sitting at 16 pending, 0 completed.
+
+
+The opportunity pipeline is frozen. No new ideas filed. No existing ideas moved forward.
+
+---
+
+4. Revenue Events
+
+
+  Sales: £0.00
+  Orders: 0
+  Refunds: 0
+  Printify orders fulfilled: 0 (API unconfigured)
+  Only live revenue asset: POD Designer's AI Prompt Pack at £9.97 via Stripe — no sales recorded since publication on 2026-05-15.
+
+
+---
+
+5. Pending Manual Actions
+
+These require your decision or hands today:
+
+
+  CRITICAL — Lumière publication: Are the 80 designs live on any selling platform? Confirm URL or declare status dead. This has been open 13 days.
+  CRITICAL — Caselle: 7 products built, zero impressions. Are they published? If yes, what is the live URL?
+  CRITICAL — Printify API key: Not configured. COGS blind. Connect it today.
+  HIGH — Etsy scraper: Broken or blocked. Decide: fix it, replace it, or manually pull 20 listings as a stopgap. Flying blind on market data.
+  HIGH — 16 upgrade tasks pending, 0 done: Prioritise or delete. Stale queue creates noise.
+  MEDIUM — Stripe product visibility: Is the AI Prompt Pack being promoted anywhere? No traffic source confirmed active.
+
+
+---
+
+6. JARVIS Confidence Score

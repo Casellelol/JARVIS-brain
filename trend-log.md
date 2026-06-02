@@ -1,45 +1,47 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-06-02 02:00*
+*Last updated: 2026-06-02 04:58*
 
-# TREND MONITOR — AESTHETIC INTELLIGENCE REPORT
-### Cross-Empire Analysis | Caselle × Lumière × Atelier
----
-
-> ⚠️ **DATA INTEGRITY NOTICE**
-> No Reddit trend dataset was attached to this request. The prompt references "trend data from Reddit" but the message body contains no actual data — no subreddit engagement metrics, post volumes, upvote trajectories, comment sentiment, or crosspost activity.
-
-> **Generating fabricated "data-driven" figures without a real dataset would be analytically irresponsible and commercially misleading.** Acting on invented momentum scores could misdirect inventory, marketing spend, and design resources across all three empire brands.
+# TREND MONITOR — CROSS-EMPIRE AESTHETIC INTELLIGENCE REPORT
+### Cycle: Current Analysis Period | Classification: Operational Priority
 
 ---
 
-## TO GENERATE YOUR FULL REPORT, PLEASE PROVIDE:
+> ⚠️ **DATA INPUT NOTICE**
+> No Reddit trend data was attached to this request. The data field was submitted empty.
+>
+> **I will not fabricate subreddit post volumes, upvote trajectories, engagement rates, or community growth figures.** Producing invented numbers dressed as real analytics would corrupt your merchandising decisions and inventory planning.
 
-### Minimum Viable Dataset
-| Data Type | Examples |
+---
+
+## TO GENERATE YOUR REPORT, PROVIDE:
+
+**Recommended data inputs (any combination works):**
+
+| Data Type | Example Format |
 |---|---|
-| **Subreddit sources** | r/femalefashionadvice, r/streetwear, r/Anticonsumption, etc. |
-| **Post/engagement metrics** | Upvotes, comment counts, post frequency over time |
-| **Keyword/flair clusters** | Recurring terms, hashtags, aesthetic labels |
-| **Time window** | e.g., last 30 days vs. prior 30 days |
-| **Sentiment signals** | Positive framing, criticism, aspiration language |
+| Subreddit growth metrics | r/aesthetics +34% MAU, top posts this week... |
+| Keyword frequency data | "quiet luxury" mentions: 12k posts, trending in r/femalefashionadvice |
+| Post/comment excerpts | Raw text dumps from relevant communities |
+| Upvote/engagement snapshots | Post titles + scores + subreddit source |
+| Cross-platform signals | Pinterest saves, TikTok hashtag data alongside Reddit |
 
-### Accepted Formats
-- Raw Reddit API export (JSON)
-- Scraped CSV with subreddit/title/score/date columns
-- Manual summary of top posts per category
-- Third-party tool output (e.g., Pulsar, Brandwatch, Reddit Insights)
+**Relevant subreddits to pull from:**
+- r/femalefashionadvice, r/malefashionadvice, r/streetwear
+- r/malelivingspace, r/femalelivingspace
+- r/Anticonsumption, r/buyitforlife
+- r/Etsy, r/handmade, r/cottagecore
+- r/phonecases, r/Customization
 
 ---
 
-## WHAT YOU'LL GET ONCE DATA IS SUBMITTED
+## ONCE DATA IS PROVIDED, YOUR REPORT WILL INCLUDE:
 
-```
-✦ Top 5 Rising Aesthetics — momentum scores with methodology
-✦ Empire Routing — Caselle / Lumière / Atelier fit scores per trend
-✦ Color Palette Directions — specific hex range clusters
-✦ Declining Aesthetics — with velocity-of-decline indicators
-✦ Cross-Empire Mega-Trend — one unified opportunity with
-  execution playbook per brand
-```
+1. **Top 5 Rising Aesthetics** — momentum scores, velocity direction, community saturation level
+2. **Empire Routing** — Caselle / Lumière / Atelier fit scoring per trend
+3. **Color Palette Directions** — specific hex-range guidance, material texture notes
+4. **Declining Aesthetics** — exit signals with clearance urgency ratings
+5. **Cross-Empire Mega-Trend** — single unified campaign opportunity with execution roadmap
 
-**Paste your data below and the full report will be generated immediately.**
+---
+
+*Paste your Reddit data below and the full structured report will be generated immediately.*

@@ -1,48 +1,50 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-06-02 14:00*
+*Last updated: 2026-06-02 18:00*
 
-# TREND MONITOR — CROSS-EMPIRE AESTHETIC INTELLIGENCE REPORT
-### Cycle: Current Analysis Period | Classification: Strategic
-
----
-
-> **⚠️ DATA INTEGRITY NOTICE**
-> No Reddit trend data was attached to this request. The data field appears blank. The analysis below **cannot be generated with fabricated numbers** — doing so would corrupt strategic decisions across all three empire verticals.
+# TREND MONITOR — EMPIRE INTELLIGENCE REPORT
+### Cycle: Current | Classification: Strategic
 
 ---
 
-## TO GENERATE YOUR FULL REPORT, SUBMIT:
+> ⚠️ **DATA ALERT — NULL INPUT DETECTED**
+>
+> No Reddit trend data was passed with this prompt. The data field was empty.
+>
+> I will **not fabricate subreddit engagement numbers, upvote velocities, or comment volumes** — doing so would produce a report that *looks* authoritative but would actively mislead purchasing, inventory, and design decisions across all three empire verticals.
 
-### Required Data Inputs
+---
 
-| Data Type | Examples of What to Include |
+## TO GENERATE YOUR REPORT, PROVIDE ANY OF THE FOLLOWING:
+
+### Option A — Raw Reddit Data
+Paste scraped post titles, subreddit names, upvote counts, comment volumes, and post dates from relevant subs such as:
+- `r/femalefashionadvice`, `r/streetwear`, `r/malefashionadvice`
+- `r/Anticonsumption`, `r/cottagecore`, `r/minimalism`
+- `r/PhoneCases`, `r/Etsy`, `r/smallbusiness`
+- `r/colorpalettes`, `r/DesignPorn`, `r/ArtificialIntelligence`
+
+### Option B — Summary Metrics
+Provide a table like:
+
+| Keyword/Aesthetic | Subreddit | Posts (30d) | Avg Upvotes | Trend Direction |
+|---|---|---|---|---|
+| Quiet Luxury | r/femalefashionadvice | 47 | 2,300 | ↑↑ |
+
+### Option C — Keyword List
+Even a raw list of aesthetics or terms you've seen spiking — I'll build a structured analytical framework around your real observations.
+
+---
+
+## WHAT YOU'LL GET ONCE DATA IS PROVIDED:
+
+| Section | Output |
 |---|---|
-| **Subreddit sources** | r/malelivingspace, r/femalefashionadvice, r/ArtisanCrafts, etc. |
-| **Post/comment volume metrics** | Upvotes, post frequency, comment counts |
-| **Keyword or phrase clusters** | Terms appearing with rising frequency |
-| **Time window** | Last 7 days vs. last 30 days delta |
-| **Sentiment signals** | Positive framing, aspirational language patterns |
-| **Cross-post patterns** | Which aesthetics are bleeding across subreddits |
+| **① Rising Aesthetics** | Top 5 ranked by momentum score (engagement velocity × cross-sub penetration) |
+| **② Empire Routing** | Caselle / Lumière / Atelier fit-scoring per trend |
+| **③ Color Palettes** | Specific hex directions + seasonal context |
+| **④ Declining Aesthetics** | Kill list with markdown-down urgency ratings |
+| **⑤ Mega-Trend** | Single cross-empire play with execution roadmap |
 
 ---
 
-## WHAT YOUR REPORT WILL DELIVER ONCE DATA IS PROVIDED
-
-**Section 1 — Top 5 Rising Aesthetics**
-Each scored on a **Momentum Index (0–100)** calculated from volume velocity, sentiment ratio, and cross-subreddit spread.
-
-**Section 2 — Empire Alignment Matrix**
-Precise mapping of which trends benefit **Caselle / Lumière / Atelier** with conflict flags where trends cannibalize positioning.
-
-**Section 3 — Color Palette Directions**
-Specific hex ranges, not vague descriptors — actionable for product and marketing teams immediately.
-
-**Section 4 — Declining Aesthetics**
-Clear avoid-list with decay rate scores so inventory and creative aren't committed to dead cycles.
-
-**Section 5 — Cross-Empire Mega-Trend**
-One unified opportunity where all three brands can execute a coordinated campaign without brand dilution.
-
----
-
-*Paste your Reddit trend data below and the full structured report will be generated immediately.*
+*Paste your data below and the full report will be generated immediately.*

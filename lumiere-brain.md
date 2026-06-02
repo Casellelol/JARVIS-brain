@@ -1,20 +1,18 @@
 # Lumière Scout — Market Intelligence
-*Last updated: 2026-06-01 02:08*
+*Last updated: 2026-06-02 02:08*
 
 # LUMIÈRE SCOUT — MARKET INTELLIGENCE BRIEF
 ### Premium Segment Analysis | Q2 2025 Edition
 
 ---
 
-> *"Luxury is not about price. It is about the architecture of desire."*
+> *"Fashion is the armor to survive the reality of everyday life."* — Bill Cunningham
 
 ---
 
-## ⚠️ DATA NOTE
+## ⚠️ INTELLIGENCE NOTE
 
-No market data was transmitted with your request — the feed appears to have arrived **empty**. Lumière Scout operates on signal, not silence.
-
-That said, the following report synthesizes **current macro-trend intelligence** drawn from this agent's embedded knowledge base through early 2025. Consider this your **standing brief** until live data is appended.
+*No market data was appended to this query. The following report draws on trained knowledge through early 2025 and established luxury market dynamics. For live data integration, please supply current trend feeds, sales data, or competitive intelligence inputs.*
 
 ---
 
@@ -22,43 +20,45 @@ That said, the following report synthesizes **current macro-trend intelligence**
 
 ---
 
-### 01 — **Quiet Maximalism**
-*The contradiction that defines the moment*
+### 🥇 01 — **Quiet Maximalism**
+*The successor to Quiet Luxury — but with intent*
 
-The austere minimalism of the last decade is fracturing. What emerges is not its opposite — loud logomania — but something more sophisticated: **restraint in construction, extravagance in material**. Think single-seam coats in hand-loomed Mongolian cashmere. Unadorned silhouettes in fabrics so exceptional they speak without ornamentation.
+The minimalist restraint of "Old Money" aesthetics is evolving. Consumers who mastered understatement are now reintroducing richness — but with curation as the operative word. Think **deep jewel-toned velvet**, layered textures, and heritage embroidery that whispers rather than shouts. This is maximalism for people who read the footnotes.
 
-- **Key references:** Bottega Veneta SS25, The Row Pre-Fall 2025
-- **Consumer signal:** Ultra-HNW clients pivoting away from recognizable logos toward **craft legibility** — the ability to identify quality without branding
-- **Trajectory:** ▲ Accelerating strongly through 2026
-
----
-
-### 02 — **Neo-Sovereign Dressing**
-*Power reimagined through heritage codes*
-
-A new power aesthetic is emerging at the intersection of **statesmanship, old-world aristocracy, and contemporary authority**. It borrows from equestrian tradition, diplomatic dress, and European nobility — but filtered through a modern, gender-fluid lens. Structured shoulders, ceremonial embroidery, and the visual language of **institutional permanence**.
-
-- **Key references:** Valentino couture vocabulary, Dries Van Noten's final collections, emerging Central European ateliers
-- **Consumer signal:** Second-generation wealth clients (ages 28–42) seeking **cultural legitimacy through dress**, not just status
-- **Trajectory:** ▲ Rising — particularly strong in Gulf, Southeast Asian, and European markets
+> **Key Signifiers:** Bordeaux and Byzantine gold palettes · Brocade suiting · Antique hardware · Layered fine jewelry worn as armor
+>
+> **Brand Compass:** Bottega Veneta's intrecciato depth, Dries Van Noten's painterly excess, Loro Piana's textural confidence
 
 ---
 
-### 03 — **Ecological Opulence**
-*Sustainability as the new exclusivity*
+### 🥈 02 — **Techno-Aristocracy**
+*Old bloodlines, new materials*
 
-The conversation has shifted decisively. "Sustainable luxury" is no longer a paradox or a marketing footnote — it is becoming a **primary driver of perceived value** among luxury consumers under 45. However, the execution must be impeccable: raw, traceable, and **beautiful first**. Undyed wools. Vegetable-tanned leathers with visible grain character. Deadstock silks with provenance documentation.
+Luxury is colonizing performance. The consumer wants the sensibility of a tailored Savile Row suit delivered in a fabric that survives a transatlantic flight flawlessly. This aesthetic merges **aristocratic silhouette codes** with advanced textile engineering — bonded wools, thermoregulating silks, seamless knit structures with couture proportions.
 
-- **Key references:** Gabriela Hearst's material sourcing model, Loro Piana's field-to-fabric narrative, emerging Scandinavian ateliers
-- **Consumer signal:** Clients requesting **material passports** and origin documentation at point of sale
-- **Trajectory:** ▲▲ Steep acceleration — regulatory tailwinds from EU textile legislation amplifying urgency
+> **Key Signifiers:** Structured outerwear in technical fabrics · Tonal dressing with subtle material contrast · "Invisible" construction details · Matte-finish leather in non-traditional cuts
+>
+> **Brand Compass:** Zegna's triple-stitch philosophy, Loro Piana's storm system, Brunello Cucinelli's cashmere-meets-performance play
+
+---
+
+### 🥉 03 — **Sovereign Femininity**
+*Power dressing reimagined for the post-apology era*
+
+A decisive shift away from the softness trend. The luxury woman is demanding clothes that project authority without negotiation. Bold **architectural shoulders**, commanding volume at the hem, and fabrics with structural memory. This is not the power suit of the 1980s — it is its more educated, well-traveled heir.
+
+> **Key Signifiers:** Exaggerated lapels · Column skirts with deliberate weight · Monochromatic intensity · Court-inspired accessories (structured top handles, gloves returning)
+>
+> **Brand Compass:** The Row, Valentino under new direction, Prada's continued intellectual provocation
 
 ---
 
 ## II. RECOMMENDED PRODUCT DIRECTIONS
 
+*For a high-end fashion retail environment*
+
 ---
 
-| Priority | Category | Specific Direction | Rationale |
-|----------|----------|--------------------|-----------|
-| 🥇 **Tier 1** | Outerwear | Sculptural coats in traceable exotic wools (vicuña, q
+| Priority | Category | Direction | Rationale |
+|----------|----------|-----------|-----------|
+| 🔴 **Immediate** | Outerwear | Invest in sculptural coats — cocoon and trapeze silhouettes in bouclé and technical wool | Highest visual impact, proven conversion driver in luxury retail |

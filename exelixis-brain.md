@@ -1,33 +1,40 @@
 # Caselle Scout — Market Intelligence
-*Last updated: 2026-06-01 05:53*
+*Last updated: 2026-06-02 05:53*
 
-## ⚠️ No Data Detected
-
-It looks like the trend data and Etsy market data fields were **submitted empty**. No content came through with your message.
-
----
-
-### To get your Caselle Scout report, please share:
-
-**Fashion Trends Data** — e.g.
-- Google Trends search volume snapshots
-- TikTok/Pinterest trend reports
-- Runway or micro-trend summaries
-- Color/aesthetic trend forecasts (Pantone, WGSN, etc.)
-
-**Etsy Market Data** — e.g.
-- Search result screenshots or exports
-- Listing titles, prices, review counts
-- Best-seller tags or shop stats
-- Any scraped or copied listing data
+# Caselle Scout Intelligence Report
+### Market Analysis — Current Cycle
 
 ---
 
-### Accepted Formats
-> Raw text, pasted tables, CSV data, bullet-point summaries, or screenshot descriptions all work fine.
+> ⚠️ **Data Notice:** No trend data or Etsy market figures were attached to this prompt. The tables/feeds appear to be empty.
 
-Paste your data and I'll deliver a full intelligence report covering:
-- 🎨 Top 3 rising aesthetics
-- ✏️ Recommended design directions
-- 💰 Competitor pricing observations
-- 🎯 One high-confidence opportunity
+---
+
+## What I Need to Generate Your Report
+
+To produce a specific, actionable intelligence report, please paste in the actual data. Here's exactly what to include:
+
+**Fashion Trends Feed**
+- Aesthetic names & search volume / growth %
+- Source (Pinterest, TikTok, Google Trends, etc.)
+- Time period
+
+**Etsy Market Data**
+- Competitor listings (titles, prices, sales counts)
+- Top-performing tags or keywords
+- Review counts / ratings if available
+
+---
+
+## Once You Share the Data, I'll Deliver:
+
+| Section | What You'll Get |
+|---|---|
+| 🎨 Top 3 Rising Aesthetics | Named trends + % growth + why they matter for cases |
+| ✏️ Design Directions | 2–3 specific concepts per aesthetic |
+| 💰 Competitor Pricing | Price bands, gaps, and where to position |
+| 🎯 High-Confidence Opportunity | One specific SKU/design recommendation with rationale |
+
+---
+
+**Paste your data below and I'll get to work immediately.**

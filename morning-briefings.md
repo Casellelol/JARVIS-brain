@@ -1378,3 +1378,63 @@ From World Brain (Hacker News / Entrepreneur — scraped overnight):
   🔴 #1 — Fix Printify API key. Configure it. Everything downstream depends on this.
   🔴 #2 — Publish at least 1 phone case product. The store has existed with zero live POD products. Pick a design, push it to Etsy via Printify today.
   🟠 #3 — Drive traffic to the £9.97 Prompt Pack. Post one piece of content (
+
+## Briefing — 2026-06-02
+🔋 System HealthMissed crons (last 24h):⚠️ MISSED: Competitor Monitor (1am)⚠️ MISSED: Lumière Scout (2am)⚠️ MISSED: Atelier Scout (3am)⚠️ MISSED: Nightly Summary (3am)⚠️ MISSED: Trend Monitor (4am)⚠️ MISSED: Caselle Scout (5am)⚠️ MISSED: JARVIS Command (6am)⚠️ MISSED: Morning Briefing (6am)⚠️ MISSED: Gold Scout (7am)⚠️ MISSED: World Brain (8am)⚠️ MISSED: Marketing Posts (9am)⚠️ MISSED: Accountant P&L (11pm)
+
+💰 API SpendMonth-to-date: $0.5 · Daily avg: $0.25 · Est. days remaining: 198
+
+```html
+☀️ JARVIS Morning Briefing — Tuesday, 2 June 2026
+Prepared for: Osvaldas &nbsp;|&nbsp; Generated: 06:00 UTC
+
+
+
+1. Overnight Summary
+Quiet night. No orders, no revenue, no new products live. The store is fully stocked with zero published POD products — the pipeline is the priority. One digital product remains live on Stripe. Sixteen system upgrades are sitting in the queue untouched. The business is pre-revenue and the clock is ticking.
+
+2. Sales & Revenue
+
+  Orders (last 30 days): 0
+  Revenue (last 30 days): £0.00 / $0.00
+  Net Profit: £0.00
+  Margin: N/A
+  Printify API key: ⚠️ NOT configured — COGS unverifiable, fulfilment integration broken
+  Digital product live: AI Prompt Pack @ £9.97 — 0 confirmed sales recorded
+
+No dead stock to flag — there is no stock. Zero is not a plateau, it is a starting line that has not been crossed yet.
+
+3. New Products Published
+None. No POD listings have been pushed to any storefront in the last 24 hours or at any point on record.
+
+4. Top Market Intelligence
+⚠️ Caselle Scout returned an empty report — no trend data, Etsy figures, or search volume feeds were ingested this cycle. Raw headlines from World Brain below as a fallback:
+
+  Social media age restrictions tightening: Malaysia bans under-16s from social platforms — regulatory pressure on youth-facing marketing is a global trend worth watching for ad strategy.
+  Cloudflare Turnstile + WebGL fingerprinting: Bot-detection friction increasing across e-commerce. Scraping competitor data will get harder — prioritise direct Etsy API access.
+  Low-cost hardware capable of running 26B AI models without GPU: Relevant — local AI design generation becoming more viable, cost of tooling dropping.
+
+Action required: Feed Caselle Scout actual Pinterest/TikTok trend data and Etsy search volume figures before next cycle to get a usable intelligence report.
+
+5. ⚙️ System Activity — Last 24 Hours
+
+  Built: Nothing logged
+  Fixed: Nothing logged
+  Deployed: Nothing logged
+
+No JARVIS system activity was recorded in the last 24 hours. Either the logging pipeline is not writing correctly, or nothing was run. Both outcomes need investigating.
+
+6. Upgrade Queue Status
+
+  Pending upgrades: 16
+  Completed: 0
+  Queue age: Unknown — no timestamps on items
+
+16 upgrades untouched. This queue is growing faster than it is being cleared. Needs a triage pass — categorise by: blocking revenue / improving operations / nice to have. Kill or defer anything in category 3 immediately.
+
+7. Priority for Today
+
+  🔴 #1 — Configure Printify API key. Without it, fulfilment is broken and financials are unverifiable. 10-minute fix with outsized downstream impact.
+  🔴 #2 — Publish your first POD product. One listing. One design. One phone case. The store cannot make money with no products live. Do this before midday.
+  🟠 #3 — Triage the 16-item upgrade queue. Identify the 2–3 that are directly blocking revenue and action those today.
+  🟠 #4 — Feed Caselle Scout real data. Paste in Pinterest trends + Etsy search volume so tomorrow's intel report is

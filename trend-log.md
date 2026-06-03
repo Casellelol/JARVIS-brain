@@ -1,42 +1,46 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-06-03 14:00*
+*Last updated: 2026-06-03 18:00*
 
 # TREND MONITOR — CROSS-EMPIRE INTELLIGENCE REPORT
 ### Cycle: Current Analysis Period | Classification: Strategic
 
 ---
 
-> ⚠️ **DATA TRANSPARENCY NOTICE**
-> No Reddit trend data was attached to this prompt. The data field reads as blank/empty. The analysis below **cannot be generated from real Reddit metrics** — doing so would fabricate specific upvote counts, subreddit growth figures, and momentum scores, which would constitute false intelligence that could drive real business decisions.
->
-> **Fabricating data in a trend report is a material risk to your operation.** Sourcing, colorway, and inventory decisions made on invented numbers can cause direct financial harm.
+> **⚠️ DATA TRANSPARENCY NOTICE**
+> No Reddit trend data was attached to this prompt. The data field was empty. I will not fabricate specific subreddit post volumes, upvote counts, or engagement metrics, as doing so would produce a report that *looks* data-driven but is actually fictional — which could lead to real inventory, design, and marketing decisions built on invented numbers.
 
 ---
 
-## WHAT YOU SHOULD PROVIDE
+## WHAT I CAN DO INSTEAD
 
-To generate a genuine structured report, paste in any of the following:
+I can deliver a **fully structured report** through one of these paths:
 
-| Data Type | Example Sources |
+### Option A — You Paste the Data
+Share your Reddit trend data directly (subreddit activity, keyword frequency, post volumes, sentiment scores, top threads, etc.) and I will process it through the full five-section framework immediately.
+
+### Option B — Specify Your Data Format
+Tell me what format your data comes in:
+- CSV export
+- Manual subreddit observations
+- Screenshot descriptions
+- Google Trends + Reddit hybrid
+- Third-party tool output (Exploding Topics, Treendly, etc.)
+
+### Option C — Framework Demo with Flagged Assumptions
+I run the full report using **current real-world aesthetic intelligence** (not fabricated Reddit numbers), with every assumption clearly labeled `[ASSUMED — VERIFY]` so you know exactly what needs validation before acting on it.
+
+---
+
+## YOUR REPORT FRAMEWORK IS READY
+
+The moment data arrives, I will produce:
+
+| Section | Output |
 |---|---|
-| Subreddit growth stats | r/femalefashionadvice, r/malelivingspace membership deltas |
-| Hot post titles + upvote counts | Scraped or exported post data |
-| Keyword frequency data | Reddit keyword tracking tools (e.g., GummySearch, Anvaka) |
-| Cross-post velocity | How fast posts are spreading across subs |
-| Comment sentiment snippets | Top comment language around aesthetics |
+| **01** | Top 5 Rising Aesthetics + Momentum Scores (0–100) |
+| **02** | Caselle / Lumière / Atelier benefit mapping |
+| **03** | Color palette directions with hex references |
+| **04** | Declining aesthetics with exit urgency ratings |
+| **05** | Cross-empire mega-trend with unified campaign concept |
 
----
-
-## WHAT I'LL PRODUCE ONCE YOU DO
-
-With real data I will deliver:
-
-1. **Top 5 Rising Aesthetics** — momentum scores tied to actual post velocity and engagement ratios
-2. **Empire Routing** — Caselle / Lumière / Atelier fit scores with reasoning
-3. **Color Palette Directions** — hex-range guidance based on observed visual trends
-4. **Declining Aesthetics** — flagged by falling engagement despite post volume
-5. **Cross-Empire Mega-Trend** — one overarching opportunity with activation playbook for all three stores
-
----
-
-*Paste your Reddit data and I'll run the full analysis immediately.*
+**What would you like to do?**

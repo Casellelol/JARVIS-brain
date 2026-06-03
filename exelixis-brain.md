@@ -1,40 +1,36 @@
 # Caselle Scout — Market Intelligence
-*Last updated: 2026-06-02 05:53*
+*Last updated: 2026-06-03 05:53*
 
 # Caselle Scout Intelligence Report
-### Market Analysis — Current Cycle
+## ⚠️ Data Gap Notice
+
+I notice that the trend data and Etsy market data you intended to share **did not come through** — the fields appear to be blank after the labels.
 
 ---
 
-> ⚠️ **Data Notice:** No trend data or Etsy market figures were attached to this prompt. The tables/feeds appear to be empty.
+## To Generate Your Intelligence Report, Please Share:
+
+**Fashion Trends Data** could include:
+- Pinterest/TikTok trend reports
+- Google Trends screenshots or data
+- Runway or streetwear trend summaries
+- Seasonal color/aesthetic reports
+
+**Etsy Market Data** could include:
+- Top-selling listings (titles, prices, sales counts)
+- Search result screenshots
+- Competitor store performance data
+- Customer review themes
 
 ---
 
-## What I Need to Generate Your Report
-
-To produce a specific, actionable intelligence report, please paste in the actual data. Here's exactly what to include:
-
-**Fashion Trends Feed**
-- Aesthetic names & search volume / growth %
-- Source (Pinterest, TikTok, Google Trends, etc.)
-- Time period
-
-**Etsy Market Data**
-- Competitor listings (titles, prices, sales counts)
-- Top-performing tags or keywords
-- Review counts / ratings if available
-
----
-
-## Once You Share the Data, I'll Deliver:
+## Once You Provide the Data, I'll Deliver:
 
 | Section | What You'll Get |
 |---|---|
-| 🎨 Top 3 Rising Aesthetics | Named trends + % growth + why they matter for cases |
-| ✏️ Design Directions | 2–3 specific concepts per aesthetic |
-| 💰 Competitor Pricing | Price bands, gaps, and where to position |
-| 🎯 High-Confidence Opportunity | One specific SKU/design recommendation with rationale |
+| 🎨 Top 3 Rising Aesthetics | Named trends with momentum signals |
+| ✏️ Design Directions | Specific motifs, palettes, typography cues |
+| 💰 Competitor Pricing | Price brackets, sweet spots, outliers |
+| 🎯 High-Confidence Opportunity | One actionable niche with rationale |
 
----
-
-**Paste your data below and I'll get to work immediately.**
+**Please paste or re-upload your data and I'll get straight to work.**

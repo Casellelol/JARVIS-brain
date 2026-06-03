@@ -1,3 +1,11 @@
+## 2026-06-03T12:00:38.345Z
+- **Text:** not loud. just right. caselle — the phone case for people who know. burga-store.vercel.app #QuietLuxury
+- **Twitter:** ❌ failed
+- **Bluesky:** ✅ posted
+- **Buffer:** ❌ failed
+- **Errors:** Twitter: Error: {"account_id":2052331077230829600,"title":"CreditsDepleted","detail":"Your enrolled account [2052331077230829570] does not have any credits to fulfill this request.","type":"https://api.twitter.com/2/problems/credits"} | Buffer: Error: BUFFER_ACCESS_TOKEN not set
+---
+
 ## 2026-06-03T11:45:19.789Z
 - **Text:** protect it. style it. own it. tough cases with minimal design. burga-store.vercel.app #PhoneAccessories #MinimalStyle
 - **Twitter:** ❌ failed

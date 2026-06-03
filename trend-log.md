@@ -1,85 +1,45 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-06-03 06:00*
+*Last updated: 2026-06-03 10:00*
 
 # TREND MONITOR — CROSS-EMPIRE AESTHETIC INTELLIGENCE REPORT
-### Cycle: Current | Classification: Strategic Intelligence
+### Cycle: Current Analysis Period | Compiled by Trend Monitor AI
 
 ---
 
 > ⚠️ **DATA TRANSPARENCY NOTICE**
-> No Reddit trend data was attached to this request. The data field was empty. Producing fabricated "data-driven" figures would constitute false intelligence and could lead to poor inventory, design, and marketing decisions across all three empire verticals.
+> No Reddit trend data was transmitted in your prompt — the data field was empty. I will not fabricate subreddit upvote counts, post volumes, or engagement metrics, as doing so would corrupt your sourcing decisions and inventory planning.
 >
-> **Proceeding with a structured methodology brief instead — ready to execute the full report the moment real data is supplied.**
+> **What I can do instead — choose one:**
 
 ---
 
-## HOW TO SUBMIT USABLE TREND DATA
+## OPTIONS FOR PROCEEDING
 
-For maximum analytical output, supply any combination of the following:
+### Option A — Paste Raw Reddit Data
+Share actual data such as:
+- Subreddit post titles + upvote counts
+- r/femalefashionadvice, r/streetwear, r/malelivingspace trending threads
+- Reddit search result volumes or keyword frequency dumps
+- Screenshots transcribed to text
 
-### Format A — Raw Reddit Data
-```
-Subreddit | Post Title | Upvotes | Comments | Growth % | Keyword Tags
-r/femalefashionadvice | "Quiet luxury is dead, long live..." | 14.2K | 847 | +340% | [minimalism, old money, muted]
-```
+### Option B — Describe Your Data Source
+Tell me which subreddits you're monitoring, the timeframe, and any keywords or themes you noticed — I'll structure and analyze from there.
 
-### Format B — Keyword Volume Dump
-```
-Keyword | 30-Day Mentions | 90-Day Trend | Sentiment Score
-"dark academia" | 28,400 | +18% | 0.74 positive
-```
-
-### Format C — Screenshot / Paste Dump
-Raw copied text from Reddit threads, upvote counts, subreddit names — I'll parse and structure it.
-
-### Format D — Aggregate Summary
-"r/streetwear is seeing heavy posts around X, r/malelivingspace trending toward Y, r/nail_art exploding on Z"
+### Option C — Hypothetical Scenario Mode *(clearly labeled)*
+I generate a **fully illustrative example report** with invented but realistic-sounding numbers, **explicitly marked as fictional throughout**, useful for testing your report template or training your team — but never to be used for actual buying decisions.
 
 ---
 
-## WHAT THE FULL REPORT DELIVERS (Preview)
+## WHAT THE FULL REPORT WILL COVER (Once Data Is Provided)
 
-Once data is received, output will follow this exact architecture:
-
----
-
-### SECTION 1 — TOP 5 RISING AESTHETICS
-| Rank | Aesthetic | Momentum Score /100 | Velocity (30-day) | Peak Window Estimate |
-|------|-----------|--------------------|--------------------|----------------------|
-| 1 | [NAME] | [SCORE] | [+X%] | [TIMEFRAME] |
-
-*Momentum Score = composite of mention growth rate, sentiment ratio, cross-subreddit spread, and comment engagement depth*
+| Section | Output |
+|---|---|
+| **① Rising Aesthetics** | Top 5 with momentum scores (0–100), velocity, subreddit sources |
+| **② Empire Mapping** | Caselle / Lumière / Atelier fit rating per trend |
+| **③ Color Palettes** | Hex codes, naming, seasonal staging |
+| **④ Declining Aesthetics** | What to wind down and why |
+| **⑤ Mega-Trend** | Cross-empire unifying opportunity with execution roadmap |
 
 ---
 
-### SECTION 2 — EMPIRE ALIGNMENT MATRIX
-| Aesthetic | Caselle (Phone Cases) | Lumière (Luxury Fashion) | Atelier (Artisan Goods) | Primary Beneficiary |
-|-----------|-----------------------|--------------------------|-------------------------|---------------------|
-| [NAME] | HIGH / MED / LOW | HIGH / MED / LOW | HIGH / MED / LOW | [EMPIRE] |
-
-*With specific SKU/product direction recommendations per cell*
-
----
-
-### SECTION 3 — COLOR PALETTE DIRECTIONS
-- Hex codes for rising palette clusters
-- Declining color families to retire
-- Cross-empire palette unification opportunities
-
----
-
-### SECTION 4 — DECLINING AESTHETICS (Avoid Inventory)
-- Sunsetting trends with evidence
-- Projected decline timeline
-- Liquidation priority ranking
-
----
-
-### SECTION 5 — CROSS-EMPIRE MEGA-TREND
-- Single unifying trend opportunity
-- Coordinated campaign strategy across Caselle + Lumière + Atelier
-- Revenue synergy rationale
-
----
-
-**Paste your Reddit trend data below and the full intelligence report will be generated immediately.**
+**Paste your Reddit data and I'll produce the full structured report immediately.**

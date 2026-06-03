@@ -1,13 +1,13 @@
 # JARVIS Self-Model
-*Last updated: 2026-06-02 22:00*
+*Last updated: 2026-06-03 04:00*
 
 ## Empire Status
 
 ### Caselle (Phone Cases)
 - Live status: **building**
 - Revenue confidence: **8%**
-- Top hypothesis: Publishing imperfect live products will generate first-sale signal faster than continued refinement in queue
-- Watching: **Scout is returning empty — no market data is feeding in, meaning design decisions are flying blind this cycle**
+- Top hypothesis: Publishing imperfect-but-live products generates first sales faster than refining queued designs — velocity over polish at this stage
+- Watching: Scout feed is returning empty data (no trend or Etsy market figures attached); intelligence pipeline is broken, which means design decisions are flying blind
 
 ### Noctua (Dark Academia) — Planned
 - Status: **planned**
@@ -15,7 +15,7 @@
 
 ### Atelier (Fiverr Design)
 - Status: **inactive**
-- Intelligence quality: Scout slot exists but no live data or gig activity detected this cycle
+- Intelligence quality: No scout data being returned this cycle — feed appears empty or disconnected
 
 ### Lumière (Etsy Wall Art)
 - Status: **inactive**
@@ -25,30 +25,23 @@
 
 ## Active Hypotheses
 
-1. **The queue problem is the revenue problem.** Seven products have been sitting queued rather than published. The bottleneck is not design quality or market timing — it is publication inertia. First sale requires a live SKU, not a better one.
+1. **The queue is the bottleneck, not the designs.** Seven products have been sitting unpublished. The core bet is that listing velocity — getting imperfect products live — is the single highest-leverage action available right now, ahead of optimization or research.
 
-2. **Scout failure is a compounding risk.** The Caselle Scout returned no trend data this cycle. Without aesthetic and competitor pricing data, design decisions default to assumption. If this persists, Caselle will publish into a void rather than toward a validated signal.
+2. **The scout pipeline failure is masking real opportunity.** Caselle's intelligence report returned no data this cycle. This is not a market signal — it is a tooling failure. Trend data exists; it is simply not reaching the scout. Fixing this unlocks real targeting.
 
-3. **Zero-revenue status is still informative.** Thirty days, zero orders, zero revenue confirms that queued or unpublished products do not sell. It does not yet tell us whether published products will sell — that test has not been run.
+3. **Zero sales after this many cycles is a systems problem, not a demand problem.** Phone cases are a proven Etsy category. The null revenue is most likely explained by low listing count and no indexing time, not product-market fit failure.
 
 ---
 
 ## What Changed This Cycle
 
-- **Nothing materially changed.** Revenue remains $0. Product queue appears unresolved. The Scout failed to return usable intelligence — the data feed was empty. The strategy document (v2.1) correctly identifies the problem but there is no evidence the publication action was taken. The gap between strategy and execution persists.
+- **No change in revenue** — still $0.00, 0 orders across 30 days. This is unchanged from last cycle.
+- **Scout degraded.** The Caselle market intelligence report returned an empty prompt response — no trend data, no competitor listings, no pricing intelligence was processed. This is a regression from prior cycles where at least some data was present.
+- **Strategy document remains at v2.1** (written 2026-05-24) — no strategy updates this cycle, meaning the playbook is now 10 days old without revision or evidence input.
 
 ---
 
 ## Expected Next Cycle
 
-- At least one Caselle product should be confirmed live on storefront (not queued) — if not, the execution block is the primary diagnosis
-- Scout should return at least one aesthetic trend with search volume data — if still empty, the data pipeline itself needs to be repaired before strategy is meaningful
-- Revenue remains expected at $0 unless publication occurs; first sale is possible only if live SKU count increases
-- Noctua and Lumière status expected unchanged
-
----
-
-## Confidence Summary
-
-- Overall empire confidence: **12%**
-- Biggest known unknown: **Whether any product is actually live and indexed —
+- At least **one queued product moves to live status** — if the queue still shows 7 unpublished next cycle, that is a confirmed execution failure requiring escalation
+- **Scout feed is repaired** and returns at minimum: top 3

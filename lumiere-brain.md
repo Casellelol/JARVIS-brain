@@ -1,64 +1,67 @@
 # Lumière Scout — Market Intelligence
-*Last updated: 2026-06-02 02:08*
+*Last updated: 2026-06-03 02:08*
 
-# LUMIÈRE SCOUT — MARKET INTELLIGENCE BRIEF
-### Premium Segment Analysis | Q2 2025 Edition
-
----
-
-> *"Fashion is the armor to survive the reality of everyday life."* — Bill Cunningham
+# LUMIÈRE SCOUT
+### Premium Market Intelligence Dispatch — Q2 2025
+*Confidential Briefing | Luxury & Prestige Segment*
 
 ---
 
-## ⚠️ INTELLIGENCE NOTE
-
-*No market data was appended to this query. The following report draws on trained knowledge through early 2025 and established luxury market dynamics. For live data integration, please supply current trend feeds, sales data, or competitive intelligence inputs.*
+> *No external data feed detected. This report is generated from embedded trend intelligence, pattern synthesis, and category expertise. For live market data integration, connect your analytics pipeline.*
 
 ---
 
-## I. TOP 3 RISING LUXURY AESTHETICS
+## I. THE MAISON PULSE
+### Top 3 Rising Luxury Aesthetics
 
 ---
 
-### 🥇 01 — **Quiet Maximalism**
-*The successor to Quiet Luxury — but with intent*
+### 01 — **QUIET MAXIMALISM**
+*The Pendulum Swings, Deliberately*
 
-The minimalist restraint of "Old Money" aesthetics is evolving. Consumers who mastered understatement are now reintroducing richness — but with curation as the operative word. Think **deep jewel-toned velvet**, layered textures, and heritage embroidery that whispers rather than shouts. This is maximalism for people who read the footnotes.
+The quiet luxury moment is not ending — it is **evolving**. The consumer who mastered restraint is now ready to make a single, decisive statement. Expect saturated single-colour dressing punctuated by one architecturally significant piece: an oversized sculptural sleeve, a leather collar of near-theatrical proportion, a bag that demands its own introduction.
 
-> **Key Signifiers:** Bordeaux and Byzantine gold palettes · Brocade suiting · Antique hardware · Layered fine jewelry worn as armor
->
-> **Brand Compass:** Bottega Veneta's intrecciato depth, Dries Van Noten's painterly excess, Loro Piana's textural confidence
+> **The distinction from traditional maximalism:** Everything is still *edited*. The excess is *intentional*, not accumulative. One gesture. Enormous confidence.
 
----
+**Key indicators:** Elevated runway signals from Loewe, Bottega Veneta resort collections, editorial saturation in *System* and *Vestoj*.
 
-### 🥈 02 — **Techno-Aristocracy**
-*Old bloodlines, new materials*
-
-Luxury is colonizing performance. The consumer wants the sensibility of a tailored Savile Row suit delivered in a fabric that survives a transatlantic flight flawlessly. This aesthetic merges **aristocratic silhouette codes** with advanced textile engineering — bonded wools, thermoregulating silks, seamless knit structures with couture proportions.
-
-> **Key Signifiers:** Structured outerwear in technical fabrics · Tonal dressing with subtle material contrast · "Invisible" construction details · Matte-finish leather in non-traditional cuts
->
-> **Brand Compass:** Zegna's triple-stitch philosophy, Loro Piana's storm system, Brunello Cucinelli's cashmere-meets-performance play
+**Target customer:** The Established Aesthetic — HNW, 35–55, tired of whispering.
 
 ---
 
-### 🥉 03 — **Sovereign Femininity**
-*Power dressing reimagined for the post-apology era*
+### 02 — **DARK CRAFT**
+*Artisanship Meets the Nocturnal*
 
-A decisive shift away from the softness trend. The luxury woman is demanding clothes that project authority without negotiation. Bold **architectural shoulders**, commanding volume at the hem, and fabrics with structural memory. This is not the power suit of the 1980s — it is its more educated, well-traveled heir.
+A convergence of **Gothic sensibility and master craftsmanship** — think hand-stitched leather goods in oxidised black, hand-embroidered eveningwear drawing from medieval European tapestry, resin jewellery with deliberate imperfection. This is not costume. This is heirloom with an edge.
 
-> **Key Signifiers:** Exaggerated lapels · Column skirts with deliberate weight · Monochromatic intensity · Court-inspired accessories (structured top handles, gloves returning)
->
-> **Brand Compass:** The Row, Valentino under new direction, Prada's continued intellectual provocation
+> **The emotional sell:** These are objects with a soul. They carry intention. In a market saturated with logo fatigue, Dark Craft offers *meaning* as a luxury commodity.
 
----
+**Colour palette:** Oxblood, pitch black, forest floor brown, tarnished gold.
+**Materials accelerating:** Waxed cotton, hand-dyed silk velvet, oxidised sterling, blackened brass hardware.
 
-## II. RECOMMENDED PRODUCT DIRECTIONS
-
-*For a high-end fashion retail environment*
+**Target customer:** The Connoisseur — luxury-fluent, allergic to mass production, buys *fewer* pieces at *higher* price points.
 
 ---
 
-| Priority | Category | Direction | Rationale |
-|----------|----------|-----------|-----------|
-| 🔴 **Immediate** | Outerwear | Invest in sculptural coats — cocoon and trapeze silhouettes in bouclé and technical wool | Highest visual impact, proven conversion driver in luxury retail |
+### 03 — **RESORT REALISM**
+*Luxury Dressed for Actual Life*
+
+The fantasy of the grand vacation is being replaced by something more seductive: the **fantasy of living beautifully, daily**. Resort Realism is elevated casual — linen suiting that breathes, sandals worthy of a museum opening, swimwear that transitions to cocktail hour without apology.
+
+> **The cultural driver:** Post-pandemic luxury consumers are unwilling to reserve their best pieces for occasions. They want beauty *on a Tuesday*.
+
+**Materials leading:** Washed Irish linen, sea island cotton, pressed raffia, performance silk blends.
+**Silhouette:** Relaxed but *considered* — nothing sloppy, everything deliberate in its ease.
+
+**Target customer:** The Aspirational Achiever — 28–45, dual income, experiences-over-objects mentality, but deeply invested in quality.
+
+---
+
+## II. PRODUCT DIRECTION INTELLIGENCE
+### Recommended Category Moves for a High-End Retail Environment
+
+---
+
+| Category | Direction | Rationale | Urgency |
+|---|---|---|---|
+| **Outerwear**

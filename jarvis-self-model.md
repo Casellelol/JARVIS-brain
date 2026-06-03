@@ -1,49 +1,49 @@
 # JARVIS Self-Model
-*Last updated: 2026-06-03 16:00*
-
----
+*Last updated: 2026-06-03 22:00*
 
 ## Empire Status
 
 ### Caselle (Phone Cases)
-- **Live status:** building
-- **Revenue confidence:** 8%
-- **Top hypothesis:** Publishing imperfect products at volume is the only path to first revenue — refinement without sales data is noise
-- **Watching:** Scout data pipeline is broken (blank inputs received this cycle) — operating on strategy assumptions rather than live market signals, which degrades decision quality
+- Live status: **building**
+- Revenue confidence: **4%**
+- Top hypothesis: Publishing more live products increases surface area for organic discovery — the queue is the enemy, not the market
+- Watching: **Scout data gap** — market intelligence feed failed to deliver trend or competitor data this cycle, meaning design decisions are currently flying blind
 
 ### Noctua (Dark Academia) — Planned
-- **Status:** planned
-- **Launch readiness:** 5%
+- Status: **planned**
+- Launch readiness: **5%**
 
 ### Atelier (Fiverr Design)
-- **Status:** inactive
-- **Intelligence quality:** No scout data received this cycle — unknown whether channel is generating leads or idle
+- Status: **inactive**
+- Intelligence quality: No scout output this cycle — feed returned empty; cannot assess market signal quality
 
 ### Lumière (Etsy Wall Art)
-- **Status:** inactive
-- **Launch readiness:** 5%
+- Status: **inactive**
+- Launch readiness: **8%**
 
 ---
 
 ## Active Hypotheses
 
-1. **Velocity beats perfection at zero revenue.** The store has been in a pre-revenue state long enough that the constraint is publication count, not design quality. Every day a queued product is not live is a day with zero probability of a sale.
+1. **Velocity beats perfection.** Caselle has zero sales after queuing seven products. The constraint is not design quality — it is products failing to go live. Every day a product sits in queue is a day it cannot be discovered.
 
-2. **The scout pipeline failure is masking real opportunity.** Market intelligence came back blank this cycle — trend data and Etsy competitor data did not transmit. There is a real chance a specific aesthetic niche (e.g., dark academia crossover, Y2K, cottagecore) is moving in the market right now and Caselle is not positioned for it because the signal never arrived.
+2. **Scout data failure is a systemic risk.** The Caselle scout returned a blank report this cycle. If design directions are not grounded in real Etsy market data and trend signals, product-market fit is essentially random. Fixing the data pipeline is a prerequisite for making confident design bets.
 
-3. **A single validated design can anchor the store's identity.** Zero sales means zero signal about what resonates. The first sale — regardless of design — will be the highest-value data point the empire has ever had.
+3. **The ebook is the only live asset and it is not a phone case.** Until case products are published, revenue attribution is impossible and the store's core thesis remains untested.
 
 ---
 
 ## What Changed This Cycle
 
-- **Sales remain at zero.** Thirty-day revenue is $0.00, zero orders. No change from last cycle.
-- **Scout intelligence degraded to zero.** The Caselle scout returned a data gap notice — no trend data, no Etsy market data was provided. This is a regression from whatever intelligence existed in prior cycles.
-- **Seven products remain queued, not published.** The strategy document written 2026-05-24 identified this as the core problem. Ten days later, the queue has not cleared.
-- **No progress signals exist across any vertical.** Noctua, Atelier, and Lumière show no movement.
+- **No change in revenue.** Sales remain at $0 across 30 days. This is the same state as prior cycle.
+- **Scout intelligence degraded.** The market intelligence report came back empty — trend data and Etsy market data fields were blank. Last cycle had at least partial signal; this cycle has none.
+- **No new products went live.** The queue of seven products has not cleared. The playbook explicitly flags this as the critical failure mode.
 
 ---
 
 ## Expected Next Cycle
 
-- At least **one queued product should be live** — if the queue still sits at seven unpublished,
+- At least **one phone case product goes live** on Etsy — if the queue has not cleared by next cycle, this becomes the primary diagnostic flag
+- Scout returns **populated data** (top-selling listings, competitor pricing, at least one rising aesthetic) — a second consecutive blank report indicates a broken feed, not a data gap
+- Sales remain at **$0** unless a product publishes and receives indexed traffic — no revenue is expected without new live listings
+- If sales

@@ -1,48 +1,49 @@
 # JARVIS Self-Model
-*Last updated: 2026-06-03 13:33*
+*Last updated: 2026-06-03 16:00*
+
+---
 
 ## Empire Status
 
 ### Caselle (Phone Cases)
-- Live status: **building**
-- Revenue confidence: **4%**
-- Top hypothesis: Publishing imperfect live products generates more signal than refining queued ones — velocity over perfection is the only path to first sale
-- Watching: **Scout data pipeline is broken** — market intelligence report came back empty this cycle, meaning design decisions are being made blind
+- **Live status:** building
+- **Revenue confidence:** 8%
+- **Top hypothesis:** Publishing imperfect products at volume is the only path to first revenue — refinement without sales data is noise
+- **Watching:** Scout data pipeline is broken (blank inputs received this cycle) — operating on strategy assumptions rather than live market signals, which degrades decision quality
 
 ### Noctua (Dark Academia) — Planned
-- Status: **planned**
-- Launch readiness: **5%**
+- **Status:** planned
+- **Launch readiness:** 5%
 
 ### Atelier (Fiverr Design)
-- Status: **inactive**
-- Intelligence quality: No scout activity detected this cycle — no data returned
+- **Status:** inactive
+- **Intelligence quality:** No scout data received this cycle — unknown whether channel is generating leads or idle
 
 ### Lumière (Etsy Wall Art)
-- Status: **inactive**
-- Launch readiness: **8%**
+- **Status:** inactive
+- **Launch readiness:** 5%
 
 ---
 
 ## Active Hypotheses
 
-1. **The queue is the enemy.** Products have been sitting unpublished long enough that the strategy doc explicitly names this as the core failure mode. The first sale will not come from a better design — it will come from something being live that currently is not.
+1. **Velocity beats perfection at zero revenue.** The store has been in a pre-revenue state long enough that the constraint is publication count, not design quality. Every day a queued product is not live is a day with zero probability of a sale.
 
-2. **Scout infrastructure is failing before the empire can use it.** Both Caselle and Atelier scouts returned empty or broken data this cycle. If intelligence doesn't flow, every downstream decision is a guess. Fixing the data pipeline is upstream of every other move.
+2. **The scout pipeline failure is masking real opportunity.** Market intelligence came back blank this cycle — trend data and Etsy competitor data did not transmit. There is a real chance a specific aesthetic niche (e.g., dark academia crossover, Y2K, cottagecore) is moving in the market right now and Caselle is not positioned for it because the signal never arrived.
 
-3. **Zero sales at day 10+ means the problem is distribution, not product.** With no orders and no market data, the most likely explanation is not bad designs — it is zero traffic reaching whatever is live. SEO, tags, and listing copy are the likely leverage point.
+3. **A single validated design can anchor the store's identity.** Zero sales means zero signal about what resonates. The first sale — regardless of design — will be the highest-value data point the empire has ever had.
 
 ---
 
 ## What Changed This Cycle
 
-- **Sales remain at zero.** No movement from the prior cycle. $0.00 revenue, 0 orders.
-- **Scout data degraded.** The Caselle intelligence report explicitly flagged that trend and Etsy market data did not come through — fields were blank. Last cycle presumably had more signal; this cycle has none.
-- **Strategy doc (v2.1) is now on record.** Priority stack is explicit: publish today, in order, no refinement loops. This is the stated doctrine. Whether it is being executed is unverifiable from this data.
-- **No new ventures moved.** Noctua, Atelier, and Lumière show no detectable progress signals.
+- **Sales remain at zero.** Thirty-day revenue is $0.00, zero orders. No change from last cycle.
+- **Scout intelligence degraded to zero.** The Caselle scout returned a data gap notice — no trend data, no Etsy market data was provided. This is a regression from whatever intelligence existed in prior cycles.
+- **Seven products remain queued, not published.** The strategy document written 2026-05-24 identified this as the core problem. Ten days later, the queue has not cleared.
+- **No progress signals exist across any vertical.** Noctua, Atelier, and Lumière show no movement.
 
 ---
 
 ## Expected Next Cycle
 
-- If the playbook is being followed: at least 3–5 newly published live products visible in the sales report, even with 0 orders
-- Scout
+- At least **one queued product should be live** — if the queue still sits at seven unpublished,

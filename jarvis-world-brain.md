@@ -1,36 +1,36 @@
 # JARVIS World Brain
-*Last updated: 2026-06-03 08:44*
+*Last updated: 2026-06-04 08:44*
 
 ## Hacker News — Tech & Business
-- 1-Click GitHub Token Stealing via a VSCode Bug
-- Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)
-- Use your Nvidia GPU's VRAM as swap space on Linux
-- MAI-Code-1-Flash
-- The Unreasonable Redundancy of Nature's Protein Folds
-- AI outperforms law professors in Stanford Law study
+- "They're made out of weights"
+- Elixir v1.20: Now a gradually typed language
+- Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes
+- I built a vulnerable app and spent $1,500 seeing if LLMs could hack it
+- Gemma 4 12B: A unified, encoder-free multimodal model
+- Artificial intelligence is not conscious – Ted Chiang
 
 ## Entrepreneur Magazine — Latest
-- Humanoid Robots Are Coming to Work. Here’s What You Need to Know Now.
-- They Started a ‘Classic’ Business in an Old Garage. Now It’s Generating More Than $500,000 a Year: ‘The Most Honest Kind of Making.’
-- The Traditional Hiring Process Is Derailing Early-Stage Startups — But the Fix Is Simpler Than You Think
-- 3 Tips for Fueling Small Business Growth in the Second Half of the Year
-- Arianna Huffington Thinks Work-Life Balance Is the Wrong Goal — Here’s What She Says Matters Instead
-- Job Hugging Sounds Like a Good Thing — But It’s Actually a Pervasive Problem. Here’s Why.
+- 10 Research Habits That Help Marketers Write Higher-Converting Copy
+- I’ve Never Seen Leaders This Stressed. Here’s How to Stay Grounded When Everything Feels Urgent.
+- Your AI Investments Look Great on Paper — But These 3 Hidden Costs Tell a Different Story
+- Why Your Business Could Lose More Than Its Founder If You’re Suddenly Incapacitated
+- From Stranded at Sea to a Lucrative Travel Business: How One Couple Turned a Side Hustle into the Life They Always Wanted
+- Nvidia CEO Says He Uses a Simple Philosophy to Decide How Much He Pays Workers
 
 ## Inc.com — Business News
-- A 60-Year Study of 800,000 Workers Just Found the Number 1 Cause of Burnout—Here’s What to Do About It
-- My Favorite Inc. Article Ever Has an Update, All Thanks to Walmart
-- After 9 Months of Turmoil, Uncle Nearest Has a Mystery Buyer—Here’s What Will Happen to the Whiskey Brand
-- After Being Rejected by eBay, GameStop Just Posted Record-Breaking Profits
-- This Artist Rebuked Entertainment Companies for Years. Now She’s Selling $1 Concert Tickets
+- Cities Are Blocking Data Centers at Record Rates. Here’s the Lesson for All Leaders
+- A Delta Air Lines Flight Attendant Just Retired After 67 Years. These 3 Words Mattered Most
+- Apple’s New Ad Is a Brutal Jab at Google Chrome and Its Privacy Policies
+- Costco Says Americans Are Panic-Buying 1 Thing Again—and It’s Not Toilet Paper
+- The Unicorn Trap: How a $1 Billion Valuation Just Became a Startup’s Worst Nightmare
 
 ## Product Hunt — New Products Trending
 - Product Hunt — The best new products, every day
-- Brand Context API
-- Carbone Skill for AI
-- InsForge Backend Branching
-- Paste MCP &amp; AI Tools
-- Rodeo by TwelveLabs
+- Astra Autonomous Pentest
+- Carbon Voice Speed Dial
+- Intelligent Terminal
+- Basedash Semantic Layer
+- Mailwarm 2.0 (YC S20)
 
 ## Amazon Trends
 No data

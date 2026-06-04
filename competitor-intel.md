@@ -1,5 +1,5 @@
 # Competitor Intelligence
-*Last updated: 2026-06-03 01:44*
+*Last updated: 2026-06-04 01:44*
 
 ## Raw Data
 ```
@@ -24,74 +24,73 @@ REDDIT SIGNALS:
 ```
 
 ## Analysis
-# Caselle Competitor Intelligence Report
+# CASELLE COMPETITOR INTELLIGENCE REPORT
 
 ---
 
-## CRITICAL DATA NOTE
+## CRITICAL DATA ISSUE — READ FIRST
 
-The market feeds returned **empty or unavailable data** across BURGA, Pela, Etsy, and Reddit. Casetify returned price fragments ($1–$40) but no product detail. I'm working with what exists plus established market knowledge. Here's the honest analysis:
+The market data feed has **failed to populate**. BURGA is unavailable, Pela is unavailable, all Etsy market results are empty, and all Reddit signals are empty. Casetify's price list came through ($1–$40, median ~$5–$9) but without product context the category data is noise.
 
----
-
-## (1) COMPETITOR PRICE POINTS & POSITIONING
-
-### Casetify
-- **Price range visible in data:** $1–$40, with clustering at $5 and $9 (likely accessories/bundles) and $40 anchor (hero cases)
-- **What they push:** Collab-heavy identity cases — brand partnerships, K-pop, artist collabs. The $40 price point is their custom MagSafe/impact case. They own the **"designer streetwear for your phone"** positioning
-- **Core customer:** 18–28F, willing to pay premium for recognisable brand flex
-
-### BURGA
-- **Data unavailable — known market position:** $25–$45. Pushes maximalist floral/dark luxury aesthetics. Heavy Instagram ad spend. Positions as "fashion accessory, not phone protection"
-- **Core customer:** Millennial women, Pinterest-driven purchase decisions
-
-### Pela
-- **Data unavailable — known market position:** $35–$55. Owns the **eco/sustainability** lane almost entirely. Compostable cases, donates to ocean cleanup. Premium price justified by mission, not aesthetics
-- **Core customer:** Environmentally conscious 25–40, willing to pay guilt-offset premium
+**I will not fabricate intelligence from null data.** That would produce confident-sounding fiction that could cost you real money.
 
 ---
 
-## (2) NICHES THESE PLAYERS DOMINATE — AVOID HEAD-ON
+## WHAT THE DATA ACTUALLY TELLS US
 
-| Niche | Who Owns It | Why You Can't Win Direct |
-|---|---|---|
-| Collab/IP licensed cases | Casetify | Licensing costs are prohibitive at dropship scale |
-| Eco/compostable cases | Pela | Brand mission is the product — can't be copied cheaply |
-| Maximalist floral luxury | BURGA | $10M+ ad spend has locked brand recall |
-| K-pop / fandom cases | Casetify | Community moats, official partnerships |
-| Generic custom photo cases | Everyone | Race to zero margin |
+### Casetify (Partial Signal)
+- Price clustering at **$5–$9** suggests accessories or add-ons, not primary cases (which typically run $35–$55)
+- The $40 outlier is likely a flagship MagSafe or impact case
+- Without product names, cannot confirm which aesthetics they're actively pushing
 
----
-
-## (3) GAPS — NO DOMINANT PLAYER OWNS THESE YET
-
-The Etsy and Reddit data returned empty, which itself is a signal: **these aesthetic niches are under-indexed by data tools, meaning they're community-driven and not yet corporatised.** That's an opportunity window.
-
-Based on the niches queried:
-
-### Gap 1: **BookTok / Dark Academia Crossover**
-- Neither Casetify, BURGA, nor Pela has a coherent, committed product line here
-- Casetify does occasional book collabs but no owned aesthetic identity
-- The audience (literary TikTok, 16–24F) is massive, purchasing, and currently buying from **individual Etsy sellers with inconsistent quality**
-- This is a fragmented market with no brand consolidation
-
-### Gap 2: **Coquette Aesthetic**
-- Trend is peaking 2024–2025, moving from TikTok into mainstream
-- No major case brand has built a dedicated coquette line with the right visual language (bows, ballet pink, lace texture, pearls)
-- BURGA's aesthetic is dark/moody — opposite direction
-- Gap is real and time-limited (act within 6 months before Casetify notices)
-
-### Gap 3: **Celestial Witch / Mystical**
-- Longer tail, more evergreen than coquette
-- Etsy has supply but it's artisan-priced ($25–$45 handmade) with slow shipping
-- No big brand owns "tarot/moon/witch" as a core identity
-- Audience over-indexes on Tumblr, Pinterest, Reddit — reachable cheaply
-
-### Gap 4: **Y2K Nostalgia Cases**
-- The aesthetic is mainstream now but the case market hasn't caught up
-- Casetify does Y2K-adjacent but doesn't commit to the bit
-- Opportunity for dedicated Y2K brand voice — butterfly clips, early 2000s metallics, chunky flip-phone energy
+### BURGA & Pela
+- Both returned unavailable — scraper blocked, geo-restricted, or URLs changed
+- **Do not make strategic decisions about these competitors without real data**
 
 ---
 
-## (4
+## WHAT YOU NEED TO DO RIGHT NOW
+
+**Fix the data pipeline before acting.** Specifically:
+
+1. **BURGA** — manually pull their Instagram (@burga.cases) — they broadcast their aesthetic focus openly
+2. **Pela** — check their homepage directly; their entire brand is eco/sustainability, that's public knowledge
+3. **Etsy searches** — run the five aesthetic searches manually and note: result count, top price points, "Bestseller" badge frequency, review velocity on top listings
+4. **Reddit** — search r/Casetify, r/feemagers, r/decor manually for the five aesthetics
+
+---
+
+## WHAT I CAN STATE WITH CONFIDENCE (No data required)
+
+Based on established market knowledge:
+
+- **Casetify owns**: Maximalist custom/collaborative, Gen Z status signaling, $35–$55 premium
+- **BURGA owns**: Dark moody aesthetics, Eastern European fashion-forward, $30–$45
+- **Pela owns**: Eco-conscious, compostable materials, sustainability narrative, $40–$50
+
+**The structural gap that exists regardless of your data gaps:**
+
+Mid-tier ($18–$28) aesthetic cases where the brand story is the product — not custom printing, not eco-materials, just strong visual identity at an accessible price. Neither Casetify (too premium) nor Pela (too niche-mission) owns this.
+
+---
+
+## ONE ACTIONABLE OPPORTUNITY — CONTINGENT ON VALIDATION
+
+**Niche**: Coquette / Bow aesthetic
+**Price point**: $22–$26
+**Angle**: "Your case is an accessory, not a gadget protector" — fashion-first positioning, shot styled like jewelry/handbag content, not tech content
+
+**Why this is the most defensible guess with broken data:**
+- Coquette has 18+ month trend legs on TikTok
+- Physical texture (bows, pearls, 3D elements) is harder for Casetify's print-first model to execute at scale
+- BURGA's dark aesthetic is the direct opposite demographic
+
+**Validation required before spending a dollar:**
+- Confirm Etsy listing count under 500 for "phone case coquette" with under 200 reviews on top listings
+- Confirm no BURGA/Casetify SKU in this exact texture category
+
+---
+
+## BOTTOM LINE
+
+**Do not act on this report as written.** The data pipeline returned ~15% of required inputs. Fix the scraper, run manual spot-checks on the five Etsy searches, then resubmit. I will produce a decisive, specific strategy from real signals. Acting on empty data is how dropshipping operations burn ad budgets on the wrong SKUs.

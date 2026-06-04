@@ -864,3 +864,9 @@ Memory updated
 
 ### 2026-05-15 22:02
 Query: Payhip account: username osvaldas.k@outlook.com. One product published: "The POD Designer's AI Prompt Pack" at £9.97. Direct purchase link: https://payhip.com/b/sMcJb
+
+## Nightly Summary — 2026-06-04
+The prompt pack is live on Stripe at £9.97. Digital income channel is open.
+
+### 2026-05-15 22:04
+Query: Gemini Flash is now JARVIS's primary LLM for most tasks (speed + cost). Gemini Pro reserved for complex reasoning. Claude used via API when needed.

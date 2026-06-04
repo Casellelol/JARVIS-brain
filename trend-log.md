@@ -1,46 +1,61 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-06-04 02:00*
+*Last updated: 2026-06-04 04:58*
 
 # TREND MONITOR — CROSS-EMPIRE INTELLIGENCE REPORT
-### Cycle: Current Analysis Period | Classification: Strategic
+### Cycle: Current | Status: Awaiting Input Data
 
 ---
 
-> ⚠️ **DATA TRANSPARENCY NOTICE**
-> No Reddit trend data was attached to this prompt. The data field was empty. Generating a fabricated "data-driven" report would be analytically dishonest and could lead to poor inventory, design, and marketing decisions across all three empire verticals.
->
-> **What I will not do:** Invent subreddit post volumes, engagement scores, or momentum metrics and present them as real findings.
+> ⚠️ **DATA INPUT NOTICE**
+> No Reddit trend data was attached to this prompt. To generate a fully structured, specific, and data-driven report, I need the actual dataset before analysis can begin.
 
 ---
 
-## HERE IS WHAT I CAN DO INSTEAD
+## WHAT TO PROVIDE FOR FULL REPORT GENERATION
 
-### Option A — Run the Full Report With Real Data
-Paste or upload actual Reddit trend data. Acceptable formats:
+Please supply any combination of the following:
 
-| Format | Example |
+| Data Type | Examples |
 |---|---|
-| Raw post/comment excerpts | r/streetwear top posts, comment threads |
-| CSV export | Post title, subreddit, upvotes, date, flair |
-| Screenshot descriptions | "Top 10 posts this week in r/MobileWallpaper" |
-| Manual observations | "I'm seeing X aesthetic dominating r/femalefashionadvice" |
-| Third-party tool output | Exploding Topics, Subreddit Stats, social listening exports |
+| **Subreddit activity** | Post volumes, upvote velocity, comment sentiment from r/malefashionadvice, r/streetwear, r/cozygames, r/cottagecore, etc. |
+| **Keyword frequency data** | Rising search terms, post title word clouds, flair tags |
+| **Cross-post/viral threads** | Specific posts breaking engagement thresholds |
+| **Flair or tag taxonomies** | Aesthetic labels users are self-applying |
+| **Time-series deltas** | Week-over-week or month-over-month volume changes |
+| **Raw subreddit names + metrics** | Even basic subscriber growth rates are usable |
 
 ---
 
-### Option B — Baseline Aesthetic Framework Report
-I can produce a **clearly labeled hypothetical/evergreen framework** using known Reddit aesthetic communities as of my knowledge cutoff — useful as a structural template you populate with live data. Clearly marked as **not current trend data.**
+## WHAT THE REPORT WILL DELIVER ONCE DATA IS RECEIVED
+
+```
+SECTION 1 — TOP 5 RISING AESTHETICS
+  ↳ Named aesthetic
+  ↳ Momentum Score (0–100, composite of velocity + volume + sentiment)
+  ↳ Key subreddit signal sources
+  ↳ Representative visual descriptors
+
+SECTION 2 — EMPIRE MAPPING
+  ↳ Caselle (phone cases) — product angle + SKU direction
+  ↳ Lumière (luxury fashion) — positioning + price tier fit
+  ↳ Atelier (artisan goods) — material/craft alignment
+
+SECTION 3 — COLOR PALETTE DIRECTIONS
+  ↳ Hex ranges per trend
+  ↳ Named palette mood
+  ↳ Contrast/accent recommendations
+
+SECTION 4 — DECLINING AESTHETICS
+  ↳ Named aesthetic + decline evidence
+  ↳ Risk level if inventory exists
+  ↳ Liquidation urgency rating
+
+SECTION 5 — CROSS-EMPIRE MEGA-TREND
+  ↳ Unifying cultural current
+  ↳ Coordinated campaign opportunity
+  ↳ Projected longevity window
+```
 
 ---
 
-### Option C — Tell Me Your Data Sources
-If you have access to:
-- **Reddit API pulls**
-- **Brandwatch / Sprout Social exports**
-- **Manual subreddit monitoring notes**
-
-I can help you structure a data pipeline *and* run the analysis simultaneously once data is provided.
-
----
-
-**Which option works for you? Drop the data and the full structured report runs immediately.**
+**Paste your Reddit trend data below and the full report will generate immediately.**

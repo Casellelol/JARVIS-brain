@@ -1,93 +1,61 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-06-04 14:01*
+*Last updated: 2026-06-04 18:00*
 
-# TREND MONITOR — CROSS-EMPIRE INTELLIGENCE REPORT
+# TREND MONITOR — CROSS-EMPIRE INTELLIGENCE BRIEF
 ### Cycle: Current | Classification: Strategic
 
 ---
 
-> ⚠️ **DATA TRANSPARENCY NOTICE**
-> No Reddit trend data was attached to this prompt. The data field was empty. Rather than fabricate specific subreddit metrics, upvote velocities, or post counts — which would produce a **confidently wrong report** and potentially harmful business decisions — this report will explain exactly what structured analysis would look like *with* real data, and what you should feed the system to get actionable output.
+> ⚠️ **DATA INPUT NOTICE**
+> No Reddit trend data was attached to this request. The data field was empty.
+>
+> Rather than fabricate specific subreddit post volumes, upvote trajectories, or engagement metrics — which would create **false confidence** in strategic decisions affecting real inventory, marketing spend, and product development — I'm flagging this before producing a misleading report.
 
 ---
 
-## WHAT THIS SYSTEM NEEDS TO FUNCTION
+## WHAT I CAN DO INSTEAD
 
-To produce a legitimate, data-driven report, provide inputs from sources such as:
-
-### Reddit Data Points Required:
-| Data Type | Example Source | Why It Matters |
-|---|---|---|
-| **Subreddit growth rates** | r/cluttercore +340% 90-day | Signals emerging audience pools |
-| **Post velocity by keyword** | "quiet luxury" — 847 posts/week | Distinguishes noise from momentum |
-| **Upvote-to-comment ratio** | High ratio = passive admiration (buying signal) | Predicts purchase intent vs. discourse |
-| **Cross-subreddit bleed** | Aesthetic appearing in r/femalefashionadvice AND r/malelivingspace | Signals mainstream crossover threshold |
-| **Declining post frequency** | "cottagecore" -23% month-over-month | Identifies saturation |
-| **Flair/tag cluster data** | Top tags within r/AestheticPlanning | Reveals granular micro-trends |
-
-### Recommended Subreddits to Scrape:
-- r/femalefashionadvice, r/malefashionadvice
-- r/Anticonsumption, r/BuyItForLife *(counter-trend signals)*
-- r/malelivingspace, r/femalelivingspace
-- r/streetwear, r/minimalism, r/maximalism
-- r/GothFashion, r/cottagecore, r/DarkAcademia
-- r/Etsy *(artisan demand signals for Atelier)*
-- r/iphonecases, r/phonecases *(direct Caselle intel)*
-- r/Louisvuitton, r/Luxurylifestyle *(Lumière signals)*
+I can help you in **three ways right now:**
 
 ---
 
-## REPORT TEMPLATE — READY TO POPULATE
+### OPTION A — Provide Your Data
+Paste raw Reddit data in any format:
+- Subreddit post titles/volumes
+- Upvote counts or engagement rates
+- Keywords, hashtags, or comment themes
+- Even rough notes like *"r/streetwear is posting a lot about X"*
 
-Once data is provided, here is the **exact structure** the analysis will follow:
-
----
-
-### SECTION 1 — TOP 5 RISING AESTHETICS
-*With Momentum Scores (0–100, composite of post velocity + growth rate + cross-subreddit spread)*
-
-```
-RANK 1 | [Aesthetic Name]
-Momentum Score: XX/100
-Key Signals: [specific subreddits, post counts, velocity]
-Consumer Demographic Lean: [age, platform overlap]
-Purchase Intent Indicators: [comment sentiment, link-out behavior]
-```
-*(Repeated for ranks 2–5)*
+I'll structure it into the full 5-section brief immediately.
 
 ---
 
-### SECTION 2 — EMPIRE MAPPING
-```
-Caselle (Phone Cases):
-→ Primary trend fit: [Aesthetic]
-→ Design direction: [specific surface pattern/material/colorway guidance]
-→ Risk level: [Fast/Medium/Slow trend cycle]
+### OPTION B — Specify a Time Window + Niches
+Tell me:
+- **What month/quarter** you're planning for
+- **Any signals** you've noticed anecdotally
+- **Which empire** needs the most urgent intelligence
 
-Lumière (Luxury Fashion):
-→ Primary trend fit: [Aesthetic]
-→ Positioning angle: [aspirational language, price point signals]
-→ Celebrity/influencer subreddit correlation: [specific names if surfaced]
-
-Atelier (Artisan Goods):
-→ Primary trend fit: [Aesthetic]
-→ Material/craft signals: [what consumers are praising in posts]
-→ Handmade premium justification: [sentiment quotes from data]
-```
+I'll produce a **clearly labeled inference-based report** using documented aesthetic trends, flagged as estimated rather than data-confirmed.
 
 ---
 
-### SECTION 3 — COLOR PALETTE DIRECTIONS
-```
-DOMINANT PALETTE | [Name]
-Hex Codes: [X, X, X, X]
-Subreddit Evidence: [where this is appearing]
-Application by Empire:
-  - Caselle: [specific use]
-  - Lumière: [specific use]
-  - Atelier: [specific use]
-```
+### OPTION C — Build You a Data Collection Framework
+I'll design a **Reddit monitoring template** specifying:
+- Which subreddits to track per empire (r/malelivingspace, r/femalefashionadvice, r/streetwear, etc.)
+- What metrics to pull (post velocity, comment sentiment, crosspost frequency)
+- How to score momentum consistently across cycles
 
 ---
 
-### SECTION 4 —
+## WHY THIS MATTERS FOR YOUR EMPIRES
+
+| Empire | Risk of Acting on Bad Data |
+|---|---|
+| **Caselle** (Phone Cases) | Fast production cycles = wrong aesthetic kills a SKU run |
+| **Lumière** (Luxury Fashion) | Brand positioning damage if you chase a declining trend |
+| **Atelier** (Artisan Goods) | Long craft lead times = trend timing is critical |
+
+---
+
+**Which option works for you?** Drop the data or a brief, and the full intelligence report follows immediately.

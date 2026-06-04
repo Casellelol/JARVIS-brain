@@ -1,61 +1,62 @@
 # Trend Monitor — Cross-Empire Intelligence
-*Last updated: 2026-06-04 04:58*
+*Last updated: 2026-06-04 06:00*
 
-# TREND MONITOR — CROSS-EMPIRE INTELLIGENCE REPORT
-### Cycle: Current | Status: Awaiting Input Data
+# TREND MONITOR — AESTHETIC INTELLIGENCE REPORT
+### Cross-Empire Analysis | Caselle × Lumière × Atelier
+---
+
+> ⚠️ **DATA INTEGRITY NOTICE**
+> No Reddit trend data was detected in your submission. The data payload appears to have been omitted from the prompt. The analysis below **cannot be generated from actual figures** — fabricating momentum scores, subreddit engagement numbers, or post velocity would constitute false intelligence and could misdirect real purchasing, inventory, or design decisions.
 
 ---
 
-> ⚠️ **DATA INPUT NOTICE**
-> No Reddit trend data was attached to this prompt. To generate a fully structured, specific, and data-driven report, I need the actual dataset before analysis can begin.
+## WHAT YOU NEED TO SUBMIT
 
----
+To generate a structured, data-driven report, please provide one or more of the following:
 
-## WHAT TO PROVIDE FOR FULL REPORT GENERATION
+### 📊 Acceptable Data Inputs
 
-Please supply any combination of the following:
-
-| Data Type | Examples |
+| Input Type | Example Format |
 |---|---|
-| **Subreddit activity** | Post volumes, upvote velocity, comment sentiment from r/malefashionadvice, r/streetwear, r/cozygames, r/cottagecore, etc. |
-| **Keyword frequency data** | Rising search terms, post title word clouds, flair tags |
-| **Cross-post/viral threads** | Specific posts breaking engagement thresholds |
-| **Flair or tag taxonomies** | Aesthetic labels users are self-applying |
-| **Time-series deltas** | Week-over-week or month-over-month volume changes |
-| **Raw subreddit names + metrics** | Even basic subscriber growth rates are usable |
+| **Subreddit post volumes** | r/streetwear: 1,240 posts tagged "gorpcore" this week, +340% MoM |
+| **Keyword velocity data** | "quiet luxury" search mentions: 4.2K → 9.8K over 30 days |
+| **Upvote/engagement signals** | Top 10 posts in r/malefashionadvice with themes + scores |
+| **Raw scraped post titles/flairs** | Paste directly — I will categorize and score them |
+| **Reddit API export** | JSON or CSV format accepted |
+| **Manual observation notes** | "Seeing a lot of X in r/Y, fewer posts about Z" |
 
 ---
 
-## WHAT THE REPORT WILL DELIVER ONCE DATA IS RECEIVED
+## WHAT THE REPORT WILL DELIVER (ONCE DATA IS PROVIDED)
 
 ```
 SECTION 1 — TOP 5 RISING AESTHETICS
-  ↳ Named aesthetic
-  ↳ Momentum Score (0–100, composite of velocity + volume + sentiment)
-  ↳ Key subreddit signal sources
-  ↳ Representative visual descriptors
+Each entry will include:
+  → Aesthetic name + definition
+  → Momentum Score (0–100, composite of velocity + volume + sentiment)
+  → Trajectory (accelerating / plateauing / early signal)
+  → Key subreddits driving the signal
 
 SECTION 2 — EMPIRE MAPPING
-  ↳ Caselle (phone cases) — product angle + SKU direction
-  ↳ Lumière (luxury fashion) — positioning + price tier fit
-  ↳ Atelier (artisan goods) — material/craft alignment
+  → Primary beneficiary: Caselle / Lumière / Atelier
+  → Secondary beneficiary where applicable
+  → Specific product application (e.g., "translucent cases" for Caselle)
 
 SECTION 3 — COLOR PALETTE DIRECTIONS
-  ↳ Hex ranges per trend
-  ↳ Named palette mood
-  ↳ Contrast/accent recommendations
+  → Per-trend hex palette recommendations
+  → Seasonal calibration
+  → Cross-empire color unifiers
 
 SECTION 4 — DECLINING AESTHETICS
-  ↳ Named aesthetic + decline evidence
-  ↳ Risk level if inventory exists
-  ↳ Liquidation urgency rating
+  → 3–5 aesthetics losing signal velocity
+  → Inventory/design risk flags per empire
 
 SECTION 5 — CROSS-EMPIRE MEGA-TREND
-  ↳ Unifying cultural current
-  ↳ Coordinated campaign opportunity
-  ↳ Projected longevity window
+  → Single unifying opportunity across Caselle + Lumière + Atelier
+  → Coordinated campaign concept
+  → Timing window recommendation
 ```
 
 ---
 
-**Paste your Reddit trend data below and the full report will generate immediately.**
+**Paste your Reddit data below and the full report will be generated immediately.**

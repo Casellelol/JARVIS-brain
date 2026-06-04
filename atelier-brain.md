@@ -1,48 +1,41 @@
 # Atelier Scout — Market Intelligence
-*Last updated: 2026-06-03 03:27*
+*Last updated: 2026-06-04 03:27*
 
 # Atelier Scout — Market Intelligence Report
-### Craft & Handmade Market | Current Cycle Analysis
+### Q2 2025 | Luxury Artisan Goods Division
 
 ---
 
-> *Note: No external data feed was attached to this prompt. The analysis below draws on trained knowledge of artisan market dynamics through early 2025. For live Etsy scraping or real-time trend data, connect a search or analytics tool.*
+## ⚠️ Input Notice
+No trend data was supplied in your prompt. The field after **"Artisan market trends:"** was left blank.
+
+**To generate a high-confidence, actionable report, please provide one or more of the following:**
 
 ---
 
-## 🎨 TOP 3 RISING CRAFT AESTHETICS
+### 📋 Data I Can Work With
 
-### 1. **Wabi-Sabi Minimalism**
-Imperfect, intentionally incomplete forms — cracked glazes, raw edges, uneven surfaces — are commanding premium positioning. Consumers are actively rejecting machine-perfect goods. Keywords like *"organic," "handbuilt," "one-of-a-kind"* are high-converting search terms.
-
-### 2. **Dark Botanicals / Apothecary Gothic**
-A maturation of the cottagecore wave. Think dried florals in deep burgundy and charcoal, pressed botanical resin work, and moody herbal aesthetics. Strong crossover with wellness gifting and home altar styling. Growing fast among 28–42 demographic.
-
-### 3. **Quiet Luxury Craft**
-Elevated natural tones — warm stone, sand, aged brass, undyed linen. Clean construction, no logos, tactile quality signals. Buyers at this tier research provenance and process. Content showing *the maker's hands* dramatically increases conversion.
-
----
-
-## 🛍️ RECOMMENDED PRODUCT DIRECTIONS
-
-| Direction | Rationale | Priority |
-|---|---|---|
-| **Sculptural stoneware vessels** (vases, yunomi cups, bud vases) | High AOV, gifting & home décor crossover, photographs beautifully | 🔴 High |
-| **Personalised leather or linen goods** (journals, cord organisers, pouches) | Repeat purchase category; low material cost, high perceived value | 🔴 High |
-| **Botanical resin or pressed-glass pieces** (jewellery, paperweights, ornaments) | Trend-aligned, strong Q4 gifting performance | 🟡 Medium |
-| **Textile wall hangings in neutral/earth palettes** | Room-refresh impulse buy; strong Pinterest → Etsy conversion path | 🟡 Medium |
-| **Limited "collection drops" of 5–8 matching pieces** | Scarcity mechanic drives urgency; increases basket size | 🔴 High |
+| Input Type | Examples |
+|---|---|
+| **Raw search/sales data** | Etsy search terms, bestseller lists, view counts |
+| **Platform observations** | Screenshots, listing titles, price ranges you've noted |
+| **Category focus** | Ceramics, textiles, jewelry, home goods, stationery, etc. |
+| **Competitor intelligence** | Shops, brands, or makers you're tracking |
+| **Customer signals** | Reviews, DMs, wishlist behavior, repeat requests |
+| **Geographic market** | US, UK, EU, APAC — trends vary significantly |
+| **Price tier target** | Entry luxury ($80–200), mid ($200–600), high ($600+) |
+| **Season/occasion focus** | Holiday gifting, wedding, everyday home, etc. |
 
 ---
 
-## 💰 ETSY PRICING OBSERVATIONS
+### 💡 Alternatively — Ask for a Baseline Report
 
-**Key structural insight:** The $45–$85 price band is **oversaturated and margin-squeezed**. Two healthier positions exist:
+If you'd like me to generate a report based on **my trained knowledge of artisan market trends through early 2025**, just say:
 
-- **Sweet spot for gifting impulse:** **$28–$42** — low enough for unassisted purchase decisions, strong volume
-- **Premium positioning opportunity:** **$110–$185** — thin competition, buyers are experienced and less price-sensitive; *story and provenance matter more than the price tag*
+> *"Generate baseline report using your existing knowledge"*
 
-**Observations by category:**
-- Handbuilt ceramics: Market accepts **$65–$140** for mugs; $180–$350 for larger vessels with strong maker narrative
-- Macramé/fiber: Oversupplied at entry level; **$95+ with custom options** is where margin lives
-- Resin jewellery: High volume under $30, but botanical/artisan positioning pushes to **$55–$95** credibly
+And I'll deliver the full analysis immediately — aesthetics, pricing, materials, and your high-confidence opportunity — clearly flagged as knowledge-based rather than data-driven.
+
+---
+
+*Awaiting your input to proceed.* 🔍

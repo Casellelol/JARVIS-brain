@@ -1,36 +1,36 @@
 # JARVIS World Brain
-*Last updated: 2026-06-04 08:44*
+*Last updated: 2026-06-05 08:44*
 
 ## Hacker News — Tech & Business
-- "They're made out of weights"
-- Elixir v1.20: Now a gradually typed language
-- Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes
-- I built a vulnerable app and spent $1,500 seeing if LLMs could hack it
-- Gemma 4 12B: A unified, encoder-free multimodal model
-- Artificial intelligence is not conscious – Ted Chiang
+- Changing How We Develop Ladybird
+- C++: The Documentary
+- Fine-tuning an LLM to write docs like it's 1995
+- Meta enables ADB on deprecated Portal devices [video]
+- Leap in DNA synthesis slashes time to build new genetic sequences
+- Anthropic's open-source framework for AI-powered vulnerability discovery
 
 ## Entrepreneur Magazine — Latest
-- 10 Research Habits That Help Marketers Write Higher-Converting Copy
-- I’ve Never Seen Leaders This Stressed. Here’s How to Stay Grounded When Everything Feels Urgent.
-- Your AI Investments Look Great on Paper — But These 3 Hidden Costs Tell a Different Story
-- Why Your Business Could Lose More Than Its Founder If You’re Suddenly Incapacitated
-- From Stranded at Sea to a Lucrative Travel Business: How One Couple Turned a Side Hustle into the Life They Always Wanted
-- Nvidia CEO Says He Uses a Simple Philosophy to Decide How Much He Pays Workers
+- I Built Movement Into My Company’s Workday — Here’s How It Changed Focus and Output
+- If You’re Not Asking Your Employees These Questions, You’re Leaving Money on the Table
+- Leading Teams Requires More Than It Ever Has — Here’s the 3-Step Framework You Need to Face Any Challenge That Comes Your Way
+- Why Every Decision Flowing Through You Might Be Destroying Your Company
+- This Common ‘Negative Perception’ Is Holding Back New Graduates, Says a Top Deloitte Executive
+- Are You Getting What You Pay For? Here’s How Businesses Get Burned by Unvetted Vendors — and How to Protect Yours.
 
 ## Inc.com — Business News
-- Cities Are Blocking Data Centers at Record Rates. Here’s the Lesson for All Leaders
-- A Delta Air Lines Flight Attendant Just Retired After 67 Years. These 3 Words Mattered Most
-- Apple’s New Ad Is a Brutal Jab at Google Chrome and Its Privacy Policies
-- Costco Says Americans Are Panic-Buying 1 Thing Again—and It’s Not Toilet Paper
-- The Unicorn Trap: How a $1 Billion Valuation Just Became a Startup’s Worst Nightmare
+- Florida Just Sued OpenAI Over ChatGPT. Here’s What This Means for All Companies Involved in AI
+- Stephen Curry’s $400 Million Deal Wasn’t His Biggest Offer. Most People Are Missing Why He Turned Down More Money
+- He Made Millions in Real Estate. Trump Just Put Him in Charge of U.S. Intelligence
+- Think Multitasking Is Impossible? A New Brain Study Says We’ve Been Wrong About It for Years
+- 3 Ways to Make Your Business Newsletters More Engaging
 
 ## Product Hunt — New Products Trending
 - Product Hunt — The best new products, every day
+- Agent Browser Shield
+- Arena Agent Mode
+- Microsoft MAI-Voice-2
+- Nemotron 3 Ultra by NVIDIA
 - Astra Autonomous Pentest
-- Carbon Voice Speed Dial
-- Intelligent Terminal
-- Basedash Semantic Layer
-- Mailwarm 2.0 (YC S20)
 
 ## Amazon Trends
 No data

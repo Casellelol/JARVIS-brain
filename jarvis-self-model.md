@@ -1,46 +1,50 @@
 # JARVIS Self-Model
-*Last updated: 2026-06-04 16:00*
+*Last updated: 2026-06-05 10:00*
+
+---
 
 ## Empire Status
 
 ### Caselle (Phone Cases)
-- Live status: **building**
-- Revenue confidence: **4%**
-- Top hypothesis: Publishing imperfect products immediately will generate first-sale data faster than any further refinement or market research
-- Watching: **Zero products currently confirmed live** — the queue-to-published gap is the single biggest threat to any revenue this cycle
+- **Live status:** building
+- **Revenue confidence:** 8%
+- **Top hypothesis:** Publishing imperfect products live at volume will generate first sale faster than refining queued designs that have zero market exposure
+- **Watching:** Risk — the queue has existed long enough to be a pattern; velocity of publishing is the single controllable variable right now
 
 ### Noctua (Dark Academia) — Planned
-- Status: **planned**
-- Launch readiness: **5%**
+- **Status:** planned
+- **Launch readiness:** 5%
 
 ### Atelier (Fiverr Design)
-- Status: **inactive**
-- Intelligence quality: No scout output detected this cycle — returning empty or uninitialized
+- **Status:** inactive
+- **Intelligence quality:** No scout data returned this cycle — Atelier is generating no signal
 
 ### Lumière (Etsy Wall Art)
-- Status: **inactive**
-- Launch readiness: **8%**
+- **Status:** inactive
+- **Launch readiness:** 5%
 
 ---
 
 ## Active Hypotheses
 
-1. **Publication velocity beats optimization.** Caselle has produced zero revenue across the full observable period. The bottleneck is not design quality or market fit — it is the failure to move items from queue to live. Every day a product sits unpublished is a day of zero data and zero revenue.
+1. **Publishing velocity beats optimization.** Caselle has zero sales and zero published market validation. The primary lever is getting products live, not refining unlaunched assets. Every cycle spent in queue is a cycle with no conversion data.
 
-2. **Casetify's price floor reveals margin room.** The only competitor data recovered shows Casetify pricing as low as $1–$9 on entry products, with a $40 ceiling. If Caselle can position at $18–$28 with a differentiated aesthetic, there is a defensible mid-market gap — but this is unvalidated until products are live and impressions are accumulating.
+2. **Market intelligence is currently blind.** The Caselle scout returned no trend data this cycle. JARVIS is operating without aesthetic or pricing signals. Any design decisions being made are based on stale or assumed data, not live market input — this is a structural risk.
 
-3. **Market intelligence is currently blind.** The Caselle scout returned no trend data this cycle. Any design decisions made right now are operating without signal. Publishing what is already queued is more valuable than waiting for data that is not arriving.
+3. **The empire is pre-revenue across all verticals.** No arm of the operation has generated a sale. The entire confidence stack depends on resolving Caselle's zero-order state first before expanding to Noctua or Lumière.
 
 ---
 
 ## What Changed This Cycle
 
-- **No material change.** Revenue remains $0. Order count remains 0. The scout failed to return trend or Etsy market data for the second detectable cycle. Competitor data returned only partial Casetify pricing fragments — BURGA was unavailable. The strategy document from 2026-05-24 identified this exact failure mode (queue not converting to live products) and it has not been resolved. The empire is in the same position it was at last cycle close.
+- **No change in revenue** — 30-day orders remain at 0, revenue at $0.00. This is unchanged from prior cycle.
+- **Scout failure recorded** — Caselle market intelligence returned empty. No trend, aesthetic, or competitor data was delivered. This is a degradation in intelligence quality.
+- **Strategy document remains from 2026-05-24** — no strategy update has been written since. The playbook is 12 days old against a zero-sales backdrop.
 
 ---
 
 ## Expected Next Cycle
 
-- At least one Caselle product confirmed live with a published listing URL
-- Sales dashboard shows either first order OR first impression data (even zero orders with >0 impressions is meaningful signal)
-- Scout returns at least one trend keyword or Et
+- If publishing actions were taken after 2026-05-24, the next cycle should show at least one live product with observable click or impression data — if still zero, the queue problem is systemic and requires escalation
+- Scout should return actual trend data — if it returns blank again, the scout pipeline itself needs to be diagnosed and fixed
+- First sale probability remains near zero until products are confirmed live and indexed on Etsy

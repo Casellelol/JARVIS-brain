@@ -870,3 +870,9 @@ The prompt pack is live on Stripe at £9.97. Digital income channel is open.
 
 ### 2026-05-15 22:04
 Query: Gemini Flash is now JARVIS's primary LLM for most tasks (speed + cost). Gemini Pro reserved for complex reasoning. Claude used via API when needed.
+
+## Nightly Summary — 2026-06-05
+Memory saved
+
+### 2026-05-15 22:03
+Query: Published second digital product: "The POD Playbook: Launch Your Phone Case Store in 30 Days" (playbook) at £14.97. Payment link: https://buy.stripe.com/aEU5kDcXUe

@@ -1,3 +1,11 @@
+## 2026-06-05T07:30:31.012Z
+- **Text:** the phone case you've been looking for. minimal, tough, beautiful. burga-store.vercel.app #PhoneAccessories
+- **Twitter:** ❌ failed
+- **Bluesky:** ✅ posted
+- **Buffer:** ❌ failed
+- **Errors:** Twitter: Error: {"account_id":2052331077230829600,"title":"CreditsDepleted","detail":"Your enrolled account [2052331077230829570] does not have any credits to fulfill this request.","type":"https://api.twitter.com/2/problems/credits"} | Buffer: Error: BUFFER_ACCESS_TOKEN not set
+---
+
 ## 2026-06-05T07:15:22.904Z
 - **Text:** the phone case you've been looking for. minimal, tough, beautiful. burga-store.vercel.app #PhoneAccessories
 - **Twitter:** ❌ failed
